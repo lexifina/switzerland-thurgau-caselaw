@@ -1,0 +1,87 @@
+---
+decision_id: "tg_obergericht_RBOG_1996_Nr._48"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1996 Nr. 48"
+docket_2: "ZR 96 140"
+decided: "1996-10-25"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/C388FB8F-1861-41BE-A1BB04546B0C26C3.html"
+---
+
+# TG Obergericht RBOG 1996 Nr. 48
+
+## Regeste
+
+1. Die Rekurrentin verlangt für die Barauslagen eine Pauschale von Fr. 2. a) Gemäss § 14 AT sind die Barauslagen zusätzlich zur Gebühr zu vergüten. Keinesfalls angehen kann es, ihr für Barauslagen eine Pauschale nach Massgabe der Grundgebühr zuzugestehen.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 25.10.1996 RBOG 1996 Nr. 48 (ZR 96 140)
+Thurgovie Obergericht Rechenschaftsbericht 25.10.1996 RBOG 1996 Nr. 48 (ZR 96 140)
+Turgovia Obergericht Rechenschaftsbericht 25.10.1996 RBOG 1996 Nr. 48 (ZR 96 140)
+
+1. Die Rekurrentin verlangt für die Barauslagen eine Pauschale von Fr. 2. a) Gemäss § 14 AT sind die Barauslagen zusätzlich zur Gebühr zu vergüten. Keinesfalls angehen kann es, ihr für Barauslagen eine Pauschale nach Massgabe der Grundgebühr zuzugestehen.
+
+RBOG 1996 Nr. 48
+RBOG 1996 Nr. 48
+Barauslagen sind zumindest ansatzweise zu substantiieren; eine Pauschale je nach der Grundgebühr zu verlangen, ist nicht zulässig
+(§ 14
+AT)
+1.    Die Rekurrentin verlangt für die
+Barauslagen eine Pauschale von Fr. 500.-- und verweist auf eine
+"an anderen thurgauischen Zivilgerichten geübte Handhabe",
+gemäss welcher in durchschnittlich aufwendigen Prozessen
+für diese Position üblicherweise ein Zuschlag bis
+maximal 10% des Honorarbetrags als akzeptabel toleriert
+werde.
+2.    a)    Gemäss § 14
+AT sind die Barauslagen zusätzlich zur Gebühr zu
+vergüten. Allerdings findet sich keine gesetzliche
+Bestimmung, welche genaueren Aufschluss darüber erteilen
+würde, wie dieser Aufwand zu berechnen ist. Umgekehrt
+ergibt sich aus der Marginalie von § 12 AT, dass die der
+obsiegenden Partei zugesprochenen Gebühren sämtliche
+Bemühungen mit Ausnahme jener im Vollstreckungsverfahren
+umfassen und somit Pauschalcharakter aufweisen, was nach dem
+Wortlaut und der Systematik des Gesetzes für Barauslagen
+eben gerade nicht zutrifft. Der Rechtsanwalt muss in seiner
+Rechnung jene Angaben machen, die nötig sind, damit der
+Klient und der Richter die Angemessenheit seines Honorars
+prüfen können. Es genügt bei den Barauslagen
+nicht, einfach Telefonate, Besprechungen oder Briefe zu
+erwähnen; es ist zumindest etwas über deren Anzahl zu
+sagen (Wegmann, Die Berufspflichten des Rechtsanwalts unter
+besonderer Berücksichtigung des zürcherischen Rechts,
+Diss. Zürich 1969, S. 204 f.), jedenfalls soweit für
+Barauslagen nicht bloss verhältnismässig
+geringfügige Beträge verlangt werden.
+b)    Der Rechtsvertreter der Rekurrentin reicht
+auch im Rekursverfahren keine Aufstellung ein, aus welcher sich
+seine Barauslagen auch nur annähernd herleiten liessen.
+Vielmehr verlangt er für Porti, Telefon, Kopien, Fax und
+Fahrspesen pauschal Fr. 500.-- und beruft sich darauf, sein
+Domizil und dasjenige der Vorinstanz seien bekannt, weshalb
+sich ein Nachweis für Fahrspesen erübrigen
+dürfte. Bezüglich der übrigen Positionen bestehe
+aufgrund des recht aufwendigen Aktenergänzungsverfahrens
+sowie der Prozesseingaben Gerichtsnotorietät. Wohl
+räumt auch die Vorinstanz in ihrer Vernehmlassung ein, das
+Hauptverfahren sei für den Rechtsvertreter der Rekurrentin
+recht aufwendig gewesen. Indessen kann auch diese Feststellung
+eine Partei nicht von der Pflicht entbinden, ihre Barauslagen
+zumindest ansatzweise zu substantiieren. Davon abgesehen werden
+kann aus prozessökonomischen Gründen einzig dann,
+wenn sich dieser Aufwand im Rahmen des Üblichen bewegt.
+Die Vorinstanz zog dabei die Grenze bei Fr. 200.--, was als
+zweckmässig erscheint. Macht eine Partei einen
+höheren Aufwand geltend, so hat sie dies speziell zu
+begründen. Keinesfalls angehen kann es, ihr für
+Barauslagen eine Pauschale nach Massgabe der Grundgebühr
+zuzugestehen. Ein solches Vorgehen würde sowohl bei hohen
+wie auch bei ganz niedrigen Streitwerten zu völlig
+unbilligen Resultaten führen. Ob einzelne Bezirksgerichte
+in dieser Frage eine Praxis im Sinn der Rechtsauffassung der
+Rekurrentin üben, ist unerheblich.
+Rekurskommission, 25. Oktober 1996, ZR 96
+140
