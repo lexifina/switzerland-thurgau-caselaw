@@ -1,0 +1,41 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._05"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 05"
+decided: "1997-01-16"
+published: "1997-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-1997-nr-5"
+cites_law: ["switzerland/bund/acts/220/art-020.md", "switzerland/bund/acts/311.0/art-194.md", "switzerland/bund/acts/311.0/art-197.md", "switzerland/bund/acts/311.0/art-198.md"]
+---
+
+# TG Obergericht RBOG 1997 Nr. 05
+
+## Regeste
+
+Die Vereinbarung über den Betrieb einer 156er-"Erotiklinie" verstösst nicht gegen die guten Sitten
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 1997 RBOG 1997 Nr. 05
+Thurgovie Obergericht Rechenschaftsbericht 1997 RBOG 1997 Nr. 05
+Turgovia Obergericht Rechenschaftsbericht 1997 RBOG 1997 Nr. 05
+
+RBOG 1997 Nr. 05
+Skip to main content
+Show navigation
+Die Vereinbarung über den Betrieb einer 156er-"Erotiklinie" verstösst nicht gegen die guten Sitten
+Art. 20 Abs. 2 OR
+1. Die Berufungsklägerin schloss mit der Berufungsbeklagten einen "Agenturvertrag" bezüglich einer 156er-Linie (Telekiosk/ Erotiknummer) ab. In der Folge kam es zwischen den Parteien zu Differenzen, woraufhin die Berufungsbeklagte ihre Tätigkeit einstellte und die Berufungsklägerin Klage gegen sie auf Schadenersatz erhob. Das Bezirksgericht wies die Klage ab und erwog, die von der Berufungsbeklagten erbrachten bzw. vertraglich zu erbringenden Leistungen verstiessen gegen die guten Sitten, weshalb die Vereinbarung nichtig sei.
+2. a) Ein Vertrag, der gegen die guten Sitten verstösst, ist nach Art. 20 Abs. 1 OR nichtig. Sittenwidrig sind Verträge, die gegen die herrschende Moral, das heisst gegen das allgemeine Anstandsgefühl oder gegen die der Gesamtrechtsordnung immanenten ethischen Prinzipien und Wertmassstäbe verstossen. Ein solcher Verstoss kann einerseits in der vereinbarten Leistung oder in dem damit angestrebten mittelbaren Zweck oder Erfolg liegen, sich andererseits aber auch daraus ergeben, dass eine notwendig unentgeltliche Leistung mit einer geldwerten Gegenleistung verknüpft wird (BGE 115 II 235; Koller, Schweizerisches Obligationenrecht, AT, Bd. I, Bern 1996, N 995 ff.). Die guten Sitten sind in einer raschlebigen, pluralistischen Gesellschaft Wandlungen unterworfen, so etwa im Sexualbereich: Was gestern als sittenwidrig galt, muss es heute nicht mehr sein, und umgekehrt. Entscheidend ist, ob im Zeitpunkt des Vertragsabschlusses ein Geschäft als sittenwidrig angesehen werden muss (Koller, N 1007). Das Kriterium der guten Sitten ist eine "wertausfüllungsbedürftige Generalklausel", durch welche unter Bezugnahme auf das allgemeine Anstandsgefühl die Zusammenarbeit der rechtlichen mit der sozialen (moralisch- ethischen) Werthierarchie sicherzustellen ist. Da sich der gesellschaftliche Wertewandel weder überall gleichzeitig noch unmittelbar vollzieht, muss es letztlich dem Richter überlassen bleiben, den konsensfähigen Gehalt jeweiliger sittlicher Anschauung auf den rechtsgeschäftlichen Bereich zu übertragen (Huguenin Jacobs, in: Kommentar zum schweizerischen Privatrecht, Obligationenrecht I, 2.A., Art. 19/20 N 34). So wurde etwa ein Mietvertrag über einen Massagesalon (wegen Widerrechtlichkeit) in einem Fall als nichtig betrachtet, im anderen nicht (Koller, § 13 N 1008). Nachdem auf den 1. Oktober 1992 das revidierte Sexualstrafrecht in Kraft trat, ist der erste der beiden Entscheide mittlerweile überholt.
+b) Es trifft wohl durchaus zu, dass die von der Berufungsklägerin angebotenen Erotiklinien dem Sexgewerbe im weiteren Sinn zuzuordnen sind. Aufgrund dieser Tatsache kann indessen nicht auf die Unsittlichkeit der den Erotiklinien letztlich zugrunde liegenden vertraglichen Vereinbarungen im Sinn von Art. 20 Abs. 1 OR geschlossen werden. Bereits das Sexgewerbe an sich wird in der Allgemeinheit nicht (mehr) a priori als unsittlich empfunden. Es herrscht - zumindest vordergründig - eine Toleranz mit Bezug auf die sexuelle Selbstbestimmung und die Verwirklichung sexueller Präferenzen, was etwa die Streichung des Kuppelei-Tatbestands (Art. 198 aStGB) oder die Aufhebung der Strafbarkeit der männlichen Prostitution (Art. 194 Abs. 3 aStGB) im revidierten Sexualstrafrecht belegt. Auch scheint sich heute kaum noch eine Person an mehr oder weniger allgemein zugänglichen Aufnahmen mit nackten Körpern oder an Darstellungen und Berichten über sexuelle Praktiken zu stören (Reklamen, entsprechende Sendegefässe im Fernsehen, Yellow-Press, Kontaktanzeigen in Zeitungen). Schliesslich ist auch auf die vom Bundesgericht entwickelte liberale Definition der "harten Pornographie" im Zusammenhang mit menschlichen Ausscheidungen (Art. 197 Ziff. 3 StGB) hinzuweisen (BGE 121 IV 129 f.).
+c) Die fragliche Vereinbarung selbst enthält keine sittenwidrigen Elemente, weil sie den Inhalt der Gespräche nicht näher umschreibt, ganz abgesehen davon, dass "Erotik" nicht mit "Unsittlichkeit" gleichgesetzt werden kann. Sodann müsste beweismässig erstellt sein, dass die Berufungsbeklagte tatsächlich unsittliche Gespräche führte bzw. aufgrund dieser Vereinbarung führen musste. Ein solcher Nachweis fehlt indessen. Es mangelt in dieser Beziehung aber insbesondere auch an der Substantiierung seitens der Berufungsbeklagten, die sich auf die Unsittlichkeit der Vereinbarung beruft, so dass ein Beweisverfahren ohnehin nicht in Frage kommt (RBOG 1992 Nr. 32). Der Beweis könnte letztlich auch kaum geführt werden, müssten doch die Gespräche aufgenommen worden und die entsprechenden Bänder noch verfügbar sein; die Kunden jedenfalls dürften kaum bereit sein, als Zeugen auszusagen. Der der Parteivereinbarung zugrunde liegende Zweck - das Vermitteln von Telefongesprächen mit erotischem oder sexuellem Inhalt bzw. die Unterhaltung oder sexuelle Befriedigung der Anrufer - verstösst ebenfalls nicht gegen die herrschende Moral. Dies zeigt bereits ein Blick auf die in den Kiosken aufliegenden Magazine und an die Haushalte verteilten Gratisanzeiger, unter welchen selbst solche zu finden sind, welche nebst entsprechenden Fotografien insbesondere sexuelle Kontakte vermitteln (Partnersuche, Telefonsex etc.).
+d) Zusammenfassend kann die von der Berufungsklägerin erhobene Forderungsklage nicht mit der Begründung abgewiesen werden, die den Ansprüchen zugrunde liegende Vereinbarung sei sittenwidrig und damit nichtig im Sinn von Art. 20 Abs. 1 OR.
+Obergericht, 16. Januar 1997, ZB 96 116
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
