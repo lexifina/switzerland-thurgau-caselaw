@@ -1,0 +1,143 @@
+---
+decision_id: "tg_obergericht_RBOG_2001_Nr._9"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2001 Nr. 9"
+docket_2: "ZBO.2000.32"
+decided: "2001-05-22"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/E031AEF3-12A1-4F3F-AA93FA35622B286E.html"
+cites_law: ["switzerland/bund/acts/220/art-041.md"]
+---
+
+# TG Obergericht RBOG 2001 Nr. 9
+
+## Regeste
+
+1. Strittig ist, ob der vom Berufungskläger geltend gemachte Verlust aus dem Betrieb seines Café-Restaurants - zusätzlich zum in dieser Periode entgangenen Gewinn - vom Unfallverursacher, der die Arbeitsunfähigkeit des Berufungsklägers verursachte, zu übernehmen ist oder nicht. Die Vorinstanz verneinte diese Frage mit der Begründung, ein solcher Geschäftsverlust sei nicht adäquat kausale Folge der unfallbedingten Arbeitsunfähigkeit. Es ist nicht einsichtig, weshalb Verluste a priori ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 22.05.2001 RBOG 2001 Nr. 9 (ZBO.2000.32)
+Thurgovie Obergericht Rechenschaftsbericht 22.05.2001 RBOG 2001 Nr. 9 (ZBO.2000.32)
+Turgovia Obergericht Rechenschaftsbericht 22.05.2001 RBOG 2001 Nr. 9 (ZBO.2000.32)
+
+1. Strittig ist, ob der vom Berufungskläger geltend gemachte Verlust aus dem Betrieb seines Café-Restaurants - zusätzlich zum in dieser Periode entgangenen Gewinn - vom Unfallverursacher, der die Arbeitsunfähigkeit des Berufungsklägers verursachte, zu übernehmen ist oder nicht. Die Vorinstanz verneinte diese Frage mit der Begründung, ein solcher Geschäftsverlust sei nicht adäquat kausale Folge der unfallbedingten Arbeitsunfähigkeit. Es ist nicht einsichtig, weshalb Verluste a priori ...
+
+RBOG 2001 Nr. 9
+RBOG 2001 Nr. 9
+Nicht nur entgangener Gewinn, sondern auch erlittener Verlust kann adäquat kausale Folge der unfallbedingten Arbeitsunfähigkeit eines Betriebsinhabers sein
+(Art. 41 OR)
+1.    Strittig ist, ob der
+vom Berufungskläger geltend gemachte Verlust aus dem
+Betrieb seines Café-Restaurants - zusätzlich zum in
+dieser Periode entgangenen Gewinn - vom Unfallverursacher, der
+die Arbeitsunfähigkeit des Berufungsklägers
+verursachte, zu übernehmen ist oder nicht. Die Vorinstanz
+verneinte diese Frage mit der Begründung, ein solcher
+Geschäftsverlust sei nicht adäquat kausale Folge der
+unfallbedingten Arbeitsunfähigkeit.
+2.    Die von der
+Vorinstanz vertretene Auffassung erscheint angesichts der
+konstanten Praxis des Bundesgerichts zur Adäquanz zu
+restriktiv. Den konkreten Bedenken der Vorinstanz ist hingegen
+im Rahmen der Schadensberechnung allenfalls Rechnung zu tragen.
+Es ist zuzugeben, dass sich dabei vergleichbare Fragen stellen,
+denn auch bei der Schadensberechnung sind Wertungen vorzunehmen
+und ist "der gewöhnliche Lauf der Dinge" zu beachten, wenn
+es um nicht beweisbare bzw. hypothetische Sachverhalte geht.
+Auf jeden Fall lässt sich mit der Schadensberechnung eine
+bessere Einzelfallgerechtigkeit erreichen, weil dabei nicht nur
+ein "Ja" oder "Nein", sondern auch ein "teilweises Ja"
+möglich ist, indem einzelne Verlustkomponenten
+herausgefiltert und beurteilt werden.
+3.    a)
+Gemäss konstanter bundesgerichtlicher Rechtsprechung ist
+der natürliche Kausalzusammenhang, dessen Vorliegen hier
+nicht bestritten ist, dann adäquat und somit
+rechtserheblich, wenn die Ursache nach dem gewöhnlichen
+Lauf der Dinge und der allgemeinen Lebenserfahrung geeignet
+ist, einen Erfolg von der Art des eingetretenen
+herbeizuführen und der Eintritt dieses Erfolgs durch die
+Ursache allgemein als begünstigt erscheint. Die
+Adäquanz ist nur zu verneinen, wenn ganz
+aussergewöhnliche Umstände wie das Mitverschulden
+eines Dritten oder Material- oder Konstruktionsfehler als
+Mitursachen hinzutreten, mit denen schlechthin nicht gerechnet
+werden musste und die derart schwer wiegen, dass sie als
+wahrscheinlichste und unmittelbarste Ursache des Erfolgs
+erscheinen und so alle anderen mitverursachenden Faktoren in
+den Hintergrund drängen (BGE 127 IV 39 mit Hinweisen). Ein
+solch aussergewöhnlicher Umstand kann auch beim
+Geschädigten selber liegen, z.B. bei grobem
+Selbstverschulden, sonstigem unsinnigen Verhalten oder
+irgendeinem Umstand, zum Beispiel einer ganz besonderen
+Veranlagung (vgl. Keller, Haftpflicht im Privatrecht, Bd. I,
+5.A., S. 69). Die Adäquanz hat die Funktion einer
+Haftungsbegrenzung (Keller, S. 66).
+b)    Es liegt auf der Hand, dass ein
+durchschnittlicher Kleinbetrieb wegen eines längeren
+Ausfalls des voll im Betrieb arbeitenden Inhabers nicht nur
+weniger Gewinn abwirft, sondern sogar Verluste zu
+gewärtigen hat. In welchem Mass sich das finanzielle
+Ergebnis verschlechtert, hängt unter anderem von der Art
+des Betriebs, von der Bedeutung des Chefs für den Betrieb,
+von der Dauer des Ausfalls und von der Art und Weise, wie der
+Chef ersetzt wird, ab. Insbesondere in Betrieben mit relativ
+bescheidenen Umsatzrenditen und grosser Bedeutung des Patrons
+(Kleinbetrieb, Personifizierung des Betriebs, Kundenbindung
+etc.), wie dies für Restaurants in der Regel ausgesprochen
+der Fall ist, ist das Risiko gross, dass das Fehlen des Chefs
+und Inhabers zu Verlusten und nicht nur zu Gewinneinbussen
+führt. Es ist nicht einsichtig, weshalb Verluste a priori
+inadäquate Folge des Ausfalls des Chefs und damit in
+diesem Fall der unfallbedingten Arbeitsunfähigkeit des
+Berufungsklägers sein sollen. Dass der Chef ersetzt wird
+und - im Sinn der Schadenminderungspflicht des
+Geschädigten - ersetzt werden muss, ändert daran
+nichts, denn dessen Ersatz ist gerade keine Garantie
+dafür, dass Umsatz und Kosten einigermassen im Lot
+bleiben. Man kann deshalb die Pflicht zur Abgeltung für
+solche Betriebsverluste nicht von vornherein über die
+Frage der Adäquanz verneinen. Vielmehr ist im Einzelfall
+aufgrund der konkreten Umstände zu beurteilen, ob die
+unfallbedingte Abwesenheit des Patrons tatsächlich die
+behaupteten finanziellen Auswirkungen hatte. Nur das ergibt
+sich auch aus den Ausführungen von Oftinger
+(Oftinger/Stark, Schweizerisches Haftpflichtrecht, Bd. I, 5.A.,
+§ 6 N 156), auf die sich die Vorinstanz stützt. Ein
+allfälliger Geschäftsverlust kann auch deshalb nicht
+von vornherein als rechtlich nicht erheblich qualifiziert
+werden, weil Umsatzeinbusse und Aufwanderhöhung, die mit
+dem Ausfall des Geschäftsinhabers regelmässig
+verbunden sind, nicht theoretisch so beschränkt werden
+können und dürfen, dass sie im schlechtesten Fall zu
+einem ausgeglichenen Ergebnis führen (Umsatz = Aufwand,
+kein Gewinn, kein Verlust). Zur Illustration kann ein
+einfaches, aber durchaus realistisches Beispiel dienen: Ein
+Restaurant erwirtschaftet einen durchschnittlichen Jahresumsatz
+von Fr. 1 Mio. und damit einen durchschnittlichen Jahresgewinn
+von Fr. 80'000.--, der dem Jahreseinkommen des Betriebsinhabers
+entspricht. Der Betriebsinhaber verunfallt und ist ein Jahr
+arbeitsunfähig. Er stellt für diese Zeit als Ersatz
+für sich einen Chef ein, der alles in allem Fr. 70'000.--
+pro Jahr kostet. Anfänglich können die Umsätze
+knapp gehalten werden, dann beginnen jedoch viele Gäste
+abzuwandern, weil der neue Chef, der auch kocht, dies nicht in
+der gewohnten Qualität und auch weniger abwechslungsreich
+tut, und weil ein Teil der Gäste den Patron vermisst. Der
+Jahresumsatz sinkt um 10% auf Fr. 900'000.--. Der Einfachheit
+halber wird angenommen, die Kosten seien mit Ausnahme des Lohns
+für den Ersatz des Chefs gleich geblieben. Wenn nun nur
+der positiv entgangene Verdienst ersetzt würde, würde
+der Geschädigte Fr. 80'000.-- erhalten. Zusammen mit dem
+tatsächlich erzielten Jahresumsatz von Fr. 900'000.-- (90%
+von Fr. 1 Mio.) hätte er Fr. 980'000.-- zur
+Verfügung, mit denen er den gleichgebliebenen Aufwand von
+Fr. 920'000.-- (Fr. 1 Mio. - Fr. 80'000.--) und die Fr.
+70'000.-- für seinen Ersatz zu bezahlen hätte. Der
+Geschädigte hätte damit in seinem Unfalljahr nicht
+nur keinen Verdienst, sondern sogar, trotz des angeblich
+gedeckten Schadens, noch einen Verlust von Fr. 10'000.-- zu
+tragen.
+Obergericht, 22. Mai 2001, ZBO.2000.32
