@@ -1,0 +1,46 @@
+---
+decision_id: "tg_obergericht_TVR_2002_Nr._10"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2002 Nr. 10"
+decided: "2001-10-30"
+published: "2002-03-27"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2002-nr-10"
+cites_law: ["switzerland/bund/acts/210/art-030.md"]
+---
+
+# TG Obergericht TVR 2002 Nr. 10
+
+## Regeste
+
+Namensänderungsgesuch
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 27.03.2002 TVR 2002 Nr. 10
+Thurgovie Obergericht Rechenschaftsbericht 27.03.2002 TVR 2002 Nr. 10
+Turgovia Obergericht Rechenschaftsbericht 27.03.2002 TVR 2002 Nr. 10
+
+TVR 2002 Nr. 10
+Skip to main content
+Show navigation
+Namensänderungsgesuch
+Art. 30 ZGB
+Namensänderungsgesuch einer Mutter für ihre Kinder, die den Namen Schweingruber tragen. Kein wichtiger Grund zur Änderung.
+Die Gesuchstellerin war seit 1. Februar 1989 in erster Ehe mit Otto Schweingruber verheiratet gewesen. Aus dieser Ehe entsprossen die beiden Kinder Sarah, geboren 6. Mai 1989, und Kevin, geboren 7. März 1993 (Vornamen geändert). Durch die Heirat hatte die Gesuchstellerin – nach dem damaligen, bis 31. Dezember 1991 gültigen Recht – das Schweizer Bürgerrecht erworben. Am 4. Juli 1994 wurde die Ehe durch das Bezirksgericht geschieden. Die beiden Kinder wurden unter die elterliche Sorge der Mutter gestellt. In der Folge behielt die Beschwerdeführerin ihren angeheirateten Namen Schweingruber.
+Mit Eingabe vom 3. Juli 2001 stellte Karin Schweingruber-Müller ein Gesuch um Namensänderung für sich und ihre beiden Kinder Sarah Schweingruber und Kevin Schweingruber in dem Sinne, dass sie zukünftig den Namen Müller führen dürften (alle Namen ausser Schweingruber geändert). Mit Entscheid vom 30. Oktober 2001 bewilligte das DJS die Namensänderung für die Gesuchstellerin Karin Schweingruber, geborene Müller, nicht jedoch für die beiden Kinder Sarah und Kevin. Dagegen führt Karin Müller Beschwerde beim Verwaltungsgericht und macht unter anderem geltend, bei den Kindern würden wichtige Interessen für eine Namensänderung vorliegen, da sie in Bezug auf ihren Namen häufig gehänselt worden seien. Übernahmen wie «Schweini», «Schweinegruber» oder «Sauhuber» seien an der Tagesordnung. Zudem lägen bei der Mutter sehr stabile Verhältnisse vor. Sie lebe in keiner Partnerschaft und werde auf jeden Fall ihren angestammten Namen «Müller» behalten, selbst wenn sie sich später wieder verheiraten sollte. Auch im Ausland seien die Kinder immer dem Spott ihrer Mitschüler ausgesetzt gewesen. Das Verwaltungsgericht weist die Beschwerde ab.
+Aus den Erwägungen:
+2. a) Zu entscheiden ist, ob den beiden Kindern, Sarah und Kevin Schweingruber, eine Namensänderung auf den Namen Müller bewilligt werden kann. Die geschiedene Mutter der beiden Kinder trägt zufolge nun bewilligter Namensänderung, sieben Jahre nach der Ehescheidung, wieder ihren angestammten Namen Müller. Dieser Teil der Bewilligung ist unangefochten geblieben. Es fragt sich allerdings, warum das Amt die Gesuchstellerin nicht angefragt hatte, ob sie an ihrem Gesuch auch festhalten wolle, wenn eventuell nur ihr die Namensänderung bewilligt würde, nicht aber ihren Kindern. Mit der nur «einseitigen» Bewilligung der Namensänderung wird nämlich in Fällen wie dem vorliegenden der Einheit der Restfamilie nicht Rechnung getragen. Diese Frage kann jedoch offengelassen werden, da solches nicht geltend gemacht wird. (...)
+aa) Gemäss Rechtsprechung war eine Namensänderung stets zu bewilligen, wenn ernstliche Nachteile, die mit dem bisherigen Namen verbunden sind, beseitigt werden können, wobei vor allem moralische, geistige und seelische Interessen im Spiele stehen konnten. Die Änderung des Familiennamens wurde regelmässig auch dort bewilligt, wo ein Kind nach der Scheidung der Eltern bei der Mutter lebte und diese ihren früheren Namen wieder angenommen hat oder die Mutter wieder geheiratet und das Kind in die mit dem Stiefvater neu gegründete Familie aufgenommen hat.
+In jüngerer Zeit ist das Bundesgericht von dieser eher grosszügigen Praxis abgewichen. So hat es in BGE 121 III 145 ff. die Berufung eines Kindes abgewiesen, das mit seiner Mutter und deren Konkubinatspartner, der zugleich sein Vater ist, in Hausgemeinschaft lebte und dessen Familienname begehrte. Das Bundesgericht wies dort daraufhin, dass sich die Beurteilung ausserehelicher Kindesverhältnisse durch die Gesellschaft verändert habe und deshalb nicht mehr mit den sozialen Nachteilen argumentiert werden könne, denen Kinder wegen des Namensunterschieds ausgesetzt seien. Angesichts des bereits seit einigen Jahren eingetretenen Sinneswandels lasse sich nicht mehr schon allein in der Tatsache eines stabilen Konkubinatsverhältnisses zwischen der Mutter als Inhaberin der elterlichen Gewalt und dem Konkubinatspartner als leiblichen Vater ein wichtiger Grund im Sinne von Art. 30 Abs. 1 ZGB erblicken.
+Im vorliegenden Fall liegen die Verhältnisse etwas anders. Die Mutter lebt offenbar in keiner festen Beziehung und erklärt, selbst bei einer Wiederverheiratung den Namen Müller beizubehalten. Den Namen Müller hat sie jedoch nicht aufgrund der ihr im Nachgang zur Scheidung (4. Juli 1994) schon damals möglichen Erklärung gemäss Art. 119 (damals Art. 149) ZGB erhalten, sondern – wie gesagt – auf Gesuch gemäss Art. 30 ZGB hin. Sie und ihre Kinder haben offenbar noch sieben Jahre mit dem nur in amtlichen Verfahren erscheinenden Namen Schweingruber leben können, weil sie sich wohl im Alltag des Namens Müller bedienten (was zulässig ist). Solche faktischen Gründe allein sind jedoch nicht genügend. Eine Namensänderung der Eltern hat auch keine unmittelbare Wirkung auf die Kinder.
+bb) Bei der Prüfung des Vorliegens wichtiger Gründe hat eine alle relevanten Umstände des Einzelfalles miteinzubeziehende Interessenabwägung stattzufinden (Honsell/Vogt/Geiser, Schweizerisches Zivilgesetzbuch I, Basel 1996, Art. 30 Rz 7). Die geltend gemachten Gründe sind nach objektiven Kriterien zu werten. Auch kommt es ausschliesslich auf die persönlichen Interessen an, die für sich allein genommen die ihnen gegenüber stehenden Interessen überwiegen müssen (BGE 117 II 9). Anwendungsfälle herkömmlicher Namensänderungen ergeben sich wegen Namen, die lächerlich, hässlich oder anstössig sind, beziehungsweise dauernd verstümmelt oder verunstaltet werden (BGE 120 II 277; Häfliger, Die Namensänderung nach Art. 30 ZGB, Zürich 1996, S. 52). Die Entscheidung, ob ein Name das subjektive Empfinden verletzt, ist schwierig. Die Beschränkung der Prüfung auf objektive Kriterien ist jedoch – wie gesagt – geboten und keinesfalls willkürlich. Eine Änderung des Namens ist gemäss Entscheid des Bundesgerichtes nur zu bewilligen, wenn dieser zu andauernder Verunglimpfung des Trägers führt (Häfliger, a.a.O., S. 221). Verlangt wird eine schwere und dauerhafte Verletzung der Persönlichkeit, die allein durch eine Namensänderung nach Art. 30 ZGB aufgehoben werden kann.
+Solches wird hier schwergewichtig geltend gemacht. Zwar ist der Name Schweingruber nicht besonders attraktiv, doch hat er hier in der Ostschweiz längst nicht die Bedeutung, die ihm nun beigelegt werden will. Es scheint, als werde er nur deshalb so negativ empfunden, weil Anzeichen dafür bestehen, dass die Scheidung noch nicht positiv verarbeitet worden ist. Jedenfalls schimmern aus den Briefen der Mutter vom 28. September 2001 und 10. Oktober 2001 recht offen Hassgefühle durch. Der Name als solcher wirkt aber weder lächerlich noch hässlich, weshalb die Beschwerde in materieller Hinsicht gestützt auf Art. 30 ZGB abzuweisen ist.
+Entscheid vom 13. Februar und 27. März 2002
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
