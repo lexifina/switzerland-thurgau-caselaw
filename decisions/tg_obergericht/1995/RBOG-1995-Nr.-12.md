@@ -1,0 +1,39 @@
+---
+decision_id: "tg_obergericht_RBOG_1995_Nr._12"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1995 Nr. 12"
+decided: "1995-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-1995-nr-12"
+---
+
+# TG Obergericht RBOG 1995 Nr. 12
+
+## Regeste
+
+Vereinigung von Klage und Widerklage im arbeitsrechtlichen Streit: Auswirkungen auf den Streitwert bzw. die Verfahrensart
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 1995 RBOG 1995 Nr. 12
+Thurgovie Obergericht Rechenschaftsbericht 1995 RBOG 1995 Nr. 12
+Turgovia Obergericht Rechenschaftsbericht 1995 RBOG 1995 Nr. 12
+
+RBOG 1995 Nr. 12
+Skip to main content
+Show navigation
+Vereinigung von Klage und Widerklage im arbeitsrechtlichen Streit: Auswirkungen auf den Streitwert bzw. die Verfahrensart
+Art. 343 OR
+1. Der Berufungskläger als Arbeitgeber kündigte dem Berufungsbeklagten das Arbeitsverhältnis fristlos "wegen Betrugs und Missbrauchs". Der Berufungsbeklagte reichte Klage über Fr. 48'325.72 ein, worauf der Berufungskläger Widerklage erhob und Fr. 20'000.-- als Schadenersatz forderte. Mit Teilurteil wies das Bezirksgericht die Widerklage ab, während die Klage wegen fehlender Spruchreife weiterhin pendent blieb. Der Arbeitgeber verlangt berufungsweise die Vereinigung der Widerklage mit der Klage.
+2. a) Für Streitigkeiten aus Arbeitsvertrag bis zu einem Streitwert von Fr. 20'000.-- macht der Bundesgesetzgeber in Art. 343 OR verschiedene prozessuale Vorschriften. Zu unterscheiden ist allerdings zwischen der richterlichen Feststellung des Sachverhalts von Amtes wegen gemäss Art. 343 Abs. 4 OR einerseits und dem beschleunigten Verfahren gemäss §§ 150 f. ZPO andererseits. Art. 343 Abs. 4 OR statuiert - obwohl die Begriffe in der Praxis verwischt werden - im Grunde gar keine Offizialmaxime im engeren Sinn, sondern eine (eingeschränkte) Untersuchungsmaxime. Deren Auswirkungen liegen im wesentlichen in drei Punkten: Für den Richter gilt eine ausgedehntere Fragepflicht; überdies kann er Tatsachen in den Prozess miteinbeziehen, die von niemandem behauptet werden; und schliesslich kann er Beweise abnehmen und berücksichtigen, die von keiner Seite angerufen werden. Art. 343 Abs. 4 OR hat allerdings nicht den Sinn, die Parteien von der Pflicht zur Beteiligung an der Sammlung des Prozessstoffs zu entbinden. Ihnen obliegt weiterhin, das Tatsachenmaterial zu unterbreiten und die Beweismittel zu bezeichnen. Die praktische Bedeutung der Offizialmaxime gemäss Art. 343 Abs. 4 OR darf nicht überschätzt werden, da das Gericht kein eigentliches Untersuchungsverfahren durchzuführen hat (vgl. RBOG 1991 Nr. 12 mit Hinweisen). Von daher kennt die in Art. 343 Abs. 4 OR vorgeschriebene Offizialmaxime für den tatsächlichen Verfahrensablauf keine wesentlichen Unterschiede zum ordentlichen Verfahren mit der Verhandlungsmaxime. Zumindest aber ist es aufgrund dieser Unterschiede allein nicht zwingend notwendig, in arbeitsvertragsrechtlichen Streitigkeiten Klage und Widerklage zu trennen, wenn eine der beiden Forderungen die Grenze von Fr. 20'000.-- überschreitet. In solchen Streitfällen, wo sich zwangsläufig Klage und Widerklage gegenüberstehen können, stellt das beschleunigte Verfahren, welches für die eine Klage gilt, gegenüber dem ordentlichen Verfahren, welches für die andere Klage gilt, kein "anderes Verfahren" im Sinn von § 89 Abs. 1 ZPO dar, welches die Widerklage ausschliessen würde; vielmehr ist das beschleunigte Verfahren, wie sich aus § 151 ZPO ohne weiteres ergibt, nichts anderes als ein beschleunigtes ordentliches Verfahren, welches - abgesehen von der im Gesetz vorgeschriebenen Beschleunigung - zum ordentlichen Verfahren keine Unterschiede aufweist. Indem das Bundesrecht in Art. 343 Abs. 2 OR ausdrücklich festhält, bei der Streitwertbemessung sei die Widerklage nicht zu berücksichtigen, geht es selbst offensichtlich davon aus, Klage und Widerklage seien in demselben Verfahren zu behandeln; jede andere Lösung würde denn auch dem Grundsatz der Prozessökonomie zuwiderlaufen.
+b) Der Berufungsbeklagte wirft der Vorinstanz sinngemäss vor, sie hätte Klage und Widerklage in zwei formell voneinander getrennten Verfahren behandeln müssen. Im angefochtenen Entscheid erliess die Vorinstanz ein Teilurteil, mit dem sie über die Widerklage befand. Die Hauptklage dagegen ist wegen fehlender Spruchreife nach wie vor hängig. Damit hob die Vorinstanz die Verfahrensvereinigung von Klage und Widerklage faktisch wieder auf, weshalb der Berufungsbeklagte in dieser Beziehung ohnehin nicht beschwert ist. Eine Verletzung von § 89 Abs. 1 ZPO liegt demnach nicht vor.
+c) Zu keinem andern Resultat führt der Vergleich der Vorschriften des beschleunigten Verfahrens gemäss § 151 ZPO mit denjenigen des ordentlichen Verfahrens gemäss §§ 137 ff. ZPO; das beschleunigte Verfahren sieht einzig zum Zweck der Verkürzung der Verfahrensdauer verschiedene einschränkende Fristbestimmungen vor. Der Vereinigung einer im ordentlichen Verfahren zu behandelnden Klage mit einer im beschleunigten Verfahren durchzuführenden Widerklage aus derselben arbeitsrechtlichen Streitigkeit gemäss § 89 Abs. 1 ZPO steht solange nichts im Wege, als damit die Vorteile, die der Widerkläger aufgrund der verkürzten Fristen geniesst, nicht unterlaufen werden. Wird die Widerklage zeitlich eher spruchreif als die Hauptklage, so darf mit ihrer Beurteilung nicht zugewartet werden, bis über letztere entschieden werden kann. Die Vorinstanz wählte somit den unter diesen Umständen richtigen Weg, indem sie ein Teilurteil gemäss § 110 Abs. 2 ZPO fällte.
+Obergericht, 20. Dezember 1994, ZB 94 98
+Auf eine dagegen erhobene staatsrechtliche Beschwerde und Berufung trat das Bundesgericht am 22. Januar 1996 nicht ein.
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
