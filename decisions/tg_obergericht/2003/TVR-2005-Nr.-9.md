@@ -1,0 +1,43 @@
+---
+decision_id: "tg_obergericht_TVR_2005_Nr._9"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2005 Nr. 9"
+decided: "2003-11-23"
+published: "2005-03-02"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2005-nr-9"
+---
+
+# TG Obergericht TVR 2005 Nr. 9
+
+## Regeste
+
+Pflicht zur Begründung einer Beschwerde innert laufender Rechtsmittelfrist
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 02.03.2005 TVR 2005 Nr. 9
+Thurgovie Obergericht Rechenschaftsbericht 02.03.2005 TVR 2005 Nr. 9
+Turgovia Obergericht Rechenschaftsbericht 02.03.2005 TVR 2005 Nr. 9
+
+TVR 2005 Nr. 9
+Skip to main content
+Show navigation
+Pflicht zur Begründung einer Beschwerde innert laufender Rechtsmittelfrist
+§ 57 Abs. 1 VRG
+Bestätigung der Rechtsprechung, wonach eine Nachfrist für die Begründung einer Beschwerde nur gewährt wird, wenn vor Ablauf einer Beschwerdefrist wenigstens eine summarische Begründung geliefert wurde (E. 1b).
+In einem Verfahren betreffend Nichterteilung der Aufenthaltsbewilligung wegen Vorliegens einer Scheinehe liess sich die Ehefrau durch einen Rechtsanwalt im Rekursverfahren vertreten. Kurz vor dem Erlass des Rekursentscheides wechselte sie den Rechtsvertreter. Gegen den abweisenden Rekursentscheid vom 23. November 2003 liess die Ehefrau durch ihre am 4. November 2003 neu mandatierte Rechtsvertreterin Beschwerde beim Verwaltungsgericht einlegen und beantragen, der angefochtene Entscheid sei aufzuheben. Für die Begründung der Beschwerde ersuchte diese um Fristerstreckung von 20 Tagen, da sie erst vor wenigen Taten mandatiert worden sei. Das Verwaltungsgericht tritt auf die Beschwerde nicht ein.
+Aus den Erwägungen:
+1. a) Die Zuständigkeit des Verwaltungsgerichts zur Beurteilung der vorliegenden Beschwerde ergibt sich aus § 54 VRG. (...) Die Beschwerde ist rechtzeitig eingereicht worden und enthält einen (blossen Verfahrens)Antrag.
+b) Hingegen fehlt jegliche Begründung, obschon auch auf dieses Erfordernis in der Rechtsmittelbelehrung des angefochtenen Entscheides hingewiesen wurde. Gemäss § 57 Abs. 1 VRG muss eine Beschwerde jedoch einen Antrag und eine Begründung enthalten. Anstelle der Begründung wird ein Gesuch um Fristerstreckung von 20 Tagen zur Einreichung einer Begründung gestellt. Dazu wird auf § 55 Abs. 2 VRG verwiesen, wonach für das Verfahren der Beschwerde die Bestimmungen über den Rekurs gälten. Bei einer mangelhaften Rekursschrift müsse gemäss § 46 Abs. 1 VRG eine angemessene Frist zur Ergänzung angesetzt werden.
+§ 55 Abs. 2 VRG betrifft jedoch das Beschwerdeverfahren vor dem Regierungsrat und nicht dem Verwaltungsgericht. Für das Beschwerdeverfahren vor dem Verwaltungsgericht gelten die Bestimmungen der §§ 56 bis 63 VRG. Die Anforderungen an eine Beschwerdeschrift sind (allein) in § 57 VRG geregelt. Daran ändert § 62 VRG nichts, denn nach diesem Paragraphen gelten die Bestimmungen über den Rekurs sinngemäss nur «im Übrigen», also nur insoweit, als die §§ 56 ff. VRG nichts regeln. § 57 VRG regelt aber eben die Anforderungen an eine Beschwerde ganz genau und abschliessend.
+Die am letzten Tag der Rechtsmittelfrist der Post übergebene Beschwerdeschrift mit dem Ersuchen um Nachfristansetzung zur Begründung dient ganz offensichtlich lediglich einer nach § 25 Abs. 1 VRG unzulässigen Verlängerung der gesetzlichen Rechtsmittelfrist von 20 Tagen. Eine Nachfristansetzung wird deshalb in steter Praxis des Verwaltungsgerichtes nur gewährt, wenn wenigstens eine summarische Begründung vor Ablauf der Beschwerdefrist geliefert wird, nicht aber, wenn überhaupt keine Begründung vorliegt (vgl. TVR 1987 Nr. 13). Ein solcher Fall liegt hier vor, weshalb mangels Vorliegens einer Prozessvoraussetzung auf die Beschwerde nicht eingetreten werden kann.
+Die Beschwerdeführerin meint, damit würde ihr rechtliches Gehör verletzt und gegen das Willkürverbot verstossen. Wie im Sachverhalt dargestellt, kann nicht ansatzweise von Verweigerung des Akteneinsichtsrechts gesprochen werden. Die Beschwerdeführerin war von Anfang an vertreten. Die letzte Fristansetzung verlief ohne Echo, weshalb das DJS auf das Gesuch vom 4. November 2004 zu Recht antwortete, es werde aufgrund der vorhandenen Akten entschieden. Die Rechtsvertreterin akzeptierte diesen Standpunkt offenbar, ansonsten sie gehalten gewesen wäre, umgehend zu remonstrieren. Darüber hinaus wartete sie bis am 15. Dezember 2004, um zu erklären, es müsse ihr eine Fristerstreckung zur Begründung gewährt werden. Auch begründete sie dies nicht mit angeblich fehlenden Akten, sondern damit, sie sei als Anwältin «erst vor wenigen Tagen beauftragt worden» und es seien noch diverse Abklärungen zu treffen. Die Beauftragung als Anwältin fand jedoch spätestens am 4. November 2004 statt und nicht erst nach dem Entscheid des DJS vom 23. November 2004. Sie hätte demnach unmittelbar nach Zustellung des Entscheides des DJS die Akten verlangen können. Die Rechtsvertreterin muss sich deshalb den Vorwurf des Rechtsmissbrauchs entgegen halten lassen, wenn siederart prozessiert. Im Übrigen hätte aufgrund der ausführlichen Sachverhaltsdarstellung durch das DJS in dem an ihre Adresse zugestellten Entscheid durchaus eine summarische Begründung zusammengestellt werden können.
+Entscheid vom 2. März 2005
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
