@@ -1,0 +1,43 @@
+---
+decision_id: "tg_obergericht_TVR_2005_Nr._8"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2005 Nr. 8"
+decided: "2005-02-28"
+published: "2005-09-21"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2005-nr-8"
+cites_law: ["switzerland/bund/acts/642.14/art-050.md"]
+---
+
+# TG Obergericht TVR 2005 Nr. 8
+
+## Regeste
+
+Gültigkeitserfordernisse für Rekursschrift
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 21.09.2005 TVR 2005 Nr. 8
+Thurgovie Obergericht Rechenschaftsbericht 21.09.2005 TVR 2005 Nr. 8
+Turgovia Obergericht Rechenschaftsbericht 21.09.2005 TVR 2005 Nr. 8
+
+TVR 2005 Nr. 8
+Skip to main content
+Show navigation
+Gültigkeitserfordernisse für Rekursschrift
+§ 45 Abs. 1 VRG
+1. Antrag und zumindest summarische Begründung sind formelle Gültigkeitserfordernisse auch für einen Rekurs. Genügt eine Rekurseingabe diesen Minimalerfordernissen nicht, ist auch keine Nachfrist anzusetzen, denn das Gesetz sieht die Möglichkeit einer fristwahrenden vorsorglichen Eingabe ohne Antrag und ohne jegliche Begründung nicht vor (E. 3a).
+2. Pflicht der Behörde zum Hinweis auf die fehlenden Elemente innerhalb der Rekursfrist und auf die Konsequenzen im Unterlassungsfalle (E. 3b).
+Die V AG erhob mit Faxschreiben vom 30. März 2005 bei der Steuerverwaltung des Kantons Thurgau «Einspruch» gegen deren Einspracheentscheid vom 28. Februar 2005. Der «Einspruch» erfolgte ohne Begründung. Es wurde lediglich darauf hingewiesen, dass eine Begründung in angemessener Frist nachgereicht werde. Die Steuerverwaltung überwies den «Einspruch» noch am 30. März 2005 an die zuständige Steuerrekurskommission mit dem Hinweis, dass mit dem «Einspruch» wohl die Einleitung eines Rekursverfahrens beabsichtigt werde. Mit Einschreiben vom 31. März 2005 (vorab per Fax) wurde die V AG auf die Formund Fristerfordernisse einer Rekurseingabe hingewiesen. Demnach sei mindestens eine summarische Begründung des Rekurses innerhalb der 30tägigen Frist erforderlich. Eine vorsorgliche Rekurserhebung ohne Antrag und Begründung genüge den gesetzlichen Anforderungen nicht. Es sei daher innerhalb der 30tägigen Rekursfrist ein Antrag sowie eine summarische Begründung bei der Steuerrekurskommission einzureichen. Werde innerhalb der 30tägigen Rekursfrist kein Antrag und keine summarische Begründung nachgereicht, könne auf den Rekurs nicht eingetreten werden, was einen kostenpflichtigen Nichteintretensentscheid zur Folge hätte. Die Steuerrekurskommission trat mit Entscheid vom 7. Juni 2005 auf den Rekurs nicht ein. Dagegen führt die V AG Beschwerde beim Verwaltungsgericht, das diese abweist.
+Aus den Erwägungen:
+3. (...)
+a) Gemäss § 175 StG kann der Steuerpflichtige gegen Einspracheentscheide der Steuerverwaltung innert 30 Tagen nach Zustellung Rekurs bei der Steuerrekurskommission erheben. Diese Frist ist aufgrund von Art. 50 StHG für die Kantone verbindlich und bedeutet eine Ausnahme von der im Thurgauischen Recht geltenden allgemeinen Rekursfrist von 20 Tagen (§ 45 Abs. 1 VRG). Der Rekurs muss einen Antrag und eine Begründung enthalten sowie die Beweismittel aufführen (§ 45 Abs. 1 VRG). Der Antrag bildet formelle Gültigkeitsvoraussetzung des Rekurses. Die Begründung hat zumindest summarisch zu erfolgen und ist ebenfalls Gültigkeitsvoraussetzung. Ein Verweis auf Eingaben an die Veranlagungsbehörde genügt allein nicht (vgl. Maute, Kommentar zum Gesetz über die Staatsund Gemeindesteuern des Kantons Thurgau, Frauenfeld 1989, S. 236; Haubensak/Litschgi/Stähelin, Kommentar zum Gesetz über die Verwaltungsrechtspflege des Kantons Thurgau, § 45 N 7 f.). Genügt die Rekursschrift den gesetzlichen Anforderungen nicht und stellt sich der Rekurs nicht als offensichtlich unzulässig heraus, wird eine angemessene Frist zur Ergänzung angesetzt. Gleichzeitig wird mitgeteilt, dass nach Ablauf der unbenützten Frist aufgrund der Akten entschieden oder, wenn Antrag, Begründung oder Unterschrift fehlen, auf den Rekurs nicht eingetreten werde (§ 46 Abs. 1 VRG). Die Rekursfrist stellt eine Verwirkungsfrist dar, die nicht erstreckbar ist. Fristversäumnis hat Nichteintreten zur Folge (vgl. SchwarzWilhelmsen, Das Verfahren der Steuerveranlagung nach Thurgauer Recht, Frauenfeld 1985, S. 186; Richner/Frei/Kaufmann, Kommentar zum harmonisierten Zürcher Steuergesetz, Zürich 1999, § 147 N 13). Davon ist die Möglichkeit einer ausnahmsweisen und an verschiedene Kautelen gebundene Fristrestitution gemäss § 26 VRG zu unterscheiden.
+b) In Bezug auf die Eingabe vom 30. März 2005 der Beschwerdeführerin kann festgestellt werden, dass diese weder einen Antrag noch eine Begründung enthält. Aus der Eingabe ist nicht ersichtlich, was Streitgegenstand bilden soll. Daher war auch keine Nachfrist zur Ergänzung beziehungsweise Präzisierung anzusetzen. Im Hinblick auf die Rechtsmittelfrist hatte die Eingabe vom 30. März 2005 somit keinerlei Wirkung, denn das Gesetz sieht die Möglichkeit einer fristwahrenden vorsorglichen Eingabe ohne jegliche Begründung nicht vor. Im Rahmen der verfassungsrechtlichen allgemeinen Verfahrensgarantien ist jedoch sicherzustellen, dass im Falle einer ungenügenden Eingabe, welche innerhalb der Frist erfolgt, in verständlicher Weise auf die Rechtslage sowie allfällige Konsequenzen hingewiesen wird. Dieser Pflicht kam die Vorinstanz in ihrem Schreiben vom 31. März 2005 nach, indem sie umfassend über die Rechtslage und die zur korrekten Rekurseingabe erforderlichen Schritte sowie allfällige Konsequenzen im Unterlassungsfalle informierte. Insbesondere wurde auch darauf hingewiesen, dass nicht auf den Rekurs eingetreten werden könne, wenn dieser nicht innerhalb der Frist von 30 Tagen in rechtsgenüglicher Form eingehe. Im Hinblick auf die Fristberechnung wurde auf den Einspracheentscheid vom 28. Februar 2005 hingewiesen. Zudem wurde erwähnt, dass der Rückzug des Rekurses eine kostenlose Abschreibungsverfügung zur Folge hätte. Die Rechtsbelehrung der Vorinstanz war in jeder Hinsicht klar und verständlich. Es wurde seitens der Beschwerdeführerin auch nicht behauptet, dass das Schreiben vom 31. März 2005 (gleichentags per Fax) nicht zugegangen oder missverständlich sei. Ebenso klar und verständlich war im Übrigen schon die Rechtsmittelbelehrung auf dem Einspracheentscheid der Steuerverwaltung vom 28. Februar 2005. Nachdem die Vorinstanz erst am 30. März 2005 über den gleichentags an unzuständiger Stelle eingegangenen «Einspruch» informiert wurde, kann ihr jedenfalls kein Vorwurf daraus gemacht werden, am letzten Tag der korrekt berechneten Frist, nämlich am 31. März 2005, die Beschwerdeführerin nicht aufgeklärt zu haben. Vielmehr hätte diese aufgrund ihrer Mitwirkungspflicht im Verwaltungsverfahren sofort reagieren müssen. Eine Berufung auf den Vertrauensschutz würde daher aufgrund des Verhaltens der Beschwerdeführerin von vornherein scheitern.
+Entscheid vom 21. September 2005
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
