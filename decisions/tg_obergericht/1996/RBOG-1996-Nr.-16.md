@@ -1,0 +1,215 @@
+---
+decision_id: "tg_obergericht_RBOG_1996_Nr._16"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1996 Nr. 16"
+docket_2: "BR 96 1"
+decided: "1996-02-19"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/231B8E05-FC4E-4C05-B314000EB03CE68A.html"
+---
+
+# TG Obergericht RBOG 1996 Nr. 16
+
+## Regeste
+
+aa) Die Patientenrechtsverordnung führt entgegen der Auffassung der Rekursgegnerin nicht zur Nichtigkeit der Kostenverfügung des Spitals. Gemäss der Schlussrechnung für die Behandlung der Rekursgegnerin stellen etwa die "Pflegekosten privat" kein privatrechtliches Entgelt für die Tätigkeit der Chefärzte dar, sondern gelten die Benützung des Spitals ab.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 19.02.1996 RBOG 1996 Nr. 16 (BR 96 1)
+Thurgovie Obergericht Rechenschaftsbericht 19.02.1996 RBOG 1996 Nr. 16 (BR 96 1)
+Turgovia Obergericht Rechenschaftsbericht 19.02.1996 RBOG 1996 Nr. 16 (BR 96 1)
+
+aa) Die Patientenrechtsverordnung führt entgegen der Auffassung der Rekursgegnerin nicht zur Nichtigkeit der Kostenverfügung des Spitals. Gemäss der Schlussrechnung für die Behandlung der Rekursgegnerin stellen etwa die "Pflegekosten privat" kein privatrechtliches Entgelt für die Tätigkeit der Chefärzte dar, sondern gelten die Benützung des Spitals ab.
+
+RBOG 1996 Nr. 16
+RBOG 1996 Nr. 16
+Rechnung für Spitalkosten und private Arzthonorare als Rechtsöffnungstitel
+(Art. 80 f.
+SchKG)
+1.    Die Vorinstanz wies das
+Rechtsöffnungsgesuch eines ausserkantonalen staatlichen
+Krankenhauses ab, weil jegliche Forderungen aus privater
+Tätigkeit von Ärzten an öffentlich-rechtlichen
+Krankenhäusern dem Privatrecht unterstünden; das
+Spital sei daher nicht befugt gewesen, eine Verfügung
+über die in Betreibung gesetzten Spitalkosten zu erlassen.
+Der betreffende Kanton erhob Rekurs.
+2.    Der Rekurrent legt seine Verfügung
+bezüglich der Spitalrechnung und eine
+Rechtskraftbescheinigung ins Recht. Auch seitens der
+Rekursgegnerin (Patientin) ist unbestritten, dass
+grundsätzlich die notwendigen Voraussetzungen für die
+Erteilung der definitiven Rechtsöffnung gemäss Art.
+80 f. SchKG erfüllt sind. Sie erhebt denn auch weder die
+Einrede der Tilgung noch der Stundung oder Verjährung. Sie
+macht hingegen geltend, das Spital sei überhaupt nicht
+berechtigt gewesen, bezüglich der ausstehenden Kosten eine
+auf öffentlichem Recht beruhende Verfügung zu
+erlassen. Weil die vom Rekurrenten geltend gemachte Forderung
+auf Privatrecht beruhe, sei die Verfügung des Spitals
+nichtig.
+a)    Verwaltungsakte sind grundsätzlich
+nur dann nichtig, wenn drei Voraussetzungen kumulativ
+erfüllt sind: Der Mangel muss schwerwiegend und
+offenkundig oder doch leicht erkennbar sein; zudem dürfen
+weder die Rechtssicherheit noch Interessen des auf die
+Gültigkeit der Verfügung bauenden Privaten in
+untragbarer Weise beeinträchtigt werden (BGE 117 Ia 220).
+Zur Nichtigkeit einer Verfügung können sowohl
+Verfahrensfehler als auch inhaltliche Fehler führen.
+Letztere bewirken indessen nur selten und in extremen
+Ausnahmefällen die Nichtigkeit der Verfügung (z.B.
+bei Verletzung unverzichtbarer oder unverjährbarer
+Grundrechte; BGE 104 Ia 177; Rhinow/Krähenmann,
+Schweizerische Verwaltungsrechtsprechung, Ergänzungsband,
+Nr. 35; Häfelin/Müller, Grundriss des Allgemeinen
+Verwaltungsrechts, 2.A., N 769 ff.).
+Nichtigkeit bedeutet absolute Unwirksamkeit einer
+Verfügung. Eine nichtige Verfügung entfaltet
+keinerlei Rechtswirkungen. Die Vollstreckungsbehörden
+dürfen nichtige Verfügungen nicht vollziehen
+(Häfelin/Müller, N 768). Die Verfügung wird
+definiert als individueller, an den Einzelnen gerichteter
+Hoheitsakt, durch den eine konkrete verwaltungsrechtliche
+Rechtsbeziehung rechtsgestaltend oder feststellend in
+verbindlicher und erzwingbarer Weise geregelt wird. Geregelt
+werden konkrete und individualisierte oder mindestens eindeutig
+und zweifelsfrei bestimmbare Rechte und Pflichten. Die
+Verfügung muss auf die Begründung, Änderung oder
+Aufhebung eines Rechtsverhältnisses gerichtet sein. Die
+Verfügung ist eine hoheitliche Anordnung; dadurch
+unterscheidet sie sich vom privatrechtlichen Handeln der
+Verwaltungsbehörden (Rhinow/ Krähenmann, Nr. 35 S.
+102; Häfelin/Müller, N 385 ff.). Untersteht ein
+Rechtsverhältnis dem Privatrecht, können die Parteien
+in dieser Hinsicht keine Verfügungen im
+öffentlich-rechtlichen Sinn erlassen.
+b)    Der Spital- oder der Spitalaufnahmevertrag
+ist ein im Obligationenrecht nicht geregelter Vertragstypus und
+lässt verschiedene Varianten zu. Tritt dem Patienten
+gegenüber ausschliesslich das Spital als Vertragspartner
+auf, handelt es sich um einen einheitlichen oder totalen
+Spitalaufnahme- bzw. Krankenhausaufnahmevertrag; das Spital
+verpflichtet sich gegenüber dem Patienten nicht nur zur
+Pflege und Fürsorge, sondern ist selbst in direkter Weise
+auch für die sachgemässe medizinische Betreuung
+zuständig. Im medizinischen Auftragsverhältnis
+hingegen steht dem Patienten in der Regel der Arzt als
+Vertragspartner gegenüber. Wird der Vertrag zwischen
+Patient und privatem Krankenhaus abgeschlossen, so ist dieses
+vertraglich auch für die medizinische Betreuung
+verantwortlich. Im Rahmen eines Spitalaufnahmevertrags ist
+insofern eine Abspaltung möglich, als Spital und Arzt
+selbständige, abgrenzbare Leistungsfunktionen
+erfüllen; alsdann wird von einem gespaltenen Spitalvertrag
+gesprochen, bei welchem dem Patienten zwei Vertragspartner
+gegenüberstehen. Auch bei Verträgen mit
+öffentlichen Spitälern, welche weitgehend von
+öffentlich-rechtlichen Normen beherrscht werden, kann
+zwischen einheitlichen und aufgespaltenen
+Vertragsverhältnissen unterschieden werden. Gespaltene
+Verträge sind allerdings selten anzutreffen. Jedoch ist es
+möglich, dass auch der in einem öffentlichen Spital
+untergebrachte Patient beispielsweise mit seinem Chefarzt einen
+privatrechtlichen Vertrag abschliesst. Diesfalls setzt die
+privatärztliche Tätigkeit ein selbständiges
+Rechtsverhältnis des behandelnden Arztes zum Patienten
+voraus (Honsell [Hrsg.], Handbuch des Arztrechts, Zürich
+1994, S. 48, 51).
+c)    Die Rekursgegnerin vertritt die
+Auffassung, bei dem in Betreibung gesetzten Restbetrag handle
+es sich um eine Honorarforderung des Arztes aufgrund
+privatrechtlicher Tätigkeit und nicht um Leistungen des
+Spitals. Soweit die Ärzte öffentlich-rechtlicher
+Krankenhäuser befugt seien, Patienten auf eigene Rechnung
+zu behandeln, gelte nach der im betreffenden Kanton
+massgebenden Patientenrechtsverordnung für die Forderungen
+aus ihren persönlichen Bemühungen Privatrecht.
+aa)    Die Patientenrechtsverordnung führt
+entgegen der Auffassung der Rekursgegnerin nicht zur
+Nichtigkeit der Kostenverfügung des Spitals. Die
+entsprechenden Bestimmungen nehmen offensichtlich auf jene
+Vorschrift Bezug, wonach der Regierungsrat den Chefärzten
+und weiteren Ärzten mit leitenden Funktionen bewilligen
+kann, Patienten auf eigene Rechnung stationär oder
+ambulant zu behandeln oder mit anderen Ärzten
+konsiliarisch zu betreuen. Die Bewilligung gilt nur für
+persönliche Verrichtungen des Bewilligungsinhabers. Die
+Rechnungsstellung hat über die Verwaltung zu erfolgen.
+Dies führt dazu, dass die gesamte ärztliche
+Tätigkeit vollumfänglich dem öffentlichen Recht
+untersteht. Gleichzeitig ist damit auch die Behauptung der
+Rekursgegnerin widerlegt, dem Spital fehle die
+Aktivlegitimation. Die umfassende Rechnungsstellung über
+die Verwaltung ermöglicht es zudem, die von den
+Ärzten geschuldeten Abgaben für ihre private
+Tätigkeit zu erheben. Der Grund für diese Abgabe
+liegt darin, dass die Ärzte für ihre privaten
+Tätigkeiten die gesamte Infrastruktur des Spitals
+beanspruchen.
+Gemäss der Schlussrechnung für die Behandlung der
+Rekursgegnerin stellen etwa die "Pflegekosten privat" kein
+privatrechtliches Entgelt für die Tätigkeit der
+Chefärzte dar, sondern gelten die Benützung des
+Spitals ab. Gleich verhält es sich bezüglich weiterer
+Positionen (Operationssaalbenützung,
+Anästhesieaufwand, Röntgendiagnostik,
+Laboruntersuchung und Pathologie-Labor). Auch die
+Medikamentenpauschale beruht auf dem kantonalen Tarif. Als
+Abgeltung für die Behandlung auf eigene Rechnung
+verbleiben somit lediglich die Honorare für die
+Chefärzte. Ein Vergleich zwischen den einzelnen
+Leistungspositionen zeigt, dass die Leistungen des Spitals zwar
+in öffentlich-rechtliche und privatrechtliche aufgeteilt
+werden können, wobei die Leistungen des Spitals rund Fr.
+12'700.-- und diejenigen der Ärzte Fr. 10'790.-- ausmachen
+(54% zu 46%). Diese Aufschlüsselung beweist aber, dass das
+Depot von Fr. 15'000.-- entgegen der Auffassung der
+Rekursgegnerin nicht nur die öffentlich-rechtlichen
+Leistungen des Spitals abdeckt. Bereits diese Tatsache belegt,
+dass die Kostenverfügung nicht an einem offenkundigen und
+leicht erkennbaren Mangel leidet.
+bb)    Überdies legte die Rekursgegnerin
+das Ausmass der angeblich in der privatrechtlichen Beziehung
+zwischen Arzt und Patient erbrachten Tätigkeit nicht dar.
+So bleibt unklar, ob die Honorare der Chefärzte ebenfalls
+auf persönliche Verrichtungen des Bewilligungsinhabers
+beruhen. Zu Recht weist der Rekurrent auf BGE 111 II 155 hin,
+wonach die bei der modernen Medizin erforderliche weitgehende
+Arbeitsteilung unter Umständen die Beschränkung auf
+"persönliche Verrichtungen des Chefarztes" als illusorisch
+erscheinen lasse. Das Bundesgericht kam daher zu einer
+Anwendung des öffentlich-rechtlichen Haftungsgesetzes,
+obwohl zwischen dem Chefarzt und dem Privatpatienten eine
+privatrechtliche Beziehung bestand (vgl. Gross, Schweizerisches
+Staatshaftungsrecht, Bern 1995, S. 81 ff., 107 ff.). Dabei
+wurde nicht geprüft, wie weit im übrigen die
+Behandlung der Privatpatienten nach der kantonalen Ordnung als
+amtliche (z.B. BGE 102 II 50) oder als private (z.B. BGE 82 II
+325) ärztliche Tätigkeit einzustufen war (vgl. aber
+AGVE 1986 Nr. 5).
+Gerade der Gedanke des Patientenschutzes spricht im
+vorliegenden Fall für eine umfassende Anwendung des
+öffentlichen Rechts bezüglich der Abgeltung der
+Leistungen bei einer Kombination von Spitalkosten und privaten
+Honoraren. Das den Verwaltungsprozess beherrschende
+Offizialprinzip zwingt die Behörden von Amtes wegen, eine
+vom Patienten beanstandete Kostenverfügung zu untersuchen.
+Bei Anwendung des Privatrechts hingegen müsste ein
+Zivilprozess mit den entsprechenden Risiken (insbesondere
+finanziellen Konsequenzen) geführt werden. Zudem ist nicht
+auszuschliessen, dass für eine allfällige
+Kostenreduktion wegen der von der Patientin behaupteten
+Mängel die Verantwortlichkeit der behandelnden Ärzte
+zur Diskussion stünde. Daher werden auch die Interessen
+der Privaten nicht in untragbarer Weise beeinträchtigt,
+was ebenfalls gegen die Nichtigkeit der Kostenverfügung
+spricht.
+cc)    Die Kostenverfügung des Spitals ist
+zusammenfassend nicht nichtig, sondern, da die übrigen
+Voraussetzungen unbestritten erfüllt sind, vollstreckbar.
+Demnach ist definitive Rechtsöffnung zu erteilen.
+Rekurskommission, 19. Februar 1996, BR 96
+1
