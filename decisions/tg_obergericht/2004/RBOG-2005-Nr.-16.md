@@ -1,0 +1,34 @@
+---
+decision_id: "tg_obergericht_RBOG_2005_Nr._16"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2005 Nr. 16"
+docket_2: "ZBO.2004.9"
+decided: "2004-12-07"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/00090538-2422-14B6-A24F0261A14ED036.html"
+cites_law: ["switzerland/bund/acts/220/art-337c.md"]
+---
+
+# TG Obergericht RBOG 2005 Nr. 16
+
+## Regeste
+
+3 OR sehe bei der Entschädigung eine Maximalhöhe von sechs Monatslöhnen vor. Insofern entspricht bei tieferen Monatslöhnen tendenziell der zuzusprechende Betrag einer höheren Anzahl Monatslöhne als bei hohen Einkommen; ansonsten hätte dies für den Arbeitgeber bei tieferen Lohnklassen (wie hier bei Lehrverhältnissen) finanziell kaum spürbare Folgen. 1'521.-- und kam mit der Zusprache von fünf Monatslöhnen auf eine Entschädigung von Fr.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 07.12.2004 RBOG 2005 Nr. 16 (ZBO.2004.9)
+Thurgovie Obergericht Rechenschaftsbericht 07.12.2004 RBOG 2005 Nr. 16 (ZBO.2004.9)
+Turgovia Obergericht Rechenschaftsbericht 07.12.2004 RBOG 2005 Nr. 16 (ZBO.2004.9)
+
+3 OR sehe bei der Entschädigung eine Maximalhöhe von sechs Monatslöhnen vor. Insofern entspricht bei tieferen Monatslöhnen tendenziell der zuzusprechende Betrag einer höheren Anzahl Monatslöhne als bei hohen Einkommen; ansonsten hätte dies für den Arbeitgeber bei tieferen Lohnklassen (wie hier bei Lehrverhältnissen) finanziell kaum spürbare Folgen. 1'521.-- und kam mit der Zusprache von fünf Monatslöhnen auf eine Entschädigung von Fr.
+
+RBOG 2005 Nr. 16
+RBOG 2005 Nr. 16
+Für die Bestimmung der Strafzahlung wegen ungerechtfertigter fristloser Entlassung ist nicht die Anzahl Monatslöhne, sondern die Höhe der Entschädigung massgebend
+(Art. 337c Abs. 3 OR)
+1.    a)    Als vermögensrechtliche Folge der unberechtigten fristlosen Entlassung sprach die Vorinstanz der Berufungsbeklagten eine Entschädigung im Sinn von Art. 337c Abs. 3 OR im Umfang von fünf Monatslöhnen zu.
+b)    Dem hält die Berufungsklägerin entgegen, Art. 337c Abs. 3 OR sehe bei der Entschädigung eine Maximalhöhe von sechs Monatslöhnen vor. Zugesprochen worden seien der Berufungsbeklagten fünf Monatslöhne, was der gängigen Lehre und Praxis widerspreche und im konkreten Fall nicht gerechtfertigt sei.
+2.    Entgegen der Auffassung der Berufungsklägerin widersprechen die von der Vorinstanz als Entschädigung im Sinn von Art. 337c Abs. 3 OR zugesprochenen fünf Monatslöhne weder der gängigen Lehre noch der Rechtsprechung. Die Vorinstanz führte zutreffend aus, dass nur in Ausnahmefällen von einer Entschädigung abgesehen werden könne, hier jedoch kein derartiger Ausnahmefall vorliege. Das Obergericht geht mit der Vorinstanz einig, dass durch das Vorgehen der Berufungsklägerin, welche die Berufungsbeklagte während der Lehrzeit ungerechtfertigt fristlos entliess, die berufliche Zukunft der Berufungsbeklagten erheblich erschwert wurde und damit nicht nur finanzielle Probleme, sondern auch Zukunftsängste ausgelöst wurden. Wie bereits die Vorinstanz zutreffend feststellte, war die Persönlichkeitsverletzung zudem massiv. In Bezug auf die Höhe der Entschädigung ist zu berücksichtigen, dass die Entschädigung nebst der Genugtuungsfunktion für die durch die ungerechtfertigte fristlose Entlassung regelmässig zugefügte Persönlichkeitsverletzung auch eine starke pönale Bedeutung hat; sie ist nach dem Willen des Gesetzgebers eine auf Gesetz beruhende präventiv wirkende zivilrechtliche Strafe und soll den Arbeitgeber von leichtfertigen fristlosen Entlassungen abhalten. Die Entschädigung ist also gesetzliche Folge eines Fehlverhaltens des Arbeitgebers. Auf den Lohn nimmt der Wortlaut von Art. 337c OR lediglich als Bemessungsgrösse zur Bestimmung der Maximalgrenze Bezug (vgl. von Kaenel, Die Entschädigung aus ungerechtfertigter fristloser Entlassung, Diss. Zürich 1996, S. 28 ff.). Demzufolge ist - vor allem bei tieferen Löhnen - nicht in erster Linie die Frage nach der Anzahl Monatslöhne, sondern vielmehr die Höhe der zu bezahlenden Entschädigung massgebend. Mit anderen Worten: Soll die Entschädigung ihrem pönalen Charakter gerecht werden, muss sie innerhalb des vorgegebenen Rahmens in Form eines angemessenen Betrags ausgesprochen werden und weniger in der Anzahl von Monatslöhnen. Insofern entspricht bei tieferen Monatslöhnen tendenziell der zuzusprechende Betrag einer höheren Anzahl Monatslöhne als bei hohen Einkommen; ansonsten hätte dies für den Arbeitgeber bei tieferen Lohnklassen (wie hier bei Lehrverhältnissen) finanziell kaum spürbare Folgen. Die Vorinstanz berechnete den für die Entschädigung massgebenden Lohn auf Fr. 1'521.-- und kam mit der Zusprache von fünf Monatslöhnen auf eine Entschädigung von Fr. 7'605.--. Dieser Betrag scheint unter Würdigung der gesamten Umstände als angemessen.
+Obergericht, 7. Dezember 2004, ZBO.2004.9
