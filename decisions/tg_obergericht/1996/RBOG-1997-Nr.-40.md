@@ -1,0 +1,38 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._40"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 40"
+docket_2: "ZB 96 54"
+decided: "1996-10-31"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/0B4A593F-14B9-461F-ACCB68725E95CC74.html"
+cites_law: ["switzerland/bund/acts/220/art-001.md", "switzerland/bund/acts/220/art-018.md"]
+---
+
+# TG Obergericht RBOG 1997 Nr. 40
+
+## Regeste
+
+1. Die Berufungsklägerin stellt sich auf den Standpunkt, die Vorinstanz habe sich unzulässigerweise über den Parteiwillen hinweggesetzt, indem sie die Frauenrente entgegen den übereinstimmenden Parteianträgen auf Art. Dem hält der Berufungsbeklagte entgegen, ein Anspruch der Berufungsklägerin auf eine Unterhaltsersatzrente (Art. dessen Rechtsvertreter zunächst in der Klageantwort, indem er in seinem Rechtsbegehren ebenfalls die Zusprache einer Unterhaltsersatzrente an die Berufungsklägerin ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 31.10.1996 RBOG 1997 Nr. 40 (ZB 96 54)
+Thurgovie Obergericht Rechenschaftsbericht 31.10.1996 RBOG 1997 Nr. 40 (ZB 96 54)
+Turgovia Obergericht Rechenschaftsbericht 31.10.1996 RBOG 1997 Nr. 40 (ZB 96 54)
+
+1. Die Berufungsklägerin stellt sich auf den Standpunkt, die Vorinstanz habe sich unzulässigerweise über den Parteiwillen hinweggesetzt, indem sie die Frauenrente entgegen den übereinstimmenden Parteianträgen auf Art. Dem hält der Berufungsbeklagte entgegen, ein Anspruch der Berufungsklägerin auf eine Unterhaltsersatzrente (Art. dessen Rechtsvertreter zunächst in der Klageantwort, indem er in seinem Rechtsbegehren ebenfalls die Zusprache einer Unterhaltsersatzrente an die Berufungsklägerin ...
+
+RBOG 1997 Nr. 40
+RBOG 1997 Nr. 40
+Bei Parteianträgen ist grundsätzlich vom juristisch-technischen Sinn auszugehen
+(§§ 95 ff. ZPO; Art. 151 ff. ZGB; Art. 18 OR)
+1.    Die Berufungsklägerin stellt sich auf den Standpunkt, die Vorinstanz habe sich unzulässigerweise über den Parteiwillen hinweggesetzt, indem sie die Frauenrente entgegen den übereinstimmenden Parteianträgen auf Art. 152 ZGB abgestützt habe. Dem hält der Berufungsbeklagte entgegen, ein Anspruch der Berufungsklägerin auf eine Unterhaltsersatzrente (Art. 151 ZGB) bestehe trotz eines entsprechenden Antrags seinerseits nicht.
+2.    a)    Die vermögensrechtlichen Folgen der Scheidung (Ansprüche aus Güterrecht sowie nach Art. 151 und 152 ZGB) unterstehen der vollständigen Verfügungsfreiheit der Ehegatten. Aus diesem Grund sind die Parteien, vorbehältlich der richterlichen Genehmigung von Vereinbarungen, befugt, eine von der gesetzlichen Regelung abweichende Ordnung zu vereinbaren und beispielsweise Leistungen vorzusehen, die nach Grundsatz oder Ausmass aufgrund der Art. 151 ff. ZGB nicht zugesprochen werden könnten (Bühler/Spühler, Berner Kommentar, Art. 151 ZGB N 90 und Art. 158 ZGB N 44; RBOG 1984 Nr. 19). Sind Parteierklärungen im Prozess unklar, unvollständig oder unbestimmt, müssen sie ausgelegt werden, wobei dieselben Regeln Anwendung finden, wie sie im Zivilrecht für die Auslegung von Willensäusserungen gelten. Dem Richter obliegt es somit, den objektiven Sinn einer Parteierklärung festzustellen, wobei nicht nur der Wortlaut, sondern alle Umstände zu berücksichtigen sind, unter denen die Erklärung abgegeben wurde. Dabei hat das Gericht gegebenenfalls von seinem Fragerecht Gebrauch zu machen (Guldener, Schweizerisches Zivilprozessrecht, 3.A., S. 262; Studer, Willensmängel bei Parteihandlungen im Zivilprozessrecht, Diss. Zürich 1976, S. 27 f.; Eichenberger, Zivilrechtspflege des Kantons Aargau, Aarau 1987, § 285 N 1; RBOG 1988 Nr. 26).
+b)    Sind mithin zivilrechtliche Grundsätze anwendbar, bestimmt sich die Frage, ob ein übereinstimmender Parteiantrag vorliegt, nach dem Inhalt der beiden Willenserklärungen, im Streitfall nach den Regeln des Vertrauensprinzips. Danach sind Willenserklärungen so auszulegen, wie sie vom Empfänger in guten Treuen verstanden werden durften und mussten (BGE 118 II 365 f., 117 II 278 f., 115 II 268; Schönenberger/Jäggi, Zürcher Kommentar, Art. 1 OR N 181 ff.). Primäres Auslegungsmittel ist der Wortlaut der Äusserung. Werden juristische Fachausdrücke verwendet, ist grundsätzlich zu vermuten, dass der juristisch-technische Sinn gemeint war, dies namentlich dann, wenn die Parteien "geschäftsgewandte Personen sind, bei denen eine gewisse Vertrautheit mit der Terminologie des Gesetzes vorausgesetzt werden darf" (Kramer/ Schmidlin, Berner Kommentar, Art. 18 OR N 24; Jäggi/Gauch, Zürcher Kommentar, Art. 18 OR N 223, 350 und 405 f.; Wiegand, in: Kommentar zum schweizerischen Privatrecht, Obligationenrecht I, 2.A., Art. 18 N 22 f.; BGE 119 II 373).
+3.    a)    In der Klagebegründung vor Vorinstanz liess die Berufungsklägerin für sich Alimente gestützt auf Art. 151 ZGB geltend machen. Diese Anspruchsgrundlage anerkannte der Berufungsbeklagte bzw. dessen Rechtsvertreter zunächst in der Klageantwort, indem er in seinem Rechtsbegehren ebenfalls die Zusprache einer Unterhaltsersatzrente an die Berufungsklägerin beantragte, und schliesslich auch in der Duplik, als er an seinen Ausführungen gemäss Klageantwort unverändert festhielt und insbesondere die in der Replik vorgetragene Feststellung der Berufungsklägerin unwidersprochen liess, die Parteien gingen gegenseitig von einer Rente nach Art. 151 ZGB aus.
+b)    Der Vertreter des Berufungsbeklagten ist Rechtsanwalt. Als solcher hatte er sich im Interesse des Publikums und der Rechtspflege über vertiefte juristische Kenntnisse auszuweisen. Eine gewisse Vertrautheit mit der Terminologie des Gesetzes darf daher bei ihm nicht nur vorausgesetzt werden, sondern wird von ihm verlangt und erwartet. Rechtsanwalt X war bzw. musste bekannt sein, dass sich eine Entschädigungsrente gemäss Art. 151 ZGB nach Voraussetzung, Inhalt und Wirkung von einer Bedürftigkeitsrente im Sinn von Art. 152 ZGB ebenso unterscheidet wie hinsichtlich der Abänderungsmöglichkeit. Mit dem Antrag auf Ausrichtung einer Unterhaltsersatzrente (Art. 151 ZGB) an die Berufungsklägerin liegt eine klare und verbindliche Aussage des anwaltlich vertretenen Berufungsbeklagten zu dieser Frage vor; darauf ist er zu behaften, umso mehr, als auch im Rahmen des Berufungsverfahrens integral auf die vorinstanzlichen Rechtsbegehren verwiesen wird. Unter diesen Umständen lag hinsichtlich der Anspruchsgrundlage zur Rentenregelung ein übereinstimmender Parteiantrag vor, woran die Vorinstanz gebunden gewesen wäre (§§ 95 und 97 ZPO;
+RBOG 1994 Nr. 3
+). Insofern ist daher der Berufungsklägerin zuzustimmen; ihre scheidungsrechtlichen Ansprüche bemessen sich nach den Grundsätzen von Art. 151 ZGB (BGE 110 II 115; Hinderling/Steck, Das schweizerische Ehescheidungsrecht, 4.A., S. 359 Anm. 5a).
+Obergericht, 31. Oktober 1996, ZB 96 54
