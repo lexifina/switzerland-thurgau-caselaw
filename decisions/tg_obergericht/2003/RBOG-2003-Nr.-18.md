@@ -1,0 +1,34 @@
+---
+decision_id: "tg_obergericht_RBOG_2003_Nr._18"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2003 Nr. 18"
+docket_2: "BR.2003.66"
+decided: "2003-08-25"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/64785C23-AF8B-4E09-A4076136D8551512.html"
+cites_law: ["switzerland/bund/acts/281.1/art-082.md"]
+---
+
+# TG Obergericht RBOG 2003 Nr. 18
+
+## Regeste
+
+Es ist zu prüfen, ob der Rekurrent mit Bezug auf seine Forderung über eine Schuldanerkennung im Sinn von Art. 82 SchKG kann eine Schuldanerkennung aus mehreren Urkunden bestehen, wobei nur die eigentliche Anerkennungserklärung unterzeichnet worden sein muss. Im Gegensatz dazu ist eine in einer E-Mail enthaltene Schuldanerkennung nicht unterzeichnet (vgl.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 25.08.2003 RBOG 2003 Nr. 18 (BR.2003.66)
+Thurgovie Obergericht Rechenschaftsbericht 25.08.2003 RBOG 2003 Nr. 18 (BR.2003.66)
+Turgovia Obergericht Rechenschaftsbericht 25.08.2003 RBOG 2003 Nr. 18 (BR.2003.66)
+
+Es ist zu prüfen, ob der Rekurrent mit Bezug auf seine Forderung über eine Schuldanerkennung im Sinn von Art. 82 SchKG kann eine Schuldanerkennung aus mehreren Urkunden bestehen, wobei nur die eigentliche Anerkennungserklärung unterzeichnet worden sein muss. Im Gegensatz dazu ist eine in einer E-Mail enthaltene Schuldanerkennung nicht unterzeichnet (vgl.
+
+RBOG 2003 Nr. 18
+RBOG 2003 Nr. 18
+Die mit Telefax übermittelte, unterzeichnete Schuldanerkennung ist ein Titel für die provisorische Rechtsöffnung
+(Art. 82 SchKG)
+Es ist zu prüfen, ob der Rekurrent mit Bezug auf seine Forderung über eine Schuldanerkennung im Sinn von Art. 82 Abs. 1 SchKG verfügt. Danach muss ein vom Schuldner unterzeichnetes Dokument vorliegen, in welchem dieser erklärt, einer bestimmten Person eine bestimmte Summe zu einem bestimmten Zeitpunkt zu schulden. Gemäss der Praxis zu Art. 82 SchKG kann eine Schuldanerkennung aus mehreren Urkunden bestehen, wobei nur die eigentliche Anerkennungserklärung unterzeichnet worden sein muss. Der geschuldete Betrag muss nicht notwendigerweise in dem unterschriebenen Dokument beziffert werden, sondern kann sich aus anderen Schriftstücken ergeben, auf die sich das unterschriebene Dokument bezieht. Zwischen der Anerkennungserklärung und den weiteren Aktenstücken muss ein offensichtlicher und unzweideutiger Zusammenhang bestehen (Staehelin, Basler Kommentar, Art. 82 SchKG N 15 und 25, je mit Hinweisen). Da auch im Rechtsöffnungsverfahren grundsätzlich § 189 ZPO gilt und somit Urkunden nicht zwingend im Original vorzulegen sind, genügt es, wenn der Gläubiger die Fotokopie einer schriftlichen Schuldanerkennung einreicht, sofern der Schuldner die Rechtsgültigkeit des Beweismittels oder seiner Unterschrift nicht bestreitet (
+RBOG 1996 Nr. 19
+, 1990 Nr. 33; Staehelin, Art. 82 SchKG N 17 mit Hinweisen. RBOG 1982 Nr. 14 und 1963 Nr. 14 sind überholt). Diese Grundsätze haben auch bei einem Telefax zu gelten. Auch in diesem Fall hat der Schuldner eine Schuldanerkennung im Original unterzeichnet und diese alsdann per Telefax dem Gläubiger übermittelt. Der vom Gläubiger auf seiner Station empfangene Ausdruck enthält die vom Schuldner geleistete Unterschrift, ist insofern also mit einer Fotokopie vergleichbar. Der Unterschied zwischen der fotokopierten und der per Telefax übermittelten Schuldanerkennung liegt lediglich darin, dass bei der in Kopie ins Recht gelegten Schuldanerkennung in der Regel der Gläubiger über das Original verfügt, während beim Telefax das unterzeichnete Original regelmässig beim Schuldner verbleibt (ausser er würde es zusätzlich noch postalisch dem Gläubiger zustellen). Im Gegensatz dazu ist eine in einer E-Mail enthaltene Schuldanerkennung nicht unterzeichnet (vgl. Staehelin, Art. 82 SchKG N 14). Solange der Schuldner nicht glaubhaft macht, dass die auf dem Telefax wiedergegebene Unterschrift gefälscht sei, ist daher auch eine in einem Fax enthaltene unterzeichnete Schuldanerkennung als Rechtsöffnungstitel im Sinn von Art. 82 Abs. 1 SchKG zu qualifizieren.
+Obergericht, 25. August 2003, BR.2003.66
