@@ -1,0 +1,120 @@
+---
+decision_id: "tg_obergericht_RBOG_1994_Nr._10"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1994 Nr. 10"
+docket_2: "BS 94 28"
+decided: "1994-08-08"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/74DC8356-97BC-4227-B3497E53567B88E3.html"
+cites_law: ["switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-197.md", "switzerland/bund/acts/281.1/art-221.md", "switzerland/bund/acts/281.1/art-224.md", "switzerland/bund/acts/281.1/art-225.md", "switzerland/bund/acts/281.1/art-242.md"]
+---
+
+# TG Obergericht RBOG 1994 Nr. 10
+
+## Regeste
+
+Unverzüglich nach Empfang des Konkurserkenntnisses hat die Konkursverwaltung mit der Aufnahme des Inventars über das zur Konkursmasse gehörende Vermögen zu beginnen und die zur Sicherung desselben erforderlichen Massnahmen zu treffen (Art. Drittansprachen an aufgezeichneten Vermögensstücken sind vorzumerken (Hänzi, Die Konkursverwaltung nach schweizerischem Recht, Diss. Danach verfügt die Konkursverwaltung über die Herausgabe von Sachen, welche von einem Dritten als Eigentum angesprochen ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 08.08.1994 RBOG 1994 Nr. 10 (BS 94 28)
+Thurgovie Obergericht Rechenschaftsbericht 08.08.1994 RBOG 1994 Nr. 10 (BS 94 28)
+Turgovia Obergericht Rechenschaftsbericht 08.08.1994 RBOG 1994 Nr. 10 (BS 94 28)
+
+Unverzüglich nach Empfang des Konkurserkenntnisses hat die Konkursverwaltung mit der Aufnahme des Inventars über das zur Konkursmasse gehörende Vermögen zu beginnen und die zur Sicherung desselben erforderlichen Massnahmen zu treffen (Art. Drittansprachen an aufgezeichneten Vermögensstücken sind vorzumerken (Hänzi, Die Konkursverwaltung nach schweizerischem Recht, Diss. Danach verfügt die Konkursverwaltung über die Herausgabe von Sachen, welche von einem Dritten als Eigentum angesprochen ...
+
+RBOG 1994 Nr. 10
+RBOG 1994 Nr. 10
+Konkursinventar; ausschliesslicher Gewahrsam der Konkursmasse als Voraussetzung der Aussonderung
+(Art. 197 Abs.
+1, 221 Abs. 1, 242 SchKG)
+1.
+Gemäss Art. 197 Abs. 1 SchKG bildet sämtliches
+Vermögen, das dem Gemeinschuldner zur Zeit der
+Konkurseröffnung angehört, unabhängig davon, wo
+es sich befindet, eine einzige Masse, die zur
+gemeinschaftlichen Befriedigung der Gläubiger dient.
+Ausgenommen sind die in Art. 92 SchKG bezeichneten
+unpfändbaren Gegenstände und Forderungen.
+Unverzüglich nach Empfang des Konkurserkenntnisses hat die
+Konkursverwaltung mit der Aufnahme des Inventars über das
+zur Konkursmasse gehörende Vermögen zu beginnen und
+die zur Sicherung desselben erforderlichen Massnahmen zu
+treffen (Art. 221 Abs. 1 SchKG). Die Inventaraufnahme ist eine
+rein verwaltungsinterne Massnahme ohne rechtliche Wirkung auf
+Bestand und Umfang der Konkursmasse. Die Aufnahme einer Sache
+oder eines Rechts präjudiziert daher die spätere
+Verfügung darüber keineswegs. Das Inventar ist jedoch
+Basis zur Feststellung der Aktivmasse und ist - wegen der darin
+aufzunehmenden Feststellungen über Vindikationen,
+Anfechtungsansprüche und Schätzungswert der Aktiven -
+von ausschlaggebender Bedeutung für die Stellung des
+einzelnen Gläubigers zum Kollokationsplan und die an der
+zweiten Gläubigerversammlung zu fassenden Beschlüsse.
+Es erstreckt sich vorerst auf die Vermögensstücke
+(Sachen und Rechte), die zur Konkursmasse gehören (Art.
+197 ff. SchKG), dann aber, weil eine genaue Ausscheidung im
+Zeitpunkt der Inventur nicht möglich ist, auch auf solche
+Vermögenswerte, deren Zugehörigkeit zur Masse
+mindestens zweifelhaft ist. Dies sind die Kompetenzstücke
+(Art. 224 SchKG) und Drittmannsgut im Sinn von Art. 225 SchKG.
+Drittansprachen an aufgezeichneten Vermögensstücken
+sind vorzumerken (Hänzi, Die Konkursverwaltung nach
+schweizerischem Recht, Diss. Zürich 1979, S. 151 f. mit
+Hinweisen). In das Inventar aufzunehmen sind also nebst den in
+Gewahrsam des Schuldners befindlichen
+Vermögensstücken auch jene, die nicht in seinem
+Gewahrsam sind, nach seinen Angaben oder der Auffassung des
+Konkursamts jedoch ihm gehören.
+2.    Ist
+strittig, ob ein Gegenstand nach Art. 197 SchKG zur
+Konkursmasse gehört, entscheiden darüber die
+Aufsichtsbehörden auf dem Beschwerdeweg, sofern es der
+Gemeinschuldner ist, welcher behauptet, ihm gehörende
+Vermögensobjekte seien zu Unrecht in die Konkursmasse
+gezogen worden (vgl. Hänzi, S. 154). Falls hingegen Dritte
+die als Massagut erklärten Objekte, Forderungen und Rechte
+nicht als zur Masse gehörend anerkennen wollen, stellt
+sich die Frage der Anwendbarkeit von Art. 242 SchKG. Danach
+verfügt die Konkursverwaltung über die Herausgabe von
+Sachen, welche von einem Dritten als Eigentum angesprochen
+werden (Abs. 1), oder setzt dem Dritten, falls sie dessen
+Anspruch für unbegründet hält, eine Frist von
+zehn Tagen zur Anhebung der Klage an, wobei dann der Anspruch
+als verwirkt gilt, wenn die Frist nicht eingehalten wird (Abs.
+2). Der von der Konkursverwaltung zu treffende Entscheid
+über die Herausgabe eines Gegenstands oder die
+Fristansetzung gegenüber dem Drittansprecher und damit die
+Anwendbarkeit von Art. 242 SchKG setzt begriffsnotwendig die
+Zugriffsmöglichkeit der Konkursmasse auf diesen Gegenstand
+voraus. So ist in Art. 45 der Verordnung über die
+Geschäftsführung der Konkursämter (KOV; SR
+281.32) im Zusammenhang mit Art. 242 SchKG von der
+"Verfügung über die Herausgabe von Sachen, welche
+sich in der Verfügungsgewalt der Masse befinden", die
+Rede. Diese Verfügungsgewalt liegt nur vor, wenn sich die
+strittigen Sachen im ausschliesslichen Gewahrsam der Masse
+befinden (Amonn, Grundriss des Schuldbetreibungs- und
+Konkursrechts, 5. A., § 45 N 28; BGE 93 III 102); insoweit
+handelt es sich um dasselbe Kriterium, welches auch für
+die Verteilung der Prozessrollen in einem Widerspruchsverfahren
+gemäss Art. 106-109 SchKG massgeblich ist (BGE 110 III
+90). Die ausschliessliche tatsächliche
+Verfügungsgewalt der Masse ist nicht gegeben, wenn der
+Drittansprecher Gewahrsam - und zwar entweder ausschliesslichen
+Gewahrsam oder auch nur Mitgewahrsam (vgl. Fritzsche/Walder,
+Schuldbetreibung und Konkurs nach schweizerischem Recht, Bd. I,
+§ 26 N 6; Amonn, § 24 N 34) - an den strittigen
+Gegenständen hat. In solchen Fällen greift nicht die
+Aussonderung nach Art. 242 SchKG Platz, sondern es bleibt der
+Konkursverwaltung überlassen, den Dritten zum ihr passend
+scheinenden Zeitpunkt auf dem Prozessweg auf Herausgabe des
+Gegenstands zu belangen (Fritzsche/Walder, Bd. II, § 48 N
+7 S. 279).
+Für die Frage, wer den Gewahrsam hat, ist in einem
+Konkursverfahren der Zeitpunkt der Konkurseröffnung, nicht
+etwa jener der Entscheidung über eine Drittansprache
+massgebend (BGE 110 III 92 f.).
+Rekurskommission, 8. August 1994, BS 94
+28
