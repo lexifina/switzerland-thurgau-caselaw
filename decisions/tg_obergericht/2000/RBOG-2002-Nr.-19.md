@@ -1,0 +1,45 @@
+---
+decision_id: "tg_obergericht_RBOG_2002_Nr._19"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2002 Nr. 19"
+decided: "2000-02-24"
+published: "2002-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2002-nr-19"
+cites_law: ["switzerland/bund/acts/281.1/art-173a.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# TG Obergericht RBOG 2002 Nr. 19
+
+## Regeste
+
+Bei einer Konkurseröffnung ohne vorgängige Betreibung führt der Rückzug des Konkursbegehrens ohne weiteres zur Aufhebung des Konkursdekrets; Praxisänderung
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2002 RBOG 2002 Nr. 19
+Thurgovie Obergericht Rechenschaftsbericht 2002 RBOG 2002 Nr. 19
+Turgovia Obergericht Rechenschaftsbericht 2002 RBOG 2002 Nr. 19
+
+RBOG 2002 Nr. 19
+Skip to main content
+Show navigation
+Bei einer Konkurseröffnung ohne vorgängige Betreibung führt der Rückzug des Konkursbegehrens ohne weiteres zur Aufhebung des Konkursdekrets; Praxisänderung
+Art. 174 SchKG
+,
+Art. 190 Abs. 1 Ziff. 2 SchKG
+1. Über die Rekurrentin wurde der Konkurs ohne vorgängige Betreibung gestützt auf Art. 190 Abs. 1 Ziff. 2 SchKG eröffnet. Dem Rekurs wurde die aufschiebende Wirkung erteilt. Während des Rekursverfahrens zog der Gläubiger das Konkursbegehren zurück.
+2. a) Mit Bezug auf das Verfahren legt Art. 194 Abs. 1 SchKG fest, die Art. 169, 170 und 173a - 176 SchKG seien auf die ohne vorgängige Betreibung erfolgten Konkurseröffnungen anwendbar; damit gilt ohne weiteres auch Art. 174 SchKG. Gemäss Art. 174 Abs. 2 SchKG kann das obere Gericht die Konkurseröffnung aufheben, wenn der Schuldner mit der Einlegung des Rechtsmittels seine Zahlungsfähigkeit glaubhaft macht und durch Urkunden beweist, dass inzwischen die Schuld, einschliesslich der Zinsen und Kosten, getilgt oder der geschuldete Betrag beim oberen Gericht zuhanden des Gläubigers hinterlegt ist oder der Gläubiger auf die Durchführung des Konkurses verzichtet. Zieht der Gläubiger, der eine Konkurseröffnung ohne vorgängige Betreibung erreicht hat, das Konkursbegehren vor der Rechtsmittelinstanz zurück, liegt regelmässig ein Verzicht auf Durchführung des Konkurses im Sinn von Art. 174 Ziff. 3 SchKG vor. Da Art. 194 Abs. 1 SchKG Art. 174 SchKG gesamthaft und ohne Einschränkung für anwendbar erklärt, würde dies für den vorliegenden Fall bedeuten, dass die Schuldnerin trotz des Rückzugs des Konkursbegehrens seitens des Gläubigers noch ihre Zahlungsfähigkeit glaubhaft machen müsste. Dieses Resultat deckt sich zwar an sich mit der Rechtsprechung der Rekurskommission des Obergerichts, wonach ein Rückzug des Konkursbegehrens im Rekursverfahren nach erfolgter Konkurseröffnung ohne vorgängige Betreibung nur unter der Voraussetzung möglich sei, dass der Schuldner nur momentan illiquid sei (RBOG 1993 Nr. 23), ist aber nicht sachgerecht.
+b) Schon in RBOG 1993 Nr. 23 wurde festgehalten, dass sich die prozessuale Lage bei einer Konkurseröffnung nach Betreibung und bei einer Konkurseröffnung ohne vorgängige Betreibung gänzlich voneinander unterscheidet. Die Rekurskommission des Obergerichts hielt dabei fest, dem formellen Konkursgrund des unbenützten Ablaufs der angesetzten Zahlungsfristen stünden bei der Konkurseröffnung ohne vorgängige Betreibung die materiellen Konkursgründe von Art. 190 SchKG gegenüber, so dass der behauptete Konkursgrund eigentlicher Streitgegenstand werde. Insofern komme dem erstinstanzlichen Konkurseröffnungsverfahren ohne vorgängige Betreibung zumindest zivilprozessähnlicher Charakter zu, so dass eine Disposition der Parteien über den Konkursgrund nicht auszuschliessen sei; die Stellung des Gläubigers im Verfahren der Konkurseröffnung ohne vorgängige Betreibung sei mithin freier als bei der ordentlichen Konkurseröffnung (RBOG 1993 Nr. 23 S. 125/126). Wird nun aber bei einem Rückzug des Konkursbegehrens im Rekursverfahren im Sinn des zitierten Entscheids als zusätzliche Voraussetzung gefordert, dass der Schuldner nicht illiquid ist bzw. aufgrund des geltenden Rechts verlangt, dass der Schuldner seine Zahlungsfähigkeit glaubhaft macht, wird das Resultat gerade dem zivilprozessähnlichen Charakter des Konkursverfahrens ohne vorgängige Betreibung nicht gerecht.
+c) Die Literatur befasst sich mit dieser Frage nur am Rand. Amonn/Gasser (Grundriss des Schuldbetreibungs- und Konkursrechts, 6.A., § 38 N 18) stellen lediglich fest, gemäss Art. 194 SchKG gälten die Bestimmungen über das Konkurseröffnungsverfahren in der ordentlichen Konkursbetreibung auch hinsichtlich der Weiterziehung. Im Basler Kommentar verweist Brunner ebenfalls nur darauf, dass Art. 174 SchKG auch im Verfahren nach Art. 190 ff. SchKG gelte (Art. 194 SchKG N 8), während Giroud - ohne auf die sich hier stellende Problematik einzugehen - betont, die Aufhebung der Konkurseröffnung infolge eines echten Novums setze voraus, dass der Schuldner seine Zahlungsfähigkeit glaubhaft mache (Art. 174 SchKG N 25). Bei Jaeger/Walder/Kull/Kottmann (Bundesgesetz über Schuldbetreibung und Konkurs) wird bei der Kommentierung von Art. 194 SchKG auf Art. 174 SchKG nicht weiter eingegangen, umgekehrt weiter vorn aber festgehalten, solange der Konkurs noch nicht rechtskräftig ausgesprochen sei, könne das Konkursbegehren seitens des Gläubigers zurückgezogen und jederzeit wieder erneuert werden (Jaeger/Walder/Kull/Kottmann, Art. 190 SchKG N 6). Diese Auffassung deckt sich mit derjenigen von Jaeger (Das Bundesgesetz betreffend Schuldbetreibung und Konkurs, 3.A., Art. 190 N 4), wonach ein Rückzug des Konkursbegehrens solange möglich sei, als der Konkurs noch nicht rechtskräftig ausgesprochen worden sei. Demgegenüber hält Baumann (Die Konkurseröffnung nach dem Bundesgesetz über Schuldbetreibung und Konkurs, Diss. Zürich 1979, S. 157 f.) fest, der Grundsatz, dass nach dem erstinstanzlichen Konkurserkenntnis entstandene konkurshindernde Tatsachen - einschliesslich des nachträglichen Rückzugs des Konkursbegehrens - im zweitinstanzlichen Verfahren unbeachtlich seien, habe auch für die Konkurseröffnung ohne vorgängige Betreibung seine Geltung.
+d) In diesem Zusammenhang ist nicht zu verkennen, dass vor der Revision des SchKG - letztlich aufgrund von Widersprüchen in der höchstrichterlichen Rechtsprechung - die Praxis in den Kantonen hinsichtlich der wichtigen Frage, ob in der Zeit zwischen dem erst- und zweitinstanzlichen Entscheid entstandene neue Tatsachen (neben der Tilgung oder Stundung insbesondere auch der Rückzug des Konkursbegehrens) von der Rechtsmittelinstanz noch berücksichtigt werden könnten, absolut nicht einheitlich war (Jaeger/Däniker, Schuldbetreibungs- und Konkurs-Praxis der Jahre 1911 - 1945, Bd. I, Zürich 1947, Art. 174 SchKG N 7 S. 308; vgl. RBOG 1973 Nr. 14 mit Hinweisen). Im Zusammenhang mit der Revision des SchKG per 1. Januar 1997 ging es denn auch bei der Änderung von Art. 174 vorab darum, die uneinheitliche Novenregelung in den Kantonen zu beenden (Spühler, Bundesgesetz über Schuldbetreibung und Konkurs, 2.A., S. 33) bzw. eine bundesrechtliche Novenregelung zu schaffen (vgl. Siegen/Buschor, Vom alten zum neuen SchKG, Zürich 1997, S. 113), und zwar offensichtlich vorab mit Blick auf die ordentliche Konkursbetreibung. Demgegenüber wurde Art. 194 Abs. 1 SchKG, der schon bisher auf Art. 174 ff. SchKG verwiesen hatte, nur insofern geändert, als neu auch Art. 173a SchKG anwendbar erklärt wurde (vgl. Siegen/Buschor, S. 122).
+e) Dem besonderen zivilprozessähnlichen Charakter des Konkurseröffnungsverfahrens ohne vorgängige Betreibung kann man nur gerecht werden, wenn entsprechend der Auffassung von Jaeger und der ihm folgenden Autoren bis zur Rechtskraft des Konkurserkenntnisses - nach thurgauischem Recht demgemäss bis zur Eröffnung des zweitinstanzlichen Konkursentscheids (§ 112 Abs. 1 ZPO) - ohne weitere Voraussetzungen ein Rückzug des Konkursbegehrens seitens des Gläubigers zugelassen wird; dies gilt um so mehr, als angesichts der Entstehungsgeschichte der SchKG-Revision und trotz des heutigen Wortlauts von Art. 194 bzw. 174 SchKG kaum angenommen werden kann, der Gesetzgeber habe diese Frage tatsächlich anders regeln wollen.
+f) Unter diesen Umständen wird aufgrund des Rückzugs des Konkursbegehrens seitens des Rekursgegners das Rekursverfahren ohne weiteres gegenstandslos, und das ihm zugrunde liegende Konkursdekret ist aufzuheben.
+Präsident des Obergerichts, 24. Februar 2000, BR.1999.141
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
