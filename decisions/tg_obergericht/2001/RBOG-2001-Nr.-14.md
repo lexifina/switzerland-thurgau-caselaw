@@ -1,0 +1,451 @@
+---
+decision_id: "tg_obergericht_RBOG_2001_Nr._14"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2001 Nr. 14"
+decided: "2001-07-05"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/7889D40A-82FF-4DC7-B349242346DA7069.html"
+cites_law: ["switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/220/art-951.md", "switzerland/bund/acts/220/art-956.md"]
+---
+
+# TG Obergericht RBOG 2001 Nr. 14
+
+## Regeste
+
+Da das Publikum Sachbezeichnungen in erster Linie als blosse Hinweise auf Art und Tätigkeit des Unternehmens auffasst und ihnen daher für dessen Kennzeichnung nur geringe Bedeutung beimisst, pflegt es den übrigen Firmenbestandteilen erhöhte Aufmerksamkeit zu schenken. Bereits ein verhältnismässig kennzeichnungsschwacher Zusatz kann deshalb ausreichen, um genügend Abstand zu einer älteren Firma zu schaffen, welche gleiche Sachbezeichnungen wie die jüngere aufweist (Kramer, "Starke" und "...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 05.07.2001 RBOG 2001 Nr. 14
+Thurgovie Obergericht Rechenschaftsbericht 05.07.2001 RBOG 2001 Nr. 14
+Turgovia Obergericht Rechenschaftsbericht 05.07.2001 RBOG 2001 Nr. 14
+
+Da das Publikum Sachbezeichnungen in erster Linie als blosse Hinweise auf Art und Tätigkeit des Unternehmens auffasst und ihnen daher für dessen Kennzeichnung nur geringe Bedeutung beimisst, pflegt es den übrigen Firmenbestandteilen erhöhte Aufmerksamkeit zu schenken. Bereits ein verhältnismässig kennzeichnungsschwacher Zusatz kann deshalb ausreichen, um genügend Abstand zu einer älteren Firma zu schaffen, welche gleiche Sachbezeichnungen wie die jüngere aufweist (Kramer, "Starke" und "...
+
+RBOG 2001 Nr. 14
+RBOG 2001 Nr. 14
+Anforderungen an die Unterscheidbarkeit der Firmen. Verwirkung von Ansprüchen aus der Verletzung von Firmenrechten
+(Art. 951 Abs.
+2, 956 OR; Art. 2 Abs. 2 ZGB)
+1.    Die
+"Genius AG" klagt gegen die "Genius Media AG" wegen Verletzung
+von Firmenrechten.
+2.
+Gemäss Art. 951 Abs. 2 OR müssen sich die Firmen der
+Aktiengesellschaften und Genossenschaften sowie die bei der
+Gesellschaft mit beschränkter Haftung ohne Personennamen
+gebildeten Firmen von jeder in der Schweiz bereits
+eingetragenen Firma deutlich unterscheiden.
+a)    Da die in Art. 951 Abs. 2 OR
+erwähnten Gesellschaften ihre Firma frei wählen
+können, stellt die Rechtsprechung an deren
+Unterscheidungskraft im Allgemeinen strenge Anforderungen. Ob
+zwei Firmen sich hinreichend deutlich unterscheiden, bzw. ob
+zwei konkurrierende Firmen verwechslungsfähig sind, ist
+aufgrund des Gesamteindrucks zu beurteilen, den sie beim
+Publikum hinterlassen. Die Firmen müssen nicht nur bei
+gleichzeitigem, aufmerksamem Vergleich unterscheidbar sein,
+sondern auch in der Erinnerung auseinandergehalten werden
+können. Im Gedächtnis bleiben namentlich
+Firmenbestandteile haften, die durch ihren Klang oder ihren
+Sinn hervorstechen; solchen Bestandteilen kommt daher für
+die Beurteilung des Gesamteindrucks einer Firma erhöhte
+Bedeutung zu (BGE 122 III 370, 118 II 322). Nach der
+Rechtsprechung ist die Unterscheidbarkeit je nachdem, ob eine
+Firma aus Personen-, Sach- oder Phantasiebezeichnungen gebildet
+ist, differenziert zu beurteilen. Besonders strenge
+Massstäbe sind bei reinen Phantasiebezeichnungen
+anzulegen, die in der Regel stark prägende Kraft besitzen
+und aufgrund ihrer mehr oder minder bestehenden
+Originalität besonders leicht im Gedächtnis haften
+bleiben. Umgekehrt verhält es sich bei Firmen, die
+gemeinfreie Sachbezeichnungen als wesentliche Bestandteile
+enthalten. Grundsätzlich stehen zwar auch solche Firmen
+unter dem Schutz des Ausschliesslichkeitsanspruchs gemäss
+Art. 951 Abs. 2 und Art. 956 OR. Wer dieselben
+Sachbezeichnungen ebenfalls als Firmenbestandteile verwendet,
+hat deshalb für eine hinreichend deutliche Abhebung von
+der älteren Firma zu sorgen, indem er sie mit
+individualisierenden zusätzlichen Elementen ergänzt.
+Die Anforderungen an die Kennzeichnungskraft solcher
+Zusätze dürfen aber nicht überspannt werden (BGE
+122 III 370 f.). Das Gleiche gilt für Firmenbestandteile,
+die sich aus Sach- und Gattungsbegriffen zusammensetzen und
+Gedankenassoziationen zu Art und Tätigkeit eines
+Unternehmens wecken (BGE 118 II 325). Da das Publikum
+Sachbezeichnungen in erster Linie als blosse Hinweise auf Art
+und Tätigkeit des Unternehmens auffasst und ihnen daher
+für dessen Kennzeichnung nur geringe Bedeutung beimisst,
+pflegt es den übrigen Firmenbestandteilen erhöhte
+Aufmerksamkeit zu schenken. Bereits ein
+verhältnismässig kennzeichnungsschwacher Zusatz kann
+deshalb ausreichen, um genügend Abstand zu einer
+älteren Firma zu schaffen, welche gleiche
+Sachbezeichnungen wie die jüngere aufweist (Kramer,
+"Starke" und "schwache" Firmenbestandteile, in: Festschrift
+Pedrazzini, Bern 1990, S. 605 ff.). Hinweisen auf den
+Tätigkeitsbereich des Unternehmens, Firmenbestandteilen
+des sprachlichen Gemeingebrauchs, Ortsbezeichnungen und
+Rechtsformhinweisen kann ebenfalls nur eine begrenzte oder gar
+keine Kennzeichnungswirkung zugestanden werden (Kramer, S. 606
+ff.). Tendenziell schwache Firmenbestandteile sind vor allem
+solche, die als "Sach-" bzw. "Gattungsbezeichnungen" auf den
+sachlichen Tätigkeitsbereich des Unternehmens verweisen
+(so etwa die Wortverbindungen "Eisen und Metall", das Element
+"Feindraht" in der Firma "Elektrisola Feindraht AG", das Wort
+"Holding", die Wortverbindung "Dental Products", das Wort
+"Uhren" in "Rado Uhren AG" sowie der Ausdruck "Leasing").
+Ebenso wenig prägend sind die umgangssprachlichen
+Firmenelemente, die nicht auf den Unternehmensgegenstand
+verweisen, wie etwa "Werke", der dem Lateinischen entnommene
+Wortbestandteil "sana" oder das allgemein geläufige
+englische Wort "easy" (Kramer, S. 612). Auch an sich farblose,
+landläufige Firmenbestandteile können freilich
+prägend sein, wenn sie in origineller Weise kombiniert
+werden. Als Beispiele können die Firmenbestandteile
+"Finortrust" bzw. "Fintrust" genannt werden. Ebenfalls
+Originalität sprach das Bundesgericht dem
+zusammengesetzten Firmenbestandteil "Aeroleasing" zu.
+Stärke können farblose, landläufige
+Ausdrücke des Gemeingebrauchs dann erhalten, wenn sie sich
+als Bezeichnungen eines alt eingeführten Unternehmens
+durchgesetzt und damit Verkehrsgeltung erlangt haben (z.B.
+"Commerzbank"). Analoges gilt für an sich farblose
+Buchstabenkombinationen bzw. Abkürzungen (Kramer, S. 612
+f.). Auch im Firmenrecht rechtfertigt es sich also, Zeichen,
+die insgesamt als kennzeichnungsschwach erscheinen, nicht den
+gleichen geschützten Ähnlichkeitsbereich
+zuzubilligen, wie er starken Zeichen zukommt. Wer sich mit
+seiner Firma dem Gemeingut annähert, nimmt eine geringe
+Unterscheidungskraft in Kauf, solange er seiner Firma nicht mit
+entsprechenden Werbeanstrengungen erhöhte Verkehrsgeltung
+verschafft hat. Starke Firmen sind das Ergebnis einer
+schöpferischen Leistung oder langer Aufbauarbeit; sie
+verdienen deshalb einen weiteren Schutz. Schwache Firmen sollen
+demgegenüber den verbleibenden Raum für die
+Firmenbildung nicht im gleichen Mass einengen dürfen (BGE
+122 III 371 mit Hinweisen). Schliesslich ist daran zu erinnern,
+dass seit dem Wegfall des Verbots (mit Wirkung ab 1. Januar
+1998), nur der Reklame dienende Bezeichnungen in eine Firma
+aufzunehmen (AS 1997 2232), das Täuschungsverbot verlangt,
+dass reklamehafte Bestandteile nicht einfach monopolisiert
+werden dürfen (sic! 1998 S. 415 ff.). Die
+Verwechslungsgefahr ist umso grösser und daher strenger zu
+prüfen, je stärker sich die Kundenkreise der
+betreffenden Unternehmen überschneiden; darüber
+hinaus ist vor allem auch auf die geografische Nähe der
+beiden Unternehmen abzustellen: Je enger die räumliche
+nahe Beziehung, desto grösser die Verwechslungsgefahr
+(Kramer, S. 604 mit Hinweisen). Gemäss bundesgerichtlicher
+Praxis kann das tatsächliche Auftreten von Verwechslungen
+einerseits zwar ein Indiz für eine Verwechslungsgefahr
+sein (vgl. BGE 118 II 322). Andererseits reichen aber einige
+festgestellte Verwechslungen für sich allein nicht aus, um
+die mangelnde Unterscheidbarkeit zweier Firmen zu belegen,
+zumal der Firmenschutz nicht jegliche entfernte
+Verwechslungsmöglichkeit ausschliessen will, sondern nur
+Verwechslungen verhindern soll, denen der durchschnittliche
+Firmenadressat mit einer gewissen Wahrscheinlichkeit unterliegt
+(BGE 122 III 370, 119 II 473).
+Das Bundesgericht erachtete im Fall "Excellent
+Personaldienstleistung AG/ Excellent Co. Mila GmbH" das Wort
+"excellent" aufgrund seines Ursprungs in der englischen oder
+französischen Sprache und auch aufgrund seiner in der
+deutschen Sprache als Fremdwort "hervorragend" geläufigen
+Bedeutung als Begriff, mit welchem lediglich auf die hohe
+Qualität der von den Parteien erbrachten Leistungen
+hingewiesen werden solle. Aus diesem Grund habe der
+Firmenbestandteil somit eindeutig reklamehaften Charakter. Auch
+die Qualifikation als Kern der Firma ändere nichts daran,
+dass einem derartigen werbenden Zusatz im Publikum nur eine
+geringe Kennzeichnungskraft zukomme (sic! 1998 S. 417). Das
+Bundesgericht qualifizierte das Wort "excellent" als zum
+sprachlichen Gemeingut gehörend und damit typischerweise
+als schwachen Firmenbestandteil. Andernfalls müssten auch
+Worte wie "exclusiv", "express" oder "exquisit" als starke
+Firmenbestandteile betrachtet werden. Der Übereinstimmung
+dieses schwachen Elements könne deshalb bezüglich der
+Verwechslungsgefahr keine massgebliche Bedeutung zukommen (sic!
+1998 S. 418). Neuestens geht die bundesgerichtliche
+Rechtsprechung jedoch von individualisierender Wirkung aus,
+wenn eine ursprünglich reine Sachbezeichnung in einer
+Fremdsprache nicht in der Bedeutung verwendet wird, die ihr in
+dieser Fremdsprache zukommt, sondern einen gewissen
+Phantasiegehalt aufweist (BGE vom 15. Februar 2000, in: sic!
+2000 S. 397 ff.). Konkret ging es um den Firmenbestandteil
+"Astra" in der Firma "Astra Pharmaceutica AG". Das
+Bundesgericht zog in Erwägung, der Bestandteil "Astra"
+gehöre nicht zur heutigen Umgangssprache, sondern habe
+seinen Ursprung im Latein, als Mehrzahl von "Astrum"
+(Sternbilder, Gestirn, Himmel). Indem die Parteien und Dritte
+das Wort "Astra" nicht in der Bedeutung verwendeten, die ihm in
+der lateinischen Sprache zukomme, erhalte es im schweizerischen
+Sprachraum die Funktion einer Phantasiebezeichnung. Insofern
+unterscheide sich "Astra" von "Sana", das im schweizerischen
+Sprachraum mit gleicher Bedeutung wie im Latein für
+"gesund" verwendet werde, und von "Aqua" für Wasser.
+Obwohl "Astra" Assoziationen an häufig verwendete
+Fremdwörter wie Astrologie oder Astronomie wecken
+möge, verbleibe ihm ein durch diese Assoziationen
+allenfalls verminderter Phantasiegehalt. Entsprechend kam das
+Bundesgericht zum Schluss, der Bestandteil "Astra" möge
+durch den Gebrauch Dritter und die damit verbundene Assoziation
+mit Drittunternehmen an Originalität und
+Kennzeichnungskraft einbüssen. Gegenüber dem
+schwachen Bestandteil "Pharmaceutica" komme ihm jedoch
+eindeutig Kennzeichnungsfunktion zu (sic! 2000 S. 398 f.).
+Ähnlich hatte das Bundesgericht 1996 im Fall
+"Integra/Sodelco-Integra" entschieden, als es festhielt, beim
+Firmenbestandteil "Integra" denke der Durchschnittskonsument
+eher an Wörter wie "integral" oder "integriert", nicht
+jedoch an das lateinische Adjektiv "integer". Jedenfalls sei
+"Integra" kein Wort der heutigen Umgangssprache, weshalb ihm in
+seiner Wirkung auf die Firmenadressaten durchaus ein gewisser
+Phantasiegehalt und eine gewisse Kennzeichnungskraft
+zuzusprechen sei (sic! 1997 S. 69 ff.).
+b)    Im vorliegenden Fall machte die Beklagte
+geltend, beim Begriff "Genius" handle es sich nicht um eine
+schutzfähige Phantasiebezeichnung, sondern um einen
+stehenden und häufig verwendeten Begriff des sprachlichen
+Gemeinguts. "Genius", ursprünglich die göttliche
+Verkörperung der im Manne wirksamen zeugenden Kraft, dann
+der Schutzgeist des Mannes, des Hauses und der Familie,
+schliesslich ein allgemeiner Schutzgeist, bezeichne die
+höchste schöpferische Geisteskraft oder einen
+Menschen mit hoher Schöpferkraft.
+aa)    Das Wort lateinischen Ursprungs bedeutet
+eigentlich "Erzeuger", sodann Schutzgeist, göttliche
+Verkörperung des Wesens eines Menschen, einer
+Gemeinschaft, eines Orts, schliesslich schöpferische Kraft
+eines Menschen, den schöpferisch begabten Menschen als
+solchen sowie Genie (Duden, Fremdwörterbuch, 5.A., S.
+278). Alle Begriffsvariationen gründen letztlich im
+indogermanischen Verbalstamm "Gen-" - gebären, erzeugen,
+hervorbringen (Duden, Herkunftswörterbuch, 2.A., S. 232).
+Demgegenüber hat der Begriff "Genius" in der englischen
+Sprache die Bedeutung des genialen Menschen, der
+Genialität bzw. der genialen Schöpferkraft, der
+Begabung des Geistes und der Seele (Langenscheidt,
+Handwörterbuch, Englisch-Deutsch, 5.A., S. 275).
+bb)    Einerseits verwendet die Klägerin
+somit das Fremdwort "Genius" nun zwar durchaus im Sinn der
+lateinischen ursprünglichen Bedeutung des "Gen", indem
+durch Verwendung dieser lateinischen Sachbezeichnung ein
+gewisser Reklamecharakter in die Firma tritt: Der
+Unternehmenszweck "Beratung und Schulung im Bereich Management
+und Informatik, Entwicklung von Kursen und Schulungsunterlagen,
+Realisation von Informatik- und Kommunikationslösungen"
+wird mit dem Firmennamen "Genius AG" kombiniert zu einer
+Reklame für das Unternehmen, dass eben dessen Produkte
+voller Schöpfungskraft und Geist, eben genial seien oder
+aber Genialität bewirken könnten. Insofern
+könnte also argumentiert werden, wie in den Fällen
+"Astra" und "Integra" komme dem Begriff "Genius" ein gewisser
+Phantasiegehalt und somit eine gewisse Kennzeichnungskraft zu.
+In Anbetracht der Tatsache, dass im heutigen Zeitpunkt nur noch
+ein verschwindend kleiner Teil der Bevölkerung der
+lateinischen Sprache mächtig ist und demzufolge fähig
+sein dürfte, die ursprüngliche Bedeutung dieses Worts
+zu erkennen, demgegenüber jedoch die englische Sprache dem
+Durchschnittsbürger eher geläufig ist, erachtet das
+Obergericht die englische Bedeutung des Begriffs "Genius" im
+Verhältnis zum ursprünglichen Sinn in der
+mittlerweilen "toten" Sprache Latein als vorrangig und deshalb
+im vorliegenden Fall als ausschlaggebend, vor allem auch, weil
+in der Informatikbranche und somit im Tätigkeitsbereich
+der Parteien Englisch als massgebende und führende
+Fachsprache gilt. Die Verwendung des Begriffs "Genius" ist
+somit also letztendlich nichts anderes als die Verwendung der
+englischen Bezeichnung für die Charaktereigenschaft
+"genial". Mit anderen Worten ist die Bezeichnung "Genius AG"
+ins Deutsche übersetzt vergleichbar mit "Geniale AG" bzw.
+die "Genius AG" ist schlicht und einfach die "Geniale AG". Die
+alleinige Originalität der Firmenwahl besteht damit
+lediglich in der Verwendung der englischen Version für die
+angebliche Genialität. Die Aussage "geniale AG" ist jedoch
+in der deutschen sowie in der englischen Sprache alles andere
+als ein origineller Phantasiename. Die Firma "Genius AG" kann
+somit zwar als mutiges Werbemittel qualifiziert werden, doch
+darf der Begriff nicht einer einzigen Unternehmung als
+schützenswerte Unternehmensbezeichnung zugestanden werden.
+Schliesslich muss anderen Unternehmungen ebenfalls die
+werbewirksame Möglichkeit offen stehen, zu behaupten, sie
+seien genial. Der vorliegende Fall ist somit absolut
+vergleichbar mit dem Bundesgerichtsentscheid im Fall "Excellent
+Personaldienstleistung AG/Excellent Co. Mila GmbH", in welchem
+das Bundesgericht entschied, das Fremdwort habe in der
+deutschen Sprache lediglich die geläufige Bedeutung
+"hervorragend", weshalb lediglich auf die hohe Qualität
+der von der Partei erbrachten Leistungen hingewiesen werden
+solle (sic! 1998 S. 417). Was für das Wort "excellent"
+gilt, muss konsequenterweise ebenfalls für das Wort
+"Genius" Geltung haben, hat letzteres doch ebenso wie das Wort
+"excellent" eindeutig nur reklamehaften Charakter ohne jegliche
+zusätzliche Kennzeichnungskraft. Da der Kurzform "AG"
+für Aktiengesellschaft lediglich die Funktion der
+Unternehmensbezeichnung zukommt und ihr deshalb unbestritten
+keine Kennzeichnungswirkung zugestanden wird, setzt sich die
+Firma der Klägerin somit ausschliesslich aus Bestandteilen
+mit schwacher Kennzeichnungskraft zusammen. Dass diesen
+allenfalls eine gesteigerte Verkehrsgeltung zugesprochen werden
+könnte, ist zu verneinen, wird allerdings von der
+Klägerin auch nicht geltend gemacht. Auch wenn bei beiden
+Firmen der übereinstimmende Bestandteil "Genius" an erster
+Stelle steht, genügt dies nicht, um damit diesem dem
+sprachlichen Gemeingut zugehörenden Bestandteil starken
+Charakter zu verleihen. Ansonsten würde dies dazu
+führen, dass gemeinfreie Bezeichnungen monopolisiert
+werden könnten, indem sie einfach an den Anfang der Firma
+gestellt werden. Dies muss entgegen der in der Literatur
+festgehaltenen Feststellung, dass den am Beginn einer Firma
+stehenden Wörtern bzw. Wortelementen im Allgemeinen
+besondere Prägekraft zukomme, gelten (Kramer, S. 611).
+Damit kommt das Obergericht unter Berücksichtigung der
+bundesgerichtlichen Rechtsprechung zum Schluss, dass der
+Begriff "Genius" ein Begriff des Allgemeinguts ist, somit
+jedermann zum Gebrauch offen stehen muss und deshalb nicht
+monopolisiert werden kann.
+c)    Da sich die klägerische Firma "Genius
+AG" derart nahe dem Gemeingut annähert, dass sie mit dem
+entsprechend geringen Schutzumfang keine erhöhte
+Verkehrsgeltung geniesst (BGE 122 III 369), stellt sich die
+Frage, ob der von der Beklagten angefügte Firmenzusatz
+"Media" genügend Abstand zur klägerischen Firma zu
+schaffen vermag.
+Gemäss der Auffassung des Obergerichts vermag weder der
+Bestandteil "Druck" noch "Media" die Firma der Beklagten
+über die Stufe des sprachlichen Gemeingebrauchs
+hinauszuheben. Dass der Zusatz "Druck" alles andere als eine
+Kombination in origineller Weise (Kramer, S. 612) darstellt,
+dürfte unbestritten sein. Es handelt sich dabei um eine
+reine Sachbezeichnung, welche sich über den
+Tätigkeitsbereich der Unternehmung äussert. Ebenfalls
+schwaches Zeichen ist der Firmenbestandteil "Media", welcher
+lediglich die generelle Bezeichnung für einen Betrieb im
+Bereich der Kommunikationsmittel bzw. Nachrichtenträger
+darstellt. Da die Verwechslungsfähigkeit von vornherein
+nur ganz schwach indiziert ist, wenn die spätere Firma
+lediglich Gemeinsamkeiten bzw. Affinitäten im Hinblick auf
+schwache, nicht prägende Firmenbestandteile der
+prioritären Firma enthält, und relativ
+geringfügige Abweichungen ausreichen, um die
+Verwechslungsgefahr zu vermeiden (Kramer, S. 605), genügt
+jedoch der Zusatz "Media" zur Unterscheidbarkeit im Sinn der
+bundesgerichtlichen Rechtsprechung durchaus. Mit andern Worten,
+nachdem sich beide Firmen der Parteien ausschliesslich aus
+Elementen des sprachlichen Gemeingebrauchs zusammensetzen,
+reicht ohnehin bereits ein verhältnismässig
+kennzeichnungsschwacher Zusatz aus, um genügend Abstand
+der einen zur anderen Firma zu schaffen (BGE 122 III 371). Auch
+wenn an die Unterscheidbarkeit der Firmen höhere
+Anforderungen zu stellen sind, wenn zwei Unternehmen ihren Sitz
+am gleichen Ort haben, miteinander im Wettbewerb stehen oder
+sich aus anderen Gründen an die gleichen Kreise wenden, da
+sich damit die Verwechslungsgefahr erhöht, ist im
+vorliegenden Fall die genügende Unterscheidbarkeit der
+Firmen der Parteien ohne weiteres zu bejahen.
+3.
+a)    Nach ständiger Rechtsprechung
+können Ansprüche aus der Verletzung insbesondere auch
+von Firmenrechten verwirken, wenn sie zu spät geltend
+gemacht werden. Rechtsgrundlage der Verwirkungseinrede ist das
+Verbot des offenbaren Missbrauchs eines Rechts durch den
+Firmeninhaber gemäss Art. 2 Abs. 2 ZGB (BGE 109 II 340).
+Grundsätzlich setzt die Verwirkung voraus, dass der
+Berechtigte die Verletzung seiner Rechte durch Mitgebrauch
+eines gleichen oder ähnlichen Kennzeichens während
+längerer Zeit widerspruchslos bewusst geduldet und der
+Verletzer inzwischen an seinem Zeichen einen eigenen wertvollen
+Besitzstand erworben hat. Sind sich beide Parteien der
+Verletzung bewusst und unternimmt der Verletzte dennoch nichts,
+liegt ein Fall widersprüchlichen Verhaltens vor, wenn er
+sich erst nach geraumer Zeit zu rechtlichen Schritten
+entschliesst. Verwirkung ist jedoch nicht leichthin anzunehmen.
+Obwohl der Zeitablauf ein wesentliches Indiz für die
+Bejahung einer Verwirkung darstellt, ist die Praxis mit der
+Angabe von Fristen zurückhaltend. Die Begleitumstände
+spielen eine entscheidende Rolle. Überlegungsfristen
+werden von der Lehre und Rechtsprechung insbesondere
+zugestanden, wenn schwierig zu beurteilen ist, ob zwei
+Kennzeichen sich im Verkehr tatsächlich vertragen. Auch
+bei offensichtlich verwechselbaren Firmen darf der Inhaber
+einer älteren Firma deshalb zunächst beobachten, wie
+sich das Nebeneinanderbestehen der Unternehmen entwickelt, und
+welchen Einfluss es auf den Markt hat, bevor er Klage erhebt.
+Liegen keine besonderen Rechtfertigungsgründe vor,
+dürfte eine Zeitspanne von acht oder mehr Jahren jedoch
+ausreichen, um die Verwirkung zu bejahen (Hilti,
+Schweizerisches Immaterialgüter- und Wettbewerbsrecht, Bd.
+3, Kennzeichenrecht, Basel und Frankfurt am Main, 1996, S. 313
+f.).
+b)    Selbst wenn die Auffassung des
+Obergerichts, es handle sich beim Firmenbestandteil "Genius"
+nicht um einen schützenswerten bzw. monopolisierbaren
+Begriff, nicht zutreffen sollte, müssten die
+klägerischen Begehren abgewiesen werden, da die
+Klägerin die ihr zustehenden Rechtsansprüche infolge
+zu später Geltendmachung verwirkte: Unbestritten hatte die
+Klägerin bereits seit 1992 ausreichende Kenntnis von der
+Existenz der Genius Druck AG, wobei der Begriff "Druck" als
+reine Sachbezeichnung in den Hintergrund trat, so dass
+jedenfalls seit Mitte 1992 die Klägerin als "Genius AG"
+von der Beklagten "Genius AG" (lediglich ergänzt mit der
+Sachbezeichnung "Druck") Belichtungsaufträge erhielt.
+Diese Situation änderte sich auch dadurch nicht, dass die
+Beklagte den schwachen Firmenbestandteil "Druck" im Jahr 1998
+durch den ebenso schwachen Bestandteil "Media"
+auswechselte.
+Im vorliegenden Fall dürfte also mit dem Zeitablauf von
+Mitte 1992 bis Sommer 2000 die notwendige Zeitdauer erstellt
+sein. Hinzu kommt, dass die Beklagte die Klägerin mit
+Geschäftsaufträgen versah, so dass diese vom
+Nebeneinander der Unternehmen profitieren konnte. Die
+Klägerin selber gibt zu, wegen "geringfügiger
+Überschneidung der Geschäftsfelder ... eine Reaktion
+nicht der Mühe wert" gefunden zu haben. Dieser Auffassung
+ist jedoch entgegen zu halten, dass 15 "Minikonflikte" in acht
+Jahren immerhin fast zwei Konflikten pro Jahr entsprachen und
+ökonomisch sehr wohl einen Grund für eine Reaktion
+dargestellt hätten.
+c)    Anderes würde allenfalls dann gelten,
+wenn die Beklagte, wie dies von Seiten der Klägerin
+behauptet wird, in der Zwischenzeit ihr Produktionsangebot
+ausgeweitet hätte. Die Klägerin argumentiert
+diesbezüglich, sie habe im Jahr 2000 erfahren, dass eine
+Ausdehnung des Tätigkeitsbereichs stattgefunden habe,
+indem sich die Beklagte plötzlich "zur Konkurrentin in
+praktisch allen eigenen Tätigkeitsbereichen entwickelt"
+habe. Eine Änderung des Tätigkeitsbereichs wird
+indessen von der Beklagten bestritten. Der Grund dafür,
+dass der Zweck der Gesellschaft anlässlich der
+Umfirmierung 1998 neu umschrieben worden sei, liege einzig in
+den neuen Bestimmungen des Aktienrechts, die eine konkretere
+Umschreibung des Tätigkeitsgebiets verlangt
+hätten.
+Ob auf Seiten der Beklagten effektiv eine Ausweitung des
+Tätigkeitsfelds stattfand oder nicht, ist aus den Akten
+nicht ersichtlich und müsste deshalb zuerst in einem
+Beweisverfahren festgestellt werden. Sollte sich dabei
+erweisen, dass eine Ausweitung des Tätigkeitsbereichs
+effektiv erfolgte und die Klägerin erst im Jahr 2000 davon
+Kenntnis erhielt, so wäre in analoger Anwendung der
+bundesgerichtlichen Rechtsprechung wohl davon auszugehen, dass
+eine Verwirkung des Klageanspruchs durch treuwidriges Verhalten
+verneint werden müsste (vgl. BGE 73 II 110). Allerdings
+ist davon auszugehen, dass ein Beweisverfahren höchstens
+zur Erkenntnis führen würde, dass die Beklagte ihre
+geschäftliche Tätigkeit nicht vom einen auf den
+anderen Tag, sondern vielmehr fliessend bzw. im Laufe der Zeit
+ausdehnte und erst nachträglich den Handelsregistereintrag
+an die neue Geschäftssituation anpasste. Da sich
+gemäss Auffassung des Obergerichts die Frage der
+Verwirkung im vorliegenden Fall jedoch insofern nicht stellt,
+als der Begriff "Genius" im Fortsetzungsbereich des
+sprachlichen Gemeingebrauchs liegt, deshalb nicht
+monopolisierbar ist und demzufolge der Zusatzbegriff "Druck"
+bzw. seit 1998 "Media" trotz Kennzeichnungsschwäche
+ausreicht, um eine genügende Unterscheidbarkeit der beiden
+Firmen herbeizuführen, wird auf die Durchführung
+eines Beweisverfahrens verzichtet.
+Obergericht, 5. Juli 2001, Z1.2001.2
