@@ -1,0 +1,129 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._19"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 19"
+docket_2: "BS 97 23"
+decided: "1997-07-28"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/D93C2A69-65F9-4C6E-B05A3A1E0AF68226.html"
+cites_law: ["switzerland/bund/acts/281.1/art-009.md", "switzerland/bund/acts/281.1/art-169.md", "switzerland/bund/acts/281.1/art-230.md", "switzerland/bund/acts/281.1/art-262.md", "switzerland/bund/acts/281.32/art-022.md"]
+---
+
+# TG Obergericht RBOG 1997 Nr. 19
+
+## Regeste
+
+Der Beschwerdeführer rügt, ihm hätten bei Einstellung des Konkursverfahrens mangels Aktiven keine Kosten auferlegt werden dürfen; diese seien vielmehr von jenem Gläubiger zu tragen, welcher die Konkurseröffnung verlangt habe. Zudem hätte das Konkursamt die vereinnahmten Geldbeträge der Depositenanstalt abliefern müssen. Im hier zu beurteilenden Fall verfügte indessen das Konkursamt auf dem Postcheck-Konto über genügend Mittel, welche es ohne weiteres - jedenfalls bis zum Ablauf der Frist für ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 28.07.1997 RBOG 1997 Nr. 19 (BS 97 23)
+Thurgovie Obergericht Rechenschaftsbericht 28.07.1997 RBOG 1997 Nr. 19 (BS 97 23)
+Turgovia Obergericht Rechenschaftsbericht 28.07.1997 RBOG 1997 Nr. 19 (BS 97 23)
+
+Der Beschwerdeführer rügt, ihm hätten bei Einstellung des Konkursverfahrens mangels Aktiven keine Kosten auferlegt werden dürfen; diese seien vielmehr von jenem Gläubiger zu tragen, welcher die Konkurseröffnung verlangt habe. Zudem hätte das Konkursamt die vereinnahmten Geldbeträge der Depositenanstalt abliefern müssen. Im hier zu beurteilenden Fall verfügte indessen das Konkursamt auf dem Postcheck-Konto über genügend Mittel, welche es ohne weiteres - jedenfalls bis zum Ablauf der Frist für ...
+
+RBOG 1997 Nr. 19
+RBOG 1997 Nr. 19
+Bei Einstellung des Konkursverfahrens mangels Aktiven sind die Verfahrenskosten vom Schuldner zu tragen. Das Konkursamt ist nicht in jedem Fall verpflichtet, Bargeld der Depositenanstalt abzuliefern
+(Art. 262, 9 SchKG; Art. 22
+Abs. 1 KOV)
+1.    Über den
+Beschwerdeführer wurde der Konkurs eröffnet. Nachdem
+das Konkursverfahren mangels Aktiven eingestellt und definitiv
+geschlossen worden war, stellte ihm das Konkursamt die Akten
+sowie eine Abrechnung über den Konkurs zu. Der
+Beschwerdeführer rügt, ihm hätten bei
+Einstellung des Konkursverfahrens mangels Aktiven keine Kosten
+auferlegt werden dürfen; diese seien vielmehr von jenem
+Gläubiger zu tragen, welcher die Konkurseröffnung
+verlangt habe. Zudem hätte das Konkursamt die
+vereinnahmten Geldbeträge der Depositenanstalt abliefern
+müssen.
+2.    a)
+Richtig ist der Hinweis des Beschwerdeführers auf Art. 169
+SchKG, wonach der Gläubiger, welcher das Konkursbegehren
+stellt, für die Kosten, die bis und mit der Einstellung
+des Konkurses mangels Aktiven oder bis zum Schuldenruf
+entstehen, haftet. Damit will aber nicht gesagt sein, dass der
+betreffende Gläubiger für jene Kosten endgültig
+aufzukommen hat; diese gehen vielmehr grundsätzlich zu
+Lasten des Schuldners bzw. der Konkursmasse (Art. 262 SchKG;
+BGE 80 III 83 ff., 52 III 108). Zwar fällt nach der
+Rechtsprechung des Bundesgerichts das Beschlagsrecht der
+Konkursgläubiger am Vermögen des Gemeinschuldners
+dahin, sobald das mangels Aktiven eingestellte Konkursverfahren
+definitiv geschlossen wird (Art. 230 Abs. 1 und 2 SchKG; BGE
+102 III 85); diesfalls fehlt es an einem Massevermögen,
+woraus die Verfahrenskosten bezogen werden könnten. Bis zu
+jenem Zeitpunkt ist aber das Konkursamt ohne weiteres
+berechtigt, anfallende Kosten aus dem Massevermögen zu
+tilgen, soweit hiefür liquide Mittel wie Bargeld oder
+andere rasch realisierbare Aktiven (Postcheck- und
+Bankguthaben, fällige Forderungen oder andere Werte) zur
+Verfügung stehen. Nur wenn solche Mittel fehlen und das
+Beschlagsrecht dahingefallen ist, hat der Gläubiger,
+welcher den Konkurs veranlasste, die entstandenen
+Verfahrenskosten selber zu tragen. In diesem Fall kann er sich
+indessen gleichwohl beim Schuldner schadlos halten, indem er
+von der Möglichkeit Gebrauch macht, ihn nach Einstellung
+des Konkursverfahrens während zwei Jahren auf
+Pfändung zu betreiben (Art. 230 Abs. 3 SchKG).
+Verfügt aber das Konkursamt über rasch verwertbare
+Vermögenswerte, sind bei Einstellung des Konkursverfahrens
+mangels Aktiven (Art. 230 Abs. 1 SchKG) die gesamten Kosten
+inkl. Gebühren aus jenen Mitteln zu bestreiten. Dieser
+Betrachtungsweise steht BGE 102 III 85 ff. nicht entgegen, ging
+es doch bei jenem Entscheid einzig um die Frage, ob nach
+Schluss des Konkursverfahrens (Art. 230 Abs. 2 SchKG) ein
+Kostenspruch, der das Massevermögen zur Bezahlung der
+Konkurskosten verpflichtet, gefällt werden darf. Jene
+Kostenverfügung wurde als nichtig qualifiziert, weil im
+Zeitpunkt ihres Erlasses kein Vermögenssubstrat
+(Konkursvermögen) mehr vorhanden war. Im hier zu
+beurteilenden Fall verfügte indessen das Konkursamt auf
+dem Postcheck-Konto über genügend Mittel, welche es
+ohne weiteres - jedenfalls bis zum Ablauf der Frist für
+ein allfälliges Begehren der Gläubiger um
+Durchführung des Konkursverfahrens (Art. 230 Abs. 2 SchKG)
+- zur Bezahlung der Verfahrenskosten heranziehen durfte. Zu
+Recht wurde daher dem Gläubiger, welcher die
+Eröffnung des Konkurses über den
+Beschwerdeführer beantragt hatte, der geleistete
+Kostenvorschuss zurückerstattet (vgl. BlSchK 45, 1981, Nr.
+13 und 19, 1955, Nr. 6).
+b)    Ebenfalls nicht zu beanstanden ist, dass
+das Konkursamt die im Rahmen der Liegenschaftenverwaltung
+vereinnahmten Geldbeträge nicht der Depositenanstalt im
+Sinn von Art. 9 SchKG übergab. Gemäss Art. 22 Abs. 1
+KOV sind alle erheblichen Bareingänge spätestens am
+vierten Tag nach dem Eingang der Depositenanstalt zu
+übergeben, wobei soviel Barschaft zurückbehalten
+werden darf, als zur Deckung nahe bevorstehender Auslagen
+erforderlich ist. Diese Bestimmung hat das in die Amtskasse
+geflossene oder - etwa bei einer Steigerung - vom Beamten
+persönlich behändigte Bargeld im Auge und bezweckt
+die Sicherung solcher Mittel vor Diebstahl und Brandschaden.
+Auf die zugunsten der Konkursmasse auf das Postcheck-Konto des
+Amts einbezahlten Beträge kann sie sich offensichtlich
+nicht beziehen, da Postcheck-Guthaben keinen derartigen
+Gefahren ausgesetzt sind. In dieser Hinsicht bietet das
+Postcheck-Konto ebensoviel Sicherheit wie ein Konto der
+Depositenanstalt (BGE 98 III 2 f.). Aus diesem Grund hielt das
+Bundesgericht im Schreiben vom 30. August 1972 an die oberen
+kantonalen Aufsichtsbehörden fest, die auf das
+Postcheck-Konto des Konkursamts erfolgten Einzahlungen
+unterstünden grundsätzlich nicht den Vorschriften von
+Art. 9 SchKG und Art. 22 Abs. 1 KOV; soweit indessen
+entsprechende Bareingänge nach dem Stand des betreffenden
+Konkursverfahrens voraussichtlich noch auf Monate hinaus weder
+für Auslagen benötigt würden noch zur Verteilung
+kämen, müssten sie ohne langes Zuwarten der
+Depositenanstalt abgeliefert werden, welche sie der in Frage
+stehenden Konkursmasse gutzuschreiben und gegebenenfalls zu
+verzinsen habe (BGE 98 III 3). In Anbetracht der raschen
+Verwendung der vereinnahmten Gelder ist das Vorgehen des
+Konkursamts, welches die Barbeträge auf dem
+Postcheck-Konto des Amts beliess, nicht zu beanstanden.
+Rekurskommission, 28. Juli 1997, BS 97 23
