@@ -1,0 +1,37 @@
+---
+decision_id: "tg_obergericht_RBOG_2004_Nr._32"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2004 Nr. 32"
+docket_2: "ZBR.2004.54"
+decided: "2004-11-23"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/ED94061C-434C-449D-BC81034B0769A62B.html"
+---
+
+# TG Obergericht RBOG 2004 Nr. 32
+
+## Regeste
+
+Dies geschah indessen nicht, denn dem Rechtsvertreter des Berufungsklägers wurde keine Vorladung, sondern lediglich die Kopie der Vorladung an die Berufungsbeklagte zur Kenntnisnahme zugestellt. Dabei wurde darauf hingewiesen, dass es dem Berufungskläger bzw. 2 ZPO sehr regen Gebrauch, so dass dem Berufungskläger schon deswegen zwingend das rechtliche Gehör hätte gewährt werden müssen (vgl.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 23.11.2004 RBOG 2004 Nr. 32 (ZBR.2004.54)
+Thurgovie Obergericht Rechenschaftsbericht 23.11.2004 RBOG 2004 Nr. 32 (ZBR.2004.54)
+Turgovia Obergericht Rechenschaftsbericht 23.11.2004 RBOG 2004 Nr. 32 (ZBR.2004.54)
+
+Dies geschah indessen nicht, denn dem Rechtsvertreter des Berufungsklägers wurde keine Vorladung, sondern lediglich die Kopie der Vorladung an die Berufungsbeklagte zur Kenntnisnahme zugestellt. Dabei wurde darauf hingewiesen, dass es dem Berufungskläger bzw. 2 ZPO sehr regen Gebrauch, so dass dem Berufungskläger schon deswegen zwingend das rechtliche Gehör hätte gewährt werden müssen (vgl.
+
+RBOG 2004 Nr. 32
+RBOG 2004 Nr. 32
+Verzichtet die Klägerin nicht auf ihre Replik, ist der Beklagte trotz Säumnis mit der Klageantwort zur Hauptverhandlung vorzuladen. Auch wenn er abermals säumig bleibt, ist ihm in einem Beweisverfahren das rechtliche Gehör zu gewähren
+(§§ 64 f., 140 ZPO)
+1.    Die Vorinstanz versah ihre peremtorische Fristansetzung zur Klageantwort mit dem Hinweis, Stillschweigen werde gleichzeitig als ausdrücklicher Verzicht auf die Durchführung einer mündlichen Verhandlung verstanden.
+2.    Ein solches Vorgehen ist grundsätzlich zulässig (Merz, Die Praxis zur thurgauischen Zivilprozessordnung, Bern 2000, § 65 N 2), allerdings nur, wenn die Gegenpartei ihrerseits usdrücklich auf die Replik verzichtet hätte (Merz, § 140 ZPO N 2; vgl. Frank/Sträuli/Messmer, Kommentar zur zürcherischen Zivilprozessordnung, 3.A., § 131 N 1). Dies war hier nicht der Fall, so dass nach Massgabe der in
+RBOG 1994 Nr. 15
+veröffentlichten Rechtsprechung beide Parteien zur Hauptverhandlung hätten vorgeladen werden müssen. Dies geschah indessen nicht, denn dem Rechtsvertreter des Berufungsklägers wurde keine Vorladung, sondern lediglich die Kopie der Vorladung an die Berufungsbeklagte zur Kenntnisnahme zugestellt. Dabei wurde darauf hingewiesen, dass es dem Berufungskläger bzw. dem Rechtsvertreter freigestellt sei, an der Hauptverhandlung zu erscheinen, doch seien sie nach § 140 ZPO von jeglichen eigenen Vorbringen ausgeschlossen. Dies trifft so nicht zu, denn weil die Klageantwort im Gegensatz zur Klageschrift selber keine Prozessvoraussetzung ist, schliesst ihr Fehlen den Beklagten nicht von der Wahrung seiner Rechte aus (
+RBOG 1994 Nr. 15
+). Ganz abgesehen davon trug die Berufungsbeklagte an der Hauptverhandlung offensichtlich zahlreiche neue Behauptungen vor, und die Vorinstanz machte vom richterlichen Fragerecht nach § 95 Abs. 2 ZPO sehr regen Gebrauch, so dass dem Berufungskläger schon deswegen zwingend das rechtliche Gehör hätte gewährt werden müssen (vgl. Merz, § 65 ZPO N 2). Ausserdem ist festzustellen, dass die von der Vorinstanz gestellten Fragen wohl gemäss § 65 Abs. 2 ZPO angezeigte Beweiserhebungen ersetzen sollten. Ist aber im Säumnisverfahren wegen erheblichen Zweifeln an der Richtigkeit der Behauptungen des Klägers die Abnahme von Beweisen nötig, so ist mit Rücksicht auf dessen rechtliches Gehör auch dem säumigen Beklagten Gelegenheit zur Teilnahme zu geben, und genauso ist dieser zur Beweiswürdigung (und zu rechtlichen Erörterungen) zuzulassen (Frank/Sträuli/Messmer, § 131 ZPO N 1a; vgl. Leuch/ Marbach/Kellerhals/Sterchi, Die Zivilprozessordnung für den Kanton Bern, 5.A., Art. 283a N 2, wo ohne Einschränkung darauf hingewiesen wird, dass in diesem Fall die [gewöhnlichen] Regeln über das Beweisverfahren Anwendung fänden).
+Obergericht, 23. November 2004, ZBR.2004.54
+Auf eine dagegen erhobene Berufung/staatsrechtliche Beschwerde trat das Bundesgericht am 22. März 2005 nicht ein.
