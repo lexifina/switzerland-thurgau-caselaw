@@ -1,0 +1,137 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._34"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 34"
+docket_2: "SB 96 38"
+decided: "1997-01-15"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/CB6CDD03-FFB0-48BF-8500CAC383186ED5.html"
+cites_law: ["switzerland/bund/acts/741.01/art-037.md", "switzerland/bund/acts/741.11/art-018.md", "switzerland/bund/acts/741.11/art-055.md", "switzerland/bund/acts/741.21/art-079.md"]
+---
+
+# TG Obergericht RBOG 1997 Nr. 34
+
+## Regeste
+
+1. Die Staatsanwaltschaft begründet ihre Berufung mit dem Hinweis darauf, die Berufungsbeklagte habe in unzulässiger Weise auf der linken Strassenseite parkiert. 1 VRV ist das Halten und damit auch das Parkieren auf der linken Strassenseite unter anderem dann zulässig, wenn rechts ein Halte- oder Parkverbot signalisiert oder markiert ist. Dass Gründe dieser oder anderer Art bestehen, welche zwingend erfordern, den Wechsel der Strassenseite zwecks Parkierens zu untersagen, belegt die ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 15.01.1997 RBOG 1997 Nr. 34 (SB 96 38)
+Thurgovie Obergericht Rechenschaftsbericht 15.01.1997 RBOG 1997 Nr. 34 (SB 96 38)
+Turgovia Obergericht Rechenschaftsbericht 15.01.1997 RBOG 1997 Nr. 34 (SB 96 38)
+
+1. Die Staatsanwaltschaft begründet ihre Berufung mit dem Hinweis darauf, die Berufungsbeklagte habe in unzulässiger Weise auf der linken Strassenseite parkiert. 1 VRV ist das Halten und damit auch das Parkieren auf der linken Strassenseite unter anderem dann zulässig, wenn rechts ein Halte- oder Parkverbot signalisiert oder markiert ist. Dass Gründe dieser oder anderer Art bestehen, welche zwingend erfordern, den Wechsel der Strassenseite zwecks Parkierens zu untersagen, belegt die ...
+
+RBOG 1997 Nr. 34
+RBOG 1997 Nr. 34
+Auf der linken Strassenseite darf parkiert werden, wenn sich ein rechtsseitiges Halte- oder Parkverbot aufgrund der Signalisation oder der Umstände ergibt
+(Art. 18 Abs. 1
+VRV; Art. 79 Abs. 1 SSV)
+1.    Die
+Staatsanwaltschaft begründet ihre Berufung mit dem Hinweis
+darauf, die Berufungsbeklagte habe in unzulässiger Weise
+auf der linken Strassenseite parkiert.
+2.
+a)    Gemäss Art. 18 Abs. 1 VRV ist das
+Halten und damit auch das Parkieren auf der linken
+Strassenseite unter anderem dann zulässig, wenn rechts ein
+Halte- oder Parkverbot signalisiert oder markiert ist. Sinn
+dieser Bestimmung ist es primär, ein unnötiges, den
+Verkehrsfluss belastendes und damit gefährliches
+Fahrmanöver zu verhindern. Dabei ist z.B. an das Warten in
+der Strassenmitte zu denken, um dem Verkehr aus der
+Gegenrichtung die unbehinderte, vortrittsberechtigte
+Vorbeifahrt zu ermöglichen (Art. 36 Abs. 1 und 3 SVG),
+oder an das erhöhte Risikopotential beim
+Wiedereinfügen in den Verkehr. Fehlt es rechtsseitig an
+einer Parkverbotstafel, bedeutet dies nicht ohne weiteres, dass
+das Parkieren dort gestattet ist. Aus Art. 79 Abs. 1 SSV kann
+sich vielmehr trotz fehlender Beschilderung auch für die
+rechte Strassenseite ein Parkverbot ergeben: "Wo Parkfelder
+gekennzeichnet sind, dürfen Fahrzeuge nur innerhalb dieser
+Felder abgestellt werden." Ausserhalb der markierten Felder ist
+das Parkieren folglich verboten, auch wenn es nach den
+allgemeinen Regeln erlaubt wäre. Der örtliche
+Geltungsbereich des Verbots, ausserhalb dieser Felder zu
+parkieren, ist aufgrund der gesamten Umstände der
+konkreten Situation auszumachen.
+Das Bundesgericht äusserte sich zu Art. 79 Abs. 1 SSV,
+welcher dem früheren Art. 55 Abs. 1 VRV entspricht,
+folgendermassen: Wo immer öffentliche Parkplätze
+markiert sind, wirkt das in dieser Bestimmung enthaltene Verbot
+auf den angrenzenden Raum und findet auf alle öffentlichen
+Verkehrsflächen Anwendung, die als Parkplätze in
+Betracht fallen könnten (BGE 98 IV 228). In BGE 101 IV 87
+hielt es fest, dass anschliessend an markierte Parkfelder
+mindestens auf der Länge von fünf bis sechs
+Personenwagen keine Fahrzeuge aufgestellt werden dürfen,
+und in BGE 118 IV 394 wies es darauf hin, in einer Strasse, in
+welcher das Parkieren von Fahrzeugen auf beiden Strassenseiten
+den Verkehr erschweren würde, habe die Markierung von
+Parkfeldern auf der einen Seite zur Folge, dass das Parkieren
+auf der anderen Seite verboten sei.
+b)    Ob die Berufungsbeklagte befugt war, bei
+den konkreten Gegebenheiten links zu parkieren, hängt vom
+Gefährdungspotential, welches von ihrem Vorgehen ausging,
+ab. Links parkieren ist nur dann gestattet, wenn die
+Verhältnisse übersichtlich sind. Dies geht letztlich
+auch aus Art. 37 Abs. 2 SVG hervor, wonach Fahrzeuge dort nicht
+angehalten oder aufgestellt werden dürfen, wo sie den
+Verkehr behindern oder gefährden könnten. Die
+Gefährdung ist entsprechend den allgemeinen
+strafprozessualen Grundsätzen vom Staat nachzuweisen.
+Die Rekurskommission kommt mit der Berufungsbeklagten zum
+Schluss, es könne letzterer nicht vorgeworfen werden, dass
+sie linksseitig parkierte. Auf der rechten, südlichen
+Seite der Strasse befindet sich zwar kein ausdrückliches
+Parkverbot; dieses ergibt sich indessen aus den konkreten
+Örtlichkeiten. Die Strasse ist im fraglichen Bereich acht
+Meter breit. Für parkierte Fahrzeuge wird eine
+durchschnittliche Breite von zwei Metern angenommen (Schultz,
+Die strafrechtliche Rechtsprechung zum Strassenverkehrsrecht
+1968-1972, Bern 1974, S. 223). Dürften an dieser Strasse
+nicht nur links, in den eingezeichneten Parkfeldern, sondern
+auch rechts Autos parkiert werden, verblieben in der Mitte rund
+vier Meter. Die Berufungsbeklagte macht unter Hinweis auf BGE
+107 IV 47 zu Recht geltend, zwei Fahrzeuge, die sich kreuzten,
+müssten bei einer Geschwindigkeit von ca. 40 km/h einen
+Mindestabstand von ca. 30 cm sowohl zwischen sich als auch
+gegenüber dem jeweils parkierten Auto einhalten. Von der
+zufolge der beiden - als Fiktion - beidseits parkierten
+Fahrzeuge auf vier Meter reduzierten Strassenbreite verbleiben
+somit lediglich noch 3,1 Meter. 3,1 Meter reichen nicht einmal
+aus, um zwei Personenwagen, deren Breite durchschnittlich auf
+1,7 bis 1,9 Meter veranschlagt wird, das Kreuzen zu
+ermöglichen. Damit hat es indessen noch nicht einmal sein
+Bewenden: Auf der fraglichen Strasse verkehren die Busse der
+Autokurse Oberthurgau. Dass es zu einem nicht vertretbaren
+Verkehrschaos und dementsprechend gefährlichen Situationen
+führen würde, wenn die Fahrzeuge auf der einen
+Strassenseite stets stillstehen müssten, um denjenigen auf
+der anderen Fahrbahn die Durchfahrt zu ermöglichen, bedarf
+keiner langen Ausführungen.
+Damit kann das Parkieren auf der rechten Seite der fraglichen
+Strasse, obwohl dort kein ausdrückliches Parkverbot
+angebracht ist, nicht gestattet sein. Demgemäss ist den
+Fahrzeuglenkern aber das Parkieren auf der linken Strassenseite
+erlaubt. Anderes würde nur gelten, wenn die
+Verhältnisse unübersichtlich wären und zu einer
+Gefährdung der Verkehrsteilnehmer führen
+könnten. Dies wäre beispielsweise dann der Fall, wenn
+die Verkehrsdichte am fraglichen Ort derart gross wäre,
+dass ein zweimaliges Überqueren der Strasse nicht zu
+verantworten wäre. Dass Gründe dieser oder anderer
+Art bestehen, welche zwingend erfordern, den Wechsel der
+Strassenseite zwecks Parkierens zu untersagen, belegt die
+Staatsanwaltschaft nicht. Kurven behindern die Sicht auf der
+fraglichen Strecke nicht. Es ist deshalb davon auszugehen, dass
+mit der nötigen Vorsicht das Überqueren der Strasse
+zwecks Parkierens gestattet ist. Das Gegenteil hat die
+Staatsanwaltschaft jedenfalls nicht rechtsgenüglich
+belegt. Unter diesen Umständen besteht indessen kein
+Anlass, der Berufungsbeklagten das Parkieren auf der linken
+Strassenseite zum Vorwurf zu machen.
+Rekurskommission, 15. Januar 1997, SB 96
+38
