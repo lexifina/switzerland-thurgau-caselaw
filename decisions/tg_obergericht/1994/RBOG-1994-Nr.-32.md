@@ -1,0 +1,162 @@
+---
+decision_id: "tg_obergericht_RBOG_1994_Nr._32"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1994 Nr. 32"
+docket_2: "ZR 94 9"
+decided: "1994-02-21"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/68935A58-6989-4073-97364BC07783BCF6.html"
+cites_law: ["switzerland/bund/acts/220/art-139.md"]
+---
+
+# TG Obergericht RBOG 1994 Nr. 32
+
+## Regeste
+
+Die Rekurrenten schliessen daraus, auf dem Wege der Lückenfüllung sei die passive Prozessüberweisung als zulässig zu erachten. 38 zitierten Gesetzesmaterialien lässt sich nicht entnehmen, dass sich die Gesetzesberatungen lediglich mit der aktiven Prozessüberweisung befasst hätten. Zürich 1981, S. 85). Dass aber innerkantonal eine Gesetzeslücke hinsichtlich der Prozessüberweisung vorläge, ist den Gesetzesmaterialien ebenfalls nicht zu entnehmen.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 21.02.1994 RBOG 1994 Nr. 32 (ZR 94 9)
+Thurgovie Obergericht Rechenschaftsbericht 21.02.1994 RBOG 1994 Nr. 32 (ZR 94 9)
+Turgovia Obergericht Rechenschaftsbericht 21.02.1994 RBOG 1994 Nr. 32 (ZR 94 9)
+
+Die Rekurrenten schliessen daraus, auf dem Wege der Lückenfüllung sei die passive Prozessüberweisung als zulässig zu erachten. 38 zitierten Gesetzesmaterialien lässt sich nicht entnehmen, dass sich die Gesetzesberatungen lediglich mit der aktiven Prozessüberweisung befasst hätten. Zürich 1981, S. 85). Dass aber innerkantonal eine Gesetzeslücke hinsichtlich der Prozessüberweisung vorläge, ist den Gesetzesmaterialien ebenfalls nicht zu entnehmen.
+
+RBOG 1994 Nr. 32
+RBOG 1994 Nr. 32
+Keine passive Prozessüberweisung
+1.    Die
+Rekurrenten reichten beim Bezirksgericht A im Kanton
+Zürich eine Erbteilungsklage ein. Dieses trat auf die
+Klage nicht ein und überwies den Prozess an das
+Bezirksgericht B im Kanton Thurgau: Es bestehe ein
+unlösbarer Sachzusammenhang zwischen diesem Verfahren und
+einer beim Bezirksgericht B bereits hängigen
+Erbteilungssache. Das Bezirksgericht B nahm das Verfahren nicht
+an die Hand; das thurgauische Prozessrecht kenne das Institut
+der Prozessüberweisung nicht.
+In diesem Sinn äusserte sich die Rekurskommission in RBOG
+1992 Nr. 38. Jene Ausführungen betreffen indessen nur die
+aktive Prozessüberweisung. Ob allenfalls die Gerichte des
+Kantons Thurgau, an welche ein Prozess von einem anderen Kanton
+überwiesen wird, die Pflicht zur Anhandnahme der
+Streitsache ohne erneute Klageerhebung haben, wurde
+offengelassen. Die Rekurrenten schliessen daraus, auf dem Wege
+der Lückenfüllung sei die passive
+Prozessüberweisung als zulässig zu erachten.
+2.    Den
+in RBOG 1992 Nr. 38 zitierten Gesetzesmaterialien lässt
+sich nicht entnehmen, dass sich die Gesetzesberatungen
+lediglich mit der aktiven Prozessüberweisung befasst
+hätten. Vielmehr ging es generell um das Institut der
+Prozessüberweisung. Somit kann auch bezüglich der
+passiven Prozessüberweisung nicht von einer planwidrigen
+Unvollständigkeit der ZPO ausgegangen werden; entgegen der
+Praxis in anderen Kantonen liegt folglich keine vom Richter
+auszufüllende Gesetzeslücke vor.
+Zwar mag noch angehen, bei Kantonen, welche zumindest
+innerkantonal das Institut der Prozessüberweisung kennen
+oder die Rechtshängigkeit einer beim zuständigen
+Gericht neu angebrachten Klage auf das Datum ihrer ersten
+fehlerhaften Einreichung beim unzuständigen Gericht
+zurückbeziehen, auf dem Wege der Auslegung der
+entsprechenden einschlägigen Normen den überwiesenen
+Prozess ohne Unterbrechung der Rechtshängigkeit an die
+Hand zu nehmen. Kennt ein Kanton hingegen weder das Institut
+der Prozessüberweisung noch einen entsprechenden
+innerkantonal wirksamen Rechtsbehelf, erscheint die Zulassung
+der passiven Prozessüberweisung auf dem Wege der
+richterlichen Lückenfüllung problematisch: Dies
+hätte nämlich zur Folge, dass der bei einem
+unzuständigen Gericht eines anderen Kantons klagende
+Kläger aufgrund der dort zulässigen aktiven
+interkantonalen Prozessüberweisung besser gestellt wird
+als derjenige, der zuerst ein unzuständiges Gericht
+innerhalb des betreffenden Kantons anruft: Der Kläger,
+dessen Klage infolge Unzuständigkeit eines Gerichts dieses
+Kantons zurückgewiesen wird, muss nämlich die Klage
+beim zuständigen Gericht innerhalb des gleichen Kantons in
+den entsprechenden Formen neu einleiten, mithin im Kanton
+Thurgau erneut einen Vermittlungsvorstand abhalten (vgl. Dubs,
+Die Prozessüberweisung im zürcherischen
+Zivilprozessrecht unter Berücksichtigung der Regelungen
+anderer Kantone und des Auslands, Diss. Zürich 1981, S.
+85). Dass aber innerkantonal eine Gesetzeslücke
+hinsichtlich der Prozessüberweisung vorläge, ist den
+Gesetzesmaterialien ebenfalls nicht zu entnehmen. In diesem
+Zusammenhang ist auch darauf hinzuweisen, dass bei der Revision
+der Zivilprozessordnung in etlichen Bereichen die
+zürcherische Zivilprozessordnung, die damals die
+Prozessüberweisung bereits zuliess, als Vorbild diente.
+Auch aus diesem Grunde kann daher nicht von einer planwidrigen
+Unvollständigkeit der Zivilprozessordnung ausgegangen
+werden. Vielmehr war dem Gesetzgeber der Bestand dieses
+Instituts sehr wohl bekannt, und er verzichtete bewusst auf die
+Aufnahme desselben in die ZPO.
+3.    Nach
+§ 52 Abs. 2 Ziff. 3 der Kantonsverfassung üben neben
+dem Obergericht, der Rekurskommission und den Bezirksgerichten
+bzw. deren Kommissionen und Präsidenten die
+Friedensrichter die Zivilrechtspflege aus. Das Gesetz regelt
+nach § 51 Abs. 2 KV die Organisation und das Verfahren. In
+§ 43 Abs. 1 ZPO sowie § 133 Abs. 2 BauG sind
+abschliessend diejenigen Streitigkeiten aufgezählt, in
+welchen eine Klage direkt beim zuständigen Gericht ohne
+Vermittlungsvorstand anhängig gemacht werden kann; in
+allen anderen Fällen kann im Thurgau ein Prozess vom
+Gericht nur entgegengenommen werden, wenn die Weisung eines
+thurgauischen Friedensrichters vorliegt. Selbst wenn somit auf
+dem Wege der Lückenfüllung die passive
+Prozessüberweisung grundsätzlich zugelassen
+würde, müsste ausser in den gesetzlich geregelten
+Ausnahmefällen ein Vermittlungsvorstand abgehalten werden,
+da ansonsten der Anspruch auf den verfassungsmässigen
+Friedensrichter verletzt würde. Damit aber sprechen auch
+keine Praktikabilitätsgründe dafür, die passive
+Prozessüberweisung zuzulassen. Der einzige Unterschied
+zwischen der Prozessüberweisung und einer ordentlichen
+Klageanhebung bestünde dann nämlich noch darin, dass
+in letzterem Fall die Rechtshängigkeit unterbrochen
+würde. Vor einem drohenden Rechtsverlust bei einer beim
+unzuständigen Gericht erhobenen Klage schützt
+indessen Art. 139 OR. Ohne Vermittlungsvorstand könnte ein
+an ein thurgauisches Gericht überwiesener Prozess nur
+anhand genommen werden, wenn auch diesbezüglich von einer
+vom Richter auszufüllenden Gesetzeslücke ausgegangen
+würde. Den Gesetzesmaterialien ist aber nicht zu
+entnehmen, dass bezüglich der ohne Vermittlungsvorstand an
+die Hand zu nehmenden Streitigkeiten eine
+Unvollständigkeit des Gesetzes vorliegt; vielmehr
+zählte der Gesetzgeber die entsprechenden Ausnahmen
+abschliessend auf.
+Die Zulassung der passiven Prozessüberweisung würde
+auch zu stossenden Ergebnissen führen, wenn ein Kanton
+eine Streitsache an ein thurgauisches Gericht überweist,
+bei welcher aufgrund der Prozessordnung des überweisenden
+Kantons ein Sühneverfahren nicht durchgeführt wurde,
+während im Kanton Thurgau für die gleiche
+Streitigkeit zwingend die Abhaltung eines Vermittlungsvorstands
+vorgeschrieben ist. Im Verhältnis zum Zivilprozessrecht
+des Kantons Zürichs gälte dies insbesondere für
+alle im beschleunigten Verfahren zu beurteilenden Klagen sowie
+bei gewissen arbeits- und mietrechtlichen Streitigkeiten (vgl.
+§§ 104 und 105 ZPO ZH).
+4.
+Entgegen der Auffassung der Rekurrenten stellt die
+Nichtanhandnahme des vom Bezirksgericht A im Kanton Zürich
+überwiesenen Prozesses durch das Bezirksgericht B im
+Kanton Thurgau schliesslich auch keine formelle
+Rechtsverweigerung dar. Vielmehr haben die Rekurrenten ohne
+weiteres die Möglichkeit, ihre Klage auf dem ordentlichen
+Wege einzuleiten, mithin einen Vermittlungsvorstand abzuhalten
+und die Weisung beim Bezirksgericht B einzureichen. Sollte
+tatsächlich ein negativer interkantonaler
+Kompetenzkonflikt entstehen, etwa weil das Bezirksgericht B auf
+die Klage mangels Zuständigkeit nicht eintritt, hat das
+Bundesgericht diesen Konflikt im Rahmen einer staatsrechtlichen
+Beschwerde zu lösen (Vogel, Grundriss des
+Zivilprozessrechts, 3. A., S. 51).
+Rekurskommission, 21. Februar 1994, ZR 94
+9
