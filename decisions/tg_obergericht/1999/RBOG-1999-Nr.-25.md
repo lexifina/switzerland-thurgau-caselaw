@@ -1,0 +1,39 @@
+---
+decision_id: "tg_obergericht_RBOG_1999_Nr._25"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1999 Nr. 25"
+docket_2: "ZBR.1999.28"
+decided: "1999-08-02"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/30C1211E-19C7-4749-8A85B8A56A0024C0.html"
+---
+
+# TG Obergericht RBOG 1999 Nr. 25
+
+## Regeste
+
+1. Der Berufungsbeklagte erstattete im schriftlichen Verfahren die Berufungsantwort, wobei er die Verpflichtung des Berufungsklägers zur Leistung einer Kaution für die amtlichen Kosten und die Prozessentschädigung im Berufungsverfahren verlangte. b) Der Berufungskläger leistete noch vor Eingang der Berufungsantwort den ihm gerichtlich auferlegten Kostenvorschuss, womit sich das Gesuch des Berufungsbeklagten betreffend Kaution für die amtlichen Kosten als gegenstandslos erweist.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 02.08.1999 RBOG 1999 Nr. 25 (ZBR.1999.28)
+Thurgovie Obergericht Rechenschaftsbericht 02.08.1999 RBOG 1999 Nr. 25 (ZBR.1999.28)
+Turgovia Obergericht Rechenschaftsbericht 02.08.1999 RBOG 1999 Nr. 25 (ZBR.1999.28)
+
+1. Der Berufungsbeklagte erstattete im schriftlichen Verfahren die Berufungsantwort, wobei er die Verpflichtung des Berufungsklägers zur Leistung einer Kaution für die amtlichen Kosten und die Prozessentschädigung im Berufungsverfahren verlangte. b) Der Berufungskläger leistete noch vor Eingang der Berufungsantwort den ihm gerichtlich auferlegten Kostenvorschuss, womit sich das Gesuch des Berufungsbeklagten betreffend Kaution für die amtlichen Kosten als gegenstandslos erweist.
+
+RBOG 1999 Nr. 25
+RBOG 1999 Nr. 25
+Sicherstellungszweck von Kautionsbegehren: Gegenstandslosigkeit durch Vorwegnahme  von Prozesshandlungen
+(§ 77 ZPO)
+1.    Der Berufungsbeklagte erstattete im schriftlichen Verfahren die  Berufungsantwort, wobei er die Verpflichtung des Berufungsklägers zur Leistung einer Kaution  für die amtlichen Kosten und die Prozessentschädigung im Berufungsverfahren verlangte.
+2.    a)    Gemäss § 77 ZPO hat die Partei, welche ein Rechtsmittel ergreift,  für die mutmasslichen Kosten (amtliche Kosten und Prozessentschädigung) eine Kaution zu  leisten, wenn sie in der Schweiz keinen Wohnsitz hat (Ziff. 1), als zahlungsunfähig  erscheint oder mit rechtskräftigen Kosten oder Entschädigungen aus einem Gerichts- oder  Verwaltungsverfahren im Rückstand ist (Ziff. 3).
+Die Regeln über die Kautionspflicht dienen sowohl der Wahrung öffentlicher  wie auch privater Interessen: Der Staat und die Gegenpartei sind gleichermassen davor zu  schützen, dass die kautionspflichtige Partei Kosten und Schäden verursacht, die sie dann  später nicht tragen kann oder will (
+RBOG 1994 Nr. 20
+; Frank/Sträuli/Messmer, Kommentar zur  ZPO ZH, 3.A., § 73 N 2). In § 77 ZPO sieht das Gesetz daher die Tatbestände vor, welche die  spätere Kosten- und Entschädigungsforderung als gefährdet erscheinen lassen (vgl. Walder,  Zivilprozessrecht, 4.A., § 34 N 20). Mit einer Kautionsleistung werden nicht rückständige  Prozesskosten, sondern zukünftige Kosten, die aus einem laufenden Verfahren resultieren,  sichergestellt. § 77 ZPO ist, was seine Wirkungen betrifft, in die Zukunft gerichtet: Der  Staat mit seinen Gerichtsbehörden und die in einen Prozess verwickelte Gegenpartei sollen  vor einem durch die Prozessführung der kautionspflichtigen Partei verursachten Schaden  geschützt werden (
+RBOG 1994 Nr. 22
+).
+b)    Der Berufungskläger leistete noch vor Eingang der Berufungsantwort  den ihm gerichtlich auferlegten Kostenvorschuss, womit sich das Gesuch des  Berufungsbeklagten betreffend Kaution für die amtlichen Kosten als gegenstandslos erweist.
+c)    Die Rechtsvertreterin des Berufungsbeklagten begründete in ihrer  Eingabe nicht nur das Begehren um Kaution, sondern ging einlässlich auf den materiellen  Punkt der Klage ein. Gleichzeitig mit der Berufungsantwort reichte sie auch ihre Kostennote  für das Berufungsverfahren ein. Damit verlor das Kautionsgesuch bezüglich der  Prozessentschädigung seinen Sinn: Eine Kaution wird nur erhoben, wenn die spätere  Entschädigungsforderung des Berufungsbeklagten als gefährdet erscheint. Hier stellte der  Berufungsbeklagte die Kautionsforderung jedoch zu einem Zeitpunkt, in welchem seine  Aufwendungen für das schriftliche Berufungsverfahren vor Rekurskommission schon entstanden  waren. Die Auferlegung einer Kaution in diesem Zeitpunkt würde damit ihren Schutzzweck,  nämlich die Sicherstellung von zukünftigen Kosten, verfehlen. Praxisgemäss fällt die  Rekurskommission demnach das Berufungsurteil, ohne vorab das Kautionsgesuch zu behandeln.
+Rekurskommission, 2. August 1999, ZBR.1999.28
