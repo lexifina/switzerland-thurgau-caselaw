@@ -1,0 +1,37 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._10"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 10"
+docket_2: "BS 97 26"
+decided: "1997-09-08"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/694524E4-7923-479E-9E2A99BC681B35B5.html"
+cites_law: ["switzerland/bund/acts/281.1/art-075.md", "switzerland/bund/acts/281.1/art-079.md", "switzerland/bund/acts/281.1/art-260.md", "switzerland/bund/acts/281.1/art-265.md", "switzerland/bund/acts/281.1/art-265a.md"]
+---
+
+# TG Obergericht RBOG 1997 Nr. 10
+
+## Regeste
+
+1. Die Beschwerdeführerin hob gegen die Beschwerdegegnerin die Betreibung an, worauf die Schuldnerin unter der Rubrik "Rechtsvorschlag" handschriftlich einfügte: "Erhebe Rechtsvorschlag, da kein Vermögen". Soweit hingegen Zweifel hinsichtlich der Erklärung des Rechtsvorschlags bestehen, ist der Grundsatz "im Zweifel für den Schuldner" anzuwenden, denn die Abwägung der beidseitigen Interessen zeigt, dass der Schuldner von der Aufhebung des Rechtsvorschlags viel schwerer betroffen wird als der...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 08.09.1997 RBOG 1997 Nr. 10 (BS 97 26)
+Thurgovie Obergericht Rechenschaftsbericht 08.09.1997 RBOG 1997 Nr. 10 (BS 97 26)
+Turgovia Obergericht Rechenschaftsbericht 08.09.1997 RBOG 1997 Nr. 10 (BS 97 26)
+
+1. Die Beschwerdeführerin hob gegen die Beschwerdegegnerin die Betreibung an, worauf die Schuldnerin unter der Rubrik "Rechtsvorschlag" handschriftlich einfügte: "Erhebe Rechtsvorschlag, da kein Vermögen". Soweit hingegen Zweifel hinsichtlich der Erklärung des Rechtsvorschlags bestehen, ist der Grundsatz "im Zweifel für den Schuldner" anzuwenden, denn die Abwägung der beidseitigen Interessen zeigt, dass der Schuldner von der Aufhebung des Rechtsvorschlags viel schwerer betroffen wird als der...
+
+RBOG 1997 Nr. 10
+RBOG 1997 Nr. 10
+Beim Rückzug des Rechtsvorschlags mit Bezug auf die Einrede "kein neues Vermögen" liegt in der Regel weiterhin ein "allgemeiner" Rechtsvorschlag vor
+(Art. 75 Abs. 1, 265 f. SchKG)
+1.    Die Beschwerdeführerin hob gegen die Beschwerdegegnerin die Betreibung an, worauf die Schuldnerin unter der Rubrik "Rechtsvorschlag" handschriftlich einfügte: "Erhebe Rechtsvorschlag, da kein Vermögen". In dem vom Gerichtspräsidium angehobenen Verfahren zur Feststellung des neuen Vermögens im Sinn von Art. 265a SchKG zog die Schuldnerin ihre Einrede des fehlenden neuen Vermögens zurück und machte gleichzeitig geltend, dieser Rechtsvorschlag sei in einen allgemeinen umzuwandeln. In Form einer Notiznahme hielt das Gerichtspräsidium fest, die Schuldnerin bestreite mit dem erhobenen Rechtsvorschlag auch den Bestand der Forderung. Dem Fortsetzungsbegehren entsprachen in der Folge das Betreibungsamt und auf Beschwerde der Gläubigerin hin die Vorinstanz nicht, weil der Nachweis über die Beseitigung des von der Beschwerdegegnerin erhobenen Rechtsvorschlags fehle.
+2.    Die Beschwerdeführerin macht im wesentlichen geltend, die von der Schuldnerin gewählte Formulierung des Rechtsvorschlags lasse einzig den Schluss zu, dass sie ihre Zahlungsfähigkeit, nicht aber den Bestand der Forderung habe bestreiten wollen. Der Rechtsvorschlag mit der Begründung "kein neues Vermögen" sei von der Schuldnerin verspätet in einen allgemeinen Rechtsvorschlag umgewandelt worden.
+a)    Nach Art. 75 Abs. 1 SchKG bedarf der Rechtsvorschlag keiner Begründung. Wer ihn trotzdem begründet, verzichtet damit nicht auf weitere Einreden. Bestreitet der Schuldner, zu neuem Vermögen gekommen zu sein (Art. 265, 265a SchKG), so hat er dies im Rechtsvorschlag ausdrücklich zu erklären; andernfalls ist diese Einrede gemäss Art. 75 Abs. 2 SchKG verwirkt. Mit dieser neuen Formulierung von Art. 75 SchKG wollte der Gesetzgeber am bisherigen System nichts ändern, sondern lediglich den von der Praxis entwickelten Grundsatz ausdrücklich festhalten, dass der Rechtsvorschlag mit Ausnahme der in Art. 75 Abs. 2 und 3 SchKG genannten Fälle nicht begründet werden muss (vgl. BBl 1991 III 63; Siegen/Buschor, Vom alten zum neuen SchKG, Zürich 1997, S. 48).
+Der Grundsatz, wonach die Begründung des Rechtsvorschlags nicht bedeutet, auf weitere Einreden zu verzichten, gilt auch dann, wenn der Rechtsvorschlag mit der - durch ausdrückliche Erklärung zu erhebenden - Einrede begründet wird, der Schuldner sei nicht zu neuem Vermögen gekommen (BGE 108 III 8 f. = Pra 71, 1982, Nr. 160, BGE 103 III 34 f., 82 III 9 ff., 59 III 125 ff.; BJM 1970 S. 139 f.; Fritzsche/Walder, Schuldbetreibung und Konkurs nach schweizerischem Recht, Bd. I, 3.A., § 17 N 38). Das Vorliegen eines "allgemeinen" Rechtsvorschlags zu verneinen, soweit die Einrede mangelnden neuen Vermögens gegenstandslos ist, ginge nur an, wenn klar erwiesen wäre, dass die Schuld vom Betriebenen anerkannt ist, dieser aber erklärte, er vermöge sie nicht zu bezahlen. Soweit hingegen Zweifel hinsichtlich der Erklärung des Rechtsvorschlags bestehen, ist der Grundsatz "im Zweifel für den Schuldner" anzuwenden, denn die Abwägung der beidseitigen Interessen zeigt, dass der Schuldner von der Aufhebung des Rechtsvorschlags viel schwerer betroffen wird als der Gläubiger von seiner Aufrechterhaltung. Während der Schuldner der Fortsetzung der Betreibung unterläge und keinen anderen Behelf als denjenigen der Rückforderungsklage besässe, braucht der Gläubiger lediglich die Rechtsöffnung zu verlangen oder gegebenenfalls den ordentlichen Prozessweg (Art. 79 SchKG) zu beschreiten (BGE 108 III 9).
+Der gegenteilige Entscheid des Bundesgerichts (BGE 109 III 10), auf welchen sich auch die Beschwerdeführerin beruft, stellte zwar fest, dass aus der Formulierung "Rechtsvorschlag, da kein neues Vermögen vorhanden" angenommen werden könne, der Schuldner habe nur das Vorhandensein neuen Vermögens bestreiten wollen. Das Bundesgericht musste die Frage indessen nicht abschliessend entscheiden, sondern konnte einen allfälligen Entscheid hierüber der kantonalen Aufsichtsbehörde überlassen. Zudem setzte es sich mit seiner früheren Rechtsprechung überhaupt nicht auseinander. Wohl trifft zu, dass gerade bei einem Konkursverlustschein der Schuldner nicht ohne besonderen Anlass die Forderung bestreiten wird und es ihm daher zuzumuten ist, dies auch ausdrücklich zu tun, widrigenfalls der Rechtsvorschlag mangels neuen Vermögens nur auf diesen Punkt bezogen würde, weil der Schuldner unter Umständen gar nicht daran interessiert ist, auch noch bezüglich der Forderung in einen Prozess hineingezogen zu werden. Diese Praxis widerspricht aber dem klaren Wortlaut von Art. 75 Abs. 1 SchKG, was auch Fritzsche/Walder (§ 17 N 43) zugestehen.
+b)    Im vorliegenden Fall beruhte die Forderung nicht auf einem Konkursverlustschein im Sinn von Art. 265 SchKG. Vielmehr wurden Rechtsansprüche der Masse nach Art. 260 SchKG (Guthaben aus Verantwortlichkeit) geltend gemacht, was im Zahlungsbefehl ausdrücklich vermerkt wurde. Es braucht daher die Frage nicht abschliessend entschieden zu werden, ob der Rechtsvorschlag mit der Begründung "kein neues Vermögen" im Fall einer Betreibung gestützt auf den Konkursverlustschein einschränkend im Sinn von BGE 109 III 10 auszulegen sei. Vielmehr brachte die Betriebene in Anwendung von Art. 75 Abs. 1 SchKG mit ihrer Unterschrift in der Rubrik "Rechtsvorschlag" des Zahlungsbefehls klar zum Ausdruck, dass sie sich gegen eine Fortsetzung der Betreibung zur Wehr setzen wollte.
+Rekurskommission, 8. September 1997, BS 97 26
