@@ -1,0 +1,37 @@
+---
+decision_id: "tg_obergericht_RBOG_2004_Nr._39"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2004 Nr. 39"
+docket_2: "SBR.2004.23"
+decided: "2004-10-26"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/FD8CD5E4-8644-4A39-8A21CF67342A24D4.html"
+---
+
+# TG Obergericht RBOG 2004 Nr. 39
+
+## Regeste
+
+Dagegen erhob der Berufungskläger Berufung. 2. a) Bezüglich der vom Rechtsvertreter der Berufungsbeklagten verfassten Eingabe liegt nach der im erstinstanzlichen Verfahren vertretenen Darstellung des Berufungsklägers die Tathandlung in A, womit die Vorinstanz mit Blick auf Art. b) Zwar trifft es zu, dass der vom Berufungskläger angerufene § 69 Abs.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 26.10.2004 RBOG 2004 Nr. 39 (SBR.2004.23)
+Thurgovie Obergericht Rechenschaftsbericht 26.10.2004 RBOG 2004 Nr. 39 (SBR.2004.23)
+Turgovia Obergericht Rechenschaftsbericht 26.10.2004 RBOG 2004 Nr. 39 (SBR.2004.23)
+
+Dagegen erhob der Berufungskläger Berufung. 2. a) Bezüglich der vom Rechtsvertreter der Berufungsbeklagten verfassten Eingabe liegt nach der im erstinstanzlichen Verfahren vertretenen Darstellung des Berufungsklägers die Tathandlung in A, womit die Vorinstanz mit Blick auf Art. b) Zwar trifft es zu, dass der vom Berufungskläger angerufene § 69 Abs.
+
+RBOG 2004 Nr. 39
+RBOG 2004 Nr. 39
+Bei örtlicher Unzuständigkeit besteht kein Anspruch auf Weiterleitung an die zuständige Behörde
+(§ 69 Abs. 3 StPO)
+1.    Aufgrund einer in einem anderen Kanton durch die Berufungsbeklagte verfassten E Mail, wonach sich der Berufungskläger in der Sado-Maso-Szene bewege, erhob dieser Ehrverletzungsklage wegen übler Nachrede, eventuell wegen Verleumdung. Die Bezirksgerichtliche Kommission sprach die Berufungsbeklagte vom Vorwurf der Ehrverletzung frei. Sie erwog insbesondere, einzig das Einreichen eines Ausdrucks der E Mail im Rahmen einer Eingabe des Rechtsvertreters der Berufungsbeklagten im zwischen den Parteien hängigen Eheschutzverfahren könne als Äusserung, welche den Tatbestand der Ehrverletzung erfüllen könnte, betrachtet werden. Indessen sei diese Eingabe vom Rechtsvertreter der Berufungsbeklagten in A verfasst worden, weshalb die Bezirksgerichtliche Kommission nicht zuständig sei. Dagegen erhob der Berufungskläger Berufung.
+2.    a)    Bezüglich der vom Rechtsvertreter der Berufungsbeklagten verfassten Eingabe liegt nach der im erstinstanzlichen Verfahren vertretenen Darstellung des Berufungsklägers die Tathandlung in A, womit die Vorinstanz mit Blick auf Art. 346 Abs. 1 StGB zutreffend zum Ergebnis gelangte, örtlich nicht zuständig zu sein. Korrekterweise hätte in diesem Fall indessen ein Nichteintretensentscheid und kein Freispruch ergehen müssen. In Bezug auf die im Berufungsverfahren vorgetragene Darstellung, wonach bereits die Erstellung und die Weiterleitung der E-Mail an den Rechtsvertreter der Berufungsbeklagten strafrechtlich relevant sei, blieb der Begehungsort ungewiss: Nur wenn die Berufungsbeklagte den Ausdruck der fraglichen E-Mail im Bezirk C des Kantons Thurgau zuhanden ihres Anwalts zur Post gegeben hätte, wäre die örtliche Zuständigkeit der Vorinstanz überhaupt gegeben; solches wurde aber nicht einmal behauptet. Wenn es sich so verhalten hätte, wäre dieses Vorgehen gar nicht erst von der Anklage erfasst, denn wenn der Rechtsvertreter seine Eingabe unter Beilage des Ausdrucks der E Mail absandte, müsste die Tathandlung der Berufungsbeklagten entgegen der Weisung bereits vor dem Verfassen der Eingabe stattgefunden haben. Mangels genauer Darstellung des Sachverhalts durch den Berufungskläger ist aber durchaus auch denkbar, dass sich die Berufungsbeklagte samt ihrem Laptop in die Kanzlei ihres Rechtsvertreters nach A begab und erst dort die fragliche E-Mail ausdruckte, womit die örtliche Zuständigkeit wiederum in A läge. So oder anders lässt sich die örtliche Zuständigkeit der Vorinstanz auch nicht mit Hilfe von Art. 346 Abs. 3 StGB konstruieren.
+b)    Zwar trifft es zu, dass der vom Berufungskläger angerufene § 69 Abs. 3 StPO (der nach der Rechtsprechung des Obergerichts auch in Ehrverletzungssachen gilt) vorsieht, dass wenn ein Strafantrag innert Frist bei einer im ersten Teil der StPO erwähnten nicht zuständigen Behörde gestellt wurde, die Frist als gewahrt gilt; in diesem Fall ist der Antrag unverzüglich an die zuständige Behörde weiterzuleiten. Indessen greift die in dieser Bestimmung normierte Überweisung nur bei fehlender sachlicher und nicht auch bei nicht gegebener örtlicher Zuständigkeit. Ausschlaggebend dafür ist, dass § 69 Abs. 3 StPO Bezug nimmt auf die "im ersten Teil [der StPO] erwähnten Behörden". In diesem Teil ist die sachliche Zuständigkeit geregelt, während die (innerkantonale) örtliche Zuständigkeit erst im zweiten Teil in § 24 StPO durch einen Hinweis auf die Bestimmungen des StGB geregelt ist. Schon aus dieser Systematik ergibt sich, dass § 69 Abs. 3 StPO für die Überweisung ausschliesslich an der fehlenden sachlichen Zuständigkeit anknüpft. Auch § 25 StPO ändert an der Zuständigkeitsordnung gemäss dem ersten Teil der StPO nichts: Diese Bestimmung legt die Zuständigkeitsordnung der Strafgerichte nämlich nicht ins Belieben der Staatsanwaltschaft, sondern stellt lediglich klar, dass für die Bestimmung der sachlichen Zuständigkeit nach §§ 6 ff. StPO die dem Angeklagten in der Überweisung vorgeworfenen Delikte massgebend sind. Abgesehen davon kann § 25 StPO auf das Privatstrafverfahren keine Anwendung finden (§ 171 Abs. 1 StPO).
+c)    Auch die auf das vorliegende Verfahren grundsätzlich zur Anwendung gelangende ZPO enthält keine Vorschrift, wonach beim unzuständigen Gericht angehobene Prozesse an das zuständige Gericht überwiesen werden dürften. Sowohl in der Praxis (RBOG 1992 Nr. 38 und
+1994 Nr. 32
+) als auch in der Literatur (Merz, Praxis zur thurgauischen Zivilprozessordnung, Bern 2000, § 94 N 2a; Bürgi/Schläpfer/Hotz/Parolari, Handbuch zur Thurgauer Zivilprozessordnung, Zürich 2000, § 94 N 11; Böckli, Zivilprozess-Ordnung für den Kanton Thurgau, Frauenfeld 1930, § 162 N 2) ist unbestritten, dass der thurgauische Gesetzgeber bewusst von der Aufnahme des Instituts der Prozessüberweisung in die ZPO absah und es sich demnach nicht um eine Lücke in der gesetzlichen Regelung handelt, die vom Richter ausgefüllt werden könnte. Vor diesem Hintergrund liegt auch auf der Hand, dass die Weisung Nr. 2 des Obergerichts vom 28. Januar 1943/Oktober 1992 ebenfalls nicht die Prozessüberweisung beschlägt, sondern lediglich einzelne Eingaben im Rahmen eines bereits hängigen Verfahrens betrifft, die irrtümlich bei einer falschen Behörde eingereicht werden.
+d)    Schliesslich besteht auch kraft Bundesrechts keine Pflicht zur Prozessüberweisung: Es ist nicht das kantonale Verfahrensrecht, das in einem Fall wie diesem die Durchsetzung des materiellen Bundesrechts vereitelt, sondern es ist ausschliesslich auf den Fehler des Berufungsklägers zurückzuführen, wenn er mit Blick auf die Antragsfrist seines Anspruchs verlustig geht (BGE 122 IV 256 f. und 69 IV 158).
+Obergericht, 26. Oktober 2004, SBR.2004.23
