@@ -1,0 +1,90 @@
+---
+decision_id: "tg_obergericht_RBOG_1994_Nr._8"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1994 Nr. 8"
+docket_2: "BR 94 86"
+decided: "1994-10-17"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/79DB977C-FEEE-4C9E-A6219AB1D9954371.html"
+cites_law: ["switzerland/bund/acts/220/art-143.md", "switzerland/bund/acts/220/art-144.md", "switzerland/bund/acts/220/art-253.md", "switzerland/bund/acts/281.1/art-082.md"]
+---
+
+# TG Obergericht RBOG 1994 Nr. 8
+
+## Regeste
+
+1. X sowie Y unterzeichneten einen Mietvertrag, welcher ohne Zweifel einen Rechtsöffnungstitel für die fälligen Mietzinsen im Sinn von Art. b) Beizupflichten ist der Vorinstanz, dass der Mietvertrag die solidarische Haftbarkeit der Mieter nicht ausdrücklich festhält. Es ist indessen davon auszugehen, dass X und Y die 3 1/2- Zimmerwohnung gemeinsam mieteten; so hält der Mietvertrag ausdrücklich fest, Mieter seien "X und Y". Auch unterzeichneten beide Mieter den Vertrag.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 17.10.1994 RBOG 1994 Nr. 8 (BR 94 86)
+Thurgovie Obergericht Rechenschaftsbericht 17.10.1994 RBOG 1994 Nr. 8 (BR 94 86)
+Turgovia Obergericht Rechenschaftsbericht 17.10.1994 RBOG 1994 Nr. 8 (BR 94 86)
+
+1. X sowie Y unterzeichneten einen Mietvertrag, welcher ohne Zweifel einen Rechtsöffnungstitel für die fälligen Mietzinsen im Sinn von Art. b) Beizupflichten ist der Vorinstanz, dass der Mietvertrag die solidarische Haftbarkeit der Mieter nicht ausdrücklich festhält. Es ist indessen davon auszugehen, dass X und Y die 3 1/2- Zimmerwohnung gemeinsam mieteten; so hält der Mietvertrag ausdrücklich fest, Mieter seien "X und Y". Auch unterzeichneten beide Mieter den Vertrag.
+
+RBOG 1994 Nr. 8
+RBOG 1994 Nr. 8
+Unterzeichnen mehrere Mieter einen Mietvertrag gemeinsam, haften sie solidarisch
+(Art. 82 SchKG;
+Art. 143 OR)
+1.    X
+sowie Y unterzeichneten einen Mietvertrag, welcher ohne Zweifel
+einen Rechtsöffnungstitel für die fälligen
+Mietzinsen im Sinn von Art. 82 SchKG darstellt. Ebenfalls nicht
+bestritten ist, dass die Mietzinsen für zwei Monate
+ausstehend sind.
+2.    X
+haftet nur dann für den gesamten Mietzins, wenn zwischen
+ihr und Y eine Solidarschuldnerschaft besteht. Die Vorinstanz
+verneinte dies, weil aus den ins Recht gelegten Urkunden weder
+eine vertragliche Solidarhaft hervorgehe noch Gründe
+für eine gesetzliche Solidarhaftung ersichtlich seien.
+a)    Solidarität unter mehreren Schuldnern
+entsteht, wenn sie erklären, dass dem Gläubiger
+gegenüber jeder einzeln für die Erfüllung der
+ganzen Schuld haften wolle. Ohne solche Willenserklärung
+entsteht Solidarität nur in den vom Gesetz bestimmten
+Fällen (Art. 143 OR). Die Solidarität wird nicht
+vermutet. Sie braucht indessen nicht ausdrücklich oder
+durch den Gebrauch bestimmter Wendungen verabredet zu werden,
+sondern sie kann sich ebenso durch Auslegung eines bestehenden
+Vertrags als Wille der Parteien ergeben (Guhl/Merz/Kummer, Das
+Schweizerische Obligationenrecht, 8. A., S. 30; Bucher,
+Schweizerisches Obligationenrecht, Allgemeiner Teil, 2. A., S.
+493; von Tuhr/Escher, Allgemeiner Teil des Schweizerischen
+Obligationenrechts, Bd. II, 3. A., S. 300; BGE 116 II 712).
+Verpflichten sich mehrere gemeinsam in einem
+Vertragsverhältnis, ist aufgrund der Begleitumstände
+regelmässig auf Solidarität zu schliessen. Lehre und
+Praxis gehen denn auch davon aus, dass mehrere Mieter, welche
+einen Vertrag unterschreiben, in der Regel für die
+Erfüllung der sie treffenden vertraglichen Pflichten
+solidarisch einzustehen haben (Higi, Zürcher Kommentar,
+Vorbem. zu Art. 253-274g OR N 118; Schmid, Zürcher
+Kommentar, Art. 253 aOR N 19; Bucher, S. 493; LGVE 1992 S. 26;
+vgl. Panchaud/Caprez, Die Rechtsöffnung, § 20 N 11).
+Dies gilt umso mehr, wenn zwei Mieter eine eheähnliche
+Gemeinschaft bilden (vgl. Frank/Girsberger/Vogt/Walder/Weber,
+Die eheähnliche Gemeinschaft [Konkubinat] im
+schweizerischen Recht, Zürich 1984, § 7 N 2;
+Rippmann, Konkubinat - Ehe ohne Trauschein, 2. A., S. 16).
+b)    Beizupflichten ist der Vorinstanz, dass
+der Mietvertrag die solidarische Haftbarkeit der Mieter nicht
+ausdrücklich festhält. Es ist indessen davon
+auszugehen, dass X und Y die 3 1/2- Zimmerwohnung gemeinsam
+mieteten; so hält der Mietvertrag ausdrücklich fest,
+Mieter seien "X und Y". Auch unterzeichneten beide Mieter den
+Vertrag. Ob zwischen den beiden Mietern ein
+Konkubinatsverhältnis vorliegt bzw. vorlag, kann
+dahingestellt bleiben; aufgrund der Umstände - gemeinsames
+Auftreten als Mieter, Vertragsunterzeichnung durch beide Mieter
+- muss so oder so auf Solidarität geschlossen werden.
+c)    Zusammenfassend haften X und Y somit
+solidarisch für die ausstehenden Mietzinse für die
+Monate März und April 1994. Mithin hat der Vermieter das
+Recht, von X die gesamten Mietzinsausstände einzufordern
+(Art. 144 OR).
+Rekurskommission, 17. Oktober 1994, BR 94
+86
