@@ -1,0 +1,183 @@
+---
+decision_id: "tg_obergericht_RBOG_1999_Nr._4"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1999 Nr. 4"
+docket_2: "BR.1999.24"
+decided: "1999-04-23"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/B6640F1A-A814-4819-BE42FEA02EB7AD24.html"
+cites_law: ["switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/220/art-120.md", "switzerland/bund/acts/220/art-257e.md", "switzerland/bund/acts/220/art-266l.md", "switzerland/bund/acts/220/art-266o.md", "switzerland/bund/acts/281.1/art-082.md"]
+---
+
+# TG Obergericht RBOG 1999 Nr. 4
+
+## Regeste
+
+Die Rekursgegner bestreiten ihre Zahlungspflicht mit dem Hinweis darauf, sie hätten den Mietvertrag per 30. September 1998 aufgelöst. b) Die Rekurrentin reicht im Rekursverfahren eine Kopie der von den Rekursgegnern verfassten Kündigung ein. c) Selbst wenn indessen davon auszugehen wäre, die Rekurrentin hätte die Rekursgegner nicht um Behebung des Mangels ersuchen müssen, kann sie sich nicht auf nach wie vor bestehende Gültigkeit des Mietvertrags berufen.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 23.04.1999 RBOG 1999 Nr. 4 (BR.1999.24)
+Thurgovie Obergericht Rechenschaftsbericht 23.04.1999 RBOG 1999 Nr. 4 (BR.1999.24)
+Turgovia Obergericht Rechenschaftsbericht 23.04.1999 RBOG 1999 Nr. 4 (BR.1999.24)
+
+Die Rekursgegner bestreiten ihre Zahlungspflicht mit dem Hinweis darauf, sie hätten den Mietvertrag per 30. September 1998 aufgelöst. b) Die Rekurrentin reicht im Rekursverfahren eine Kopie der von den Rekursgegnern verfassten Kündigung ein. c) Selbst wenn indessen davon auszugehen wäre, die Rekurrentin hätte die Rekursgegner nicht um Behebung des Mangels ersuchen müssen, kann sie sich nicht auf nach wie vor bestehende Gültigkeit des Mietvertrags berufen.
+
+RBOG 1999 Nr. 4
+RBOG 1999 Nr. 4
+Auflösung eines Mietverhältnisses trotz formungültiger Kündigung; Rechtsmissbrauch;  Beweislast
+(Art. 266l OR;
+Art. 2 Abs. 2, 8 ZGB; Art. 82 SchKG)
+1.    Die
+Rekurrentin (Vermieterin) stützt ihre Forderung auf einen
+Mietvertrag.  Dass dieser dann, wenn er noch immer Bestand
+hat, hinsichtlich der fälligen Mietzinse einen
+provisorischen Rechtsöffnungstitel darstellt (Art. 82
+SchKG), ist unbestritten. In  Betreibung gesetzt hat die
+Rekurrentin die Mietzinse von Oktober 1998 bis Januar 1999.
+Die  Rekursgegner bestreiten ihre Zahlungspflicht mit dem
+Hinweis darauf, sie hätten den  Mietvertrag per 30.
+September 1998 aufgelöst. Darüber, dass sie der
+Rekurrentin eine  Kündigung zukommen liessen, besteht
+zwischen den Parteien Einigkeit; uneinig sind sie sich
+hingegen darüber, ob diese Kündigung gültig
+ist.
+2.
+a)    Gemäss Art. 266l Abs. 1 OR
+müssen Vermieter und Mieter von Wohn- und
+Geschäftsräumen schriftlich kündigen. Die
+Einhaltung der Schriftform ist somit bei der
+Kündigung Gültigkeitserfordernis. Wenn gesetzlich die
+schriftliche Form vorgesehen ist, muss  die entsprechende
+Eingabe die eigenhändige Unterschrift derjenigen Person
+enthalten, die  eine Rechtswirkung erzielen will (vgl.
+Art. 13 f. OR). Eine Kündigung muss folglich vom
+Mieter (oder von dessen Stellvertreter) unterzeichnet sein.
+Kündigungen sind einseitige,  empfangsbedürftige
+Willenserklärungen, mit denen der Erklärende ein
+Gestaltungsrecht ausübt.  Ihr Ziel ist es, klare
+Verhältnisse zu schaffen. Dies ist nur dann der Fall, wenn
+sie  aufgrund der eigenhändigen Unterschrift
+eindeutig der die Kündigung erklärenden Person
+zugeordnet werden können; nur und erst in der
+eigenhändigen Unterschrift zeigt sich der
+Erklärungswille deutlich (Higi, Zürcher Kommentar,
+Art. 266l OR N 10 f.).
+Die Beweislast dafür, dass eine dem Vermieter
+eingeschrieben zugesandte  Sendung eine Art. 266l Abs. 1
+OR entsprechende Kündigung enthielt, d.h. unterzeichnet
+war,  liegt nach den allgemeinen beweisrechtlichen Regeln
+(Art. 8 ZGB) beim Kündigenden (Higi,  Art. 266l OR N
+15). Kann er diesen Beweis nicht erbringen oder ist erstellt,
+dass die  Kündigung nicht unterzeichnet war, ist
+letztere ungültig. Formungültigkeit ist indessen
+im  Gegensatz zur Nichtigkeit gemäss Art. 266o OR
+heilbar: Die Kündigung kann nachträglich noch
+unterzeichnet werden. Dem Vermieter steht es ferner frei, die
+fehlerhafte Kündigung als  gültig anzuerkennen.
+Selbstverständlich ist er aber auch berechtigt, sich auf
+die  Formungültigkeit zu berufen, sofern diese
+Einrede nicht rechtsmissbräuchlich ist.
+Rechtsmissbrauch liegt vor, wenn ein Formfehler für die
+Gegenpartei unschwer erkennbar bzw.  augenfällig ist,
+sie aber darauf verzichtet, unverzüglich auf den Mangel
+aufmerksam zu  machen (Higi, Art. 266l OR N 26).
+b)    Die Rekurrentin reicht im Rekursverfahren
+eine Kopie der von den  Rekursgegnern verfassten
+Kündigung ein. Sie enthält keine Unterschrift,
+hingegen den  handschriftlichen Vermerk: "Bitte Kurzbrief
+mit Kopie dieses Briefes, sollen Kündigung
+unterschreiben, sonst nicht gültig." Nach ihren Angaben
+wurde den Rekursgegnern sodann ein  Kurzbrief mit
+folgenden Bemerkungen zugestellt: "Wir haben von Ihnen ein
+Kündigungsschreiben  erhalten, welches jedoch nicht
+unterzeichnet ist. Bitte stellen Sie uns ein
+unterzeichnetes  Exemplar zu, andernfalls wir die
+Kündigung in der bestehenden Form nicht akzeptieren
+können." Ihr Vorgehen begründet sie mit dem Hinweis,
+es sei nicht nur ihr Recht, sondern  gleichermassen ihre
+Pflicht gewesen, "zur Schaffung klarer Verhältnisse
+dafür zu sorgen,  dass sichergestellt wird, dass die
+Kündigung auch tatsächlich von den Mietern
+ausgesprochen  wurde."
+Die Rekurskommission teilt diese Auffassung: Nachdem die
+Rekurrentin - nach  ihrer Sachdarstellung - sofort sah,
+dass die Kündigung formungültig war, war sie
+verpflichtet, die Mieter hierauf hinzuweisen und ihnen die
+Möglichkeit der nachträglichen  Unterzeichnung
+einzuräumen. Nun bestreiten diese jedoch den Erhalt des
+Kurzbriefs. Versandt  worden war er mit normaler Post,
+d.h. nicht eingeschrieben. Den Beweis dafür, dass
+die  Rekurrentin die Rekursgegner zur Unterzeichnung
+aufgefordert hatte, muss erstere erbringen.  Mit der
+Einreichung einer Kopie des Briefs ist diesem Erfordernis nicht
+Genüge getan; hiefür  ist unabdingbar, dass die
+Vermieterin zumindest belegen kann, dass das Schreiben in
+den  Empfangsbereich der Rekursgegner gelangte. Da es
+daran fehlt, gilt die Aufforderung zur  Unterzeichnung der
+Kündigung als nicht erfolgt. Unter diesen Umständen
+kann sich die  Vermieterin im jetzigen Zeitpunkt aber
+nicht mehr zu ihren Gunsten auf Formungültigkeit der
+Kündigung berufen; das Kündigungsschreiben der
+Rekursgegner gilt vielmehr als akzeptiert.
+c)    Selbst wenn indessen davon auszugehen
+wäre, die Rekurrentin hätte  die Rekursgegner
+nicht um Behebung des Mangels ersuchen müssen, kann sie
+sich nicht auf nach  wie vor bestehende Gültigkeit
+des Mietvertrags berufen. Erstellt ist nämlich, dass ihr
+die  Mieter mitteilten, sie würden das der
+Vermieterin geleistete Depot gestützt auf Art. 265
+und  Art. 120 Abs. 2 OR mit dem fälligen
+September-Mietzins verrechnen. Die Verwaltung  akzeptierte
+diesen Vorschlag ohne jeden Vorbehalt: "Wir ... bestätigen
+Ihnen hiermit, dass  wir das Depot mit der September
+1998-Miete gutschreiben werden. Wir hoffen, Ihnen damit
+gedient zu haben." Daraus muss zwingend geschlossen werden, sie
+habe sich mit der - nach  ihrer Darstellung - nicht
+unterzeichneten Kündigung einverstanden erklärt. Die
+Modalitäten  zur Herausgabe der Sicherheit, welche
+der Mieter im Sinn von Art. 257e Abs. 1 OR leistete,  sind
+im dortigen Abs. 3 abschliessend geregelt. Als Grundsatz gilt
+die jederzeitige  Herausgabe aufgrund einer gemeinsamen
+Verfügung der Parteien, und zwar unbeschadet darum,
+ob  das Mietverhältnis besteht oder aufgelöst
+worden ist. Anstelle der gemeinsamen Verfügung  kann
+ein rechtskräftiger Entscheid treten, und schliesslich
+muss die Herausgabe im Fall des  beendeten
+Mietverhältnisses zwingend innert einem Jahr erfolgen
+(Higi, Art. 257e OR N 35).
+Ob die Vermieterin in der hier zu beurteilenden Streitsache
+ihrer  Verpflichtung, das Depot bei einer Bank zu
+hinterlegen (Art. 257e Abs. 1 OR), nachgekommen  ist,
+erscheint eher unwahrscheinlich; aus den Ausführungen der
+Rekursgegner ist jedenfalls  zu schliessen, die
+Vermieterin habe ihnen nie den Namen der Bank und die genaue
+Bezeichnung  der Hinterlage (Art und Nummer des Kontos
+usw.) im Anschluss an die Hinterlegung  bekanntgegeben
+(vgl. Higi, Art. 257e OR N 29). Der (allenfalls) nicht
+gesetzmässigen  Hinterlegung kommt indessen
+vorliegend keine Bedeutung zu. Entscheidend ist vielmehr,
+dass  in den Augen eines objektiven Dritten das
+Einverständnis der Rekurrentin mit der Verrechnung
+seinen Grund nur in der Beendigung des Mietvertrags haben
+konnte. Wäre die Vermieterin,  exakte zwei Monate
+nach ihrer Aufforderung, die Kündigung zu unterzeichnen,
+tatsächlich  davon ausgegangen (oder hätte davon
+ausgehen dürfen), das Mietverhältnis habe
+weiterhin  Bestand, hätte sie wohl nicht akzeptiert,
+dass nun plötzlich trotz weiterbestehendem
+Mietvertrag die Septembermiete nicht eingeht, sondern mit einem
+knapp vier Jahre zuvor  geleisteten Depot verrechnet wird.
+Zumindest hätte sie dann, wenn sie diesen Eindruck
+nicht  hätte erwecken wollen, einen entsprechenden
+Vermerk anbringen, d.h. darauf hinweisen müssen,
+dass die Kündigung nicht gültig sei und die
+Rückerstattung der Sicherheitsleistung deshalb  rein
+entgegenkommenderweise erfolge. Da sie dies unterliess, durften
+die Rekursgegner davon  ausgehen, es bestehe allseits
+Einigkeit darüber, dass der Mietvertrag entsprechend
+ihrer  Kündigung per 30. September 1998
+aufgelöst werde.
+Rekurskommission, 23. April 1999,
+BR.1999.24, 25, 31 und 32
