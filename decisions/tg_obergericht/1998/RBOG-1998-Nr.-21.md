@@ -1,0 +1,121 @@
+---
+decision_id: "tg_obergericht_RBOG_1998_Nr._21"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1998 Nr. 21"
+docket_2: "ZR 98 69"
+decided: "1998-08-24"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/0D27B182-FF65-4181-9C2495593CB4E2FB.html"
+cites_law: ["switzerland/bund/acts/220/art-337c.md"]
+---
+
+# TG Obergericht RBOG 1998 Nr. 21
+
+## Regeste
+
+Dies ist dann der Fall, wenn die Gerichtsgebühren und Anwaltsauslagen die ihr zugesprochene Forderung nicht gleichermassen konsumieren. 122'000.-- hat dann, wenn das Verfahren an der Hauptverhandlung beendet werden kann, eine Gerichtsgebühr von Fr. Dementsprechend steigen sowohl die Gerichtsgebühren als auch die Parteientschädigung um rund 40%.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 24.08.1998 RBOG 1998 Nr. 21 (ZR 98 69)
+Thurgovie Obergericht Rechenschaftsbericht 24.08.1998 RBOG 1998 Nr. 21 (ZR 98 69)
+Turgovia Obergericht Rechenschaftsbericht 24.08.1998 RBOG 1998 Nr. 21 (ZR 98 69)
+
+Dies ist dann der Fall, wenn die Gerichtsgebühren und Anwaltsauslagen die ihr zugesprochene Forderung nicht gleichermassen konsumieren. 122'000.-- hat dann, wenn das Verfahren an der Hauptverhandlung beendet werden kann, eine Gerichtsgebühr von Fr. Dementsprechend steigen sowohl die Gerichtsgebühren als auch die Parteientschädigung um rund 40%.
+
+RBOG 1998 Nr. 21
+RBOG 1998 Nr. 21
+Aussichtslosigkeit des Prozesses zufolge massiven Überklagens
+(§ 80 Abs.
+1 ZPO)
+1.    Der
+Rekurrent hob einen arbeitsrechtlichen Forderungsprozess an.
+Seine  Ansprüche betreffend Sozialabgaben und
+Ferienentschädigung machen frankenmässig rund 85%
+des  gesamten Forderungsbetrags, d.h. rund Fr. 103'000.--
+aus. Die übrigen Fr. 19'000.-- sind  Lohn
+während der dreimonatigen Kündigungsfrist sowie eine
+Strafzahlung im Sinn von Art. 337c  Abs. 3 OR. Diese
+Forderung erachtete die Vorinstanz nicht von vornherein
+als  ungerechtfertigt. Selbst wenn der Rekurrent
+diesbezüglich obsiegen würde, resultiere für
+ihn  aber aus dem Prozess letztendlich kein Gewinn,
+nachdem er zufolge massiven Überklagens für
+einen wesentlichen Teil der Gerichtsgebühren und
+Anwaltskosten der Gegenpartei aufzukommen  habe.
+2.    Der
+Rekurrent verwahrt sich gegen diese Auffassung mit dem Hinweis
+auf  Frank/Sträuli/Messmer (Die zürcherische
+Zivilprozessordnung, 3.A., § 84 N 22). Dort wird
+unter Bezugnahme auf ZR 50, 1951, Nr. 8 und 36, 1937, Nr. 191
+festgehalten, liessen die  Rechtsbegehren des
+Gesuchstellers auch nur zu einem kleinen Teil die
+Möglichkeit eines  Erfolgs offen, könne der
+Prozess nicht in vollem Umfang als aussichtslos gelten;
+die  unentgeltliche Prozessführung sei in einem
+solchen Fall auf die nicht aussichtslosen  Begehren zu
+beschränken. Diese Praxis bedarf nach Auffassung der
+Rekurskommission einer  Präzisierung. § 80 ZPO
+will verhindern, dass eine Partei zufolge ihrer
+Bedürftigkeit von der  Führung eines nicht
+aussichtslosen Prozesses ausgeschlossen wird; sie soll nicht
+schlechter  gestellt sein als eine vermögende Partei.
+Im Gegenzug dazu soll aber auch verhindert werden,  dass
+eine Partei auf Staatskosten ein Verfahren durchführt, das
+sie dann, wenn sie selbst  dafür aufkommen
+müsste, vernünftigerweise nicht einleiten würde.
+Diejenige Partei, die einen  Prozess selber bezahlen muss,
+wird den Entscheid, ob sie prozessieren will, kaum je nur
+vom  möglichen Prozentsatz ihres Obsiegens in bezug
+auf das Rechtsbegehren abhängig machen; sie  wird in
+aller Regel auch die anfallenden Gerichts- und Anwaltskosten
+mit in ihre  Überlegungen einbeziehen. Zumindest in
+Forderungsprozessen lohnt sich ein Prozess -  wenigstens
+finanziell - stets nur dann, wenn die Gesamtabrechnung
+zugunsten der klagenden  Partei lautet. Dies ist dann der
+Fall, wenn die Gerichtsgebühren und Anwaltsauslagen die
+ihr  zugesprochene Forderung nicht gleichermassen
+konsumieren. Trifft dies zu, wird eine  vernünftige
+vermögende Partei darauf verzichten, einen Prozess
+durchzuführen; dies gilt  jedenfalls so lange, als
+pekuniärer Gewinn für sie wichtiger ist als
+Rechthaberei.
+3.
+a)    Ein Streitwert von rund Fr. 122'000.-- hat
+dann, wenn das Verfahren  an der Hauptverhandlung beendet
+werden kann, eine Gerichtsgebühr von Fr. 3'000.-- zur
+Folge  (§ 11 Ziff. 1 GebV). Hievon hat der Rekurrent
+dann, wenn er hinsichtlich seiner  Teilforderung wegen
+ungerechtfertigter Auflösung des Arbeitsverhältnisses
+obsiegen würde,  85%, d.h. Fr. 2'550.--, zu bezahlen.
+Unter den gleichen Voraussetzungen beläuft sich die
+der  Gegenpartei zu leistende Entschädigung,
+ausgehend von einem Totalbetrag von Fr. 9'600.--,  auf Fr.
+6'720.-- bzw. unter Berücksichtigung von Barauslagen und
+Mehrwertsteuer auf ca. Fr.  7'500.--. Die Kosten belaufen
+sich somit bislang auf rund Fr. 10'000.--. Der Rekurrent
+klagt  wegen fristloser Entlassung rund Fr. 19'000.-- ein.
+Gelangen nicht die arbeitsvertraglichen
+Gesetzesbestimmungen zur Anwendung, wird ihm nicht eine
+Strafzahlung nach Art. 337c Abs. 3  OR, sondern eine
+betragsmässig kleiner ausfallende Zahlung als
+Schadenersatz zugesprochen.  Ob einer dieser
+Ansprüche gerechtfertigt ist, wird nicht ohne
+Beweisverfahren entschieden  werden können.
+Dementsprechend steigen sowohl die Gerichtsgebühren als
+auch die  Parteientschädigung um rund 40%. Dem
+Rekurrenten verbleibt folglich selbst dann, wenn er den
+Prozess zu 10-15% gewinnen würde, kein oder nur ein ganz
+bescheidener finanzieller Gewinn.  Noch weit
+unbefriedigender wird das Prozessergebnis für ihn, wenn
+nicht unberücksichtigt  gelassen wird, dass ihm sein
+eigener Anwalt ebenfalls noch eine Honorarnote entsprechend
+dem  Anwaltstarif präsentieren wird.
+b)    Gesamthaft betrachtet muss der vom
+Rekurrenten eingeleitete  Forderungsprozess somit als
+aussichtslos bezeichnet werden. Die Vorinstanz verweigerte
+ihm  deshalb zu Recht die unentgeltliche
+Prozessführung.
+Rekurskommission, 24. August 1998, ZR 98
+69
