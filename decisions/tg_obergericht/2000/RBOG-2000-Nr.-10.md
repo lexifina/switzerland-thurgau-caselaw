@@ -1,0 +1,113 @@
+---
+decision_id: "tg_obergericht_RBOG_2000_Nr._10"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2000 Nr. 10"
+docket_2: "BS.2000.1"
+decided: "2000-01-31"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/44C46A18-EBD4-4B79-841127B798529BE0.html"
+cites_law: ["switzerland/bund/acts/281.1/art-140.md", "switzerland/bund/acts/281.1/art-142.md", "switzerland/bund/acts/281.1/art-257.md", "switzerland/bund/acts/281.1/art-258.md", "switzerland/bund/acts/281.42/art-056.md", "switzerland/bund/acts/281.42/art-129.md"]
+---
+
+# TG Obergericht RBOG 2000 Nr. 10
+
+## Regeste
+
+1. Das Konkursamt wies den von der Beschwerdeführerin als Grundpfandgläubigerin verlangten Doppelaufruf mit und ohne langfristigen Mietvertrag über das zu versteigernde Grundstück ab; der entsprechende Antrag sei nicht innert der zehntägigen Frist seit der Anzeige über die konkursrechtliche Grundstücksteigerung gestellt worden. Die Beschwerdeführerin macht geltend, die Frist sei bloss eine Ordnungsfrist bzw. Da offenbar die im Konkurs angemeldete Forderung der Beschwerdeführerin und der ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 31.01.2000 RBOG 2000 Nr. 10 (BS.2000.1)
+Thurgovie Obergericht Rechenschaftsbericht 31.01.2000 RBOG 2000 Nr. 10 (BS.2000.1)
+Turgovia Obergericht Rechenschaftsbericht 31.01.2000 RBOG 2000 Nr. 10 (BS.2000.1)
+
+1. Das Konkursamt wies den von der Beschwerdeführerin als Grundpfandgläubigerin verlangten Doppelaufruf mit und ohne langfristigen Mietvertrag über das zu versteigernde Grundstück ab; der entsprechende Antrag sei nicht innert der zehntägigen Frist seit der Anzeige über die konkursrechtliche Grundstücksteigerung gestellt worden. Die Beschwerdeführerin macht geltend, die Frist sei bloss eine Ordnungsfrist bzw. Da offenbar die im Konkurs angemeldete Forderung der Beschwerdeführerin und der ...
+
+RBOG 2000 Nr. 10
+RBOG 2000 Nr. 10
+Die Frist, innert welcher der Doppelaufruf verlangt werden kann, ist eine Verwirkungsfrist; Fristbeginn bei einer konkursrechtlichen Versteigerung
+(Art. 142 Abs.
+1 SchKG; Art. 104 Abs. 1, 129 Abs. 1 VZG)
+1.    Das
+Konkursamt wies den von der Beschwerdeführerin als
+Grundpfandgläubigerin verlangten Doppelaufruf mit und ohne
+langfristigen Mietvertrag über das zu versteigernde
+Grundstück ab; der entsprechende Antrag sei nicht innert
+der zehntägigen Frist seit der Anzeige über die
+konkursrechtliche Grundstücksteigerung gestellt worden.
+Die Beschwerdeführerin macht geltend, die Frist sei bloss
+eine Ordnungsfrist bzw. habe erst mit Zustellung des
+Lastenverzeichnisses zu laufen begonnen.
+2.
+a)    Im Konkursverfahren bereitet die
+Konkursverwaltung die Verwertung der Grundstücke in Form
+der Versteigerung vor (vgl. Art. 257 SchKG). Das Gesetz weist
+bezüglich der Verwertung des Grundstücks und der
+Steigerungsbedingungen auf die Bestimmungen zum Verfahren
+betreffend die Betreibung auf Pfändung hin (Art. 258 Abs.
+2 und 259 SchKG). Namentlich wird auf Art. 142 Abs. 1 und 3
+SchKG verwiesen (Art. 258 Abs. 2 SchKG).
+b)    Die Frage, ob die in Art. 142 Abs. 1 SchKG
+statuierte Frist von zehn Tagen, innert welcher der
+Grundpfandgläubiger nach Zustellung des
+Lastenverzeichnisses den Doppelaufruf verlangen kann, als
+Verwirkungsfrist oder als Ordnungsfrist zu qualifizieren ist,
+wird im Gesetz nicht ausdrücklich beantwortet. Allerdings
+wird in Art. 129 VZG die Spezialanzeige im Konkursverfahren
+geregelt; danach ist den Gläubigern anzuzeigen, dass sie
+binnen zehn Tagen schriftlich den Doppelaufruf im Sinn von Art.
+142 SchKG verlangen können, mit der Androhung, dass sonst
+der Verzicht auf dieses Recht angenommen werde (Art. 129 Abs. 1
+VZG). Gemäss dieser Bestimmung ist die zehntägige
+Frist offensichtlich eine Verwirkungsfrist.
+Die Beschwerdeführerin verweist demgegenüber auf die
+Auffassung von Häusermann/Stöckli/Feuz (Basler
+Kommentar, Art. 142 SchKG N 14), wonach es sich bei der
+fraglichen Frist um eine Ordnungsfrist handeln soll. Dort wird
+weiter festgestellt, dass Literatur und Rechtsprechung aus Art.
+56 Abs. 1 VZG schlössen, es handle sich bei der
+zehntägigen Frist gemäss Art. 142 Abs. 1 SchKG nicht
+um eine Verwirkungsfrist. Diese Auffassung wird indessen nicht
+mit Belegstellen untermauert; die Kommentatoren nehmen auch
+keinen Bezug auf das Konkursverfahren. Fest steht ferner, dass
+weder die gängige Literatur, auf welche im Übrigen
+auch Häusermann/Stöckli/Feuz (Art. 142 SchKG S. 1386
+und Art. 140 SchKG S. 1346) hinweisen, noch die bekannte Praxis
+den Charakter bzw. die Eigenschaften dieser Frist beschreiben
+(Amonn/Gasser, Grundriss des Schuldbetreibungs- und
+Konkursrechts, 6.A., § 11 N 2 ff.). Die Auffassung, dass
+es sich bei der Frist gemäss Art. 142 Abs. 1 SchKG um eine
+Ordnungsfrist handeln soll, kann damit nicht auf den Basler
+Kommentar abgestützt werden. Dass aufgrund von Art. 56 VZG
+der Schluss gezogen werden könnte, es handle sich nicht um
+eine Verwirkungsfrist, ist nicht nachvollziehbar, umso weniger,
+als ein direkter Zusammenhang nicht ersichtlich ist und Art. 56
+VZG auf Art. 129 VZG verweist.
+c)    Die fragliche Frist ist somit als
+Verwirkungsfrist und nicht als Ordnungsfrist zu
+qualifizieren.
+3.
+a)    Nachdem es sich um eine konkursrechtliche
+Versteigerung handelt, kann die Zustellung der
+Lastenverzeichnisse nicht fristauslösendes Element sein.
+Vielmehr ist erstellt, dass die Lastenverzeichnisse zusammen
+mit dem Kollokationsplan 30 Tage auflagen. Dies wurde
+ordnungsgemäss im Amtsblatt publiziert. Da offenbar die im
+Konkurs angemeldete Forderung der Beschwerdeführerin und
+der geltend gemachte Rang anerkannt wurden, bestand keine
+Veranlassung, der Beschwerdeführerin noch eine weitere
+Anzeige zuzustellen.
+b)    Die Argumentation der
+Beschwerdeführerin, es sei dem Verfahrensrecht untersagt,
+Grundsätze aufzustellen, welche die Durchsetzung des
+materiellen Rechts untergraben würden, vermag in diesem
+Zusammenhang nicht zu überzeugen. Jeder Prozess hat in
+gewissen Formen abzulaufen, so dass im Interesse eines
+beförderlichen und geregelten Verfahrensablaufs Fristen
+statuiert werden können, welche allenfalls bei
+Säumnis den Verlust eines materiellen Rechts zur Folge
+haben (BGE 118 II 482 ff.). Entsprechend vermag die
+Beschwerdeführerin auch aus dieser Argumentation nichts zu
+ihren Gunsten abzuleiten.
+Obergericht, 31. Januar 2000, BS.2000.1
