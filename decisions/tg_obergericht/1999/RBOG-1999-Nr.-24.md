@@ -1,0 +1,115 @@
+---
+decision_id: "tg_obergericht_RBOG_1999_Nr._24"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1999 Nr. 24"
+docket_2: "ZBO.1999.76"
+decided: "1999-11-18"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/EF99B159-6744-4AD1-B1C67F9178D7CB39.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-004.md"]
+---
+
+# TG Obergericht RBOG 1999 Nr. 24
+
+## Regeste
+
+1. Der Rechtsvertreter der Berufungsklägerin versäumte die ihm zur Stellung der Berufungsanträge und zur Einreichung allfälliger Noven sowie zur Leistung eines Kostenvorschusses angesetzte Frist. 2. a) Die Berufungsklägerin macht geltend, sie selbst treffe kein Verschulden, doch seien gemäss ständiger Rechtsprechung die Fehler des Rechtsvertreters einer Partei gleich zu behandeln wie ihre eigenen Fehler. In anderen Kantonen würden Fehler eines Rechtsvertreters der Partei nur zugerechnet, ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 18.11.1999 RBOG 1999 Nr. 24 (ZBO.1999.76)
+Thurgovie Obergericht Rechenschaftsbericht 18.11.1999 RBOG 1999 Nr. 24 (ZBO.1999.76)
+Turgovia Obergericht Rechenschaftsbericht 18.11.1999 RBOG 1999 Nr. 24 (ZBO.1999.76)
+
+1. Der Rechtsvertreter der Berufungsklägerin versäumte die ihm zur Stellung der Berufungsanträge und zur Einreichung allfälliger Noven sowie zur Leistung eines Kostenvorschusses angesetzte Frist. 2. a) Die Berufungsklägerin macht geltend, sie selbst treffe kein Verschulden, doch seien gemäss ständiger Rechtsprechung die Fehler des Rechtsvertreters einer Partei gleich zu behandeln wie ihre eigenen Fehler. In anderen Kantonen würden Fehler eines Rechtsvertreters der Partei nur zugerechnet, ...
+
+RBOG 1999 Nr. 24
+RBOG 1999 Nr. 24
+Fristversäumnis des Anwalts
+(§ 70
+ZPO)
+1.    Der
+Rechtsvertreter der Berufungsklägerin versäumte die
+ihm zur Stellung der  Berufungsanträge und zur
+Einreichung allfälliger Noven sowie zur Leistung
+eines  Kostenvorschusses angesetzte Frist.
+2.
+a)    Die Berufungsklägerin macht geltend,
+sie selbst treffe kein  Verschulden, doch seien
+gemäss ständiger Rechtsprechung die Fehler des
+Rechtsvertreters  einer Partei gleich zu behandeln wie
+ihre eigenen Fehler. Diese thurgauische Regelung sei zu
+rigoros, und eine Ablehnung der Fristwiederherstellung
+verstosse als Gehörsverweigerung  gegen Art. 4 BV und
+Art. 6 EMRK. In anderen Kantonen würden Fehler eines
+Rechtsvertreters  der Partei nur zugerechnet, wenn die
+Partei bei der Auswahl ihres Rechtsvertreters
+unsorgfältig gewesen sei.
+b)    Unklar bleibt aufgrund dieser Vorbringen,
+inwieweit sich die  Rechtsprechung im Kanton Thurgau von
+derjenigen in anderen Kantonen unterscheiden soll.
+Richtig ist nur, dass die Rechtsprechung unter den Kantonen in
+der Frage differiert,  inwieweit das Verschulden einer
+Hilfsperson, insbesondere von Kanzleimitarbeitern eines
+Rechtsanwalts, dem Rechtsvertreter bzw. der Partei selbst
+angerechnet werden können. In  diesem Punkt schliesst
+nach Auffassung einiger Kantone das Verschulden der Hilfsperson
+die  Wiederherstellung der Frist nicht aus, sofern bei
+ihrer Wahl und Instruktion die nötige  Sorgfalt
+angewendet wurde (Guldener, Schweizerisches Zivilprozessrecht,
+3.A., S. 273 Anm.  43; Hauser/ Hauser, Erläuterungen
+zum Gerichtsverfassungsgesetz des Kantons Zürich, 3.A.,
+S.  771), wobei allerdings festzuhalten ist, dass sich die
+in diesem Bereich tatsächlich  strengere
+Rechtsprechung im Kanton Thurgau (RBOG 1993 Nr. 16, 1984 Nr. 13
+und 1962 Nr. 10)  mit derjenigen des Bundesgerichts deckt
+(BGE 114 Ib 70 ff. mit Hinweisen; Messmer/Imboden,  Die
+eidgenössischen Rechtsmittel in Zivilsachen, Zürich
+1992, S. 26; Geiser/Münch,  Prozessieren vor
+Bundesgericht, 2.A., S. 25). Dass indessen das Verschulden
+eines  Rechtsvertreters der Partei selbst ohne weiteres
+angerechnet wird, gilt - soweit aufgrund  eines kurzen
+Überblicks ersichtlich - in den meisten Kantonen (vgl.
+Frank/Sträuli/Messmer,  Kommentar zur
+zürcherischen Zivilprozessordnung, 3.A., § 29 N 16;
+Bühler/Edelmann/Killer,  Kommentar zur aargauischen
+Zivilprozessordnung, 2.A., § 98 N 11;
+Leuch/Marbach/Kellerhals,  Die Zivilprozessordnung
+für den Kanton Bern, 4.A., Art. 288 N 6a;
+Stähelin/Sutter,  Zivilprozessrecht nach den Gesetzen
+der Kantone Basel-Stadt und Basel-Landschaft, Zürich
+1992, § 12 N 12; SGGVP 1989 Nr. 82 S. 174;
+Studer/Rüegg/Eiholzer, Der Luzerner Zivilprozess,
+Luzern 1994, § 91 N 3; SOG 1982 Nr. 31 für den
+Verwaltungsprozess; ARGVP 2/1990 Nr. 3183 S.  115 für
+den Strafprozess; Padrutt, Kommentar zur Strafprozessordnung
+des Kantons Graubünden,  2.A., Art. 65a N 3);
+ausserdem gilt die Regelung von Art. 35 OG in allen Kantonen,
+die  selbst über keine entsprechende Regelung
+verfügen (Vogel, Grundriss des Zivilprozessrechts,
+6.A., 9. Kap., N 104a mit Hinweis auf BGE 117 Ia 301).
+c)    Selbst wenn indessen zutreffen sollte,
+dass andere Kantone  diesbezüglich eine andere Praxis
+verfolgen, besteht kein Grund, von der ständigen
+Rechtsprechung des Obergerichts zu diesem Punkt abzuweichen.
+Die vom Rechtsvertreter der  Berufungsklägerin
+angestrebte Lösung vermöchte nicht zu befriedigen:
+Zum einen kann es nicht  angehen, Handlungen eines
+Rechtsvertreters für die Partei nur dann gelten lassen zu
+wollen,  wenn sie sich zu ihren Gunsten auswirken, nicht
+aber dann, wenn sich Fehler zu ihren Lasten  auswirken
+können. Zum anderen mag ein Nachweis genügender
+Sorgfalt bei Auswahl und  Instruktion einer Hilfsperson
+noch angehen, da es insoweit tatsächlich einen
+Unterschied  macht, ob man mit der Spedition eines Briefes
+eine langjährige Anwaltssekretärin oder einen
+Landstreicher beauftragt, doch wird einer Partei kaum je
+mangelnde Sorgfalt bei der Auswahl  eines zugelassenen
+Anwalts vorgeworfen werden können, da sie in der Regel
+seine Fähigkeiten  nicht einzuschätzen vermag
+und aufgrund der behördlichen Zulassung in jedem Fall
+davon  ausgehen kann, der Anwalt genüge den für
+den Berufsstand erforderlichen  Minimalanforderungen.
+Obergericht, 18. November 1999,
+ZBO.1999.76
