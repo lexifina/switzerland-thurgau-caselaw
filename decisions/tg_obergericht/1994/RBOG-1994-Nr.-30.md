@@ -1,0 +1,131 @@
+---
+decision_id: "tg_obergericht_RBOG_1994_Nr._30"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1994 Nr. 30"
+docket_2: "ZR 94 55"
+decided: "1994-09-05"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/C3033FD7-CAC9-47BD-8E0781D3D5D04DAA.html"
+cites_law: ["switzerland/bund/acts/220/art-322c.md", "switzerland/bund/acts/220/art-367.md", "switzerland/bund/acts/220/art-445.md"]
+---
+
+# TG Obergericht RBOG 1994 Nr. 30
+
+## Regeste
+
+9 ZPO ist der Bezirksgerichtspräsident zuständig für den Erlass von Verfügungen im summarischen Verfahren, mit welchen die Prüfung des Werks durch Sachverständige unter Beurkundung des Befunds angeordnet wird. Es handelt sich um amtliche Sachverständige, eingesetzt von der Behörde am Ort der Ablieferung des Werks (Zindel/Pulfer, Kommentar zum Schweizerischen Privatrecht, Obligationenrecht I, Art. Die Ernennung der Sachverständigen geschieht, sobald eine Partei dies verlangt, ohne dass eine ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 05.09.1994 RBOG 1994 Nr. 30 (ZR 94 55)
+Thurgovie Obergericht Rechenschaftsbericht 05.09.1994 RBOG 1994 Nr. 30 (ZR 94 55)
+Turgovia Obergericht Rechenschaftsbericht 05.09.1994 RBOG 1994 Nr. 30 (ZR 94 55)
+
+9 ZPO ist der Bezirksgerichtspräsident zuständig für den Erlass von Verfügungen im summarischen Verfahren, mit welchen die Prüfung des Werks durch Sachverständige unter Beurkundung des Befunds angeordnet wird. Es handelt sich um amtliche Sachverständige, eingesetzt von der Behörde am Ort der Ablieferung des Werks (Zindel/Pulfer, Kommentar zum Schweizerischen Privatrecht, Obligationenrecht I, Art. Die Ernennung der Sachverständigen geschieht, sobald eine Partei dies verlangt, ohne dass eine ...
+
+RBOG 1994 Nr. 30
+RBOG 1994 Nr. 30
+Verhältnis zwischen werkvertraglicher Befundaufnahme und prozessualer Beweissicherung; Rechtsmittelmöglichkeiten
+(§§
+235, 170 ZPO; Art. 367 Abs. 2 OR)
+1.    Nach
+§ 235 Abs. 1 ZPO ist im summarischen Verfahren der Rekurs
+gegen Erledigungsverfügungen zulässig. Mit dem Rekurs
+nicht anfechtbar sind nach § 235 Abs. 2 Ziff. 2 ZPO
+Verfügungen betreffend Beweissicherung. In RBOG 1990 Nr.
+34 hielt die Rekurskommission fest, § 235 Abs. 2 Ziff. 2
+ZPO müsse dahingehend ausgelegt werden, dass
+Erledigungsverfügungen, mit denen eine Beweissicherung
+zugelassen worden sei, von keiner der Parteien mit Rekurs
+angefochten werden könnten. Demgegenüber habe der
+Gesuchsteller - und allenfalls auch ein vom gerichtlichen
+Entscheid betroffener Dritter (§ 236 ZPO) - die
+Möglichkeit, Rekurs einzureichen, wenn der
+Gerichtspräsident die Anordnung der Beweissicherung
+verweigere.
+2.    Die
+dargelegten Grundsätze gelten bezüglich der Sicherung
+gefährdeter Beweise im Sinne von § 170 ZPO. Danach
+nimmt der Gerichtspräsident vor Eintritt der
+Rechtshängigkeit eines Prozesses Beweise im summarischen
+Verfahren ab, soweit ein Anspruch auf rasche Feststellung des
+Tatbestands besteht, oder wenn glaubhaft gemacht wird, die
+Beweiserhebung sei später wesentlich erschwert oder
+unmöglich, oder wenn die Beteiligten übereinstimmend
+ein wesentliches Interesse glaubhaft machen. Nach Art. 367 Abs.
+2 OR ist zudem sowohl der Besteller als auch der Unternehmer
+berechtigt, auf seine Kosten eine Prüfung des Werks durch
+Sachverständige und die Beurkundung des Befunds zu
+verlangen. Nach § 173 Ziff. 9 ZPO ist der
+Bezirksgerichtspräsident zuständig für den
+Erlass von Verfügungen im summarischen Verfahren, mit
+welchen die Prüfung des Werks durch Sachverständige
+unter Beurkundung des Befunds angeordnet wird.
+a)    Die Tätigkeit von
+Sachverständigen gemäss Art. 367 Abs. 2 OR dient der
+Sicherung des Beweises für die Mangelhaftigkeit oder die
+Mängelfreiheit des abgelieferten Werks. Es handelt sich um
+amtliche Sachverständige, eingesetzt von der Behörde
+am Ort der Ablieferung des Werks (Zindel/Pulfer, Kommentar zum
+Schweizerischen Privatrecht, Obligationenrecht I, Art. 367 N
+22; BGE 96 II 270). Bei dieser Regelung handelt es sich um eine
+amtlich angeordnete Tatbestandsaufnahme; sie ist ein Akt der
+freiwilligen Gerichtsbarkeit, an den keine besonderen
+Voraussetzungen geknüpft sind. Insbesondere ist dieses
+Institut von der vorsorglichen Beweisaufnahme nach kantonalem
+Prozessrecht zu unterscheiden. Die Ernennung der
+Sachverständigen geschieht, sobald eine Partei dies
+verlangt, ohne dass eine Beweisgefährdung, die
+Wahrscheinlichkeit eines Mangels oder eines Prozesses dargetan
+zu werden braucht. Das Verfahren setzt keinen Streit, ja nicht
+einmal eine Mängelrüge des Bestellers voraus (Gauch,
+Der Werkvertrag, 3.A., N 1036 ff.; LGVE 1986 I Nr. 12; SGGVP
+1988 Nr. 50). Die Beweisaufnahme nach Art. 367 Abs. 2 OR hat
+schliesslich mit dem ordentlichen Beweisverfahren mittels
+Expertise nach der Zivilprozessordnung nichts zu tun; für
+eine amtliche Prüfung des Werks kommt somit die Anordnung
+einer Oberexpertise nicht in Frage. Hingegen kann das Begehren
+der  Gegenpartei um Durchführung einer Gegenexpertise
+als selbständiger Antrag im Sinne von Art. 367 Abs. 2 OR
+verstanden werden; das Gesetz sieht ausdrücklich vor, dass
+jeder Teil berechtigt ist, auf seine Kosten eine Prüfung
+des Werks durch Sachverständige zu verlangen (LGVE 1987 I
+Nr. 22).
+b)    Die Ausgestaltung der amtlich angeordneten
+Tatbestandsaufnahme nach Art. 367 Abs. 2 OR als
+eigenständiges Institut der freiwilligen Gerichtsbarkeit
+hat auch Auswirkungen auf die Anfechtungsmöglichkeit
+entsprechender Verfügungen. Materiell handelt es sich um
+eine Verfügung des Bezirksgerichtspräsidenten im
+summarischen Verfahren nach § 161 Ziff. 3 i.V. m. §
+173 Ziff. 9 ZPO. Prozessual liegt ein Erledigungsentscheid vor,
+welcher zwar die Beweissicherung betrifft, mit Rücksicht
+auf den eigenständigen Charakter aber nicht unter §
+235 Abs. 2 Ziff. 2 ZPO, sondern unter § 235 Abs. 1 ZPO zu
+subsumieren ist. Dies gilt nicht nur für die amtlich
+angeordnete Tatbestandsaufnahme nach Art. 367 Abs. 2 OR,
+sondern auch etwa für die Bezeichnung eines
+Sachverständigen zur Ermittlung des Anteils am
+Geschäftsergebnis und zur Nachprüfung der
+Provisionsabrechnung (Art. 322a und Art. 322c OR, § 173
+Ziff. 8 ZPO) oder für die Feststellung des Tatbestands bei
+schnell verderblichen Frachtgütern oder fehlender Deckung
+der darauf haftenden Kosten (Art. 445 OR, § 173 Ziff. 12
+ZPO). Zwar mag sich insbesondere der letztgenannte Tatbestand
+§ 170 ZPO annähern, da bei schnell verderblichen
+Frachtgütern immer Gefahr in Verzug liegt; dies
+ändert aber nichts daran, dass sich diese
+Tatbestandsfeststellungen auf Bundesrecht abstützen und
+somit unabhängig von kantonalen Bestimmungen über die
+vorsorgliche Beweissicherung durchzuführen sind.
+3.
+Stützt sich demnach die Einsetzung eines
+Sachverständigen zur Tatbestandsaufnahme auf Bundesrecht,
+kann eine entsprechende, im summarischen Verfahren erlassene
+Verfügung stets mit Rekurs angefochten werden, sofern es
+sich um eine Erledigungsverfügung im Sinne von § 235
+Abs. 1 ZPO handelt. In dieser Hinsicht ist RBOG 1990 Nr. 34 zu
+ergänzen.
+Rekurskommission, 5. September 1994, ZR 94
+55
