@@ -1,0 +1,141 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._22"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 22"
+docket_2: "BR 97 130"
+decided: "1997-12-22"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/DB673F37-60A0-4B7E-AA61E31F677B76E7.html"
+cites_law: ["switzerland/bund/acts/281.1/art-265.md", "switzerland/bund/acts/281.1/art-265a.md", "switzerland/bund/acts/281.1/art-267.md"]
+---
+
+# TG Obergericht RBOG 1997 Nr. 22
+
+## Regeste
+
+1. Rund einen Monat nach der Konkurseröffnung über den Rekurrenten wurde gegen diesen ein (rechtskräftiger) Pfändungsverlustschein ausgestellt. Sie erwog, die in Betreibung gesetzte Forderung sei nach der Konkurseröffnung über den Rekurrenten entstanden bzw. Aufgrund der Akten erscheint die Annahme der Vorinstanz, die dem Verlustschein zugrundeliegende Forderung sei nach der Konkurseröffnung entstanden, als zweifelhaft.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 22.12.1997 RBOG 1997 Nr. 22 (BR 97 130)
+Thurgovie Obergericht Rechenschaftsbericht 22.12.1997 RBOG 1997 Nr. 22 (BR 97 130)
+Turgovia Obergericht Rechenschaftsbericht 22.12.1997 RBOG 1997 Nr. 22 (BR 97 130)
+
+1. Rund einen Monat nach der Konkurseröffnung über den Rekurrenten wurde gegen diesen ein (rechtskräftiger) Pfändungsverlustschein ausgestellt. Sie erwog, die in Betreibung gesetzte Forderung sei nach der Konkurseröffnung über den Rekurrenten entstanden bzw. Aufgrund der Akten erscheint die Annahme der Vorinstanz, die dem Verlustschein zugrundeliegende Forderung sei nach der Konkurseröffnung entstanden, als zweifelhaft.
+
+RBOG 1997 Nr. 22
+RBOG 1997 Nr. 22
+Die Zulässigkeit des Rechtsvorschlags "kein neues Vermögen" gegen die in einem Pfändungsverlustschein verurkundete Forderung hat der Richter, nicht das Betreibungsamt zu prüfen
+(Art. 265a,
+267, 149 SchKG)
+1.    Rund
+einen Monat nach der Konkurseröffnung über den
+Rekurrenten wurde gegen diesen ein (rechtskräftiger)
+Pfändungsverlustschein ausgestellt. Gestützt auf
+diesen hob der Gläubiger die Betreibung an. Der Rekurrent
+schlug mit der ergänzenden Bemerkung "kein neues
+Vermögen" Recht vor. Ohne Prüfung der
+Vermögenslage des Schuldners bewilligte die Vorinstanz den
+Rechtsvorschlag mit Bezug auf den Zusatz "kein neues
+Vermögen" nicht. Sie erwog, die in Betreibung gesetzte
+Forderung sei nach der Konkurseröffnung über den
+Rekurrenten entstanden bzw. der Pfändungsverlustschein
+nach diesem Zeitpunkt ausgestellt worden, weshalb die Einrede
+des fehlenden neuen Vermögens rechtsmissbräuchlich
+und der Rechtsvorschlag mit dem entsprechenden Hinweis
+unzulässig sei. Bei präziseren Hinweisen des
+Gläubigers hätte bereits das Betreibungsamt den mit
+der Begründung "kein neues Vermögen" erhobenen
+Rechtsvorschlag ablehnen können.
+2.
+a)    Für den ungedeckt bleibenden Betrag
+einer im Konkurs eingegebenen Forderung erhält der
+Gläubiger einen Verlustschein. Gestützt auf ihn kann
+eine neue Betreibung eingeleitet werden, wenn der Schuldner zu
+neuem Vermögen gekommen ist (Art. 265 SchKG). Die
+Forderungen derjenigen Gläubiger, welche am Konkurs nicht
+teilgenommen haben, unterliegen denselben Beschränkungen
+wie diejenigen, für welche ein Verlustschein ausgestellt
+worden ist (Art. 267 SchKG). Erhebt der Schuldner
+Rechtsvorschlag mit der Begründung, er sei nicht zu neuem
+Vermögen gekommen, legt das Betreibungsamt den
+Rechtsvorschlag dem Richter des Betreibungsorts vor. Dieser
+hört die Parteien an und entscheidet endgültig. Er
+bewilligt den Rechtsvorschlag, wenn der Schuldner seine
+Einkommens- und Vermögensverhältnisse darlegt und
+glaubhaft macht, dass er nicht zu neuem Vermögen gekommen
+ist. Bewilligt der Richter den Rechtsvorschlag nicht, stellt er
+den Umfang des neuen Vermögens fest (Art. 265a Abs. 1-3
+SchKG). Zuständig für diesen Entscheid ist
+gemäss § 175 Ziff. 11 revZPO der
+Bezirksgerichtspräsident. Der Schuldner und der
+Gläubiger können innert 20 Tagen nach der
+Eröffnung des Entscheids über den Rechtsvorschlag auf
+dem ordentlichen Prozessweg beim Richter des Betreibungsorts
+Klage auf Bestreitung oder Feststellung des neuen
+Vermögens einreichen. Der Prozess wird im beschleunigten
+Verfahren durchgeführt.
+b)    Der Rechtsvorschlag ist vom Betreibungsamt
+nur in formeller Hinsicht daraufhin zu prüfen, ob er
+formgültig erhoben wurde, nicht auch, ob er sachlich
+begründet ist (Amonn/Gasser, Grundriss des
+Schuldbetreibungs- und Konkursrechts, 6.A., § 18 N 26).
+Solche formellen Gründe stellen etwa die Rechtzeitigkeit
+oder Formulierung des Rechtsvorschlags dar (Jaeger/Walder/Kull/
+Kottmann, Bundesgesetz über Schuldbetreibung und Konkurs,
+4.A., Art. 74 N 9). Im Zusammenhang mit dem Rechtsvorschlag
+"kein neues Vermögen" gehört hingegen die Frage, ob
+die Forderung erst nach der Konkurseröffnung entstand,
+nicht zu den formellrechtlichen Gründen. Hier geht es
+vielmehr um Fragen, die in materiell- rechtlicher und
+tatsächlicher Hinsicht überprüft werden
+müssen, was die Tätigkeit eines Richters erfordert
+(vgl. Fritzsche/Walder, Schuldbetreibung und Konkurs nach
+schweizerischem Recht, Bd. II, 3.A., § 53 Anm. 16 S. 393;
+BGE 108 III 8, 59 III 126; PKG 1987 Nr. 38; BlSchK 55, 1991,
+Nr. 29 S. 105 f.). Diesen Entscheid hat daher entgegen BGE 36 I
+321 f. und der sich darauf berufenden Praxis einiger kantonaler
+Aufsichtsbehörden (vgl. Brügger, SchKG,
+Schweizerische Gerichtspraxis 1984-1991, Horw/Luzern 1992, Art.
+265 N 2, 12, 14) nicht das Betreibungsamt bzw. - auf Beschwerde
+hin - die Aufsichtsbehörde zu treffen. Über die
+Prüfung der Zulässigkeit des Rechtsvorschlags wegen
+fehlenden neuen Vermögens zu entscheiden hat entsprechend
+Art. 265a Abs. 1 SchKG i.V.m. § 175 Ziff. 11 revZPO der
+Richter des Betreibungsorts, der sich auch mit der Einrede des
+fehlenden neuen Vermögens zu befassen hat.
+3.
+Unter Berücksichtigung der im Betreibungsrecht geltenden
+Fristen musste die Forderung, für welche ein
+Pfändungsverlustschein ausgestellt wurde, im Zeitpunkt der
+Konkurseröffnung bereits Bestand gehabt haben. Sie
+unterliegt damit im Sinn von Art. 267 SchKG den gleichen
+Einschränkungen wie die Forderungen, für welche ein
+Konkursverlustschein ausgestellt wurde. Dem Schuldner steht
+mithin die Möglichkeit offen, einer neuerlichen Betreibung
+die Einrede des mangelnden neuen Vermögens
+entgegenzuhalten (LGVE 1986 I 43 = BlSchK 52, 1988, Nr. 48).
+Dies gilt auch dann, wenn der Schuldner aufgrund eines
+Verlustscheins betrieben wird, welcher zufolge einer
+Pfändung nach dem Konkurs ausgestellt wurde, sofern die
+Verlustscheinsforderung aus der Zeit vor dem Konkurs stammt und
+in diesem nicht eingegeben wurde (SJZ 62, 1966, Nr. 217 S.
+348).
+Aufgrund der Akten erscheint die Annahme der Vorinstanz, die
+dem Verlustschein zugrundeliegende Forderung sei nach der
+Konkurseröffnung entstanden, als zweifelhaft.
+Gegebenenfalls wird die Vorinstanz in dieser Hinsicht weitere
+Abklärungen vorzunehmen und insbesondere zu prüfen
+haben, ob allenfalls nach der Konkurseröffnung
+bezüglich der vorher entstandenen Schuld eine Neuerung
+erfolgte; der Verlustschein selbst bewirkte allerdings keine
+Novation (BGE 86 III 77). Sollte die Auffassung des Rekurrenten
+zutreffen, wonach die erneut in Betreibung gesetzte Forderung
+vor der Konkurseröffnung entstand, hat die Vorinstanz
+einen endgültigen Entscheid im Sinn von Art. 265a Abs. 2
+oder 3 SchKG über das Vorhandensein neuen Vermögens
+zu fällen. Die Streitsache ist daher zu neuem Entscheid an
+die Vorinstanz zurückzuweisen.
+Rekurskommission, 22. Dezember 1997, BR 97
+130
