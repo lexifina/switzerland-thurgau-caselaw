@@ -1,0 +1,40 @@
+---
+decision_id: "tg_obergericht_RBOG_1994_Nr._05"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1994 Nr. 05"
+decided: "1994-08-22"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-1994-nr-5"
+cites_law: ["switzerland/bund/acts/220/art-269.md", "switzerland/bund/acts/221.213.11/art-014.md"]
+---
+
+# TG Obergericht RBOG 1994 Nr. 05
+
+## Regeste
+
+Nettorenditenberechnung des Vermieters: Massgebend sind die tatsächlichen Aufwendungen
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 1994 RBOG 1994 Nr. 05
+Thurgovie Obergericht Rechenschaftsbericht 1994 RBOG 1994 Nr. 05
+Turgovia Obergericht Rechenschaftsbericht 1994 RBOG 1994 Nr. 05
+
+RBOG 1994 Nr. 05
+Skip to main content
+Show navigation
+Nettorenditenberechnung des Vermieters: Massgebend sind die tatsächlichen Aufwendungen
+Art. 269 OR
+1. Die Mieter verlangen wegen Senkung des Hypothekarzinses eine Herabsetzung des Mietzinses. Strittig ist, ob die Vermieterin für die Unterhaltskosten eine Pauschale abziehen kann, oder ob der tatsächliche Aufwand zu berücksichtigen ist.
+2. a) Bereits vor Vorinstanz hatte die Rekurrentin (Vermieterin) bezüglich der Unterhaltskosten die Berücksichtigung einer Pauschale von 1% des Gebäudewerts beantragt. Die Vorinstanz stellte hingegen auf die effektiven Betriebskosten ab. Die Rekurrentin hält dafür, es sei nicht konsequent, wohl bei der Ermittlung der Bruttorendite, nicht hingegen bei der Nettorenditenberechnung auf Erfahrungswerte abzustellen. Der Gesetzgeber wolle mit Art. 14 VMWG die Bildung von Rückstellungen für periodisch anfallende Unterhaltsarbeiten nicht nur ermöglichen, sondern setze dies geradezu voraus; dies bedeute, dass Unterhaltsrückstellungen in einem bestimmten Umfang auch in den laufenden Liegenschaftenrechnungen zu berücksichtigen seien. Ohne die Berücksichtigung sei jedenfalls nicht einsichtig, wie das Bundesgericht im Zusammenhang mit den umfassenden Ueberholungen argumentieren könne, dass der Vermieter einen Teil der Investitionen aus seinen Rückstellungen aus den gewöhnlichen Mietzinsen tragen müsse.
+b) Diese Auffassung der Rekurrentin stützt sich auf den SVIT-Kommentar Mietrecht (Art. 269 OR N 13). Dagegen stellen die Rechtsprechung und ein Teil der Literatur nur auf die effektiven Unterhalts- und Betriebskosten ab und berücksichtigen Rückstellungen für Unterhaltsarbeiten nicht. Zur Begründung wird angeführt, der Mieter habe über die tatsächliche Verwendung der Rückstellungen keine Kontrolle und profitiere nicht davon, wenn er die Liegenschaft vorher verlasse; Rückstellungen verblieben überdies bei der Veräusserung der Liegenschaft gewöhnlich beim Verkäufer (Lachat/Stoll, Das neue Mietrecht für die Praxis, S. 203).
+Dieser Auffassung ist zu folgen: Bei der Nettorenditenberechnung ist grundsätzlich auf die tatsächlichen Aufwendungen abzustellen; dies gilt umso mehr, wenn pauschal geltend gemachte Kosten vom Mieter bestritten werden. Für diese Betrachtungweise spricht insbesondere, dass die Nettorenditenberechnung eine Momentaufnahme ist. Zwar mag zutreffen, dass die Unterhaltskosten bei neueren Bauten in den ersten Jahren gering sind. Dies rechtfertigt es indessen nicht, zukünftige Aufwendungen bei einer auf einen bestimmten Zeitpunkt abstellenden Nettorenditenberechnung zu berücksichtigen. Fallen zu einem späteren Zeitpunkt höhere Unterhaltskosten an, ist es dem Vermieter nämlich nicht verwehrt, auf die dannzumal anfallenden durchschnittlichen Unterhaltskosten, welche über mehrere Jahre zu ermitteln sind, abzustellen und allenfalls eine Mietzinserhöhung zu erwirken. In einem solchen Fall wird der Richter dem Vermieter jedenfalls nicht entgegnen können, er hätte bereits früher bezüglich der Unterhaltskosten Rückstellungen tätigen müssen. Dazu kommt, dass auch der SVIT-Kommentar Mietrecht lediglich von der Berücksichtigung von Unterhaltsrückstellungen "in einem bestimmten Umfange" ausgeht (Art. 269 OR N 13). Würde mit der Rekurrentin von einer Pauschale von 1% des Gebäudewerts ausgegangen, wären bei den Liegenschaftenkosten Unterhaltsarbeiten von rund Fr. 22'300.-- zu berücksichtigen; die effektiven durchschnittlichen Unterhaltsarbeiten beziffert die Rekurrentin indessen selbst auf Fr. 1'435.20. Die Rekurrentin tätigt somit jährlich Rückstellungen von rund Fr. 20'880.--; ausgehend von den tatsächlichen durchschnittlichen Unterhaltskosten würden somit Rückstellungen in 14facher Höhe pro Jahr anfallen. Gerade unter diesem Aspekt erscheint das gegen eine Pauschalierung ins Feld geführte Argument zutreffend, der Mieter habe über deren tatsächliche Verwendung keine Kontrolle und profitiere nicht davon, wenn er die Liegenschaft vorher verlasse.
+c) Es ist somit bei der Nettorenditenberechnung von den effektiven Unterhaltskosten auszugehen, wobei ein durchschnittlicher Wert über einen Zeitraum von drei bis fünf Jahren zu ermitteln ist (Lachat/Stoll, S. 203 Anm. 49).
+Rekurskommission, 22. August 1994, ZR 94 116
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
