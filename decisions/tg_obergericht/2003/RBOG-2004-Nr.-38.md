@@ -1,0 +1,35 @@
+---
+decision_id: "tg_obergericht_RBOG_2004_Nr._38"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2004 Nr. 38"
+docket_2: "SW.2003.14"
+decided: "2003-12-15"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/DB20BD3D-36C9-4ED4-84C49A11C02D7833.html"
+cites_law: ["switzerland/bund/acts/311.0/art-101.md"]
+---
+
+# TG Obergericht RBOG 2004 Nr. 38
+
+## Regeste
+
+Vom Widerruf des bedingten Vollzugs für die ausgesprochene 12-monatige Gefängnisstrafe sei abzusehen, der Beschwerdeführer aber gehörig zu verwarnen, die Probezeit um ein Jahr auf insgesamt drei Jahre zu verlängern und der Beschwerdeführer in dieser Zeit unter Schutzaufsicht zu stellen. Der Beschwerdeführer beantragte die Bestellung eines Offizialverteidigers. Nicht entscheidend ist zudem, dass der Beschwerdeführer gegebenenfalls zu einem späteren Zeitpunkt mit dem Widerruf des bedingten ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 15.12.2003 RBOG 2004 Nr. 38 (SW.2003.14)
+Thurgovie Obergericht Rechenschaftsbericht 15.12.2003 RBOG 2004 Nr. 38 (SW.2003.14)
+Turgovia Obergericht Rechenschaftsbericht 15.12.2003 RBOG 2004 Nr. 38 (SW.2003.14)
+
+Vom Widerruf des bedingten Vollzugs für die ausgesprochene 12-monatige Gefängnisstrafe sei abzusehen, der Beschwerdeführer aber gehörig zu verwarnen, die Probezeit um ein Jahr auf insgesamt drei Jahre zu verlängern und der Beschwerdeführer in dieser Zeit unter Schutzaufsicht zu stellen. Der Beschwerdeführer beantragte die Bestellung eines Offizialverteidigers. Nicht entscheidend ist zudem, dass der Beschwerdeführer gegebenenfalls zu einem späteren Zeitpunkt mit dem Widerruf des bedingten ...
+
+RBOG 2004 Nr. 38
+RBOG 2004 Nr. 38
+Bagatellfall, welcher die Bestellung eines Offizialverteidigers nicht erfordert
+(§ 50 Abs. 4 StPO)
+1.    Die Staatsanwaltschaft erhob gegen den Beschwerdeführer Anklage wegen Betrugs und Irreführung der Rechtspflege, wegen mehrfacher versuchter Nötigung und Widerhandlung gegen das Waffengesetz, wegen versuchten Diebstahls, Sachbeschädigung, mehrfachen Hausfriedensbruchs, mehrfachen Führens eines Motorfahrzeugs ohne Haftpflichtversicherung und mehrfachen Missbrauchs von Kontrollschildern sowie schliesslich wegen einfacher Körperverletzung und Raufhandels. Beantragt wurde eine Bestrafung mit zwei bis drei Monaten Gefängnis und Fr. 300.-- Busse, "grösstenteils als Zusatzstrafe" unter Anrechnung von einem Tag Untersuchungshaft und unter Gewährung des bedingten Strafvollzugs bei einer Probezeit von drei Jahren. Der Beschwerdeführer sei während der dreijährigen Probezeit unter Schutzaufsicht zu stellen. Vom Widerruf des bedingten Vollzugs für die ausgesprochene 12-monatige Gefängnisstrafe sei abzusehen, der Beschwerdeführer aber gehörig zu verwarnen, die Probezeit um ein Jahr auf insgesamt drei Jahre zu verlängern und der Beschwerdeführer in dieser Zeit unter Schutzaufsicht zu stellen. Der Beschwerdeführer beantragte die Bestellung eines Offizialverteidigers. Das Gerichtspräsidium wies das Gesuch ab.
+2.    a)    Zu beurteilen ist, ob die Streitsache als Bagatellfall zu qualifizieren ist, wo mithin von vornherein kein verfassungsmässiger Anspruch auf amtliche Verteidigung besteht, oder ob es sich um einen relativ schweren Fall handelt. In diesem Zusammenhang ist festzustellen, dass entgegen der Auffassung des Beschwerdeführers für die massgebliche Dauer lediglich die neu auszufällende Freiheitsstrafe massgebend ist und es keine Rolle spielt, ob diese Sanktion teilweise eine Zusatzstrafe zu einer früher ausgefällten Strafe darstellt, solange nicht der Widerruf des bedingten Vollzugs für die Einsatzstrafe zur Diskussion steht. Nicht entscheidend ist zudem, dass der Beschwerdeführer gegebenenfalls zu einem späteren Zeitpunkt mit dem Widerruf des bedingten Strafvollzugs (für die Einsatz- und/oder Zusatzstrafen bzw. alten und neuen Strafen) rechnen muss, falls er sich in der Probezeit inskünftig etwas zuschulden kommen lassen oder sich beharrlich der beantragten Schutzaufsicht entziehen sollte. Würde anders entschieden, müsste jede Strafsache, in der eine bedingte Strafe von sechs oder mehr Monaten beantragt wird, als schwerer Fall qualifiziert werden.
+b)    Das Obergericht vertritt mit der Staatsanwaltschaft die Auffassung, dass regelmässig bei einer drohenden bedingten Freiheitsstrafe von bis zu rund drei Monaten von einem Bagatellfall auszugehen ist. Zu Recht wies die Staatsanwaltschaft in diesem Zusammenhang darauf hin, der Entwurf zu einer schweizerischen StPO sehe in Art. 138 sogar vor, bis zu einer Freiheitsstrafe von vier Monaten weise ein Fall grundsätzlich Bagatellcharakter auf (Begleitbericht zum Vorentwurf für eine schweizerische Strafprozessordnung, Bern 2001, S. 101). Alsdann erscheint der Eingriff in die Rechte des Gesuchstellers in aller Regel als nicht schwer und auch nicht als relativ schwer. Die fragliche Grenze von rund drei Monaten lässt sich auch damit rechtfertigen, dass der Gesetzgeber selbst für die leichteste Art eines Delikts - die Übertretung - als längste Dauer drei Monate Haft vorsieht (Art. 39 Ziff. 1 i.V.m. Art. 101 StGB). Schliesslich ist nach der bundesgerichtlichen Rechtsprechung zu Art. 41 Ziff. 3 Abs. 2 StGB ein Fall als "leicht" zu qualifizieren, wenn die Strafe drei Monate nicht übersteigt (BGE 128 IV 11).
+c)    Droht einem Gesuchsteller zusammenfassend eine bedingt zu vollziehende Freiheitsstrafe von nicht mehr als rund drei Monaten, ist die Streitsache grundsätzlich als Bagatellfall zu qualifizieren. Eine Ausnahme kann allenfalls dann vorliegen, wenn der Gesuchsteller aufgrund persönlicher Umstände überhaupt nicht in der Lage ist, sich zu verteidigen, oder wenn die Strafuntersuchung sich als ausserordentlich kompliziert erwies.
+Obergericht, 15. Dezember 2003, SW.2003.14
