@@ -1,0 +1,37 @@
+---
+decision_id: "tg_obergericht_RBOG_2004_Nr._27"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2004 Nr. 27"
+docket_2: "SW.2004.8"
+decided: "2004-10-06"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/80F62D18-B3FA-4BB6-81CDBCAE689D78E1.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md"]
+---
+
+# TG Obergericht RBOG 2004 Nr. 27
+
+## Regeste
+
+35) - ohne weiteres zu bejahen, und auch in der Konstellation wie der vorliegenden kann nicht ernsthaft behauptet werden, dem Beschwerdeführer mangle es an einem berechtigten Interesse an der Bekanntgabe der Strafverfügungen. Hier macht es angesichts der nur je aus einer Seite bestehenden Strafverfügungen keinen Sinn, den Beschwerdeführer nach A fahren und dort Einsicht nehmen zu lassen. Entsprechend sind dem Beschwerdeführer die beiden Strafverfügungen in Kopie zuzustellen.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 06.10.2004 RBOG 2004 Nr. 27 (SW.2004.8)
+Thurgovie Obergericht Rechenschaftsbericht 06.10.2004 RBOG 2004 Nr. 27 (SW.2004.8)
+Turgovia Obergericht Rechenschaftsbericht 06.10.2004 RBOG 2004 Nr. 27 (SW.2004.8)
+
+35) - ohne weiteres zu bejahen, und auch in der Konstellation wie der vorliegenden kann nicht ernsthaft behauptet werden, dem Beschwerdeführer mangle es an einem berechtigten Interesse an der Bekanntgabe der Strafverfügungen. Hier macht es angesichts der nur je aus einer Seite bestehenden Strafverfügungen keinen Sinn, den Beschwerdeführer nach A fahren und dort Einsicht nehmen zu lassen. Entsprechend sind dem Beschwerdeführer die beiden Strafverfügungen in Kopie zuzustellen.
+
+RBOG 2004 Nr. 27
+RBOG 2004 Nr. 27
+Der Anzeigeerstatter, welcher ein ernsthaftes Interesse glaubhaft macht, ist berechtigt, vom Urteil Kenntnis zu erlangen
+(Art. 6 Ziff. 1 EMRK; Art. 14 UNO-Pakt II; § 162 Abs. 4 StPO)
+1.    Auf Meldung von X an das Veterinäramt überprüfte dieses die Einhaltung der gesetzlichen Vorschriften und stellte in den Betrieben von Y und Z Verstösse gegen das Tierschutzgesetz fest. Die entsprechenden Entscheide teilte das Veterinäramt im Sinn einer Anzeige dem Bezirksamt mit, welches Y und Z je wegen Widerhandlungen gegen das Tierschutzgesetz büsste. Der Antrag von X auf Zustellung einer Kopie des Entscheids wurde sowohl vom Bezirksamt als auf Beschwerde hin auch von der Staatsanwaltschaft abgelehnt. Gegen diese Verfügung gelangte X an das Obergericht.
+2.    a)    Der Beschuldigte kann auf den Grundsatz der öffentlichen Urteilsverkündigung nicht verzichten bzw. diesen nicht ausschliessen, denn der Anspruch steht nicht nur ihm, sondern (auch) der Öffentlichkeit zu. Der Grundsatz der öffentlichen Urteilsverkündung gilt daher auch, wenn das vorausgegangene Strafverfahren nicht öffentlich durchgeführt wurde, denn die möglichen Einschränkungen des Öffentlichkeitsgrundsatzes betreffen nur die Verhandlungen, nicht aber die öffentliche Verkündung des Urteils. Berechtigten entgegenstehenden privaten oder öffentlichen Interessen kann gegebenenfalls durch Kürzung oder Anonymisierung der Strafverfügung ausreichend Rechnung getragen werden (BGE 124 IV 238 f.).
+b)    In der Lehre wird zum Teil die Auffassung vertreten, das Recht auf Bekanntgabe eines Strafurteils könne jedermann geltend machen. Dagegen verlangt die Rechtsprechung, dass ein berechtigtes Interesse glaubhaft gemacht wird. Angesichts der Bedeutung, die der öffentlichen Urteilsverkündung insbesondere in Strafsachen zukommt, sind mit Bezug auf Einschränkungen dieses Rechts strenge Massstäbe anzulegen. Es genügt daher, wenn der Betroffene ein ernsthaftes Interesse an der Kenntnisnahme eines Strafurteils glaubhaft macht. Ein solches ist entgegen der Auffassung des Bezirksamts jedenfalls für den Anzeiger im Strafverfahren - auch wenn dieser nicht als Partei des Verfahrens gilt (
+RBOG 1996 Nr. 35
+) - ohne weiteres zu bejahen, und auch in der Konstellation wie der vorliegenden kann nicht ernsthaft behauptet werden, dem Beschwerdeführer mangle es an einem berechtigten Interesse an der Bekanntgabe der Strafverfügungen. Er erstattete zwar nicht selber Strafanzeige, doch brachte er die Strafverfahren durch seine Meldung beim Veterinäramt mittelbar ins Rollen. Dass er dies neben seinem primären Anliegen, der Tierschutzgesetzgebung zum Durchbruch zu verhelfen, ebenfalls bezweckte, liegt auf der Hand und macht das berechtigte Interesse offensichtlich.
+c)    Nach der Lehre und Rechtsprechung ist Art. 6 Ziff. 1 EMRK und Art. 14 UNO-Pakt II Genüge getan, wenn das Strafurteil öffentlich bekannt gemacht wird; dazu genügt die Auflage eines Urteils bei einer der Öffentlichkeit zugänglichen Kanzlei, wo jedermann, der ein berechtigtes Interesse glaubhaft macht, den vollständigen Text des Urteils einsehen oder sich eine Kopie erstellen lassen kann. Sofern keine besonderen, schutzwürdigen Geheimhaltungsinteressen - bei deren Vorliegen allenfalls die Öffentlichkeit ausnahmsweise von den Verhandlungen ausgeschlossen werden könnte - ersichtlich sind, hat der Berechtigte Anspruch auf Kenntnisnahme des vollständigen, ungekürzten und nicht anonymisierten Urteils. Es genügt daher im Licht von Art. 6 Ziff. 1 EMRK und Art. 14 UNO-Pakt II, wenn die Strafgerichte die ausgefällten Urteile für einige Zeit auf der Kanzlei zur Einsicht durch Interessierte auflegen oder einem Berechtigten auf besonderes Ersuchen hin Einsicht in einen Strafbescheid gewähren. Es besteht indessen kein Anspruch auf Aushändigung einer Kopie (BGE 124 IV 239 f.). Hier macht es angesichts der nur je aus einer Seite bestehenden Strafverfügungen keinen Sinn, den Beschwerdeführer nach A fahren und dort Einsicht nehmen zu lassen. Entsprechend sind dem Beschwerdeführer die beiden Strafverfügungen in Kopie zuzustellen.
+Obergericht, 6. Oktober 2004, SW.2004.8
