@@ -1,0 +1,102 @@
+---
+decision_id: "tg_obergericht_RBOG_2000_Nr._7"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2000 Nr. 7"
+docket_2: "BR.2000.57"
+decided: "2000-07-17"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/5693D015-813F-473D-883FDD6D1108182C.html"
+cites_law: ["switzerland/bund/acts/210/art-060.md", "switzerland/bund/acts/210/art-646.md", "switzerland/bund/acts/281.1/art-038.md", "switzerland/bund/acts/281.1/art-067.md", "switzerland/bund/acts/281.1/art-080.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-084.md"]
+---
+
+# TG Obergericht RBOG 2000 Nr. 7
+
+## Regeste
+
+1. In der von einer Miteigentümergemeinschaft angehobenen Betreibung, in der provisorische Rechtsöffnung erteilt wurde, berief sich die Schuldnerin erstmals im Rekursverfahren auf die fehlende Parteifähigkeit der Miteigentümergemeinschaft. Die Vorinstanz führte aus, intern sei die Miteigentümergemeinschaft der Stockwerkeigentümergemeinschaft weitgehend angenähert. Keine Parteifähigkeit besitzt hingegen die einfache Miteigentümergemeinschaft im Sinn von Art.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 17.07.2000 RBOG 2000 Nr. 7 (BR.2000.57)
+Thurgovie Obergericht Rechenschaftsbericht 17.07.2000 RBOG 2000 Nr. 7 (BR.2000.57)
+Turgovia Obergericht Rechenschaftsbericht 17.07.2000 RBOG 2000 Nr. 7 (BR.2000.57)
+
+1. In der von einer Miteigentümergemeinschaft angehobenen Betreibung, in der provisorische Rechtsöffnung erteilt wurde, berief sich die Schuldnerin erstmals im Rekursverfahren auf die fehlende Parteifähigkeit der Miteigentümergemeinschaft. Die Vorinstanz führte aus, intern sei die Miteigentümergemeinschaft der Stockwerkeigentümergemeinschaft weitgehend angenähert. Keine Parteifähigkeit besitzt hingegen die einfache Miteigentümergemeinschaft im Sinn von Art.
+
+RBOG 2000 Nr. 7
+RBOG 2000 Nr. 7
+Keine Partei- und Betreibungsfähigkeit der Miteigentümergemeinschaft
+(Art. 80 ff.
+SchKG; Art. 646 ff. ZGB)
+1.    In
+der von einer Miteigentümergemeinschaft angehobenen
+Betreibung, in der provisorische Rechtsöffnung erteilt
+wurde, berief sich die Schuldnerin erstmals im Rekursverfahren
+auf die fehlende Parteifähigkeit der
+Miteigentümergemeinschaft. Die Vorinstanz führte aus,
+intern sei die Miteigentümergemeinschaft der
+Stockwerkeigentümergemeinschaft weitgehend
+angenähert. Es frage sich daher, ob sich die
+Unterscheidung rechtfertigen lasse. Allenfalls könnte das
+bestehende Reglement der Miteigentümergemeinschaft als
+Vereinssatzung anerkannt und damit nach Vereinsrecht
+vorgegangen werden.
+2.
+Beruht die Forderung auf einer durch öffentliche Urkunde
+festgestellten oder durch Unterschrift bekräftigten
+Schuldanerkennung, wird provisorische Rechtsöffnung
+erteilt, wenn der Betriebene nicht Einwendungen, welche die
+Schuldanerkennung entkräften, sofort glaubhaft macht (Art.
+82 SchKG).
+a)    Auf ein Rechtsöffnungsgesuch kann
+mangels Rechtsschutzinteresses nicht eingetreten werden
+(Staehelin, Basler Kommentar, Art. 84 SchKG N 12 mit
+Hinweisen), bzw. die Rechtsöffnung ist von Amtes wegen zu
+verweigern, wenn die Betreibung offensichtlich erloschen oder
+nichtig ist, insbesondere wegen ungenauer Bezeichnung des
+Betreibenden oder des Betriebenen (Panchaud/Caprez, Die
+Rechtsöffnung, Zürich 1980, § 43 N 1 f.).
+Betreibungsgläubiger kann grundsätzlich nur sein, wer
+über eine eigene Rechtspersönlichkeit verfügt
+und damit parteifähig ist (BGE 120 III 13, 115 III 14;
+Kofmel Ehrenzeller, Basler Kommentar, Art. 67 SchKG N 18).
+Partei einer in der Schweiz durchzuführenden Betreibung
+ist mithin, wer nach Massgabe des Zivilrechts und des
+öffentlichen Rechts Gläubiger oder Schuldner einer
+Geldsumme sein kann (Fritzsche/Walder, Schuldbetreibung und
+Konkurs nach schweizerischem Recht, Bd. I, Zürich 1984,
+§ 9 N 2). Das ist jede rechtsfähige natürliche
+oder juristische Person. Aufgrund besonderer gesetzlicher
+Bestimmungen können auch die Kollektiv- und
+Kommanditgesellschaft, welche keine Rechtspersönlichkeit
+besitzen, Partei einer Betreibung sein. Gleiches gilt für
+die Konkursmasse und die Stockwerkeigentümergemeinschaft
+gestützt auf Art. 712 l Abs. 2 ZGB. Keine
+Parteifähigkeit besitzt hingegen die einfache
+Miteigentümergemeinschaft im Sinn von Art. 646 ff. ZGB
+(Acocella, Basler Kommentar, Art. 38 SchKG N 23; Kofmel
+Ehrenzeller, Art. 67 SchKG N 18). Bei der
+Miteigentümergemeinschaft kommt die Handlungs-, Prozess-
+und Betreibungsfähigkeit den einzelnen Miteigentümern
+zu. Deshalb ist die Angabe bloss einer Sammelbezeichnung
+ungenügend, und dennoch erfolgte Betreibungshandlungen
+sind nichtig (PKG 1984 Nr. 46 S. 136).
+b)    Die von der Rekursgegnerin als
+Miteigentümergemeinschaft angehobene Betreibung ist
+nichtig, weil die Miteigentümer weder im Zahlungsbefehl
+noch im Rechtsöffnungsbegehren einzeln angegeben sind. Der
+Rekursgegnerin kann entgegen der Auffassung der Vorinstanz
+weder durch den Beizug der Bestimmungen über die
+Stockwerkeigentümergemeinschaft noch über das
+Vereinsrecht geholfen werden. Sowohl der Verein als juristische
+Person (Art. 60 ff. ZGB) als auch die
+Stockwerkeigentümergemeinschaft (Art. 712 l Abs. 1 ZGB)
+können Vermögen erwerben. Die
+Miteigentümergemeinschaft hingegen kann kein eigenes
+Vermögen erwerben, weshalb ihr auch die
+Parteifähigkeit im Betreibungsverfahren fehlt, ebenso wie
+die Prozessfähigkeit im Sinn von § 17 ZPO. Bereits
+aus diesem Grund kann daher keine Rechtsöffnung erteilt
+werden.
+Obergericht, 17. Juli 2000, BR.2000.57
