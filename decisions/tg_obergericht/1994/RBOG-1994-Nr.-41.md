@@ -1,0 +1,123 @@
+---
+decision_id: "tg_obergericht_RBOG_1994_Nr._41"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1994 Nr. 41"
+docket_2: "SB 93 45"
+decided: "1994-04-21"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/3C845EA0-0952-4FD1-9840A24A11B077A8.html"
+cites_law: ["switzerland/bund/acts/220/art-053.md", "switzerland/bund/acts/312.5/art-001.md", "switzerland/bund/acts/312.5/art-002.md", "switzerland/bund/acts/312.5/art-008.md"]
+---
+
+# TG Obergericht RBOG 1994 Nr. 41
+
+## Regeste
+
+Die Staatsanwaltschaft bezweifelt die Legitimation der Berufungskläger; die Berufung könne sich nur auf die im Strafverfahren behandelte Zivilklage beziehen. Es kann insbesondere seine Zivilansprüche geltend machen (Art. Der Ehegatte des Opfers, dessen Kinder und Eltern sowie andere Personen, die ihm in ähnlicher Weise nahestehen, werden, soweit ihnen Zivilansprüche gegenüber dem Täter zustehen, bei der Geltendmachung von Verfahrensrechten und Zivilansprüchen gemäss Art.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 21.04.1994 RBOG 1994 Nr. 41 (SB 93 45)
+Thurgovie Obergericht Rechenschaftsbericht 21.04.1994 RBOG 1994 Nr. 41 (SB 93 45)
+Turgovia Obergericht Rechenschaftsbericht 21.04.1994 RBOG 1994 Nr. 41 (SB 93 45)
+
+Die Staatsanwaltschaft bezweifelt die Legitimation der Berufungskläger; die Berufung könne sich nur auf die im Strafverfahren behandelte Zivilklage beziehen. Es kann insbesondere seine Zivilansprüche geltend machen (Art. Der Ehegatte des Opfers, dessen Kinder und Eltern sowie andere Personen, die ihm in ähnlicher Weise nahestehen, werden, soweit ihnen Zivilansprüche gegenüber dem Täter zustehen, bei der Geltendmachung von Verfahrensrechten und Zivilansprüchen gemäss Art.
+
+RBOG 1994 Nr. 41
+RBOG 1994 Nr. 41
+Parteirechte des Opfers im Berufungsverfahren
+(Art. 8 Abs. 1
+lit. c OHG; § 200 Abs. 1 StPO)
+1.    Die
+Berufungskläger verlangen ausser dem Schutz ihrer
+Genugtuungsforderungen auch den Schuldspruch des
+Berufungsbeklagten wegen fahrlässiger Tötung. Die
+Staatsanwaltschaft bezweifelt die Legitimation der
+Berufungskläger; die Berufung könne sich nur auf die
+im Strafverfahren behandelte Zivilklage beziehen.
+2.
+a)    Gemäss Art. 1 Abs. 1 OHG soll den
+Opfern von Straftaten wirksame Hilfe geleistet und ihre
+Rechtsstellung verbessert werden. Hilfe nach diesem Gesetz
+erhält jede Person, die durch eine Straftat in ihrer
+körperlichen, sexuellen oder psychischen Integrität
+unmittelbar beeinträchtigt worden ist (Opfer), und zwar
+unabhängig davon, ob der Täter ermittelt wurde und ob
+er sich schuldhaft verhielt (Art. 2 Abs. 1 OHG). Das Opfer kann
+sich am Strafverfahren beteiligen. Es kann insbesondere seine
+Zivilansprüche geltend machen (Art. 8 Abs. 1 lit. a OHG)
+und den Gerichtsentscheid unter bestimmten Voraussetzungen mit
+den gleichen Rechtsmitteln anfechten wie der Beschuldigte (Art.
+8 Abs. 1 lit. c OHG).
+Um als Opfer im Sinn des OHG anerkannt zu werden, muss nach
+Art. 2 OHG eine Person durch eine Straftat in ihrer
+körperlichen und psychischen Integrität unmittelbar
+beeinträchtigt worden sein. Zu den in Frage kommenden
+Beeinträchtigungen zählen Tötung,
+Körperverletzung, psychische Schädigung sowie
+Beeinträchtigungen der Gesundheit (RBOG 1993 Nr. 34). Die
+tödlich verunglückte X muss daher als Opfer im Sinn
+des OHG angesehen werden.
+Der Ehegatte des Opfers, dessen Kinder und Eltern sowie andere
+Personen, die ihm in ähnlicher Weise nahestehen, werden,
+soweit ihnen Zivilansprüche gegenüber dem Täter
+zustehen, bei der Geltendmachung von Verfahrensrechten und
+Zivilansprüchen gemäss Art. 8 und 9 OHG sowie bei der
+Geltendmachung von Entschädigung und Genugtuung
+gemäss Art. 11-17 OHG dem Opfer gleichgestellt (Art. 2
+Abs. 2 lit. b und c OHG). Als Söhne der Verunfallten X
+berufen sich die vier Berufungskläger, welche je eine
+Genugtuungsforderung gegen den Berufungsbeklagten geltend
+machen, somit grundsätzlich zu Recht auf die
+Verfahrensrechte, die Art. 8 OHG einem Opfer einräumt.
+b)    Nach Art. 8 Abs. 1 lit. c OHG kann das
+Opfer insbesondere den Gerichtsentscheid mit den gleichen
+Rechtsmitteln anfechten wie der Beschuldigte, wenn es sich
+bereits vorher am Verfahren beteiligt hat und soweit der
+Entscheid seine Zivilansprüche betrifft oder sich auf
+deren Beurteilung auswirken kann. Eines dieser Rechtsmittel
+bildet die Berufung gemäss §§ 199 ff. StPO.
+Folgerichtig hält § 200 Abs. 1 StPO fest, dass dem
+Opfer die Verfahrensrechte gemäss Art. 8 Abs. 1 lit. c OHG
+zustehen. Sowohl von Bundesrechts wegen als auch nach dem
+thurgauischen Strafprozessrecht muss demzufolge die Berufung
+des Opfers bzw. einer dem Opfer gleichgestellten Person auch im
+Strafpunkt zulässig sein, wenn das Strafurteil Einfluss
+auf die Beurteilung der Zivilforderung der betreffenden Person
+haben kann, wogegen die Berufung in bezug auf alle Fragen, die
+in keinem direkten Zusammenhang mit den Zivilansprüchen
+stehen, ausgeschlossen ist (vgl. BBl 1990 II 987).
+Im Falle eines Fahrlässigkeitsdelikts, wie es dem
+Berufungsbeklagten vorgeworfen wird, ist in aller Regel ein
+direkter Zusammenhang zwischen einem Freispruch und der
+Beurteilung einer Genugtuungsforderung gegeben, setzt letztere
+doch ebenso wie die Verurteilung wegen einer fahrlässigen
+Straftat normalerweise ein schuldhaftes Verhalten der
+betreffenden Person voraus. Folglich ist es sinnvoll, wenn in
+einem solchen Fall der Strafpunkt und die Zivilklage im Rahmen
+eines einzigen Urteils behandelt werden. Das Urteil soll ein
+einheitliches Ganzes bilden: Dieselbe Gerichtsbehörde soll
+nicht gestützt auf Art. 53 OR einen Täter
+freisprechen sowie gleichzeitig vorfrageweise den Schuldpunkt
+bejahen und auf Schadenersatz oder Genugtuung erkennen
+können.
+Nachdem die Berufungskläger bereits in der
+Strafuntersuchung und im Gerichtsverfahren vor erster Instanz
+mitwirkten, ist mithin auf ihre Berufungsanträge nicht nur
+hinsichtlich der Zivilforderungen, sondern auch in bezug auf
+den Schuldpunkt einzutreten.
+c)    Dass bei dieser Lösung in bestimmten
+Fällen Dritte Berufung gegen einen Freispruch erheben
+können, obwohl die Staatsanwaltschaft den Freispruch
+akzeptiert, steht diesem Ergebnis nicht entgegen. Einerseits
+dürften die Fälle, in denen eine solche
+Berufungsbefugnis einer Privatperson vorliegt, in Anbetracht
+der einschränkenden Voraussetzungen von Art. 8 Abs. 1 lit.
+c i.V.m. Art. 2 OHG nicht allzu zahlreich sein, und
+andererseits gibt es bereits weitere strafrechtliche Bereiche,
+in denen neben der Staatsanwaltschaft eine andere Behörde
+Rechtsmittel ergreifen darf. Die Unabhängigkeit der
+Staatsanwaltschaft als Anklagebehörde wird dadurch nicht
+in Frage gestellt.
+Obergericht, 21. April 1994, SB 93 45
