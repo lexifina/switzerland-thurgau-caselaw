@@ -1,0 +1,94 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._39"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 39"
+docket_2: "BR 97 61"
+decided: "1997-06-30"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/71196EB9-6A13-4022-BE9F08D4F4AABC55.html"
+cites_law: ["switzerland/bund/acts/281.1/art-080.md"]
+---
+
+# TG Obergericht RBOG 1997 Nr. 39
+
+## Regeste
+
+Rechtsöffnung kann nicht für eine höhere Forderung als die im Zahlungsbefehl erwähnte, wohl aber für einen niedrigeren Betrag verlangt werden. Nur für diese Summe kann ihr demgemäss ungeachtet allfälliger telefonischer Absprachen mit der Vorinstanz sowie auch ungeachtet des von ihr erwähnten Korrekturschreibens Rechtsöffnung erteilt werden. 186.50 nochmals die Betreibung einzuleiten und gegebenenfalls die Rechtsöffnung zu verlangen.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 30.06.1997 RBOG 1997 Nr. 39 (BR 97 61)
+Thurgovie Obergericht Rechenschaftsbericht 30.06.1997 RBOG 1997 Nr. 39 (BR 97 61)
+Turgovia Obergericht Rechenschaftsbericht 30.06.1997 RBOG 1997 Nr. 39 (BR 97 61)
+
+Rechtsöffnung kann nicht für eine höhere Forderung als die im Zahlungsbefehl erwähnte, wohl aber für einen niedrigeren Betrag verlangt werden. Nur für diese Summe kann ihr demgemäss ungeachtet allfälliger telefonischer Absprachen mit der Vorinstanz sowie auch ungeachtet des von ihr erwähnten Korrekturschreibens Rechtsöffnung erteilt werden. 186.50 nochmals die Betreibung einzuleiten und gegebenenfalls die Rechtsöffnung zu verlangen.
+
+RBOG 1997 Nr. 39
+RBOG 1997 Nr. 39
+Bindung an das Rechtsbegehren im Rechtsöffnungsverfahren
+(§ 90 Abs.
+2 Ziff. 1 ZPO; Art. 80 SchKG)
+1.    Mit
+Zahlungsbefehl betrieb die Rekurrentin die Rekursgegnerin u.a.
+für die Bezahlung von Verzugszinsen im Umfang von Fr.
+584.--. Im Rechtsöffnungsbegehren verlangte die
+Rekurrentin unter dem Titel "Anteil Verzugszins" für Fr.
+397.50 die definitive Rechtsöffnung. In einer
+späteren Eingabe verlangte sie demgegenüber Fr.
+584.--.
+2.
+a)    Eine Klage wird mit der Einlassung in den
+Rechtsstreit (vgl. § 121 ZPO) und, wo kein
+Vermittlungsvorstand stattfindet, mit dem Eintreffen der
+erforderlichen Eingabe beim Gericht rechtshängig. Mit
+Eintritt der Rechtshängigkeit dürfen die
+eingebrachten Rechtsbegehren nur eingeschränkt, nicht aber
+erweitert oder geändert werden. Vorbehalten bleiben die
+Zustimmung der Gegenpartei, eine von der Partei nicht
+verschuldete Änderung von Streitgegenstand oder
+wesentlicher Klagegründe sowie Prozesse im
+Untersuchungsverfahren vor erster Instanz (§ 90 Abs. 1 und
+2 Ziff. 1 ZPO).
+b)    Bei
+Streitsachen, über welche im summarischen Verfahren
+entschieden wird, ist somit die Eingabe beim erstinstanzlichen
+Gericht massgebend für die endgültige Festlegung des
+Streitgegenstands. Rechtsöffnung kann nicht für eine
+höhere Forderung als die im Zahlungsbefehl erwähnte,
+wohl aber für einen niedrigeren Betrag verlangt werden.
+Reduziert der Gläubiger im Rechtsöffnungsbegehren
+seine Forderung, ist er bei dieser nachträglichen
+Einschränkung des Klagebegehrens zu behaften: Sie ist
+verbindlich und unwiderruflich (RBOG 1970 Nr. 11; Guldener,
+Schweizerisches Zivilprozessrecht, 3.A., S. 287). In einer
+nachträglichen Eingabe für eine grössere Summe
+als ursprünglich verlangt Rechtsöffnung anzubegehren,
+geht folglich auch dann nicht an, wenn dieser Betrag an sich
+mit dem auf dem Zahlungsbefehl genannten übereinstimmt;
+die thurgauische ZPO kennt keine § 61 ZPO ZH analoge
+Bestimmung, wonach eine Änderung des Rechtsbegehrens unter
+bestimmten Umständen auch noch nach Eintritt der
+Rechtshängigkeit zulässig ist (Sträuli/Messmer,
+Kommentar zur Zürcherischen Zivilprozessordnung, 2.A.,
+§ 61 N 4; § 107 N 4). Rechnungsirrtümer
+können wohl berichtigt werden; dies gilt jedoch nur unter
+der Voraussetzung, dass der Gesamtbetrag, für welchen
+Rechtsöffnung erteilt wird, gleich bleibt.
+c)    Die Rekurrentin reduzierte ihre
+Verzugszinsforderung im Rechtsöffnungsbegehren
+unbestrittenermassen von Fr. 584.-- (Zahlungsbefehl) auf Fr.
+397.50. Nur für diese Summe kann ihr demgemäss
+ungeachtet allfälliger telefonischer Absprachen mit der
+Vorinstanz sowie auch ungeachtet des von ihr erwähnten
+Korrekturschreibens Rechtsöffnung erteilt werden.
+3.    Der
+Rekurs erweist sich somit als unbegründet und ist
+abzuweisen. Dies bedeutet jedoch nicht, dass die Rekurrentin
+der Differenzforderung zwischen dem im Zahlungsbefehl und im
+Rechtsöffnungsbegehren erwähnten Verzugszinsbetrag
+verlustig geht: Es ist ihr unbenommen, für die restlichen
+Fr. 186.50 nochmals die Betreibung einzuleiten und
+gegebenenfalls die Rechtsöffnung zu verlangen.
+Rekurskommission, 30. Juni 1997, BR 97
+61
