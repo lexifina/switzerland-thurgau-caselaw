@@ -1,0 +1,58 @@
+---
+decision_id: "tg_obergericht_TVR_2005_Nr._11"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2005 Nr. 11"
+decided: "2004-02-18"
+published: "2005-06-22"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2005-nr-11"
+cites_law: ["switzerland/bund/acts/101/art-029.md"]
+---
+
+# TG Obergericht TVR 2005 Nr. 11
+
+## Regeste
+
+Parteientschädigung zu Lasten einer Gemeinde wegen Fehlern im Baubewilligungsverfahren
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 22.06.2005 TVR 2005 Nr. 11
+Thurgovie Obergericht Rechenschaftsbericht 22.06.2005 TVR 2005 Nr. 11
+Turgovia Obergericht Rechenschaftsbericht 22.06.2005 TVR 2005 Nr. 11
+
+TVR 2005 Nr. 11
+Skip to main content
+Show navigation
+Parteientschädigung zu Lasten einer Gemeinde wegen Fehlern im Baubewilligungsverfahren
+§ 80 Abs. 2 VRG
+Eine Summierung von Verfahrensfehlern einer Gemeindebehörde im Rahmen eines Baubewilligungsverfahrens, die zu erheblichem Mehraufwand der Beteiligten führte, kann die Zusprechung einer Parteientschädigung durch das DBU zu Lasten der Gemeinde rechtfertigen.
+Am 16. Juli 2003 reichte die D AG ein Baugesuch für die Erweiterung der Siloanlagen in der Gemeinde P ein. Während der öffentlichen Auflage des Baugesuches gelangte die damalige Eigentümerin der an die Bauparzelle angrenzenden Parzelle an die Gemeinde und teilte dieser unter anderem mit, sie habe von der Unterschreitung der Grenzabstände durch das Bauvorhaben Kenntnis genommen. Mit Schreiben vom 31. Juli 2003 bestätigte ihr die Gemeinde die Unterschreitung der Grenzabstände und sicherte zu, dass die Baubewilligung erst erteilt werde, wenn dieser Umstand bereinigt sei.
+Mit Eingabe vom 25. November 2003 reichte die D AG ein Baugesuch für eine Projektänderung ein. Während der öffentlichen Auflage dieses Baugesuchs erhoben die neue Eigentümerin der erwähnten angrenzenden Parzelle sowie andere Nachbarn Einsprache gegen das Bauvorhaben.
+Mit Entscheid vom 18. Februar 2004 erteilte die Gemeinde der D AG die Baubewilligung für die Erweiterung der Siloanlagen. Alle Einsprachen wies sie ab, soweit sie darauf eintrat. Zur Begründung führte sie im Wesentlichen aus, es seien während der ersten Auflagefrist keine Einsprachen eingegangen, weshalb einzig die Projektänderung Streitgegenstand sein könne. Einsprachepunkte, die nicht mit der Projektänderung im Zusammenhang stünden, könnten folglich nicht behandelt werden.
+Gegen diesen Entscheid erhoben die Einsprecher Rekurs beim DBU. Die Gemeinde wurde mehrfach aufgefordert, fehlende Vorakten nachzureichen. Im Rahmen der Duplik teilte die D AG dem DBU mit, sie ziehe das Baugesuch vom 16. Juli 2003 zurück. Daraufhin erhielten die Parteien die Möglichkeit, zur von den Einsprechern beantragten ausserrechtlichen Parteientschädigung Stellung zu nehmen.
+Das DBU schrieb das Verfahren mit Verfügung vom 10. März 2005 zufolge Rückzugs als gegenstandslos geworden ab. Ausserdem verpflichtete es die Gemeinde, den Einsprechern eine ausserrechtliche Parteientschädigung von Fr. 4’000.– zu bezahlen.
+Die Gemeinde gelangt mit Beschwerde ans Verwaltungsgericht und beantragt Streichung eventuell Reduktion der Parteientschädigung. Dieses weist ab.
+Aus den Erwägungen:
+2. (Hinweis auf die gesetzliche Grundlage von § 80 Abs. 2 VRG, die Praxis, festgehalten in TVR 1989 Nr. 3 sowie TVR 2000 Nr. 14.)
+3. a) Das DBU begründet seinen Entscheid einerseits damit, dass die Gemeinde P beim Erlass ihres Entscheides die Ausstandsvorschriften gemäss § 7 Abs. 1 Ziff. 4 VRG verletzt habe. Aufgrund dessen, dass eines der am Entscheid beteiligten Behördenmitglieder vier Aktien (mit einem Nominalwert von je Fr. 100.– bei einem Aktienkapital von Fr. 450’200.–) der D AG besitze, könne eine Befangenheit nicht von vornherein ausgeschlossen werden.
+Der Anspruch auf die Unabhängigkeit und Unparteilichkeit der sich mit einer Verwaltungssache befassenden Behörde ergibt sich aus Art. 29 Abs. 1 BV. Dieser Grundsatz wird unter anderem durch § 7 Abs. 1 Ziff. 4 VRG konkretisiert.
+b) Die Gemeinde macht geltend, damit eine die Zusprechung einer Parteientschädigung rechtfertigende Verletzung der Ausstandspflicht vorliege, müsse dieselbe als grob qualifiziert werden können.
+Dies trifft so nicht zu. Das Verwaltungsgericht hielt vielmehr fest, eine Parteientschädigung rechtfertige sich, wenn sich eine Behörde grobe Verfahrensfehler habe zu Schulden kommen lassen, wenn also eine Behörde gewissermassen die Grundregeln des Rechtsstaates missachtet habe. Eine Verletzung der Ausstandspflicht ist in der Regel eine Verletzung einer elementaren Verfahrensvorschrift, die grundsätzlich unabhängig vom Inhalt des Entscheids zu dessen Aufhebung (auf Anfechtung hin) führt. Nur in besonders leichten Fällen lässt die Rechtsprechung eine Heilung des Mangels im Rechtsmittelverfahren zu (Cavelti/Vögeli, Verwaltungsgerichtsbarkeit im Kanton St. Gallen, 2. Aufl., St. Gallen 2003, Rz. 178).
+c) Gemäss § 7 Abs. 1 Ziff. 4 VRG ist die Pflicht zum Ausstand dann gegeben, wenn vernünftige Gründe vorhanden sind, die ein Misstrauen in die Objektivität des Behördemitgliedes rechtfertigen. Tatsächliche Befangenheit ist nicht erforderlich; es genügt, dass sie vorliegen könnte (vgl. Haubensak/Litschgi/Stähelin, Kommentar zum Gesetz über die Verwaltungsrechtspflege des Kantons Thurgau, Frauenfeld 1984, § 7 N. 1 und 5).
+Der private Aktionär einer nicht börsenkotierten Gesellschaft muss in der Regel als befangen gelten, unabhängig vom Anteil seiner Beteiligung. Es ist nämlich offensichtlich, dass der Aktionär einer Gesellschaft derselben zumindest eine gewisse Sympathie entgegenbringt. Im vorliegenden Fall ist das betreffende Gemeinderatsmitglied überdies auch Lieferant der D AG. Somit hätte das Gemeinderatsmitglied bei der Entscheidfindung in den Ausstand treten müssen.
+d) Zu der von der Beschwerdeführerin aufgeworfenen Problematik, dass bei einer Bejahung der generellen Ausstandspflicht für Aktionäre in Fällen, in denen der Kanton oder eine Gemeinde Aktionärsstellung inne hat, gar kein Verfahren mehr durchgeführt werden könnte, ist auf BGE 107 Ia 137 zu verweisen.
+4. a) Weiter begründet das DBU seinen Entscheid damit, dass der Gemeinde ein wesentlicher Fehler bei der Behandlung der Einsprachen unterlaufen sei. Die Eingabe der angrenzenden Parzelleneigentümerin, mit welcher Einwände gegen das Bauvorhaben deponiert wurden, sei plötzlich nicht mehr als Einsprache aufgefasst worden, obwohl das Antwortschreiben der Gemeinde ersichtlich mache, dass von einer Einsprache ausgegangen worden sei. Es sei deshalb nicht nachvollziehbar, wie die Gemeinde bei dieser Ausgangslage den Streitgegenstand des Einspracheentscheides vom 18. Februar 2004 auf die Projektergänzungen begrenzen und auf die Einsprache der neuen Eigentümer der angrenzenden Parzelle, soweit sie sich nicht auf die Projektergänzung bezog, nicht habe eintreten können.
+b) Indem sich die Gemeinde in ihrem Einspracheentscheid vom 18. Februar 2004 lediglich über die Projektergänzungen, nicht aber über die ursprünglich gerügten Grenzabstände aussprach, verhielt sie sich widersprüchlich und beging offensichtlich einen Verfahrensfehler. Dieser war mit Sicherheit geeignet, die ganze Angelegenheit zu verkomplizieren und eine gewisse Rechtsunsicherheit auf Seiten der Einsprecher auszulösen.
+5. a) Weiter beanstandet das DBU in seinem Entscheid das Verhalten der Gemeinde im Rekursverfahren. So seien erst nach der dritten Aufforderung sämtliche Vorakten und Pläne ins Recht gelegt worden. Es sei nicht auszuschliessen, dass das Verfahren mit geringerem Aufwand hätte erledigt werden können, wenn die Parteien rechtzeitig über sämtliche Unterlagen verfügt hätten. Auch die Rügen der Einsprecher, wonach ihnen im Einspracheverfahren nur nach mehrmaligem Nachhaken Einsicht in die vollständigen Baugesuchsunterlagen gewährt worden sei, erscheinen bei dieser Ausgangslage glaubwürdig.
+b) Ein fehlerhaftes Verhalten einer Gemeinde gegenüber dem DBU ist nicht in erster Linie im Rahmen der Zusprechung einer Parteientschädigung zu sanktionieren. Dies käme höchstens dann in Frage, wenn die Verfahrensbeteiligten durch dieses fehlerhafte Verhalten der Gemeinde Nachteile und Mehraufwendungen erlitten hätten.
+In der Industriezone der Gemeinde P sind Bauten bis maximal 15 m Höhe zonenkonform. Offenbar erteilte die Gemeinde der D AG aber mehrmals Ausnahmebewilligungen zur Errichtung von Bauten mit Gebäudehöhen bis zu 41 m. In der Baubewilligung vom 11. Februar 1991 wurde jedoch festgehalten, dass dieser Anbau der letzte sei, der mit einer solch massiven Höhenüberschreitung bewilligt werden könne. Für zukünftige Bauten sei ein anderes Konzept zu wählen.
+Nachdem die Gemeinde diesen Bewilligungsentscheid vom 11. Februar 1991 der Vorinstanz schliesslich hatte zukommen lassen, zog die D AG ihr Baugesuch vom 16. Juli 2003 respektive dasjenige vom 25. November 2003 betreffend der Projektänderung zurück. Damit ist aber offensichtlich, dass die Einsprecher durch das Vorgehen der Gemeinde Nachteile erfahren haben. Wäre dieser Bewilligungsentscheid vom 11. Februar 1991 schon früher offen gelegt worden, so hätte die D AG ihr Baugesuch wohl dementsprechend früher zurückgezogen respektive das Baugesuch hätte von der Gemeinde abgewiesen werden müssen. Selbst wenn dies nicht der Fall gewesen wäre und die Einsprecher Rekurs beim DBU gegen die erteilte Baubewilligung erhoben hätten, so ist anzunehmen, dass mit einer kurzen Rekursschrift unter der Beilage des besagten Entscheides der Rekurs ohne weiteres gutgeheissen worden wäre. Es wären nicht diverse Schriftenwechsel nötig geworden und die Sachlage wäre um ein Vielfaches einfacher gewesen. Es ist somit davon auszugehen, dass die Verfahrensbeteiligten durch das Verhalten der Gemeinde sowohl im erstinstanzlichen als auch im Rekursverfahren einen beträchtlichen ausseramtlichen Mehraufwand hatten. (...) Die Zusprechung einer Parteientschädigung ist deshalb gerechtfertigt.
+Entscheid vom 22. Juni 2005
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
