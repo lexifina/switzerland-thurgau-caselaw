@@ -1,0 +1,111 @@
+---
+decision_id: "tg_obergericht_RBOG_1998_Nr._3"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1998 Nr. 3"
+docket_2: "ZR 98 32"
+decided: "1998-04-30"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/330B1E4D-3BA3-486F-BE488E4B56CC6331.html"
+cites_law: ["switzerland/bund/acts/210/art-518.md", "switzerland/bund/acts/210/art-596.md"]
+---
+
+# TG Obergericht RBOG 1998 Nr. 3
+
+## Regeste
+
+1. Auf Gesuch des Willensvollstreckers wurden die Rekurrenten (Mieter) aus der zum Nachlass gehörenden Liegenschaft ausgewiesen. Zürich 1965, S. 92, 98). Indessen besteht die Prozesslegitimation nur soweit, als dem Willensvollstrecker die Verwaltungsbefugnis tatsächlich zusteht. Der Erbe kann aber im Prozess des Willensvollstreckers als Nebenintervenient auftreten oder allenfalls als Hauptintervenient mit der Behauptung, dem Willensvollstrecker fehle die erforderliche Verwaltungsbefugnis ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 30.04.1998 RBOG 1998 Nr. 3 (ZR 98 32)
+Thurgovie Obergericht Rechenschaftsbericht 30.04.1998 RBOG 1998 Nr. 3 (ZR 98 32)
+Turgovia Obergericht Rechenschaftsbericht 30.04.1998 RBOG 1998 Nr. 3 (ZR 98 32)
+
+1. Auf Gesuch des Willensvollstreckers wurden die Rekurrenten (Mieter) aus der zum Nachlass gehörenden Liegenschaft ausgewiesen. Zürich 1965, S. 92, 98). Indessen besteht die Prozesslegitimation nur soweit, als dem Willensvollstrecker die Verwaltungsbefugnis tatsächlich zusteht. Der Erbe kann aber im Prozess des Willensvollstreckers als Nebenintervenient auftreten oder allenfalls als Hauptintervenient mit der Behauptung, dem Willensvollstrecker fehle die erforderliche Verwaltungsbefugnis ...
+
+RBOG 1998 Nr. 3
+RBOG 1998 Nr. 3
+Prozessführungsbefugnis des Willensvollstreckers als Ausfluss seiner  Verwaltungskompetenzen
+(Art. 518 Abs.
+2 ZGB)
+1.    Auf
+Gesuch des Willensvollstreckers wurden die Rekurrenten (Mieter)
+aus der  zum Nachlass gehörenden Liegenschaft
+ausgewiesen. Die Mieter machen geltend, es habe ihm die
+Ermächtigung der Erbengemeinschaft gefehlt, um in deren
+Namen die Ausweisung verlangen zu  können.
+2.
+a)    Der Willensvollstrecker hat den Willen des
+Erblassers zu vertreten  und gilt unter anderem als
+beauftragt, die Erbschaft zu verwalten (Art. 518 Abs. 2
+ZGB);  seine Kompetenzen sind sehr weitreichend. Der
+Willensvollstrecker hat das ausschliessliche  Besitz-,
+Verwaltungs- und Verfügungsrecht über die Erbschaft,
+derweil die diesbezüglichen  Rechte der Erben
+sistiert sind. Er handelt aus eigenem Recht frei und
+selbständig, muss  keine Anweisungen der Erben
+befolgen und kann von den Erben nicht abgesetzt werden.
+Der  Willensvollstrecker kann alle Rechtshandlungen
+vornehmen, die zur Erfüllung seiner Aufgabe
+erforderlich sind (Karrer, in: Kommentar zum Schweizerischen
+Privatrecht, Schweizerisches  Zivilgesetzbuch II,
+Basel/Frankfurt a. M. 1998, Art. 518 N 14). Die
+Verwaltungsbefugnis des  Willensvollstreckers umfasst alle
+tatsächlichen und rechtlichen Verfügungen über
+die  Erbschaft, die der Wahrung der
+Vermögensinteressen dienen, so etwa bei der
+Liegenschaftenverwaltung den Abschluss und die Kündigung
+von Mietverträgen, das  Mietzinsinkasso sowie den
+laufenden Betrieb und den Unterhalt der Liegenschaft;
+gegenüber  Mietern hat der Willensvollstrecker die
+Stellung eines Vermieters, obwohl das Eigentum an  der
+Liegenschaft bei den Erben liegt (Karrer, Art. 518 ZGB N 30;
+Küng, Entscheide des  Bundesgerichts zum Erbrecht,
+Bern 1991, S. 205, 217). Die prozessuale Rechtsstellung
+des  Willensvollstreckers ergibt sich aus Art. 596 Abs. 1
+ZGB (Art. 518 Abs. 1 i.V.m. Art. 596  Abs. 1 ZGB); danach
+hat er unter anderem die Aufgabe, die Rechte und Pflichten
+des  Erblassers, soweit nötig, gerichtlich
+feststellen zu lassen (Karrer, Art. 518 ZGB N 68). Die
+Prozesslegitimation ist Ausfluss der Verwaltungsbefugnis des
+Willensvollstreckers. Auch bei  der Prozessführung
+handelt der Willensvollstrecker selbständig, weshalb er
+hiefür keine  Zustimmung der Erben benötigt
+(Karrer, Art. 518 ZGB N 70; Wetzel, Interessenkonflikte
+des  Willensvollstreckers, Diss. Zürich 1985, N 103;
+Bracher, Der Willensvollstrecker, Diss.  Zürich 1965,
+S. 92, 98). Indessen besteht die Prozesslegitimation nur
+soweit, als dem  Willensvollstrecker die
+Verwaltungsbefugnis tatsächlich zusteht. Ist diese
+eingeschränkt  (z.B. durch testamentarische
+Anordnungen), ist es auch die Prozesslegitimation; fehlt
+dem  Willensvollstrecker die Verwaltungsbefugnis für
+einzelne Bereiche des Nachlasses, fehlt ihm  in diesem
+Umfang auch die Prozesslegitimation (Karrer, Art. 518 ZGB N
+69). Soweit die  Aktivlegitimation des
+Willensvollstreckers besteht, ist umgekehrt die Befugnis der
+Erben zur  Prozessführung ausgeschlossen, und zwar im
+eigenen Namen wie auch als Vertreter der
+Erbengemeinschaft (Pra 79, 1990, Nr. 186). Der Erbe kann aber
+im Prozess des  Willensvollstreckers als Nebenintervenient
+auftreten oder allenfalls als Hauptintervenient  mit der
+Behauptung, dem Willensvollstrecker fehle die erforderliche
+Verwaltungsbefugnis und  somit auch die Aktivlegitimation
+(Karrer, Art. 518 ZGB N 76; Bracher, S. 93 f.).
+b)    Dass dem Willensvollstrecker keine
+Verwaltungsbefugnis über die  Liegenschaft, welche
+unbestrittenermassen zum Nachlass gehört, zukommen soll,
+wird weder von  den Rekurrenten noch von den Erben
+behauptet und ist auch den Akten nicht zu entnehmen.
+Vielmehr ergibt sich daraus gerade das Gegenteil, nämlich
+dass bereits der Mietvertrag vom  Willensvollstrecker im
+Namen der Erbengemeinschaft abgeschlossen wurde. Im Rahmen
+seiner  Aufgabe als Willensvollstrecker war er daher auch
+berechtigt, im Namen der Erbengemeinschaft  und zur
+Wahrung von deren Vermögensinteressen die gerichtliche
+Ausweisung der Rekurrenten zu  verlangen, ohne dass er
+hiefür die Zustimmung der Mitglieder der Erbengemeinschaft
+hätte  einholen müssen.
+Rekurskommission, 30. April 1998, ZR 98
+32
