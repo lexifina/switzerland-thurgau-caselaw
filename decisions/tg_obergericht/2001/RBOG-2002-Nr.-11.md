@@ -1,0 +1,34 @@
+---
+decision_id: "tg_obergericht_RBOG_2002_Nr._11"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2002 Nr. 11"
+docket_2: "BS.2001.20"
+decided: "2001-12-03"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/747F993C-CEA8-415F-97C41FD4AA60E1E7.html"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# TG Obergericht RBOG 2002 Nr. 11
+
+## Regeste
+
+Die Vorinstanz als untere Aufsichtsbehörde über Schuldbetreibung und Konkurs hiess die erhobene Beschwerde teilweise gut und wies das Betreibungsamt an, die Berechnung des Existenzminimums des Beschwerdeführers im Sinn der Erwägungen vorzunehmen. Gegen diesen Entscheid gelangte der Beschwerdeführer an das Obergericht als kantonale Aufsichtsbehörde über Schuldbetreibung und Konkurs und beantragte, die Verfügung des Betreibungsamts sei mangels einer pfändbaren Quote aufzuheben. b) Aus den ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 03.12.2001 RBOG 2002 Nr. 11 (BS.2001.20)
+Thurgovie Obergericht Rechenschaftsbericht 03.12.2001 RBOG 2002 Nr. 11 (BS.2001.20)
+Turgovia Obergericht Rechenschaftsbericht 03.12.2001 RBOG 2002 Nr. 11 (BS.2001.20)
+
+Die Vorinstanz als untere Aufsichtsbehörde über Schuldbetreibung und Konkurs hiess die erhobene Beschwerde teilweise gut und wies das Betreibungsamt an, die Berechnung des Existenzminimums des Beschwerdeführers im Sinn der Erwägungen vorzunehmen. Gegen diesen Entscheid gelangte der Beschwerdeführer an das Obergericht als kantonale Aufsichtsbehörde über Schuldbetreibung und Konkurs und beantragte, die Verfügung des Betreibungsamts sei mangels einer pfändbaren Quote aufzuheben. b) Aus den ...
+
+RBOG 2002 Nr. 11
+RBOG 2002 Nr. 11
+Gehörsanspruch des Vollstreckungsgegners
+(Art. 17 SchKG; Art. 29 Abs. 2 BV)
+1.    In der gegen den Beschwerdeführer angehobenen Betreibung hatte das Betreibungsamt im Rahmen der Revision einer Einkommenspfändung die pfändbare Quote neu festgesetzt. Die Vorinstanz als untere Aufsichtsbehörde über Schuldbetreibung und Konkurs hiess die erhobene Beschwerde teilweise gut und wies das Betreibungsamt an, die Berechnung des Existenzminimums des Beschwerdeführers im Sinn der Erwägungen vorzunehmen. Gegen diesen Entscheid gelangte der Beschwerdeführer an das Obergericht als kantonale Aufsichtsbehörde über Schuldbetreibung und Konkurs und beantragte, die Verfügung des Betreibungsamts sei mangels einer pfändbaren Quote aufzuheben.
+2.    a)    Mit Ausnahme der Fälle, in denen das SchKG den Weg der gerichtlichen Klage vorschreibt, kann gegen jede Verfügung eines Betreibungs- oder eines Konkursamts bei der Aufsichtsbehörde wegen Gesetzesverletzung oder Unangemessenheit Beschwerde geführt werden (Art. 17 Abs. 1 SchKG). Die Beschwerde richtet sich immer gegen das Organ, von dem die angefochtene Verfügung ausging oder erwartet wird (Cometta, Basler Kommentar, Art. 17 SchKG N 40 mit Hinweisen). Der Vollstreckungsgegner (häufig der Gläubiger) ist nicht Partei im eigentlichen Sinn (Lorandi, Betreibungsrechtliche Beschwerde und Nichtigkeit, Basel/Genf/München 2000, Art. 17 SchKG N 22), sondern Verfahrensbeteiligter (Cometta, Art. 17 SchKG N 41), dem allerdings parteiähnliche Stellung zukommt. Nach der Praxis des Bundesgerichts haben die kantonalen Aufsichtsbehörden im Beschwerdeverfahren den aus Art. 29 Abs. 2 BV fliessenden Anspruch des Beschwerdegegners (bzw. Verfahrensbeteiligten) auf rechtliches Gehör zu beachten (BGE 105 III 33 f., 101 III 70; Lorandi, Art. 20a SchKG N 29 mit Hinweisen). Der Beschwerdegegner hat ein Recht auf Entgegnung und Stellungnahme sowie ein umfassendes Einsichtsrecht in die Akten des Beschwerdeverfahrens. Ihm steht immer dann ein Äusserungsrecht zu, wenn er Gefahr läuft, dass seine Rechtsstellung im Beschwerdeverfahren im Vergleich zur angefochtenen Verfügung bzw. zum angefochtenen Beschwerdeentscheid durch den neuen Entscheid beeinträchtigt werden könnte (Lorandi, Art. 20a SchKG N 30 f.). Sind die Voraussetzungen zur Gewährung des rechtlichen Gehörs gegeben, hat die Aufsichtsbehörde dem Beschwerdegegner Frist zur Einreichung seiner Stellungnahme anzusetzen (Lorandi, Art. 20a SchKG N 32).
+b)    Aus den Akten ist ersichtlich, dass der betreibende Gläubiger ein Vollstreckungsgegner des Beschwerdeführers ist. Welche weiteren Gläubiger in das Pfändungsverfahren einbezogen wurden, ist aus den Akten nicht ersichtlich. Dem braucht aber nicht weiter nachgegangen zu werden, weil die Vorinstanz bereits diesem Gläubiger das rechtliche Gehör nicht gewährte. Den von der Vorinstanz eingereichten Akten ist jedenfalls nicht zu entnehmen, dass sie den betreibenden Gläubiger zur Stellungnahme einlud. Bereits aus diesen Gründen ist der angefochtene Entscheid aufzuheben und die Streitsache an die Vorinstanz zurückzuweisen; diese hat unter Einbezug der Vollstreckungsgegner einen neuen Beschwerdeentscheid zu fällen.
+Obergericht, 3. Dezember 2001, BS.2001.20
