@@ -1,0 +1,53 @@
+---
+decision_id: "tg_obergericht_TVR_2004_Nr._38"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2004 Nr. 38"
+decided: "2002-11-08"
+published: "2004-01-14"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2004-nr-38"
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/142.20/art-017.md"]
+---
+
+# TG Obergericht TVR 2004 Nr. 38
+
+## Regeste
+
+Aufenthaltsbewilligung für ausländische Jugendliche für Sprachaufenthalt in der Schweiz
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 14.01.2004 TVR 2004 Nr. 38
+Thurgovie Obergericht Rechenschaftsbericht 14.01.2004 TVR 2004 Nr. 38
+Turgovia Obergericht Rechenschaftsbericht 14.01.2004 TVR 2004 Nr. 38
+
+TVR 2004 Nr. 38
+Skip to main content
+Show navigation
+Aufenthaltsbewilligung für ausländische Jugendliche für Sprachaufenthalt in der Schweiz
+Art. 31 BVO
+1. Auf ausländische Söhne/Töchter eines Schweizer Bürgers, die um einen Sprachaufenthalt in der Schweiz ersuchen, kann Art. 31 BVO analog angewandt werden. Darin liegt keine Diskriminierung von Schweizer Bürgern (E. 2).
+2. Voraussetzung zum Besuch einer privaten Schule ist eine Ganztagesschulung (E. 3a). 3. Es ist nicht erforderlich, dass der Gesuchsteller persönlich über genügend finanzielle Mittel verfügt (E. 3d).
+Der türkische Staatsangehörige S, geboren 15. August 1984, mit Wohnsitz in der Türkei, stellte mit Gesuch vom 17. September 2002 bei der Botschaft in Ankara einen «Visumsantrag für die Schweiz». Als Zweck gab er den Besuch der Handelsund Dolmetscherschule (HDS) St. Gallen für ein Jahr an. Als Gastgeber gab er seinen in Weinfelden wohnhaften Vater (türkischer Staatsangehöriger, seit 1993 auch Schweizer Bürger) und dessen Ehefrau an.
+Für die weiteren rechtswissenschaftlichen Studien würden zu gegebener Zeit in den entsprechenden Kantonen (Freiburg oder Zürich) neue Visumsanträge gestellt.
+Mit Verfügung vom 8. November 2002 lehnte das Ausländeramt das Gesuch um Erteilung einer Einreise- und Aufenthaltsbewilligung zum Besuche der HDS gestützt auf Art. 31 BVO ab. S verfüge weder über die notwendigen finanziellen Mittel noch die erforderlichen Sprachkenntnisse. Zudem sei die Wiederausreise nach Beendigung des Schulbesuches nicht gesichert. S gelangte erfolglos an das DJS. Seine Beschwerde heisst das Verwaltungsgericht in dem Sinne teilweise gut, als es die Sache zur weiteren Abklärung an das DJS und anschliessender Neuentscheidung zurückweist.
+Aus den Erwägungen:
+2. a) Der Beschwerdeführer lässt vorbringen, dass sich ein Schweizer, der seine ausländischen Familienangehörigen in die Schweiz nachziehen wolle, nicht auf das Freizügigkeitsabkommen (FZA) berufen könne. Da das ANAG die Möglichkeit des Familiennachzugs stärker einschränke und von zusätzlichen Bedingungen abhängig mache, sei der Schweizer seit Inkrafttreten des FZA schlechter gestellt, als in der Schweiz wohnhafte EU- oder EFTA-Staatsangehörige. Das Bundesgericht habe diese Schlechterstellung als dem Willen des Gesetzgebers entsprechend qualifiziert. Um sicher zu stellen, dass Schweizer auch ohne Revision des ANAG bereits vor Inkrafttreten des neuen Ausländergesetzes gleich behandelt werden könnten, habe der Bundesrat eine entsprechende Anpassung der BVO vorgenommen, die gleichzeitig mit dem FZA am 1. Juni 2002 in Kraft getreten sei. Dessen neuer Art. 3 Abs. 1bis BVO nehme bei Schweizern eine Ausnahme des Kreises der Personen vor, die sich auf die bundesrechtlichen Bestimmungen über den Familiennachzug berufen könnten, welche der Regelung im FZA entspreche. Sein Vater sei Schweizer Bürger. Da er im Zeitpunkt der Gesuchseinreichung 18 Jahre alt gewesen sei, hätte er grundsätzlich Anspruch auf eine Aufenthaltsbewilligung im Rahmen des Familiennachzugs gehabt, sei doch eine angemessene Wohnung vorhanden. Allerdings habe er nur um eine befristete Aufenthaltsbewilligung ersucht, um an der Universität das Jusstudium absolvieren zu können und zur Vorbereitung auf die Aufnahmeprüfung zum Besuch der HDS. Es leuchte nicht ein, dass die Voraussetzungen für eine befristete Aufenthaltsbewilligung zum Zwecke des Sprachaufenthalts und Studiums höher angesetzt sein sollen als diejenigen zur Erteilung einer um vieles weitergehenden Aufenthaltsbewilligung im Rahmen des Familiennachzugs. Ansonsten sähe sich der Ausländer zwangsläufig gezwungen, sich auf jene Bestimmungen zu berufen, was nicht im Interesse des Staates liege. Die analoge Anwendung von Art. 31 BVO zur Lückenschliessung sei abzulehnen. Aus rechtspolitischen Gründen biete sich an, an die Erteilung einer Bewilligung zum Zwecke des Studienaufenthalts keine strengeren Anforderungen zu stellen, als an die Erteilung der Bewilligung im Rahmen des Familiennachzuges.
+b) Vorab klarzustellen ist, dass es vorliegend allein um die Frage des Aufenthalts zum Zwecke des Besuchs der HDS geht. So lautet der Antrag und so hat sich auch der Vater geäussert. Um die Frage eines Aufenthalts zum Zwecke eines Jusstudiums geht es offensichtlich nicht.
+Art. 17 Abs. 2 ANAG gilt sinngemäss auch für ausländische Kinder eines Schweizers (BGE 118 IB 153 E. 1b). Wenn sich der Beschwerdeführer darauf – das heisst auf den Familiennachzug – beruft, so übersieht er, dass er im Zeitpunkt der Gesuchseinreichung bereits einen Monat älter als 18 Jahre war. Seine Berufung auf den Familiennachzug gemäss Art. 17 Abs. 2 ANAG und Art. 8 EMRK ist schon deshalb für den eingenommenen Standpunkt wenig tauglich. Es kommt hinzu, dass der Beschwerdeführer auch nicht Staatsangehöriger der EU oder der EFTA ist und somit eine Berufung auf das FZA nichts hilft.
+c) Gemäss dem auf den 1. Juni 2002 geänderten Art. 3 BVO hat die BVO für bestimmte Ausländer nur beschränkte Geltung. Da der Beschwerdeführer als noch nicht 21jähriger Familienangehöriger seines schweizerischen Vaters gilt, hat in der Tat Art. 31 BVO keine Geltung (ebenso nicht Art. 32 BVO).Die Änderung der BVO stand in direktem Zusammenhang mit dem Inkrafttreten des FZA. Die BVO kommt ab diesem Zeitpunkt – 1. Juni 2002 – nur noch für Ausländer zur Anwendung, die nicht unter den Geltungsbereich des FZA fallen (vgl. erläuternder Bericht zur Änderung der Verordnung über die Begrenzung der Zahl der Ausländer vom 23. Mai 2001, S. 2). Allerdings wurde auch Art. 3 BVO geändert, um «Schweizer mit ausländischen Familienangehörigen im Vergleich zu Angehörigen eines Mitgliedstaates der EG nicht zu diskriminieren... die kantonalen Behörden sollen aber die Möglichkeiten erhalten, bei Schweizerinnen und Schweizern den Familiennachzug zu regeln wie bei Angehörigen von Mitgliedstaaten der EG» (vgl. Bericht a.a.O., S. 3 unten).Diese Änderung ist klar auf den Familiennachzug ausgerichtet, um den es hier aber unbestrittenermassen nicht geht. So ist denn die Lückenschliessung durch analoge Anwendung von Art. 31 BVO – wie es die Vorinstanz vornahm – nicht zu beanstanden, fehlt doch eine Regelung für ausländische Schüler (und Studenten) von Schweizer Bürgern. Die Regelung gemäss Art. 31 BVO ist denn auch eine durchaus sachgerechte und dient der Rechtsgleichheit, ohne dass sie diskriminierend für ausländische Kinder von Schweizern ist.
+3. Der Beschwerdeführer lässt weiter vorbringen, dass, selbst wenn wider Erwarten von einer analogen Anwendung von Art. 31 und 32 BVO ausgegangen würde, die Begründung der Abweisung des Gesuchs durch die Vorinstanz unhaltbar wäre.
+a) Die Abgrenzung zwischen Schülern (Art. 31 BVO) und Studenten (Art. 32 BVO) habe keine grosse Bedeutung. Allerdings habe die Vorinstanz auch lit. b von Art. 31 BVO angewandt, und damit geprüft, ob es sich bei der HDS um eine Ganztagesschule handle. Vorliegend gehe es aber um einen Sprachaufenthalt zur Vorbereitung auf das Studium und nicht um einen Teil der Grundausbildung. Damit komme Art. 32 BVO zur Anwendung. Die HDS sei aber als Ganztagesschule zu qualifizieren.
+Dem Beschwerdeführer kann hierin nicht gefolgt werden. Das Beherrschen der deutschen Sprache ist für ein Studium Voraussetzung, insbesondere für ein Jusstudium, bei dem die deutsche Sprache absolut im Vordergrund steht (ob sich dies innerhalb eines Jahres nachholen lässt, ist fraglich und Englisch ist beim Jusstudium in der Schweiz nicht Unterrichtssprache). Das gehört somit zur vorausgesetzten Grundausbildung für die Zulassung zu einem Jusstudium. Darum ist Art. 31 und nicht Art. 32 BVO (analog) massgebend. Im Übrigen macht ja der Beschwerdeführer selbst geltend, es handle sich um eine Ganztagesschule. Das allerdings ist durch die im Recht liegenden Akten (persönlicher Stundenplan) nicht ausgewiesen. Der Vorinstanz obliegt es, bei der HDS noch nähere Auskünfte insbesondere auch über den Umfang der Hausaufgaben einzuholen.
+b) Der Beschwerdeführer lässt zudem vortragen, die Botschaft in Ankara habe keinen Sprachtest durchgeführt. Das habe er bereits gegenüber dem Ausländeramt ausgeführt. Das Formular «Evaluation des connaissances linguistiques» sei lediglich mit vier Kreuzchen bei «néant» versehen; doch wer diese tatsächlich angebracht habe, sei völlig ungewiss. Aus den Schulzeugnissen gehe immerhin hervor, dass er Englisch als Fremdsprache belegt habe. Auf Letzteres kann es wohl ernsthaft bei einem Jusstudium nicht ankommen. Allerdings geht es nicht an, einfach auf den Fragebogen abzustellen, wenn bestritten ist, dass der Test überhaupt durchgeführt worden ist. Das DJS hat dies demnach bei der Botschaft in Ankara abzuklären. Dass ein Minimum an Deutschkenntnissen (1. Stufe) für die HDS von Nöten ist, ist anerkannt.
+c) (...)
+d) Dass der Beschwerdeführer nicht selber über die nötigen finanziellen Mittel verfügen muss, leuchtet ein. Es muss mit den Worten des Beschwerdeführers lediglich zugesichert sein, dass diese Mittel vorhanden sind, um die Ausbildung tatsächlich sicherzustellen. Art. 31 lit. e BVO ist nicht derart eng auszulegen, wie es die Vorinstanz tut. Aus der «Attestation» der HDS vom 11. September 2002 geht hervor, dass das Schulgeld bereits bezahlt ist. Nachdem er bei seinem Vater und seiner Stiefmutter in Weinfelden Kost und Logis erhielte, geht es im Wesentlichen noch um die Kosten der Verpflegung über Mittag, die Transportkosten, die Krankenkassenprämien und das Sackgeld. Hiefür hat der Vater des Beschwerdeführers am 11. September 2002 eine Garantieerklärung abgegeben, ohne aber seine Vermögenslage zu offenbaren. Das aber ist nachzuholen beziehungsweise eine entsprechende Bankgarantie beizubringen.
+e) Erfüllen sich die (analog anwendbaren) Voraussetzungen nach Art. 31 BVO, ist die Aufenthaltsbewilligung zum Zwecke des Schulbesuchs (HDS) für ein Jahr zu erteilen. (...)
+Entscheid vom 14. Januar 2004
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
