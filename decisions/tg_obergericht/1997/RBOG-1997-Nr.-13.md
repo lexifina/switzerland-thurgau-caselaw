@@ -1,0 +1,123 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._13"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 13"
+docket_2: "BR 97 3"
+decided: "1997-02-10"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/E4BD2C69-8ED3-4138-83D23FE50E2F6149.html"
+cites_law: ["switzerland/bund/acts/281.1/art-080.md"]
+---
+
+# TG Obergericht RBOG 1997 Nr. 13
+
+## Regeste
+
+1 StG haften die Ehegatten in rechtlich und tatsächlich ungetrennter Ehe solidarisch für die Gesamtsteuer. Es kann deshalb durchaus vorkommen, dass die Steuerrechnung trotz Trennung der Ehe das Einkommen und Vermögen beider Ehegatten umfasst. 3 StG schreibt jedoch ausdrücklich vor, dass die Ehegatten bei Trennung der Ehe auch für längst ausstehende Steuerschulden nicht mehr solidarisch haften.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 10.02.1997 RBOG 1997 Nr. 13 (BR 97 3)
+Thurgovie Obergericht Rechenschaftsbericht 10.02.1997 RBOG 1997 Nr. 13 (BR 97 3)
+Turgovia Obergericht Rechenschaftsbericht 10.02.1997 RBOG 1997 Nr. 13 (BR 97 3)
+
+1 StG haften die Ehegatten in rechtlich und tatsächlich ungetrennter Ehe solidarisch für die Gesamtsteuer. Es kann deshalb durchaus vorkommen, dass die Steuerrechnung trotz Trennung der Ehe das Einkommen und Vermögen beider Ehegatten umfasst. 3 StG schreibt jedoch ausdrücklich vor, dass die Ehegatten bei Trennung der Ehe auch für längst ausstehende Steuerschulden nicht mehr solidarisch haften.
+
+RBOG 1997 Nr. 13
+RBOG 1997 Nr. 13
+Nach Aufteilung einer Steuerschuld auf die geschiedenen Ehegatten kann jeder nur noch für den von ihm geschuldeten Teilbetrag betrieben werden
+(Art. 80 SchKG;
+§ 16 Abs. 3 StG)
+1.    Die
+Ehe des Rekurrenten wurde im Januar 1996 rechtskräftig
+geschieden. Im März 1996 stellte ihm das Steueramt
+für das Vorjahr (Januar bis Juni) eine Steuerrechnung zu,
+in der sowohl sein Einkommen als auch dasjenige seiner
+geschiedenen Ehefrau berücksichtigt wurde. Im April 1996
+sandte es ihm ein mit dem Vermerk "Steueraufteilung 1995"
+versehenes Schreiben. Darin wies es auf die vollzogene
+Scheidung hin und legte die Anteile fest, die der Rekurrent
+bzw. seine geschiedene Frau für den Zeitraum Januar bis
+Juni 1995 schuldeten. Dennoch liess es den Rekurrenten für
+den gesamten ursprünglich in Rechnung gestellten Betrag
+betreiben.
+2.    Der
+Rekurrent bestreitet nicht, dass der Veranlagungsentscheid
+einen definitiven Rechtsöffnungstitel darstellt und der
+Schuldner demgemäss grundsätzlich nur die Einreden
+der Tilgung, Stundung oder Verjährung erheben kann (Art.
+80 SchKG; § 85 VRG). Er macht jedoch geltend, zufolge
+Ehescheidung hafte er gemäss § 16 Abs. 3 StG nur noch
+für seinen Steueranteil. Dieser Betrag resultiere aus der
+Steueraufteilung, welche das Steueramt vorgenommen habe.
+3.
+a)    Gemäss § 16 Abs. 1 StG haften
+die Ehegatten in rechtlich und tatsächlich ungetrennter
+Ehe solidarisch für die Gesamtsteuer. Ist der eine von
+ihnen zahlungsunfähig, haftet jeder Ehegatte nur für
+seinen Anteil an der Gesamtsteuer (§ 16 Abs. 2 StG). Bei
+rechtlicher oder tatsächlicher Trennung der Ehe
+entfällt die Solidarhaftung für alle noch offenen
+Steuerschulden (§ 16 Abs. 3 StG).
+b)    § 16 Abs. 1 StG regelt sowohl die
+Steuerveranlagung als auch den Steuerbezug. Abs. 2 und 3 dieser
+Bestimmung halten demgegenüber insbesondere fest, wie der
+Bezug vorzunehmen ist. Unter bestimmten Umständen haften
+die Ehegatten nicht mehr solidarisch für die Steuern,
+sondern nur noch jeder für seinen Anteil. Dies ist
+einerseits der Fall, wenn der eine von ihnen
+zahlungsunfähig geworden ist, und andererseits, wenn die
+Eheleute nicht mehr zusammenleben. In beiden Fällen soll
+der eine Partner nicht für den Steuerbetrag, welcher nicht
+durch sein Einkommen oder Vermögen verursacht wurde,
+haftbar werden. § 16 Abs. 3 StG hält dabei
+ausdrücklich fest, die getrennte Besteuerung entfalte
+nicht erst für die kommenden, sondern für alle noch
+offenen Steuerschulden Wirkungen. Diese Bestimmung sichert die
+Ehegatten ab, die in rechtlich oder tatsächlich getrennter
+Ehe leben, dass nicht nachträglich der gesamte offene
+Steuerbetrag bei dem einen Ehegatten eingezogen wird (Botschaft
+des Regierungsrats des Kantons Thurgau an den Grossen Rat vom
+5. März 1991, S. 26).
+c)    Die Steuerbezugsbehörde hat in aller
+Regel keine Kenntnis davon, ob bzw. dass Umstände
+eingetreten sind, welche von Gesetzes wegen zur Folge haben,
+dass Ehegatten nicht mehr solidarisch für die Steuern
+haften. Es kann deshalb durchaus vorkommen, dass die
+Steuerrechnung trotz Trennung der Ehe das Einkommen und
+Vermögen beider Ehegatten umfasst. Die
+Zahlungsunfähigkeit oder Trennung hat indessen nicht eine
+Änderung der Veranlagung, sondern einzig den Wegfall der
+Solidarhaftung zur Folge. Eine dahingehende Veränderung
+der Gegebenheiten muss nicht zwingend mit Rechtsmitteln im
+Veranlagungsverfahren geltend gemacht werden. Nachdem es einzig
+eine Frage des Steuerbezugs und die anteilsmässige Haftung
+gesetzlich ausdrücklich vorgesehen ist, muss die
+betroffene Partei die Möglichkeit haben, sich trotz
+Vorliegens eines rechtskräftigen definitiven
+Rechtsöffnungstitels hinsichtlich der Gesamtsteuer erst
+dann, wenn der Staat die Forderung eintreiben will, auf die
+veränderten Gegebenheiten, d.h. diejenigen, welche den
+Wegfall der Solidarhaftung bewirken, zu berufen. Die
+gegenteilige Auffassung der Rekursgegnerin würde dazu
+führen, dass die gesetzlichen Bestimmungen von § 16
+Abs. 2 und 3 StG, welche den Schutz des einen Ehegatten
+bezwecken, in zahlreichen Fällen von vornherein gar nicht
+zum Tragen kommen könnten. § 16 Abs. 3 StG schreibt
+jedoch ausdrücklich vor, dass die Ehegatten bei Trennung
+der Ehe auch für längst ausstehende Steuerschulden
+nicht mehr solidarisch haften. Dies kann nichts anderes
+bedeuten, als dass diejenige Partei, zu deren Gunsten sich
+diese Vorschrift auswirkt, sich auch erst dann, wenn der Bezug
+der Steuern zur Diskussion steht, auf die Trennung berufen
+können muss.
+4.    Das
+Steueramt ist zufolge Scheidung der Ehe nicht mehr berechtigt,
+die Gesamtsteuer, welche von beiden Ehegatten geschuldet ist,
+einzig beim Rekurrenten einzutreiben. Es hat vielmehr
+entsprechend seiner Steueraufteilung vorzugehen und die
+unbestrittenermassen geschuldete Gesamtsteuerforderung in den
+von ihm errechneten zwei Teilbeträgen einzuziehen.
+Rekurskommission, 10. Februar 1997, BR 97
+3
