@@ -1,0 +1,122 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._11"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 11"
+docket_2: "BR 97 60"
+decided: "1997-06-16"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/3C8E0107-715D-4EE6-ACFF993533E7E0A1.html"
+cites_law: ["switzerland/bund/acts/281.1/art-080.md", "switzerland/bund/acts/281.1/art-081.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-149.md"]
+---
+
+# TG Obergericht RBOG 1997 Nr. 11
+
+## Regeste
+
+Das Gerichtspräsidium wies das Rechtsöffnungsgesuch ab, weil gestützt auf einen Verlustschein keine definitive Rechtsöffnung erteilt werden könne und die provisorische Rechtsöffnung für Steuerforderungen nicht in Frage komme. Für Steuerforderungen ist allerdings die provisorische Rechtsöffnung nicht zulässig, weshalb die Bezeichnung des Verlustscheins als Schuldanerkennung durch das Gesetz im Zusammenhang mit Steuerforderungen keine Bedeutung hat (BlSchK 30, 1966, Nr.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 16.06.1997 RBOG 1997 Nr. 11 (BR 97 60)
+Thurgovie Obergericht Rechenschaftsbericht 16.06.1997 RBOG 1997 Nr. 11 (BR 97 60)
+Turgovia Obergericht Rechenschaftsbericht 16.06.1997 RBOG 1997 Nr. 11 (BR 97 60)
+
+Das Gerichtspräsidium wies das Rechtsöffnungsgesuch ab, weil gestützt auf einen Verlustschein keine definitive Rechtsöffnung erteilt werden könne und die provisorische Rechtsöffnung für Steuerforderungen nicht in Frage komme. Für Steuerforderungen ist allerdings die provisorische Rechtsöffnung nicht zulässig, weshalb die Bezeichnung des Verlustscheins als Schuldanerkennung durch das Gesetz im Zusammenhang mit Steuerforderungen keine Bedeutung hat (BlSchK 30, 1966, Nr.
+
+RBOG 1997 Nr. 11
+RBOG 1997 Nr. 11
+Gestützt auf einen Verlustschein kann für Steuern keine provisorische Rechtsöffnung erteilt werden und definitive nur dann, wenn die Veranlagungsverfügung eingereicht wird
+(Art. 80, 149
+SchKG)
+1.    Der
+Staat hob gegen X die Betreibung für ausstehende Steuern
+an und verlangte gestützt auf einen
+Pfändungsverlustschein definitive Rechtsöffnung. Das
+Gerichtspräsidium wies das Rechtsöffnungsgesuch ab,
+weil gestützt auf einen Verlustschein keine definitive
+Rechtsöffnung erteilt werden könne und die
+provisorische Rechtsöffnung für Steuerforderungen
+nicht in Frage komme. Der Staat erhob Rekurs mit der
+Begründung, das Rechtsöffnungsgesuch habe sich nicht
+auf den Pfändungsverlustschein, sondern auf die
+rechtskräftigen Veranlagungsverfügungen
+gestützt. Der Verlustschein sei lediglich zur Erhellung
+des Sachverhalts beigelegt worden.
+2.
+a)    Die innerhalb des Kantonsgebiets
+ergangenen Verfügungen und Entscheide kantonaler
+Verwaltungsbehörden über öffentlich-rechtliche
+Verpflichtungen wie Steuern stellen Rechtsöffnungstitel im
+Sinn von Art. 80 SchKG dar, soweit das kantonale Recht diese
+Gleichstellung vorsieht. Öffentlich-rechtliche
+Forderungen, welche in einem anderen als in dem Kanton, in
+welchem um Vollstreckung ersucht wird, ergangen sind,
+können vollstreckt werden, wenn der Gläubiger die in
+Art. 4 des Konkordats über die Gewährung
+gegenseitiger Rechtshilfe zur Vollstreckung
+öffentlichrechtlicher Ansprüche aufgeführten
+Belege einreicht (vollständige Ausfertigung der
+Verfügung bzw. Auszug aus dem Steuerregister; Nachweis der
+Rechtskraft und der Gleichstellung solcher Verfügungen mit
+gerichtlichen Urteilen; Nachweis, dass das Verfahren den
+Anforderungen von Art. 3 des Konkordats genügt).
+aa)    Der Verlustschein im Sinn von Art. 149
+SchKG gilt als Schuldanerkennung im Sinn von Art. 82 SchKG, mit
+welchem die provisorische Rechtsöffnung verlangt werden
+kann. Für Steuerforderungen ist allerdings die
+provisorische Rechtsöffnung nicht zulässig, weshalb
+die Bezeichnung des Verlustscheins als Schuldanerkennung durch
+das Gesetz im Zusammenhang mit Steuerforderungen keine
+Bedeutung hat (BlSchK 30, 1966, Nr. 26). Vielmehr ist, selbst
+wenn über Steuerforderungen ein definitiver Verlustschein
+ausgestellt wurde, stets die definitive Rechtsöffnung zu
+erteilen (vgl. Panchaud/Caprez, Die Rechtsöffnung,
+Zürich 1980, § 122 N 12). Mit Bezug auf
+Steuerforderungen muss deshalb - obwohl ein Verlustschein
+vorliegt - bei einer erneuten Betreibung gleich vorgegangen
+werden wie im Betreibungsverfahren, das zum Verlustschein
+führte. Deshalb ist der Einwand des Schuldners,
+gestützt auf Art. 149 Abs. 4 SchKG seien für die
+durch den Verlustschein verurkundete Forderung keine Zinsen zu
+bezahlen, nicht zu hören. Es bleibt allein massgebend, ob
+der Gläubiger für seine Forderung gemäss den
+rechtskräftigen Steuerveranlagungen einen Titel für
+die definitive Rechtsöffnung besitzt und sich für
+Steuerschulden die Verzugszinspflicht aus dem Gesetz
+ergibt.
+bb)    Wird für ausstehende
+Steuerforderungen, für welche bereits ein Verlustschein
+ausgestellt wurde, erneut die Betreibung angehoben und
+Rechtsöffnung verlangt, ergeben sich regelmässig
+Differenzen mit Bezug auf die Höhe der Forderungen: Der im
+Verlustschein verurkundete Betrag ist in der Regel höher
+als der in den Steuerveranlagungen ausgewiesene. Dies
+hängt damit zusammen, dass im Betrag gemäss
+Verlustschein die Zinsen kapitalisiert und die Betreibungs-,
+Rechtsöffnungs- und Verlustscheinskosten
+mitberücksichtigt werden. Da es sich beim Verlustschein
+indessen ebenfalls um ein amtliches Dokument handelt, ist -
+sofern der Gläubiger dies verlangt - definitive
+Rechtsöffnung für den im Verlustschein verurkundeten
+Gesamtbetrag zu erteilen, sofern neben dem Verlustschein die
+Steuerveranlagungen und die Rechtskraftbescheinigung
+eingereicht werden und der Schuldner keine Einwendungen im Sinn
+von Art. 81 SchKG erhebt. Allerdings wird in diesem Fall
+für die laufenden Zinsen keine Rechtsöffnung
+bewilligt.
+b)    Der Rekurrent reichte die Veranlagungen,
+eine Rechtskraftbescheinigung sowie den Verlustschein ein. Er
+wies nach, dass die rechtskräftigen Verfügungen und
+Entscheide über Steuern vollstreckbaren gerichtlichen
+Urteilen gleichgestellt sind. Dass die
+Veranlagungsverfügungen dem Rekursgegner zugestellt wurden
+und dieser Gelegenheit hatte, ein Rechtsmittel gegen die
+Veranlagung zu ergreifen, belegt neben der
+Rechtskraftbescheinigung auch die Verfügung der Verwaltung
+des Kantons betreffend Steuererlass. Die Voraussetzungen
+für die Erteilung der definitiven Rechtsöffnung im
+Betrag gemäss Pfändungsverlustschein sind demnach
+erfüllt.
+Rekurskommission, 16. Juni 1997, BR 97
+60
