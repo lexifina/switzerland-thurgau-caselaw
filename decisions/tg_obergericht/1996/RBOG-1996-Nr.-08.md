@@ -1,0 +1,44 @@
+---
+decision_id: "tg_obergericht_RBOG_1996_Nr._08"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1996 Nr. 08"
+decided: "1996-05-10"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-1996-nr-8"
+cites_law: ["switzerland/bund/acts/220/art-086.md", "switzerland/bund/acts/220/art-087.md"]
+---
+
+# TG Obergericht RBOG 1996 Nr. 08
+
+## Regeste
+
+Ausstehende Gerichtsgebühren als Kautionsgrund: Ohne ausdrücklichen Vermerk, für welche von mehreren Schulden gegenüber dem Staat eine Zahlung zu verwenden ist, richtet sich die Anrechnung nach Art. 86 f. OR
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 1996 RBOG 1996 Nr. 08
+Thurgovie Obergericht Rechenschaftsbericht 1996 RBOG 1996 Nr. 08
+Turgovia Obergericht Rechenschaftsbericht 1996 RBOG 1996 Nr. 08
+
+RBOG 1996 Nr. 08
+Skip to main content
+Show navigation
+Ausstehende Gerichtsgebühren als Kautionsgrund: Ohne ausdrücklichen Vermerk, für welche von mehreren Schulden gegenüber dem Staat eine Zahlung zu verwenden ist, richtet sich die Anrechnung nach Art. 86 f. OR
+Art. 86 f. OR
+,
+§ 77 Abs. 1 Ziff. 3 aZPO (TG)
+1. Der Rekurrent verwahrt sich gegen die ihm auferlegte Verpflichtung, eine Kaution leisten zu müssen: Er sei nicht mit rechtskräftigen Kosten im Rückstand.
+2. Die Partei, welche als Kläger oder Widerkläger auftritt, hat in allen Verfahren mit Ausnahme von Vaterschafts-, Ehescheidungs- und Entmündigungsprozessen für die mutmasslichen Kosten (amtliche Kosten und Prozessentschädigung) eine Kaution zu leisten, wenn sie mit rechtskräftigen Kosten oder Entschädigungen aus einem Gerichts- oder Verwaltungsverfahren im Rückstand ist oder sonst als zahlungsunfähig erscheint (§ 77 Abs. 1 Ziff. 3 ZPO).
+3. a) Der Rekurrent wurde zu einer Busse von Fr. 3'000.-- verurteilt und zur Bezahlung einer Verfahrensgebühr von Fr. 500.-- verpflichtet. Seine Überweisung in Höhe von Fr. 500.-- rechnete das Bezirksamt an die Busse an. Demgemäss sei er mit der Bezahlung der Verfahrensgebühr im Rückstand. Der Rekurrent bestritt dies mit der Behauptung, seine Zahlung von Fr. 500.-- sei ausdrücklich für die Tilgung der Verfahrensgebühr bestimmt gewesen. Er habe im Postquittungsbuch einen entsprechenden Vermerk angebracht. An einen analogen Hinweis auf dem Einzahlungsschein erinnere er sich nicht mehr. Der Abschnitt des Einzahlungsscheins sei beim Bezirksamt zu edieren. Diesem Antrag wurde stattgegeben und beim Bezirksamt das Original der Einzahlung beigezogen. Aufgrund dieses Belegs steht fest, dass der Rekurrent darauf keinen Vermerk anbrachte, wofür die Zahlung von Fr. 500.-- bestimmt war. Entsprechend seiner konstanten Praxis rechnete das Bezirksamt die Zahlung an die offene Busse an, mit der Folge, dass die gleichzeitig mit der Busse fällig gewordene Verfahrensgebühr von Fr. 500.-- als unbezahlt zu gelten hat.
+b) Der Rekurrent rügt die Praxis des Bezirksamts. Tatsächlich stellt sich die Frage, ob in einem solchen Fall nicht nach Art. 87 OR vorzugehen ist. Dies setzt zunächst voraus, dass die gesetzliche Regelung von Art. 86 f. OR auch auf öffentlich-rechtliche Verpflichtungen übertragen werden kann, was zu bejahen ist: Gemäss § 63 StPO obliegt der Bezug amtlicher Kosten dem zuständigen Bezirksamt. Näheres ist gesetzlich nicht geregelt. Demnach liegt eine gesetzliche Lücke vor, die grundsätzlich durch eine analoge Anwendung von öffentlich-rechtlichen Normen zu füllen ist. Mithin ist zunächst auf Normen abzustellen, die das öffentliche Recht für verwandte Fälle bereithält. Fehlen solche Bestimmungen des öffentlichen Rechts, dürfen Rechtsgrundsätze des Privatrechts zur Auslegung und Ergänzung unklarer oder lückenhafter Bestimmungen des öffentlichen Rechts herangezogen werden, unter Berücksichtigung ihres Normzwecks und der ihnen zugrundeliegenden Interessenlage (Rhinow/Krähenmann, Schweizerische Verwaltungsrechtsprechung, Ergänzungsband, Nr. 2 IV; Häfelin/Müller, Grundriss des Allgemeinen Verwaltungsrechts, 2.A., N 245).
+Das kantonale Steuergesetz, welches analog auch hinsichtlich des Bezugs von Bussen und amtlichen Verfahrenskosten herangezogen werden könnte, enthält zwar Bestimmungen über den Bezug und die Sicherung von Steuerforderungen (§§ 87 ff. StG), sagt hingegen nichts darüber aus, wie Zahlungen des Steuerschuldners anzurechnen sind, wenn es um die Tilgung verschiedener gleichzeitig verfallener Steuerforderungen geht. Soweit ersichtlich enthält auch das übrige öffentliche Recht keine entsprechenden Bestimmungen; solches behauptet der Rekurrent denn auch nicht. Es liegt somit nahe, die privatrechtlichen Grundsätze bezüglich der Anrechnung einer Zahlung bei mehreren Schulden im Sinn von Art. 86 f. OR heranzuziehen. Weber (Berner Kommentar, Art. 86 OR N 9 und Art. 87 OR N 8) und Leu (Kommentar zum schweizerischen Privatrecht, Obligationenrecht I, Art. 86 und 87 je N 2) halten ausdrücklich fest, Art. 86 f. OR seien neben der gewöhnlichen Vertragserfüllung durch die Parteien auch auf öffentlich-rechtliche Verbindlichkeiten wie Steuern oder Sozialversicherungsbeiträge anwendbar.
+Hat der Schuldner demnach mehrere Schulden an denselben Gläubiger zu bezahlen, so ist er berechtigt, bei der Zahlung zu erklären, welche Schuld er tilgen will. Mangelt eine solche Erklärung, wird die Zahlung auf diejenige Schuld angerechnet, die der Gläubiger in seiner Quittung bezeichnet, vorausgesetzt, dass der Schuldner nicht sofort Widerspruch erhebt (Art. 86 OR). Liegt weder eine gültige Erklärung über die Tilgung noch eine Bezeichnung in der Quittung vor, so ist die Zahlung auf die fällige Schuld anzurechnen, unter mehreren fälligen auf diejenige Schuld, für die der Schuldner zuerst betrieben wurde, und hat keine Betreibung stattgefunden, auf die früher verfallene (Art. 87 Abs. 1 OR). Sind sie gleichzeitig verfallen, so findet eine verhältnismässige Anrechnung statt (Art. 87 Abs. 2 OR).
+c) Der Rekurrent vermochte nicht zu beweisen, dass er bei der Einzahlung von Fr. 500.-- zuhanden des Bezirksamts erklärte, ob dieser Betrag an die Busse oder an die Verfahrensgebühr anzurechnen sei. Er macht auch nicht geltend, das Bezirksamt habe eine Quittung im Sinn von Art. 86 Abs. 2 OR ausgestellt bzw. der Rekurrent habe dagegen sofort Widerspruch erhoben. In Betreibung gesetzt hatte das Bezirksamt den gesamten damals noch ausstehenden Betrag von Fr. 3'500.--, mithin sowohl die Busse als auch die Verfahrensgebühr. Beide Beträge wurden ferner unbestrittenermassen gleichzeitig fällig. Selbst wenn somit die Praxis des Bezirksamts, eine Teilzahlung zunächst immer an die Busse anzurechnen, nicht statthaft gewesen wäre, tilgte der Rekurrent mit seiner Zahlung von Fr. 500.-- die Verfahrensgebühr in jedem Fall nicht vollständig, weil in Anwendung von Art. 87 Abs. 2 OR die bezahlten Fr. 500.-- anteilsmässig auf die Busse von Fr. 3'000.-- und auf die Verfahrensgebühr von Fr. 500.-- anzurechnen gewesen wären. Mithin ist nach wie vor zumindest ein Teil der Verfahrensgebühr offen. Daran ändert auch das nachträgliche Schreiben des Rekurrenten an das Bezirksamt nichts, in welchem er erklärte, die Fr. 500.-- seien für die Verfahrensgebühr bestimmt gewesen: Eine Erklärung nach Art. 86 Abs. 1 OR hat bei der Zahlung zu erfolgen.
+Rekurskommission, 10. Mai 1996, ZR 96 39
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
