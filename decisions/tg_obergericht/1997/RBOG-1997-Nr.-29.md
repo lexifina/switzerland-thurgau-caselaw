@@ -1,0 +1,83 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._29"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 29"
+docket_2: "SB 97 11"
+decided: "1997-05-06"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/1FFC489D-66F0-4F23-A16B600489432A9B.html"
+cites_law: ["switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/312.5/art-012.md", "switzerland/bund/acts/312.5/art-016.md"]
+---
+
+# TG Obergericht RBOG 1997 Nr. 29
+
+## Regeste
+
+Das OHG verschafft ihnen, neben der blossen Geltendmachung von Zivilforderungen gegenüber der Berufungsbeklagten im Rahmen des Adhäsionsprozesses, zusätzliche Rechte. Im Adhäsionsprozess machen die Geschädigten gegenüber der Berufungsbeklagten Schadenersatz und eventuell Genugtuung im Sinne von Art. Dies ändert aber nichts daran, dass der Strafrichter sämtliche im Verlauf des Strafverfahrens gewonnenen Erkenntnisse für die materielle Beurteilung der Zivilforderungen verwerten darf und muss; ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 06.05.1997 RBOG 1997 Nr. 29 (SB 97 11)
+Thurgovie Obergericht Rechenschaftsbericht 06.05.1997 RBOG 1997 Nr. 29 (SB 97 11)
+Turgovia Obergericht Rechenschaftsbericht 06.05.1997 RBOG 1997 Nr. 29 (SB 97 11)
+
+Das OHG verschafft ihnen, neben der blossen Geltendmachung von Zivilforderungen gegenüber der Berufungsbeklagten im Rahmen des Adhäsionsprozesses, zusätzliche Rechte. Im Adhäsionsprozess machen die Geschädigten gegenüber der Berufungsbeklagten Schadenersatz und eventuell Genugtuung im Sinne von Art. Dies ändert aber nichts daran, dass der Strafrichter sämtliche im Verlauf des Strafverfahrens gewonnenen Erkenntnisse für die materielle Beurteilung der Zivilforderungen verwerten darf und muss; ...
+
+RBOG 1997 Nr. 29
+RBOG 1997 Nr. 29
+Verfahrensmaximen im Opferhilfeprozess; Verwertbarkeit von im Strafverfahren gewonnenen Erkenntnissen zur Beurteilung der Zivilansprüche im Adhäsionsverfahren
+(Art. 16 Abs. 1
+OHG; § 53 StPO)
+1.    Die
+Berufungskläger machen geltend, die Vorinstanz habe die
+Verhandlungsmaxime im Sinne von § 95 Abs. 1 ZPO verletzt.
+Da es ausschliesslich um eine Zivilforderung gehe, gelte die
+Verhandlungsmaxime auch im Rahmen des Strafprozesses.
+2.    Die
+Berufungskläger treten als Opfer auf und berufen sich auf
+Art. 12 OHG. Das OHG verschafft ihnen, neben der blossen
+Geltendmachung von Zivilforderungen gegenüber der
+Berufungsbeklagten im Rahmen des Adhäsionsprozesses,
+zusätzliche Rechte. So erlaubt es unter bestimmten
+Umständen einen direkten Anspruch auf Entschädigung
+und Genugtuung gegenüber dem Staat (Art. 12 OHG). Der
+Sachverhalt ist dabei von Amtes wegen festzustellen (Art. 16
+Abs. 2 OHG). Im Adhäsionsprozess machen die
+Geschädigten gegenüber der Berufungsbeklagten
+Schadenersatz und eventuell Genugtuung im Sinne von Art. 41 ff.
+OR geltend (§ 53 StPO). Für die Opfer und
+Geschädigten besteht dabei der wesentliche Vorteil, dass
+der Adhäsionsprozess eben gerade nicht von der
+Verhandlungsmaxime bestimmt wird (Hauser/Schweri,
+Schweizerisches Strafprozessrecht, 3.A., § 38 N 15). Dies
+gilt selbstredend auch für die Gegenpartei. Zur
+Beurteilung des Zivilpunkts stützt sich der Strafrichter
+somit "auf die im Strafverfahren getroffenen tatsächlichen
+Feststellungen und kann sie nötigenfalls von Amtes wegen
+ergänzen" (Hauser/Schweri, § 38 N 15 mit Hinweisen).
+Der Strafrichter, welcher adhäsionsweise oder im Rahmen
+eines Opferhilfeprozesses eine Zivilforderung beurteilt, wird
+damit nicht zum Zivilrichter (vgl. Oberholzer, Grundzüge
+des Strafprozessrechts, Bern 1994, S. 193).
+Richtig ist hingegen, dass die Verhandlungsmaxime insoweit
+gilt, als die Sammlung des Prozessstoffes auch den Parteien
+obliegt; mithin haben die Parteien dem Gericht den Sachverhalt
+darzulegen und zu beweisen, auf welchen es die Rechtssätze
+zur Anwendung bringen soll (RBOG 1987 Nr. 42). Dementsprechend
+richten sich auch die Behauptungslast und die
+Substantiierungspflicht der Geschädigten mit Bezug auf
+ihre Ansprüche nach zivilprozessualen Grundsätzen,
+wie beispielsweise hinsichtlich der Intensität von
+Beziehungen bei der Geltendmachung von Genugtuungsforderungen
+(Urteil des Obergerichts, S 32, vom 6. Juni 1989, S. 34).
+Dies ändert aber nichts daran, dass der Strafrichter
+sämtliche im Verlauf des Strafverfahrens gewonnenen
+Erkenntnisse für die materielle Beurteilung der
+Zivilforderungen verwerten darf und muss; zivilprozessuale
+Grundsätze finden im Adhäsionsprozess nur insoweit
+Anwendung, als entsprechende Erkenntnisse nicht schon aufgrund
+polizeilicher und untersuchungsrichterlicher Ergebnisse
+vorliegen. Die von den Berufungsklägern erhobenen
+Rügen gehen daher fehl.
+Obergericht, 6. Mai 1997, SB 97 11
