@@ -1,0 +1,160 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._33"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 33"
+docket_2: "SB 97 34"
+decided: "1997-09-02"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/58026222-40B0-4F66-833155516A3B4307.html"
+cites_law: ["switzerland/bund/acts/311.0/art-001.md", "switzerland/bund/acts/741.01/art-099.md"]
+---
+
+# TG Obergericht RBOG 1997 Nr. 33
+
+## Regeste
+
+1. Der Berufungskläger rammte ca. Man dachte dabei insbesondere an Warngeräte, welche dem Fahrzeugführer Geschwindigkeitsmessungen mittels Radargeräten anzeigen (Radarwarngeräte). d) Geschwindigkeitskontrollen sollen mithelfen, eine möglichst umfassende Einhaltung geltender Höchstgeschwindigkeiten zu bewirken.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 02.09.1997 RBOG 1997 Nr. 33 (SB 97 34)
+Thurgovie Obergericht Rechenschaftsbericht 02.09.1997 RBOG 1997 Nr. 33 (SB 97 34)
+Turgovia Obergericht Rechenschaftsbericht 02.09.1997 RBOG 1997 Nr. 33 (SB 97 34)
+
+1. Der Berufungskläger rammte ca. Man dachte dabei insbesondere an Warngeräte, welche dem Fahrzeugführer Geschwindigkeitsmessungen mittels Radargeräten anzeigen (Radarwarngeräte). d) Geschwindigkeitskontrollen sollen mithelfen, eine möglichst umfassende Einhaltung geltender Höchstgeschwindigkeiten zu bewirken.
+
+RBOG 1997 Nr. 33
+RBOG 1997 Nr. 33
+Eine Warntafel mit der Aufschrift "Achtung Radar" gilt nicht als Gerät oder Vorrichtung im Sinn von Art. 99 Ziff. 8 SVG
+1.    Der
+Berufungskläger rammte ca. 100 m vor einem
+Geschwindigkeitsmessposten der Kantonspolizei am Strassenrand
+einen Pflock ein und befestigte daran eine Kartontafel, worauf
+er von weitem lesbar "Achtung Radar" geschrieben hatte. In der
+Folge reduzierten etliche den Messposten passierende
+Automobilisten ihre Geschwindigkeit. Der Berufungskläger
+bestreitet, dass sein Verhalten den Tatbestand von Art. 99
+Ziff. 8 SVG erfüllt habe.
+2.    Wer
+Geräte oder Vorrichtungen, welche die behördliche
+Kontrolle des Strassenverkehrs erschweren, stören oder
+unwirksam machen können, in Verkehr bringt, erwirbt, in
+Fahrzeuge einbaut, darin mitführt, an ihnen befestigt oder
+in irgendeiner Form verwendet, wird mit Haft oder Busse
+bestraft (Art. 99 Ziff. 8 SVG). Diese Strafbestimmung
+gehört zu Art. 57b SVG (BBl 1986 III 228). Danach ist
+jeglicher Umgang mit Geräten und Vorrichtungen, welche die
+behördliche Kontrolle des Strassenverkehrs erschweren,
+stören oder unwirksam machen können, verpönt.
+Beispielhaft werden Radarwarngeräte genannt (Art. 57b Abs.
+1 SVG).
+3.
+Ausgangspunkt bei der Anwendung einer Strafnorm ist das
+Legalitätsprinzip: Ein bestimmtes Verhalten ist nur dann
+strafbar, wenn es im Gesetz als strafbar bezeichnet ist (Art. 1
+StGB). Welches Verhalten ein Tatbestand als strafbar
+bezeichnet, ist zunächst anhand des Wortlauts
+festzustellen. Ergänzend hierzu kann der Sinn der
+Strafnorm ermittelt werden; hierfür sind der Zweck des
+Rechtssatzes und die Wertungen, die ihm zugrunde liegen, in
+Betracht zu ziehen. Dabei setzt wiederum das
+Legalitätsprinzip Grenzen: Bei der Auslegung einer
+Strafnorm darf nicht beliebig nach verborgenen Zwecksetzungen
+einer Bestimmung gesucht werden, die vom Wortlaut nicht mehr
+gedeckt würden. Einer extensiven Auslegung werden damit
+enge Grenzen gesetzt (Trechsel/Noll, Schweizerisches
+Strafrecht, AT I, 4.A., S. 38 ff.).
+4.
+a)    Hinsichtlich der Tathandlung erfasst der
+Wortlaut von Art. 99 Ziff. 8 SVG jeglichen Umgang mit den
+fraglichen Geräten oder Vorrichtungen. Ebenso zeichnet
+sich der Wortlaut hinsichtlich des Tatobjekts durch eine weite
+Formulierung aus: Es werden sämtliche Geräte oder
+Vorrichtungen, welche die behördliche Kontrolle des
+Strassenverkehrs erschweren, stören oder unwirksam machen
+können, vom objektiven Tatbestand erfasst. Als
+Vorrichtungen können auch Dinge, die nicht technischer
+Natur sind, verstanden werden. Immerhin werden im zu Art. 99
+Ziff. 8 SVG gehörenden Art. 57b SVG als Beispiel
+Radarwarngeräte genannt. Allein der Wortlaut des
+Straftatbestands ist somit aufgrund seiner offenen Formulierung
+zur Umschreibung des strafbaren Verhaltens ungeeignet.
+Ergänzend ist deshalb der Sinn der fraglichen Bestimmungen
+zu ermitteln.
+b)    Zweck der Strafnorm ist es, zu verhindern,
+dass Fahrzeugführer Mittel einsetzen, welche ihnen
+ermöglichen, ihre Geschwindigkeit stets bei einer
+Kontrolle auf das erlaubte Mass herabzusetzen. Verpönt
+sind demnach die Mittel, welche ein strafloses Missachten von
+aus Gründen der Verkehrssicherheit sowie des
+Umweltschutzes festgesetzten Tempolimiten ermöglichen und
+damit das Erfassen notorischer Schnellfahrer
+verunmöglichen. Man dachte dabei insbesondere an
+Warngeräte, welche dem Fahrzeugführer
+Geschwindigkeitsmessungen mittels Radargeräten anzeigen
+(Radarwarngeräte). Erfasst werden sollten jedoch
+sämtliche Warngeräte, namentlich auch jene, welche
+inskünftig mit bislang noch nicht bekannten Technologien
+arbeiten. Sodann ist auch ein Warngerät für eine
+Geschwindigkeitsmessung mit Apparaturen auf Basis der
+Lasertechnologie verboten (BBl 1986 III 225, 1973 II 1197). Es
+liegt somit auf der Hand, dass der Gesetzgeber die Wirksamkeit
+von Geschwindigkeitskontrollen durch die Polizei erhalten
+wollte und deshalb beabsichtigte, Hilfsmittel, welche ein
+wirksames und stetiges Entziehen vor diesen Kontrollen
+ermöglichen, zu verbieten. Da die von der Polizei für
+diese Zwecke verwendeten Geräte auf
+Übermittlungstechnologien beruhen und somit
+störanfällig sind, sollte zudem ein bewusstes
+Stören der Übermittlungsanlagen (Funk, Schall usw.)
+bzw. das Verunmöglichen von deren Funktion ebenfalls unter
+Strafe gestellt werden (vgl. BGE 105 IV 263, 103 IV 187).
+c)    Das Bundesgericht wertete das Emporhalten
+einer Kartontafel mit der Aufschrift "RADAR" sowie ein
+gleichzeitiges Auf- und Abbewegen der anderen Hand nicht als
+eine Behinderung der polizeilichen Arbeit beim Durchführen
+einer Geschwindigkeitskontrolle (BGE 105 IV 263). Auch wurde in
+einem anderen Fall das Warnen der vorbeifahrenden Fahrzeuge ca.
+100 Meter vor dem Geschwindigkeitsmessposten mittels
+Handbewegungen nicht als Hinderung einer Amtshandlung
+qualifiziert (BGE 103 IV 186 ff.). Diese sei erst gegeben, wenn
+die Messung selbst gestört werde, etwa durch das Eintreten
+in den Messstrahl des Radargeräts oder durch das
+Stören des Funkverkehrs zwischen Mess- und Auffangposten
+der Polizei.
+d)    Geschwindigkeitskontrollen sollen
+mithelfen, eine möglichst umfassende Einhaltung geltender
+Höchstgeschwindigkeiten zu bewirken. Alles, was dazu
+beiträgt, die Strassenbenützer zu einem
+verkehrsregelkonformen Verhalten zu veranlassen, liegt daher im
+Sinne der entsprechenden Vorschriften. Wer somit einen
+Strassenbenützer auf eine mögliche
+Geschwindigkeitsüberschreitung hinweist und zur
+notwendigen Mässigung veranlasst, kann nicht gegen den
+Zweck der Geschwindigkeitsbeschränkung verstossen. Die
+Erfahrung lehrt, dass Strafdrohungen und die individuelle
+Bestrafung Fehlbarer notwendig sind, dass aber eine gelockerte
+Verkehrsdisziplin mindestens so wirksam durch die Präsenz
+der Polizei und das Wissen um häufige Kontrollen gebessert
+wird. Aus dieser Erkenntnis heraus werden feste Radarkabinen
+gut sichtbar aufgestellt und vielerorts von der Polizei
+auffällige Tafeln mit dem Hinweis auf bevorstehende
+Geschwindigkeitskontrollen angebracht. Diese Tafeln werden
+bisweilen durch technische Anlagen ergänzt, welche auf die
+aktuell gefahrene Geschwindigkeit bzw. auf eine aktuelle
+Ueberschreitung der zulässigen Höchstgeschwindigkeit
+hinweisen. Mancher unaufmerksame oder undisziplinierte
+Fahrzeuglenker wird dadurch veranlasst, seine Geschwindigkeit
+jedenfalls an diesen Orten zu kontrollieren und
+nötigenfalls herabzusetzen (BGE 103 IV 189). Dies hat der
+Berufungskläger, wenn auch aus anderen Motiven, ebenfalls
+getan. Es wäre damit nicht zu vertreten, ihn wegen dieses
+Verhaltens unter Anwendung einer Strafnorm, welche
+offensichtlich ein anderes Verhalten unter Strafe stellt, zu
+verurteilen.
+e)    Der Berufungskläger hat sich damit
+durch das Aufstellen der selbstgefertigten Tafel mit der
+Aufschrift "Achtung Radar" nicht im Sinne von Art. 99 Ziff. 8
+SVG strafbar gemacht.
+Obergericht, 2. September 1997, SB 97 34
