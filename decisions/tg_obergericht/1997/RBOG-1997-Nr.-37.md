@@ -1,0 +1,90 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._37"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 37"
+docket_2: "ZB 97 66"
+decided: "1997-10-13"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/84E7DCEA-6E34-4B5D-B747BDE7FFADA936.html"
+---
+
+# TG Obergericht RBOG 1997 Nr. 37
+
+## Regeste
+
+Es fragt sich, ob es sich bei der Arrestaufhebungsklage um eine vermögensrechtliche bzw. Eine vermögensrechtliche Streitigkeit sei eine Streitigkeit um Rechte, die zum Vermögen des Schuldners gehörten, einen Geld- oder Nutzwert besässen, im allgemeinen übertragbar und vererblich seien und für Schulden des Vermögensträgers hafteten. Soweit überblickbar gehen denn auch die herrschende Lehre und Rechtsprechung davon aus, bei der Arrestaufhebungsklage handle es sich um eine vermögensrechtliche ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 13.10.1997 RBOG 1997 Nr. 37 (ZB 97 66)
+Thurgovie Obergericht Rechenschaftsbericht 13.10.1997 RBOG 1997 Nr. 37 (ZB 97 66)
+Turgovia Obergericht Rechenschaftsbericht 13.10.1997 RBOG 1997 Nr. 37 (ZB 97 66)
+
+Es fragt sich, ob es sich bei der Arrestaufhebungsklage um eine vermögensrechtliche bzw. Eine vermögensrechtliche Streitigkeit sei eine Streitigkeit um Rechte, die zum Vermögen des Schuldners gehörten, einen Geld- oder Nutzwert besässen, im allgemeinen übertragbar und vererblich seien und für Schulden des Vermögensträgers hafteten. Soweit überblickbar gehen denn auch die herrschende Lehre und Rechtsprechung davon aus, bei der Arrestaufhebungsklage handle es sich um eine vermögensrechtliche ...
+
+RBOG 1997 Nr. 37
+RBOG 1997 Nr. 37
+Die Arrestaufhebungsklage gilt als Streitigkeit mit bestimmtem bzw. bestimmbarem Streitwert
+(§ 2 AT;
+§ 13 Ziff. 1 GebV)
+Es fragt sich, ob es sich bei der Arrestaufhebungsklage um eine
+vermögensrechtliche bzw. eine Streitigkeit mit einem
+bestimmten oder bestimmbaren Streitwert handelt. Das
+Obergericht des Kantons Aargau vertrat die Auffassung, da das
+Arrestaufhebungsverfahren ein rein betreibungsrechtliches sei,
+handle es sich nicht um eine vermögensrechtliche
+Streitigkeit. Eine vermögensrechtliche Streitigkeit sei
+eine Streitigkeit um Rechte, die zum Vermögen des
+Schuldners gehörten, einen Geld- oder Nutzwert
+besässen, im allgemeinen übertragbar und vererblich
+seien und für Schulden des Vermögensträgers
+hafteten. Eine solche vermögensrechtliche Streitigkeit um
+die Rechte des Gläubigers am Vermögen des Schuldners
+liege erst dann vor, wenn im Rahmen der Arrestprosequierung
+über die Eigentumsrechte des Schuldners und die
+Forderungsrechte des Gläubigers an dem verarrestierten
+Vermögen zu entscheiden sei (AGVE 1991 S. 50 mit Hinweis
+auf Guldener, Schweizerisches Zivilprozessrecht, 3.A., S. 102).
+Allerdings führt Guldener an anderer Stelle (S. 112 Anm.
+22 lit. e) ausdrücklich aus, bei der Arrestaufhebungsklage
+bemesse sich der Streitwert nach dem Wert des
+Arrestgegenstands, soweit die durch den Arrest gesicherte
+Forderung nicht kleiner sei. Soweit überblickbar gehen
+denn auch die herrschende Lehre und Rechtsprechung davon aus,
+bei der Arrestaufhebungsklage handle es sich um eine
+vermögensrechtliche Streitsache (vgl. Schuller, Die
+Berechnung des Streitwerts, Diss. Zürich 1974, S. 71, 74
+und dort Anm. 40-43; Leuch/Marbach/Kellerhals, Die
+Zivilprozessordnung für den Kanton Bern, 4.A., Art. 138 N
+3h S. 292; ZR 60, 1961, Nr. 101; a.A. Hauser/Hauser,
+Erläuterungen zum Gerichtsverfassungsgesetz des Kantons
+Zürich, 3.A., S. 43). Diese Auffassung erweist sich
+insbesondere mit Blick auf § 42 ZPO als sachgerecht,
+wonach bei Streitigkeiten, welche die Sicherstellung einer
+Forderung oder ein Pfandrecht zum Gegenstand haben, der Betrag
+der Forderung und, wenn das Pfand einen geringeren Wert hat,
+dieser als Streitwert anzunehmen ist. Auch der Arrest ist
+letztlich eine besondere Form der Sicherstellung des
+schweizerischen Betreibungsrechts. Zudem geht es auch bei der
+Arrestaufhebungsklage um die Verfolgung eines wirtschaftlichen
+Zwecks (vgl. BGE 108 II 78; Vogel, Grundriss des
+Zivilprozessrechts, 4.A., 13. Kap., N 139). Schliesslich
+unterscheiden auch §§ 11 und 13 (je Ziff. 2) der
+Verordnung des Grossen Rates über die Gebühren der
+Strafuntersuchungs- und Gerichtsbehörden bei Zivilsachen
+ohne bestimmbaren Streitwert zwischen solchen, bei welchen
+aufgrund der vermögensrechtlichen Ansprüche die
+Ansätze für Zivilsachen mit bestimmbaren Streitwerten
+anwendbar sind, und solchen, bei denen dies nicht zutrifft, es
+sich mithin nicht um eine vermögensrechtliche Streitigkeit
+handelt, weil überhaupt keine Bezifferung des Anspruchs
+möglich ist (vgl. Schuller, S. 75 ff.). Der Streitwert
+bzw. der streitige vermögensrechtliche Anspruch bei der
+Arrestaufhebungsklage ist denn auch verhältnismässig
+einfach zu bestimmen, indem entweder auf den Wert der
+verarrestierten Vermögensgegenstände oder auf die mit
+Arrest zu sichernde Forderung abzustellen ist, falls diese
+kleiner als der Wert der Vermögensgegenstände
+ist.
+Obergericht, 13. Oktober 1997, ZB 97 66
