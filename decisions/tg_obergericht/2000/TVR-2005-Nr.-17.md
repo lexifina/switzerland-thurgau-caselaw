@@ -1,0 +1,44 @@
+---
+decision_id: "tg_obergericht_TVR_2005_Nr._17"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2005 Nr. 17"
+decided: "2000-04-20"
+published: "2005-03-23"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2005-nr-17"
+cites_law: ["switzerland/bund/acts/311.0/art-040.md"]
+---
+
+# TG Obergericht TVR 2005 Nr. 17
+
+## Regeste
+
+Unterbruch des Strafvollzugs
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 23.03.2005 TVR 2005 Nr. 17
+Thurgovie Obergericht Rechenschaftsbericht 23.03.2005 TVR 2005 Nr. 17
+Turgovia Obergericht Rechenschaftsbericht 23.03.2005 TVR 2005 Nr. 17
+
+TVR 2005 Nr. 17
+Skip to main content
+Show navigation
+Unterbruch des Strafvollzugs
+Art. 40 Abs. 1 StGB
+Mangelnde Hafterstehungsfähigkeit aus psychischen Gründen ist nur dann ein Grund für einen Unterbruch des Strafvollzugs, wenn sie dauernd oder für lange Zeit anhält.
+Mit Urteil vom 20. April 2000 wurde Ü durch das Obergericht des Kantons Thurgau zu einer Zuchthausstrafe von fünf Jahren verurteilt. Dieses Urteil wurde durch das Bundesgericht bestätigt. Zum für den Juli 2001 vorgesehenen Strafantritt erschien Ü jedoch nicht. Vielmehr gelang es ihr, sich nach Australien abzusetzen, wo sie trotz bestehender Ehe einen dort eingebürgerten Ex-Jugoslawen heiraten konnte. Allerdings wurden die australischen Behörden ihrer habhaft und sie wurde schliesslich an die Schweiz ausgeliefert, wo sie nun ihre Strafe verbüsst.
+In der Folge liess Ü beim DJS das Begehren stellen, es sei der Strafvollzug sofort zu sistieren und die Fortsetzung des Strafvollzugs auf ein späteres Datum zu verschieben. Das DJS lehnte das Begehren ab, weshalb Ü an das Verwaltungsgericht gelangte. In der Beschwerde wird vorgebracht, Ü sei psychisch schwer angeschlagen. Sie habe in Australien einen Abort erlitten und sei ständig in psychiatrischer Behandlung. Sie sei momentan nicht hafterstehungsfähig und in der Strafanstalt könne ihr nicht die nötige und adäquate Behandlung geboten werden.
+Das Verwaltungsgericht weist die Beschwerde ab.
+Aus den Erwägungen:
+2. a) Laut Art. 40 Abs. 1 StGB darf der Vollzug einer Freiheitsstrafe nur aus wichtigen Gründen unterbrochen werden. Ein wichtiger Grund im Sinne von Art. 40 Abs. 1 StGB liegt vor, wenn eine Krankheit so schwer ist, dass der Verurteilte voraussichtlich dauernd oder doch für sehr lange Zeit hafterstehungsunfähig ist. Mangelnde Hafterstehungsfähigkeit ist kein zwingender Grund zur Unterbrechung – wenn «neben einer zweckentsprechenden therapeutischen Behandlung auch die Möglichkeit und Gewähr für eine den Umständen angemessene Weiterführung der Haft besteht, hat eine Unterbrechung ihres Vollzugs zu unterbleiben» (Trechsel, Schweizerisches Strafgesetzbuch, Kurzkommentar, Zürich 1989, Art. 40 N. 2).
+b) Vor seinem Entscheid hat das DJS bei den Anstalten Hindelbank, wo die Beschwerdeführerin ihre Strafe verbüsst, einen Führungsbericht eingeholt. Diesem Bericht ist zu entnehmen, dass die Beschwerdeführerin teilweise Schwierigkeiten mit dem Strafvollzug hat. Das Problem liegt hauptsächlich darin, dass sie nach ihrer Flucht nach Australien nicht mehr mit dem Vollzug der Strafe rechnete. Es scheint nun jedoch eine zögernde Anpassung spürbar geworden zu sein. Die Beschwerdeführerin – so der Bericht – zeige erste Anzeichen der Bereitschaft zur Zusammenarbeit. Die ihr zugewiesenen Arbeiten erledige sie sauber und exakt. Gegenüber ihren Mitinsassinnen am Arbeitsplatz sei sie freundlich, aber zurückhaltend. Regelmässig werde sie zu Konsultationen beim forensischpsychiatrischen Dienst aufgeboten. Daneben kümmere sich der Gesundheitsdienst und die Anstaltsärztin um ihre gesundheitlichen Belange. Zudem habe ein Gespräch zwischen der Anstaltsärztin, dem Psychiater sowie der Beschwerdeführerin unter Beizug einer serbischen Übersetzerin stattgefunden, um sicherzustellen, dass die Beschwerdeführerin die Informationen über ihren Gesundheitszustand und die nötige Medikation verstehe. Das Gespräch sei konstruktiv verlaufen.
+Aufgrund dieses Berichtes steht für das Gericht fest, dass die Beschwerdeführerin zwar möglicherweise gewisse Schwierigkeiten mit dem Strafvollzug hat, doch handelt es sich bei diesen Schwierigkeiten zweifelsfrei nicht um mehr als die üblichen Probleme, die viele Menschen mit dem Strafvollzug im Gefängnis haben. Die Beschwerdeführerin steht auch unter ständiger gesundheitlicher und insbesondere auch ärztlicher und psychiatrischer Kontrolle, sodass eine Weiterung der Beweise und insbesondere das Einholen eines psychischen Gutachtens ohne weiteres unterbleiben kann.
+Entscheid vom 23. März 2005
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
