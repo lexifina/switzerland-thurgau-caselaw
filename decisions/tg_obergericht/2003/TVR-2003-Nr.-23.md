@@ -1,0 +1,53 @@
+---
+decision_id: "tg_obergericht_TVR_2003_Nr._23"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2003 Nr. 23"
+decided: "2003-09-17"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2003-nr-23"
+---
+
+# TG Obergericht TVR 2003 Nr. 23
+
+## Regeste
+
+Fehlende Angabe der Verfahrensart und verkappte Abgebotsrunde
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 17.09.2003 TVR 2003 Nr. 23
+Thurgovie Obergericht Rechenschaftsbericht 17.09.2003 TVR 2003 Nr. 23
+Turgovia Obergericht Rechenschaftsbericht 17.09.2003 TVR 2003 Nr. 23
+
+TVR 2003 Nr. 23
+Skip to main content
+Show navigation
+Fehlende Angabe der Verfahrensart und verkappte Abgebotsrunde
+§ 20 Abs. 1 Ziff. 2 aVöB
+,
+§ 35 aVöB
+,
+§ 36 aVöB
+1. Lädt eine Auftraggeberin Anbieter zur Angebotsabgabe ein, ohne die Verfahrensart zu nennen, so ist diese anhand der konkreten Ausgestaltung des Verfahrens zu bestimmen (E. 2c). Eine Einladung von nur zwei Anbietern spricht nicht gegen das Einladungsverfahren (E. 2d).
+2. Bestehen nach Eingang der Angebote Unklarheiten über deren Inhalt, kann die Vergabeinstanz nur zusätzliche Erläuterungen verlangen. Diese Erkundigungen dürfen aber nicht auf eine verkappte Abgebotsrunde hinauslaufen, wenn Abgebote in der Ausschreibung ausgeschlossen waren (E. 2f).
+Die Primarschulgemeinde A beabsichtigte, ihr zwischen 1957 und 1960 erbautes Schulhaus teilweise renovieren zu lassen. Dabei wurde sie von einem Architekten beraten. Zur «Präqualifikation und Honorarofferte» wurden zwei in A ansässige Architekten eingeladen. Beide reichten fristgerecht eine Offerte ein. Anlässlich der Öffnung der Offerten stellte die Primarschulgemeinde fest, dass beide Architekten (U mit einem Angebot von Fr. 37’000.– und R mit einem solchen von Fr. 48’958.–), weit über dem von ihrem Architekten errechneten Auftragsvolumen von Fr. 25’535.– lagen. Diese grosse Differenz veranlasste die Behörde, mit den Anbietern in Verbindung zu treten, worauf beide Architekten ihr Angebot revidierten (U neu Fr. 34’000.– und R neu Fr. 35’000.–). Danach entschied sich die Behörde, den Zuschlag für die Schulhausrenovation R zu erteilen. Dies teilte sie U mit Schreiben vom 2. Juni 2003 mit. Am 9. Juni 2003 erhob U Beschwerde beim Verwaltungsgericht, das diese gutheisst und die Primarschulgemeinde A verpflichtet, den Zuschlag dem wirtschaftlich günstigsten Angebot gemäss den ursprünglichen Offerten zu erteilen.
+Aus den Erwägungen:
+2. a) Es gilt primär zu prüfen, welche Verfahrensart im vorliegenden Fall tatsächlich angewendet wurde. Die Verfahrensbeteiligten sind sich uneinig. Der Beschwerdeführer macht geltend, die Ausschreibung sei im Einladungsverfahren erfolgt, wogegen die Beschwerdegegnerin behauptet, sie sei nach dem freihändigen Verfahren vorgegangen. Was im vorliegenden Fall mit Sicherheit nicht korrekt ist, ist die Teil-Betitelung «Präqualifikation Architekt» in den Ausschreibungsunterlagen. Damit wird auf das Auswahlverfahren zur Beschränkung Nr. 23 118 der Zahl der zugelassenen Anbieter im zweistufigen Verfahren hingewiesen. Ein solches ist jedoch nur im selektiven Verfahren vorgesehen und bedingt eine öffentliche Ausschreibung des Auftrags, was im vorliegenden Fall nicht erfolgte (§ 14 VöB).
+b) Das für die Teilrenovation des Schulhauses vorgesehene Auftragsvolumen beträgt nach der Berechnung des zugezogenen Architekten Fr. 445’000.–. Damit wird der Schwellenwert gemäss Art. 7 Abs. 1 lit. a IVöB im Betrag von Fr. 10’070’000.– nicht erreicht. Demzufolge ist die IVöB nicht anwendbar und die Vergabe untersteht ausschliesslich dem kantonalen Recht.
+c) Bei Binnenvergaben ist für die Ermittlung der anwendbaren Verfahrensart der Auftragswert des Einzelauftrags massgebend (§ 9 Abs. 2 VöB). Bei dem zu vergebenden Auftrag für Architekturleistungen handelt es sich gemäss § 5 VöB um einen Dienstleistungsauftrag. Dieser hat ein Auftragsvolumen von rund Fr. 25’500.–. Der Schwellenwert für Dienstleistungsaufträge im Einladungsverfahren liegt bei Fr. 50’000.–, bei Liefer- und Dienstleistungsverträgen unter diesem Wert ist das freihändige Verfahren zulässig (§ 12 Abs. 2 und 3 VöB).
+Die Beschwerdegegnerin äussert sich nirgendwo – obwohl gesetzlich in § 20 Abs. 1 Ziff. 2 VöB verlangt und zudem gemäss Ziff. 5 des Anhanges zum «Pflichtenheft Baukommission» der Primarschule A verpflichtet – explizit zum gewählten Vergabeverfahren. Erst das Absageschreiben vom 2. Juni 2003 an den Beschwerdeführer trägt den Betreff «Freihändiges Verfahren». Allerdings werden im Formular «Präqualifikation Architekt und Honorar-Offerte» Zuschlagskriterien aufgezählt, was auf die Anwendung von Submissionsrecht schliessen lässt.
+d) Im Einladungsverfahren lädt die Auftraggeberin ohne Ausschreibung die Anbieter direkt zur Angebotsrunde ein. Es werden, wenn möglich, mindestens drei Angebote eingeholt (§ 15 VöB). Wählt eine Gemeinde das Einladungsverfahren, obwohl auch das freihändige Verfahren zulässig gewesen wäre, so unterstellt sie sich freiwillig dem öffentlichen Beschaffungsrecht (Galli/Moser/ Lang, Praxis des öffentlichen Beschaffungsrechts, Zürich 2003, N. 154 und 190 sowie TVR 1999, Nr. 26 E. 2).
+Die Schulgemeinde führt in ihrer Beschwerdeantwort vom 1. Juan, sie hätte bei der Vergabe die ortsansässigen Architekten berücksichtigen wollen. Dafür seien grundsätzlich drei in Frage gekommen. Man habe schliesslich nur zwei zur Offertstellung eingeladen, weil der dritte bereits für die Schule gearbeitet habe und zudem stark ausgelastet sei. Wegen der relativ niedrigen Honorarsumme wäre ein Direktauftrag im freihändigen Verfahren an einen Architekten möglich gewesen; dies sei jedoch nicht gewünscht worden. Im eingereichten Anhang zum «Pflichtenheft Baukommission» steht unter Ziff. 3, dass im Einladungsverfahren mindestens zwei Anbieter direkt zur Angebotsabgabe eingeladen würden. Weiter ist aus Ziff. 4 des Anhangs zu entnehmen, dass das freihändige Verfahren, bei dem Aufträge bis Fr. 10’000.– ohne Mehrwertsteuersteuer direkt vergeben würden, auf Ausnahmefälle zu beschränken sei.
+Aufgrund dieser Tatsachen, insbesondere der von der Primarschulbehörde genehmigten Regelungen im «Pflichtenheft Baukommission» ist offensichtlich, dass die Vergabe der Architekturleistungen betreffend die Renovation des Schulhauses im Einladungsverfahren stattgefunden hat. Dem widerspricht auch die gesetzliche Regelung in § 15 Abs. 2 VöB nicht, heisst es doch dort, dass lediglich «wenn möglich» drei Angebote einzuholen seien. (...) Es ist demnach festzuhalten, dass die Vergabe im Einladungsverfahren stattgefunden hat. Was den Zuschlag anbelangt, so ist dabei lediglich auf das Kriterium des günstigsten Angebots abzustützen. Die übrigen Kriterien kommen nicht mehr zum Tragen, da die Beschwerdegegnerin beide Anbieter für qualifiziert hält. Beide Anbieter können zudem die Termine einhalten.
+e) Das günstigste Angebot machte der Beschwerdeführer. Dabei bleibt zu erwähnen, dass den Abgeboten von Fr. 34’000.– und Fr. 35’000.– Angebote von Fr. 37’000.– und Fr. 48’958.– voraus gingen. Diese wurden nach Gesprächen der Primarschulgemeinde mit den Anbietern revidiert. Der Beschwerdeführer sieht darin eine Abgebotsrunde, die nicht hätte stattfinden dürfen. Die Beschwerdegegnerin bestreitet dies, indem sie sagt, es handle sich lediglich um eine Richtigstellung nach einer falsch verstandenen Aufgabenstellung. Deswegen hätte sich wohl auch die grosse Differenz zwischen den Angeboten und dem vom beauftragten Architekten errechneten Auftragsvolumen ergeben.
+f) Bestehen nach Eingang der Angebote Unklarheiten über deren Inhalt, kann die Vergabeinstanz von den Anbietenden zusätzliche Erläuterungen verlangen. Diese dürfen jedoch nicht dazu dienen, den Inhalt des zu vergebenden Angebots nachträglich zu ändern. Zur Bereinigung von Detailfragen sind auch Präzisierungen zulässig, soweit sie nicht auf eine massgebliche Änderung des Auftrags beziehungsweise des Angebots hinauslaufen (Galli/Moser/Lang, a.a.O, N. 340). Gemäss § 35 VöB kann die Auftraggeberin von den Anbietern Erläuterungen bezüglich ihrer Eignung und ihres Angebots verlangen. Verhandlungen zwischen der Auftraggeberin und den Anbietern über Preise, Preisnachlässe und Änderungen des Leistungsinhaltes sind grundsätzlich unzulässig. Wurden solche Verhandlungen in der Ausschreibung ausdrücklich vorbehalten, so können sie in Ausnahmefällen bei Binnenvergaben geführt werden (§ 36 VöB). So ein Ausnahmefall liegt etwa vor, wenn aufgrund der eingereichten Offerten ein vernünftiger oder sachlich gerechtfertigter Entscheid über die Vergabe nicht möglich ist und in Aussicht steht, dass ein solcher Entscheid nach Durchführung einer Abgebotsrunde getroffen werden kann. Erfolgt eine Abgebotsrunde, so hat das Verfahren den Vorschriften über die Offertöffnung im Sinne von § 32 ff. VöB zu entsprechen (TVR 2000, Nr. 28 E. 4d ff.). Die von der Beschwerdegegnerin mit den Architekten nach der Offertöffnung durchgeführten Gespräche können nicht als blosse Erläuterungen zu den jeweiligen Offerten abgetan werden. Aufgrund dieser Gespräche wurden die Angebote merklich geändert. Es hat offensichtlich eine, wenn auch verkappte, Abgebotsrunde stattgefunden, was im vorliegenden Fall nicht zulässig, da eine solche in der Ausschreibung nicht vorgesehen, sondern sogar ausgeschlossen war. Dass eine Abgebotsrunde stattgefunden hat, geht klar aus dem Protokoll der Baukommissionssitzung hervor, wo es heisst: «Es sollte möglich sein, in einem Gespräch in die Nähe des Kostenvoranschlages von Fr. 20’000.– zu kommen.» Zusammenfassend ist damit festzuhalten, dass die Beschwerde grundsätzlich gutzuheissen ist. Folglich ist darüber zu befinden, ob der Zuschlag direkt zu erteilen oder die Sache zur Zuschlagserteilung an die Auftraggeberin zurückzuweisen ist.
+g) Ist der Vertrag noch nicht abgeschlossen, kann die Beschwerdeinstanz die Aufhebung der Verfügung beschliessen und in der Sache selbst entscheiden oder sie an die Auftraggeberin mit oder ohne Anordnungen zurückweisen (§ 7 Abs. 1 GöB i.V. mit Art. 18 Abs. 1 IVöB).
+Gemäss Akten ist es zwischen der Primarschulbehörde und R noch nicht zum Vertragsschluss gekommen. Demnach verfügt das Verwaltungsgericht die Aufhebung des Zuschlags- beziehungsweise Absageentscheids vom 2. Juni 2003. Was den Zuschlag anbelangt, so wird die Beschwerdegegnerin angehalten, den Zuschlag dem günstigsten Anbieter (ohne Berücksichtigung der unzulässigen Abgebotsrunde), das heisst dem Beschwerdeführer, zu erteilen.
+Entscheid vom 17. September 2003
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
