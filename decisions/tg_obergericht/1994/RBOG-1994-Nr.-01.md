@@ -1,0 +1,45 @@
+---
+decision_id: "tg_obergericht_RBOG_1994_Nr._01"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1994 Nr. 01"
+decided: "1994-02-17"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-1994-nr-1"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md"]
+---
+
+# TG Obergericht RBOG 1994 Nr. 01
+
+## Regeste
+
+Auf Streitigkeiten aus Verträgen zwischen Letztverbrauchern und Anbietern findet das beschleunigte Verfahren Anwendung
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 1994 RBOG 1994 Nr. 01
+Thurgovie Obergericht Rechenschaftsbericht 1994 RBOG 1994 Nr. 01
+Turgovia Obergericht Rechenschaftsbericht 1994 RBOG 1994 Nr. 01
+
+RBOG 1994 Nr. 01
+Skip to main content
+Show navigation
+Auf Streitigkeiten aus Verträgen zwischen Letztverbrauchern und Anbietern findet das beschleunigte Verfahren Anwendung
+Art. 31 Abs. 3 sexties aBV
+Art. 1 VOSWKU
+§§ 150 f. aZPO (TG)
+1. Das Bezirksgericht schützte die Klage der Bank X gegen Y über Fr. 23'981.60 unter gleichzeitiger Aufhebung des Rechtsvorschlags. Die Forderung beruhte auf einem Darlehensvertrag über Fr. 30'000.--, rückzahlbar in 50 Raten. Y geriet in Zahlungsverzug.
+2. Der Auffassung der Vorinstanz, die vorliegende Streitsache in Nachachtung von Art. 31sexies Abs. 3 BV i.V.m. § 150 Ziff. 1 ZPO dem beschleunigten Verfahren zu unterstellen, kann nicht gefolgt werden.
+a) Art. 31sexies Abs. 3 BV hält die Kantone an, für Streitigkeiten aus Verträgen zwischen Letztverbrauchern und Anbietern bis zu einem vom Bundesrat zu bestimmenden Streitwert ein Schlichtungs- oder ein einfaches und rasches Prozessverfahren vorzusehen (Rhinow, Kommentar zur Bundesverfassung der Schweizerischen Eidgenossenschaft, Art. 31sexies N 85). Dieser Eingriff in die kantonale Prozessrechtskompetenz wurde jedoch dahingehend eingeschränkt, als er nur bis zu einem vom Bundesrat zu bestimmenden Streitwert greifen sollte. Der Bundesrat machte von seiner selbständigen Verordnungskompetenz Gebrauch und setzte eine Streitwertgrenze von Fr. 8'000.-- fest (Art. 1 Verordnung über die Streitwertgrenze in Verfahren des Konsumentenschutzes und des unlauteren Wettbewerbs). Der Kanton Thurgau seinerseits kam dem in Art. 31sexies Abs. 3 BV statuierten Verfassungsauftrag in der letzten Revision seiner Zivilprozessordnung nach. Der kantonale Gesetzgeber führte ein beschleunigtes Verfahren ein, dem in § 150 Ziff. 1 ZPO auch Streitigkeiten zwischen Letztverbrauchern und Anbietern unter ausdrücklichem Hinweis auf Art. 31sexies Abs. 3 BV unterstellt wurden. Ein Bezug zur Streitwertgrenze fehlt im Gesetz ebenso wie in den Materialien dazu.
+b) Dem Standpunkt der Vorinstanz ist insofern beizupflichten, als das zur Diskussion stehende Rechtsverhältnis als Vertrag zwischen Letztverbrauchern und Anbietern im Sinne der erwähnten Verfassungsbestimmung zu betrachten ist. Derartige Konsumentenverträge, wie sie von einem Teil der Lehre bezeichnet werden, definieren sich dadurch, dass sich ein Anbieter im Rahmen seiner betrieblichen Tätigkeit zu einer Leistung - seien es Waren oder Dienstleistungen - verpflichtet, die für die privaten Zwecke des Konsumenten bestimmt sind (Brunner, Der Konsumentenvertrag im schweizerischen Recht, in: AJP 1992, S. 597; Rhinow, Art. 31sexies N 92 f.). Darlehen von gewerbsmässig tätigen Darleihern an Private zu privaten Zwecken sind als typische Konsumentenverträge zu qualifizieren (Brunner, S. 603). Es handelt sich um einen Bereich des Konsums, in welchem das eindeutig ungleiche wirtschaftliche Gewicht unter den Vertragspartnern zu stossenden Marktergebnissen führen kann. In derartige Konstellationen ausgleichend einzugreifen, war und ist der Sinn des Konsumentenartikels in der Bundesverfassung.
+c) Jedoch kann der Ansicht der Vorinstanz nicht gefolgt werden, die vom Bundesrat festgelegte Streitwertgrenze sei als Minimalwert zu betrachten und der Kanton Thurgau wolle sämtliche Konsumentenverträge dem beschleunigten Verfahren zuweisen. Wollte man der von Rhinow vertretenen Auffassung beipflichten, es stehe den Kantonen frei, ein vereinfachtes Verfahren auch bei höherem Streitwert vorzusehen, bedürfte es zumindest einer entsprechenden gesetzlichen Bestimmung. Dies geschah im Kanton Thurgau nicht. § 150 Ziff. 1 ZPO verweist lediglich auf die Verfassungsbestimmung; mithin verhält es sich nicht anders als bei § 150 Ziff. 5 ZPO, der nur jene Streitigkeiten aus dem Arbeitsverhältnis dem beschleunigten Verfahren zuweist, welche die Streitwertgrenze nach Art. 343 Abs. 2 OR nicht überschreiten (RBOG 1989 Nr. 37). Zudem kann aus den übrigen Ziffern von § 150 ZPO ersehen werden, dass der Gesetzgeber offensichtlich nicht beabsichtigte, eigene oder über die bundesrechtlichen Vorgaben hinausgehende Tatbestände dem beschleunigten Verfahren zuzuweisen, wohl aus dem Wissen heraus, dass ein beschleunigtes Verfahren umso weniger nützt, je mehr Fälle ihm zugeordnet werden, andernfalls die Gefahr besteht, dass die Raschheit des Verfahrens zum Wunschdenken verkommt. Da im vorliegenden Fall die vom Bundesrat festgesetzte Streitwertgrenze überschritten wird, ist das beschleunigte Verfahren nicht anwendbar.
+3. Die Berufungsbeklagte beantragt in ihrem Hauptstandpunkt die Rückweisung der Sache an die Vorinstanz. Sie begründet ihr Begehren damit, dass sie durch die Anwendung des beschleunigten Verfahrens in ihren prozessualen Rechten verkürzt worden sei. Insbesondere rügt sie, dass mangels Anwendung des ordentlichen Verfahrens ihrerseits offerierte Beweise nicht abgenommen worden seien. Dieser Auffassung kann nicht gefolgt werden.
+a) Das beschleunigte Verfahren zeichnet sich durch Massnahmen aus, welche darauf abzielen, den Prozess an kürzere Fristen zu binden und gegenüber dem ordentlichen Verfahren zu privilegieren. Jede Vorladung ist peremtorisch, die gesetzlichen Fristen sind auf die Hälfte verkürzt, Fristerstreckungen dürfen nur aus triftigen Gründen und höchstens im Ausmass der ursprünglichen Dauer gewährt werden, die Hauptverhandlung hat spätestens binnen Monatsfrist seit Abschluss der Vorbereitungen stattzufinden, und die Fälle im beschleunigten geniessen Vorrang vor jenen im ordentlichen Verfahren (§ 151 ZPO). Eine Art Beweismittel- oder Beweisstrengebeschränkung, wie es das summarische Verfahren teilweise kennt, besteht jedoch nicht. Die beweisrechtlichen Grundsätze des ordentlichen Verfahrens gelten auch hier. Insbesondere wird das Recht auf Abnahme der offerierten und für den Entscheid wesentlichen Beweise gegenüber dem ordentlichen Verfahren keineswegs zurückgesetzt. Ordentliches und beschleunigtes Verfahren sind diesbezüglich absolut deckungsgleich.
+b) Doch selbst wenn die Auffassung der Berufungsklägerin zutreffen würde, wäre die behauptete Verkürzung der Parteirechte durch das Berufungsverfahren, insbesondere die neuerliche Eröffnung des zweiten Schriftenwechsels vor Obergericht, unter der Herrschaft des ordentlichen Verfahrens geheilt worden (Vogel, Grundriss des Zivilprozessrechts, 3. A., S. 207; Guldener, Schweizerisches Zivilprozessrecht, 3. A., S. 279 ff.). Im übrigen wäre damit auch den Anforderungen von Art. 6 Abs. 1 EMRK Genüge getan worden, da die daselbst statuierten Verfahrensgarantien nur vor einer Instanz gewahrt sein müssen (Poledna, Praxis zur Europäischen Menschenrechtskonvention, N 331; Villiger, Handbuch zur Europäischen Menschenrechtskonvention, N 408). Zumal das Obergericht bei Berufungen die Tat- und Rechtsfragen frei prüft, hätte die behauptete Verkürzung in den Parteirechten - wäre sie tatsächlich gegeben gewesen - somit auch unter dem Aspekt der Konvention als geheilt gegolten.
+Obergericht, 17. Februar 1994, ZB 93 86
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
