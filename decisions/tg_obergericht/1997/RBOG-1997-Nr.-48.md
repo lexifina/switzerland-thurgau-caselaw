@@ -1,0 +1,44 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._48"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 48"
+decided: "1997-05-16"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-1997-nr-48"
+---
+
+# TG Obergericht RBOG 1997 Nr. 48
+
+## Regeste
+
+Anforderungen an das Rechtsbegehren, speziell im Ehrverletzungsprozess
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 1997 RBOG 1997 Nr. 48
+Thurgovie Obergericht Rechenschaftsbericht 1997 RBOG 1997 Nr. 48
+Turgovia Obergericht Rechenschaftsbericht 1997 RBOG 1997 Nr. 48
+
+RBOG 1997 Nr. 48
+Skip to main content
+Show navigation
+Anforderungen an das Rechtsbegehren, speziell im Ehrverletzungsprozess
+§§ 171 ff. aStPO (TG)
+,
+§ 122 Abs. 2 Ziff. 4 aZPO (TG)
+1. Der Rekurrent machte eine Ehrverletzungsklage anhängig. Die Vorinstanz trat auf die Klage nicht ein: Die Weisung enthalte keinerlei Angaben darüber, welches die ehrverletzenden Äusserungen der Rekursgegner seien, und wann resp. wo sich letztere angeblich ehrverletzend geäussert hätten.
+2. Gemäss § 171 Abs. 1 StPO gilt für Ehrverletzungsklagen das Verfahren gemäss Zivilprozessordnung.
+a) Bei Beginn eines Prozesses soll das Rechtsbegehren so formuliert werden, dass es bei Gutheissung der Klage zum Urteil erhoben werden kann. Praktisch alle Prozessordnungen kennen deshalb den Grundsatz, dass das Rechtsbegehren bestimmt, bei Klagen auf Geldzahlung (soweit ohne Beweisverfahren möglich) beziffert sein muss (RBOG 1996 Nr. 32 mit Hinweisen). Für den Bereich des thurgauischen Zivilprozessrechts wird seit jeher daraus abgeleitet, dass auf das in der Weisung enthaltene Klagebegehren abzustellen ist. § 122 Abs. 2 Ziff. 4 ZPO schreibt deshalb - ähnlich wie früher § 149 Abs. 2 Ziff. 3 aZPO - vor, die Weisung habe die Angabe des Streitgegenstands und die Erklärungen der Parteien über dessen Wert zu enthalten.
+Das Rechtsbegehren muss folglich bereits auf der Weisung so formuliert sein, dass es allenfalls ohne Ergänzung und Verdeutlichung zum Urteil des Gerichts erhoben werden kann. Präzisierungen in Klageschriften oder Beiblättern sind nicht zu berücksichtigen (RBOG 1987 Nr. 15, 1983 Nr. 17, 1975 Nr. 15). Dies heisst jedoch nicht, dass in der Weisung nicht auf ein Zusatzdokument, welches deren Bestandteil bildet, verwiesen werden darf. Auf der Weisung den Hinweis "Rechtsbegehren gemäss Anhang" anzubringen, ist ohne weiteres zulässig; es kann nicht verlangt werden, dass das Rechtsbegehren, damit es als rechtsgenüglich formuliert gilt, vom Friedensrichter persönlich auf die Weisung geschrieben wird. Bedingung für die Rechtsgenüglichkeit ist nur, dass der Antrag in sich klar ist, und zwar bereits anlässlich des Vermittlungsvorstands, und keiner späteren Präzisierungen mehr bedarf; welcher Mittel sich die klagende Partei hiefür bedient, ob sie auf ein bestimmtes Schreiben verweist, aus welchem unzweifelhaft hervorgeht, was verlangt wird, und welches vom Friedensrichter als Anhang der Weisung beigefügt wird, oder ob sie ihr Begehren in der Weisung nur genau umschreibt, ist unmassgeblich (RBOG 1996 Nr. 32).
+b) Für einen Ehrverletzungsprozess gelten folgende Besonderheiten: Auf der Weisung oder einem Zusatzblatt sind der Strafantrag des Klägers und der Antrag des Beklagten, eine stichwortartige Bezeichnung der Ehrverletzung unter Angabe von Zeit und Ort der Begehung, die allfällige Erklärung des Beklagten über Rücknahme unwahrer Äusserungen, die allfälligen privatrechtlichen Ansprüche des Klägers und der Antrag des Beklagten hiezu sowie die vollständigen Personalien des Beklagten aufzuführen (§ 174 StPO). Die vom Kläger als ehrverletzend qualifizierten Bemerkungen müssen somit - zumindest als Stichworte - der Weisung entnommen werden können. Grund hiefür ist, dass Inhalt und Umfang des klägerischen Strafantrags bereits anlässlich des Vermittlungsvorstands für die gerichtliche Beurteilung festzulegen sind: Der Antragsteller muss von Bundesrechts wegen schon in jenem Zeitpunkt des Verfahrens erklären, auf welchen konkreten Lebensvorgang sich sein Strafanspruch bezieht. Der Strafantrag selbst gilt nur für die angezeigte Handlung und für einen bestimmten Sachverhalt (BGE 97 IV 158, 85 IV 75). Es geht nicht an, ihn nachträglich auf weitere Tatbestände, für welche die Antragsfrist bereits abgelaufen ist, auszudehnen; ebensowenig wird er von Gesetzes wegen auf spätere strafbare Handlungen erstreckt (vgl. RBOG 1981 Nr. 32). § 174 StPO stellt deshalb aufgrund der materiell-rechtlichen Regelung keine blosse Ordnungsvorschrift dar: Enthält die Weisung (oder das Beiblatt) keine verbindliche Umschreibung des Sachverhalts, für welchen der Antragsteller die Strafverfolgung verlangt (Bezeichnung der Ehrverletzung sowie von Zeit und Ort der Begehung), kann auf die Klage nicht eingetreten werden.
+c) In der Natur der Sache liegt es, dass nur der Kläger dartun kann, welche Vorkommnisse ihn bewegen, eine Ehrverletzungsklage anhängig zu machen. Er hat die massgebenden Äusserungen, gestützt auf welche er die Verurteilung der beklagten Partei verlangt, darzutun sowie anzugeben, wo und wann sich die strafbare Handlung ereignete. Dem Friedensrichter kommt lediglich die Rolle des Vermittlers zu: Er hat die Vorbringen der Parteien gewissenhaft zu prüfen, gegen offenbar unbegründete Ansprüche oder Einwendungen die sachgemässen Vorstellungen zu erheben und nach bestem Ermessen auf eine gütliche Einigung der Streitenden hinzuwirken (§ 117 ZPO). Aus dieser Bestimmung geht klar hervor, dass er nicht Berater der einen oder anderen Partei sein, sondern letztlich einzig auf eine Bereinigung der zwischen ihnen bestehenden Differenzen hinwirken darf. Wohl kann er - insbesondere bei Laien - das, was der Kläger als Streitpunkt bezeichnet, auf angemessene Weise in ein Rechtsbegehren umformulieren; hiefür ist indessen primär erforderlich, dass der Kläger den ehrverletzenden Tatbestand überhaupt schildert.
+3. a) Das auf der Weisung des Friedensrichteramts enthaltene Rechtsbegehren lautet folgendermassen: Die Beklagten (Rekursgegner) seien der Verleumdung schuldig zu sprechen und angemessen zu bestrafen. Es solle besonders berücksichtigt werden, dass der Beklagte 1 eine grössere Sensibilität in der Sache hätte erkennen lassen müssen als ein Durchschnittsbürger.
+b) Der Rekurrent macht nicht geltend, er habe anlässlich des Vermittlungsvorstands die den Rekursgegnern vorgeworfene strafbare Handlung klar genannt. In seiner Rekursschrift weist er vielmehr darauf hin, der Friedensrichter habe ihm auf Anfrage mitgeteilt, er werde die Weisung "im Sinne, wie ich meinen Antrag schriftlich gestellt hätte, schreiben." Seine im Brief an das Friedensrichteramt enthaltenen Begehren stimmen wörtlich mit denjenigen überein, welche in die Weisung aufgenommen wurden. In seinem Rechtsbegehren fehlt nun aber jeglicher Hinweis auf die angeblich ehrverletzenden Äusserungen der Rekursgegner. Ebenso unklar ist, wo und wann letztere die behauptete strafbare Handlung begangen haben sollen; es existiert nirgends eine Schilderung des ehrverletzenden Tatbestands. Unter diesen Umständen hatte der Friedensrichter indessen gar keine andere Möglichkeit, als die Anträge des Rekurrenten wörtlich zu übernehmen; eine Verbesserung des Rechtsbegehrens oder die Beratung des Rekurrenten bei der Formulierung desselben stand ihm nicht zu. Dem Schreiben, mit welchem er um Anordnung eines Vermittlungsvorstands ersucht hatte, lag wohl eine Kopie eines von den Rekursgegnern verfassten Briefes bei; was der Rekurrent darin als ehrverletzend qualifiziert, legte er jedoch offenbar auch anlässlich des Vermittlungsvorstands nicht dar. Im Begleitschreiben, mit welchem er dem Gerichtspräsidium die Weisung "zur Weiterbehandlung" einreichte, nahm er überdies mit keinem Wort auf diesen Brief, sondern ausschliesslich auf einen Zeitungsartikel Bezug, in welchem angeblich gegen ihn gerichtete Verleumdungen und Beleidigungen enthalten seien. Dass die Vorinstanz gestützt auf diesen Hinweis zum Schluss kam, der Rekurrent begründe seine Ehrverletzungsklage mit diesem Artikel, was jedoch der Weisung nicht habe entnommen werden können, lässt sich unter diesen Umständen in keiner Weise beanstanden. Im Grunde zeigt erst das Rekursverfahren klar, was der Rekurrent beanstanden wollte, wobei es auch heute noch an einer stichwortartigen Bezeichnung der Ehrverletzung unter Angabe von Zeit und Ort der Begehung (§ 174 Ziff. 1 und 2 StPO) fehlt. Selbst wenn er seine bisherige Säumnis nunmehr nachgeholt hätte, könnte dies jedoch nicht zu einem Schutz des Rekurses führen: Bereits auf der Weisung und nicht erst mit der Klageschrift oder in einem allfälligen Rechtsmittelverfahren ist das Rechtsbegehren präzis zu fassen.
+Rekurskommission, 16. Mai 1997, SB 97 10
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
