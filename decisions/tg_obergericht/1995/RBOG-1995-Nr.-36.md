@@ -1,0 +1,34 @@
+---
+decision_id: "tg_obergericht_RBOG_1995_Nr._36"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1995 Nr. 36"
+docket_2: "ZR 95 107"
+decided: "1995-11-27"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/68BDC4F2-519E-4C82-B0E95AB4C3DCC0CC.html"
+---
+
+# TG Obergericht RBOG 1995 Nr. 36
+
+## Regeste
+
+Beschlüsse über Protokollberichtigungsbeschwerden können mit Rekurs an die Rekurskommission des Obergerichts weitergezogen werden (§ 234 Ziff. 2 ZPO, wonach der Gerichtsschreiber die von den Parteien gestellten Rechtsbegehren, die vorgebrachten erheblichen Tatsachen, die Beweisanträge, die Bestreitungen sowie alle Beschlüsse und Urteile aufzunehmen hat. 3. Im vorliegenden Fall wurden die in Frage stehenden Einvernahmen durch die Bezirksgerichtliche Kommission korrekt vorgenommen: ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 27.11.1995 RBOG 1995 Nr. 36 (ZR 95 107)
+Thurgovie Obergericht Rechenschaftsbericht 27.11.1995 RBOG 1995 Nr. 36 (ZR 95 107)
+Turgovia Obergericht Rechenschaftsbericht 27.11.1995 RBOG 1995 Nr. 36 (ZR 95 107)
+
+Beschlüsse über Protokollberichtigungsbeschwerden können mit Rekurs an die Rekurskommission des Obergerichts weitergezogen werden (§ 234 Ziff. 2 ZPO, wonach der Gerichtsschreiber die von den Parteien gestellten Rechtsbegehren, die vorgebrachten erheblichen Tatsachen, die Beweisanträge, die Bestreitungen sowie alle Beschlüsse und Urteile aufzunehmen hat. 3. Im vorliegenden Fall wurden die in Frage stehenden Einvernahmen durch die Bezirksgerichtliche Kommission korrekt vorgenommen: ...
+
+RBOG 1995 Nr. 36
+RBOG 1995 Nr. 36
+Protokollberichtigungsbeschwerde; Anforderungen an die Protokollierung
+(§§ 101 Abs. 1 und 2, 218 ZPO)
+1.    Jede Partei hat das Recht, bei Unrichtigkeiten oder wesentlichen Auslassungen im Protokoll beim betreffenden Gericht innert 10 Tagen nach Kenntnisnahme die Berichtigung zu verlangen; das Gericht trifft seinen Entscheid in Beschlussesform (§ 101 Abs. 1 ZPO). Beschlüsse über Protokollberichtigungsbeschwerden können mit Rekurs an die Rekurskommission des Obergerichts weitergezogen werden (§ 234 Ziff. 4 ZPO).
+2.    Beim Gegenstand eines Protokollberichtigungsbegehrens ist zu unterscheiden, welcher Art das umstrittene Protokoll ist: Handelt es sich um ein Protokoll über die Vorträge der Parteien in der Hauptverhandlung oder bei der Beweiswürdigung, gilt für die Protokollierung § 100 Abs. 2 ZPO, wonach der Gerichtsschreiber die von den Parteien gestellten Rechtsbegehren, die vorgebrachten erheblichen Tatsachen, die Beweisanträge, die Bestreitungen sowie alle Beschlüsse und Urteile aufzunehmen hat. Handelt es sich demgegenüber um das Protokoll einer Partei- oder Zeugeneinvernahme, gilt § 218 ZPO, wonach die Aussagen der Zeugen schriftlich festgehalten und anschliessend vorgelesen werden, worauf der Zeuge die Richtigkeit des Protokolls unterschriftlich zu bestätigen hat. Ist der Text der Aussage nach dem Vorlesen des Einvernahmeprotokolls und allenfalls erfolgter Berichtigung durch den Zeugen selbst und die dabei anwesenden Parteien genehmigt worden - in der Formulierung durch den Gerichtsschreiber -, so steht dieser Aussagetext fest und kann auch im Rahmen eines Protokollberichtigungsverfahrens in der Regel nicht mehr abgeändert werden; mit dem Berichtigungsbegehren bezüglich eines Einvernahmeprotokolls kann daher mit Bezug auf die Aussage selbst faktisch nur die Rüge erhoben werden, dass das Vorgelesene mit dem im nachträglich erstellten Maschinenschriftprotokoll festgehaltenen Text nicht übereinstimmt. Vorbehalten bleibt nur der Fall, wo übereinstimmend zwischen Gericht und Parteien festgestellt werden kann, dass und welcher Text in der Aussage falsch vorgelesen bzw. weggelassen wurde; ist das nicht möglich, muss nötigenfalls die Zeugenaussage wiederholt werden, sofern seitens des Gerichts mit Bezug auf den Inhalt der Aussage keine Gewissheit besteht.
+3.    Im vorliegenden Fall wurden die in Frage stehenden Einvernahmen durch die Bezirksgerichtliche Kommission korrekt vorgenommen: Anlässlich der Zeugeneinvernahmen führte der Gerichtsschreiber das handschriftliche Protokoll. Nach Abschluss der Befragung wurde das Protokoll in Anwesenheit der Zeugen und der Parteien vom Gerichtsschreiber bei laufendem Tonbandgerät verlesen, worauf allfällige Fehler oder Ungenauigkeiten im Protokoll auf entsprechenden Hinweis seitens der Parteien oder des Gerichts sofort korrigiert bzw. ergänzt und ebenfalls auf Tonband aufgenommen wurden. In der Folge bestätigte der Zeuge die Richtigkeit des ihm vorgelesenen Protokolls unterschriftlich. Die Reinschrift des zu den Akten zu legenden Maschinenschriftsprotokolls wurde später anhand der Tonbandaufnahmen ausgefertigt.
+Vor diesem Hintergrund erscheint die vom Rekurrenten eingereichte Protokollberichtigungsbeschwerde als trölerisch. Zum einen macht der Rekurrent gar nicht geltend, das Maschinenschriftprotokoll stimme mit dem vom Gerichtsschreiber nach Protokollierung vorgelesenen und von den Zeugen genehmigten Text nicht überein. Falls also tatsächlich, wie der Rekurrent behauptet, gewisse Auslassungen erfolgten, so hätte ihn die Pflicht getroffen, anlässlich der Verhandlung den vom Gerichtsschreiber vorgelesenen Text zu korrigieren bzw. eine entsprechende Ergänzung zu verlangen; dass dies geschehen sei, behauptet der Rekurrent jedoch gar nicht. Zum andern ist ohnehin nicht zu erkennen, welche Bedeutung den angeblichen Auslassungen oder Unklarheiten in den Protokollen mit Bezug auf den in Frage stehenden Prozess überhaupt zukommen soll. Und schliesslich liegen der Rekurskommission die handschriftlichen Notizen des Gerichtsschreibers zum Einvernahmeprotokoll vor; irgendwelche Auslassungen oder Unrichtigkeiten im Vergleich mit dem maschinengeschriebenen Protokoll sind nicht festzustellen, ganz abgesehen davon, dass seitens der Bezirksgerichtlichen Kommission ausdrücklich bestätigt wird, dass die vom Rekurrenten behaupteten Falschdarstellungen im Protokoll in jedem Einzelpunkt unzutreffend sind und die protokollierte Version richtig ist.
+Rekurskommission, 27. November 1995, ZR 95 107
