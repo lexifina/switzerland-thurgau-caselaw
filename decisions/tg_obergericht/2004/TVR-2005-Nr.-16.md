@@ -1,0 +1,59 @@
+---
+decision_id: "tg_obergericht_TVR_2005_Nr._16"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2005 Nr. 16"
+decided: "2004-09-28"
+published: "2005-12-21"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2005-nr-16"
+cites_law: ["switzerland/bund/acts/210/art-264.md", "switzerland/bund/acts/210/art-264a.md", "switzerland/bund/acts/210/art-264b.md", "switzerland/bund/acts/210/art-267.md", "switzerland/bund/acts/291/art-078.md"]
+---
+
+# TG Obergericht TVR 2005 Nr. 16
+
+## Regeste
+
+Anerkennung einer ausländischen Adoption nur mit Wirkung, die ihr im Staat der Begründung zukommt
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 21.12.2005 TVR 2005 Nr. 16
+Thurgovie Obergericht Rechenschaftsbericht 21.12.2005 TVR 2005 Nr. 16
+Turgovia Obergericht Rechenschaftsbericht 21.12.2005 TVR 2005 Nr. 16
+
+TVR 2005 Nr. 16
+Skip to main content
+Show navigation
+Anerkennung einer ausländischen Adoption nur mit Wirkung, die ihr im Staat der Begründung zukommt
+Art. 78 IPRG
+1. Zwischen einer Adoption nach bosnischherzegowinischem Recht und einer Adoption nach Art. 267 ZGB bestehen derartige Unterschiede, dass erstere nur als unvollständige Adoption bezeichnet werden kann.
+2. Deren Anerkennung in der Schweiz kann nicht mit den Wirkungen einer vollen Adoption erfolgen, so dass ein hiesiger Eintrag nicht im Zivilstands-, sondern nur im Familien beziehungsweise Personenstandsregister erfolgen kann.
+Mit Bescheid vom 21. Januar 2002 des Sozialamtes C in Bosnien-Herzegowina, Republik Serbien, wurde zwischen dem Adoptivvater S und dem Adoptivsohn B, geboren am 7. Mai 1986, eine unvollständige Adoption durchgeführt. Am 9. Juni 2004 ersuchten die Eheleute S beim Amt für Handelsregister und Zivilstandswesen (nachfolgend Amt) um Eintragung des Adoptivsohnes B in die hiesigen Register. Mit Verfügung vom 28. September 2004 wies das Amt dieses Gesuch mit der Begründung ab, der erfolgten ausländischen Adoption käme nur die Wirkung einer unvollständigen, einfachen Adoption zu. Gegen diese Verfügung liessen S und B Rekurs beim DJS erheben. Sie wiesen unter anderem darauf hin, dass die erfolgte Adoption nur unwesentlich von der Schweizerischen Adoption abweiche, so dass eine Anerkennung in der Schweiz nicht verweigert werden könne. Zudem hätten B und dessen leibliche Mutter ausdrücklich das Einverständnis mit der Anerkennung und der Eintragung einer Volladoption erklärt. Das DJS wies den Rekurs ab. Auch das Verwaltungsgericht weist ab.
+Aus den Erwägungen:
+2. a) Art. 78 Abs. IPRG besagt, dass ausländische Adoptionen in der Schweiz anerkannt werden, wenn sie im Staat des Wohnsitzes oder im Heimatstaat der adoptierenden Person oder der adoptierenden Ehegatten ausgesprochen worden sind.
+b) S hatte im Zeitpunkt der Adoption seinen Wohnsitz in Frauenfeld. Davon ist jedenfalls aufgrund des Einbürgerungsbeschlusses des Grossen Rates vom 24. März 2004 auszugehen. Da die Einbürgerung erst nach der Adoption erfolgte, war er im Zeitpunkt der Adoption noch bosnischherzegowinischer Staatsangehöriger. Demnach steht gestützt auf Art. 78 Abs. 1 IPRG die Tatsache, dass die Adoption trotz schweizerischem Wohnsitz von S in Bosnien-Herzegowina durchgeführt wurde, einer Anerkennung nicht entgegen.
+3. a) Art. 78 Abs. 2 IPRG hält ergänzend zu Abs. 1 fest, dass ausländische Adoptionen oder ähnliche Akte, die von einem Kindesverhältnis im Sinne des schweizerischen Rechts wesentlich abweichende Wirkungen haben, in der Schweiz nur mit den Wirkungen anerkannt werden, die ihnen im Staat der Begründung zukommen.
+b) Offensichtlich bestehen massgebliche Unterschiede zwischen der in Bosnien-Herzegowina durchgeführten Adoption und einer solchen in der Schweiz. Diese werden im Entscheid der Vorinstanz dargelegt. So werden durch die unvollständige Adoption nach bosnischherzegowinischem Recht zwischen dem Angenommenen und dem Annehmenden sowie dessen Nachkommen die Verwandtschaftsbeziehungen sowie Rechte und Pflichten begründet, die zwischen Eltern und Kindern bestehen. Im Gegensatz zur vollen Adoption berührt aber die unvollständige Adoption die Rechte und Pflichten des Angenommenen gegenüber seinen (leiblichen) Eltern und anderen Verwandten nicht.
+Mit einer Adoption nach schweizerischem Recht erlöscht gemäss Art. 267 Abs. 2 ZGB das bisherige Kindesverhältnis. Die Voraussetzungen für die Zulässigkeit einer Adoption in der Schweiz unterscheiden sich ebenfalls stark von jenen nach dem Recht Bosnien-Herzegowinas. So darf ein Kind gemäss Art. 264 ZGB adoptiert werden, wenn ihm die künftigen Adoptiveltern während wenigstens eines Jahres Pflege und Erziehung erwiesen haben und nach den gesamten Umständen zu erwarten ist, die Begründung eines Kindesverhältnisses diene seinem Wohl. Nach Art. 264a Abs. 1 ZGB können Ehegatten nur gemeinschaftlich adoptieren (vgl. auch Art. 264b ZGB).
+c) Die vorliegende Adoption von B durch seinen Onkel S, welche nach bosnischherzegowinischem Recht durchgeführt wurde, kann nicht mit einer Adoption nach schweizerischem Recht verglichen werden. Dies insbesondere aufgrund der verschiedenen Wirkungen, welche die beiden Adoptionsarten entfalten. Hinzu kommt aber andererseits, dass die Voraussetzungen einer Adoption Bs durch seinen Onkel nach schweizerischem Recht gar nicht erfüllt gewesen wären, eine Adoption nach ZGB also gar nicht möglich gewesen wäre.
+Daran ändert auch nichts, dass sowohl B und S als auch Bs leibliche Mutter ihre Zustimmung zur Eintragung der vorliegenden Adoption in die hiesigen Register mit sämtlichen Wirkungen, welche einer Adoption nach schweizerischem Recht zukommen, erteilen. Die vorliegende Adoption wurde nach bosnischherzegowinischem Recht durchgeführt, so dass ihr lediglich die gemäss jenem Recht vorgesehenen Wirkungen zukommen. Der Wille der an der Adoption beteiligten Personen kann nicht die der Adoption von Gesetzes wegen zukommenden Wirkungen abändern (vgl. nachfolgend E. 5 c).
+d) Sollten die weiteren Voraussetzungen für eine Eintragung in die hiesigen Register erfüllt sein – was noch zu prüfen ist – so könnte also die vorliegende Adoption lediglich mit den Einschränkungen und Wirkungen eingetragen werden, welche sie gemäss bosnischherzegowinischem Recht erfährt. Dies ergibt sich aus dem eingangs zitierten Art. 78 Abs. 2 IPRG. Eine anderweitige Auslegung von Art. 78 IPRG ist aufgrund der vorliegenden Differenzen zwischen dem Institut der Adoption nach den Rechtssystemen der Schweiz und Bosnien-Herzegowinas nicht möglich. So will nämlich Art. 78 Abs. 2 IPRG vermeiden, dass eine ausländische Adoption im Inland potentiell stärker wirkt als im Ausland (Siehr/Tejura, Anerkennung ausländischer Adoptionen in der Schweiz, in SJZ 89 (1993) S. 277).
+4. a) In BGE 117 II 340 hat das Bundesgericht entschieden, es sei dem Eintragungsgesuch für eine philippinische Adoption nicht stattzugeben, da diese keine Volladoption, sondern lediglich eine einfache Adoption sei und diese die rechtlichen Beziehungen des Adoptivkindes zu den natürlichen Eltern im Gegensatz zur schweizerischen Adoption weiterbestehen lasse, dies weil die Gleichwertigkeit der beiden unterschiedlichen Institute zu verneinen sei. Den Beschwerdeführern stehe es frei, die streitige Adoption im Familienregister als einfache Adoption eintragen zu lassen.
+b) Die Beschwerdeführer stützen sich auf den in E. 3 d am Ende erwähnten Autor Siehr, gemäss welchem ein Anspruch auf die Anerkennung der Adoption in der Schweiz und deren Eintragung in den hiesigen Registern bestehe, auch wenn aus besonderen Gründen in Bosnien-Herzegowina keine Volladoption mehr möglich gewesen sei.
+c) Dieser Autor kritisiert zwar obengenannten Entscheid des Bundesgerichts. Er würde es als sinnvoller erachten, wenn jede Adoption, die ein Kindesverhältnis zu den Adoptiveltern, wenn auch nur mit schwachen Wirkungen, herstellt, ins Zivilstandsregister mit der Bemerkung eingetragen würde, dass es sich um eine ausländische Adoption nach dem Recht eines bestimmten Staates handle (Siehr/Tejura, a.a.O., S. 278). Damit sagt dieser Autor aber entgegen den Ausführungen der Beschwerdeführer und mit dem Bundesgerichtsentscheid, dass die im Ausland erfolgte einfache Adoption zwar ins schweizerische Zivilstandsregister eingetragen werden könne, jedoch unter Angabe des Landes, nach welchem adoptiert worden ist (Siehr, in Zürcher Kommentar zum IPRG, 2. Aufl., Zürich 2004, Art. 78 N. 28). Faktisch würde also im vorliegenden Fall auch mit Siehr lediglich die einfache Adoption eingetragen.
+5. a) Weiter machen die Beschwerdeführer geltend, es komme hinzu, dass B und dessen Mutter gemäss den beiden Erklärungen ausdrücklich das Einverständnis mit der Anerkennung und der Eintragung einer Volladoption in der Schweiz erklärt hätten. In analoger Anwendung der Bestimmungen über das Haager Abkommen vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der Internationalen Adoption sei somit die in Bosnien-Herzegowina ausgesprochene Adoption zwischen den beiden Beschwerdeführern in der Schweiz als Volladoption anzuerkennen.
+b) Bosnien-Herzegowina gehört nicht zu den Unterzeichnerstaaten des Haager Übereinkommens vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der Internationalen Adoption. Demzufolge findet das Haager Übereinkommen auf den vorliegenden Sachverhalt keine Anwendung. Eine solche Anwendung kann auch nicht einfach per analogiam konstruiert werden, hat doch Bosnien-Herzegowina von der Möglichkeit, dem Haager Übereinkommen beizutreten, keinen Gebrauch gemacht.
+c) Selbst wenn das Haager Übereinkommen analog zur Anwendung gelangen würde, was – wie gesagt – nicht zutrifft, wäre zu beachten, dass dessen Art. 27 lediglich eine «KannVorschrift» darstellt. Dass die Adoption kraft Gesetzes als volle Adoption anzuerkennen wäre, wird aufgrund einer lediglich analogen Anwendung des Übereinkommens niemals der Fall sein, da die Behörde, welche die Adoption durchgeführt hat, die Bescheinigung, dass die Adoption gemäss dem Übereinkommen zu Stande gekommen ist (Art. 23 des Übereinkommens), nicht erbringen kann respektive diese Bescheinigung vom anerkennenden Staat nicht akzeptiert zu werden braucht.
+6. a) Gestützt auf diese Erwägungen und in Übereinstimmung mit der bundesgerichtlichen Rechtsprechung kommt das Verwaltungsgericht zum Schluss, dass die in Frage stehende Adoption lediglich als einfache Adoption in die Zivilstandsregister eingetragen werden könnte.
+b) Die Beschwerdeführer lassen Anerkennung der Adoption und Eintragung in die hiesigen Zivilstandsregister beantragen. Aus der Begründung ihrer Anträge ergibt sich, dass sie darauf abzielen, die unvollständige Adoption sei als schweizerische Volladoption anzuerkennen. Zu beachten ist aber auch, dass die Beschwerdeführer schon vor dem Amt um Eintragung der Volladoption in der Schweiz ersuchten. Zu keinem Zeitpunkt war von Seiten der Beschwerdeführer die Rede von der Eintragung der einfachen Adoption in die hiesigen Register.
+c) Demzufolge hatte sich weder das Amt noch die Vorinstanz über die Anerkennung der vorliegenden Adoption als unvollständige Adoption zu äussern. Indem sie lediglich prüften, ob die Adoption als volle anzuerkennen sei, prüften sie die Anträge der Beschwerdeführer in genügender Weise.
+7. Schliesslich müsste man sich fragen, ob der von den Beschwerdeführern mittels Adoption offenkundig primär angestrebte Familiennachzug sich – selbst bei Eintragung der Adoption in die hiesigen Register – nicht als rechtsmissbräuchlich erweist. Der Sachverhalt wäre allenfalls mit demjenigen einer Scheinehe zu vergleichen.
+Entscheid vom 27. April 2005
+Die von S und B gegen diesen Entscheid geführte Verwaltungsgerichtsbeschwerde hat das Bundesgericht mit Urteil vom 21. Dezember 2005 abgewiesen (5A.20/2005).
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
