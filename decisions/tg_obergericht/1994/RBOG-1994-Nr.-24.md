@@ -1,0 +1,167 @@
+---
+decision_id: "tg_obergericht_RBOG_1994_Nr._24"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1994 Nr. 24"
+docket_2: "ZR 94 67"
+decided: "1994-05-13"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/9CFE1ABE-7CBA-4206-B0431F5DC29DD427.html"
+---
+
+# TG Obergericht RBOG 1994 Nr. 24
+
+## Regeste
+
+1 ZPO geht hervor, dass die unentgeltliche Prozessführung nichts anderes als einen Spezialfall staatlicher Sozialhilfe darstellt. Auch die Praxis verneint die Unterstützungspflicht, wenn der Unterstützte den Lebensunterhalt selbst verdienen kann (SOG 1984 Nr. Es gilt die Offizialmaxime, allerdings mit den Beschränkungen, dass die Voraussetzungen für die Gewährung des Armenrechts lediglich auf Gesuch hin zu prüfen sind und der Gesuchsteller der in § 80 Abs.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 13.05.1994 RBOG 1994 Nr. 24 (ZR 94 67)
+Thurgovie Obergericht Rechenschaftsbericht 13.05.1994 RBOG 1994 Nr. 24 (ZR 94 67)
+Turgovia Obergericht Rechenschaftsbericht 13.05.1994 RBOG 1994 Nr. 24 (ZR 94 67)
+
+1 ZPO geht hervor, dass die unentgeltliche Prozessführung nichts anderes als einen Spezialfall staatlicher Sozialhilfe darstellt. Auch die Praxis verneint die Unterstützungspflicht, wenn der Unterstützte den Lebensunterhalt selbst verdienen kann (SOG 1984 Nr. Es gilt die Offizialmaxime, allerdings mit den Beschränkungen, dass die Voraussetzungen für die Gewährung des Armenrechts lediglich auf Gesuch hin zu prüfen sind und der Gesuchsteller der in § 80 Abs.
+
+RBOG 1994 Nr. 24
+RBOG 1994 Nr. 24
+Selbstverschuldete Mittellosigkeit schliesst die unentgeltliche Prozessführung nicht aus; Verpflichtung des Gerichts, die Verhältnisse des Gesuchstellers abzuklären und ihn zur Mitwirkung anzuhalten
+(§§
+80 ff. ZPO)
+1.
+a)    Allein schon aus dem Wortlaut von
+§§ 80 Abs. 1 und 82 Abs. 1 ZPO geht hervor, dass die
+unentgeltliche Prozessführung nichts anderes als einen
+Spezialfall staatlicher Sozialhilfe darstellt. Dies hat die
+Konsequenz, dass es grundsätzlich unmassgebend ist, ob die
+finanzielle Notlage des Gesuchstellers selbstverschuldeter
+Natur ist oder nicht, so lange er sich um eine ihm in Ausmass
+und Art zumutbare Tätigkeit bemüht (RBOG 1992 Nr. 27
+mit Hinweisen). Diese Praxis der Rekurskommission vermag sich
+auch auf die Analogie zu § 8 des Sozialhilfegesetzes (SHG;
+RB 850) abzustützen, wonach derjenige Anspruch auf
+Unterstützung durch die Gemeinde hat, welcher nicht
+über hinreichende Mittel zur Bestreitung des
+Lebensunterhalts verfügt, sofern von ihm nicht verlangt
+werden kann, sich die Mittel durch eigene Arbeit zu beschaffen,
+und keine andere Hilfe möglich ist. Demnach geht auch das
+Sozialhilfegesetz nicht vom Automatismus staatlicher
+Fürsorgeleistungen aus, sondern stellt auf die
+Zumutbarkeit der Mittelbeschaffung durch eigene Arbeit ab. Es
+steht damit nicht alleine da: Die Sozialhilfegesetze aller
+Kantone halten die unterstützte Person an, eine zumutbare
+Erwerbstätigkeit aufzunehmen. Dies ergibt sich
+überdies auch aus dem Subsidiaritätsprinzip und dem
+Grundsatz der Selbsthilfe (Wolffers, Grundriss des
+Sozialhilferechts, Bern 1993, S. 25 ff.; zum Begriff der
+zumutbaren Arbeit insbesondere S. 109 f.). Auch die Praxis
+verneint die Unterstützungspflicht, wenn der
+Unterstützte den Lebensunterhalt selbst verdienen kann
+(SOG 1984 Nr. 34; Sträuli/Messmer, Kommentar zur
+Zürcherischen Zivilprozessordnung, 2. A., § 84 N 3;
+AGVE 1984 Nr. 19 S. 79).
+b)    Mit diesen gesetzlichen Grundlagen und der
+entsprechenden Praxis lässt sich der ebenfalls
+unbestrittene Grundsatz vereinbaren, dass die
+selbstverschuldete Mittellosigkeit den Anspruch auf Sozialhilfe
+nicht ausschliesst (BGE 108 Ia 108 ff. = Pra 71, 1982, Nr. 233,
+BGE 101 Ia 134, 99 Ia 441; EGVSZ 1988 Nr. 44 S. 116; TVR 1985
+Nr. 18 S. 100). Das Bundesgericht lehnt die Gewährung der
+unentgeltlichen Rechtspflege nur bei Rechtsmissbrauch ab (Ries,
+Die unentgeltliche Rechtspflege nach der aargauischen
+Zivilprozessordnung, Diss. Zürich 1990, S. 87 Anm. 75 mit
+Hinweisen).
+Der Gedanke, dass ein Verschulden bezüglich des Anspruchs
+auf Sozialhilfe grundsätzlich keine Rolle spielt, ist
+retrospektiv gerichtet, während die Voraussetzung einer
+Arbeitsaufnahme für die Zukunft gilt. EGVSZ 1988 Nr. 44
+formuliert dies zwar nicht mit dieser Deutlichkeit,
+unterscheidet aber gleichwohl, indem ein Anspruch auf
+Sozialhilfe auch bei "Selbstverschulden" grundsätzlich
+bejaht wird, bezüglich der Bemessung der wirtschaftlichen
+Hilfe jedoch massgeblich auf Bereitschaft und Mitarbeit der
+unterstützungsbedürftigen Person abgestellt wird.
+"Grundsätzlich muss somit verlangt werden, dass der
+Lebensunterhalt durch eigene Arbeit bestritten wird, wo
+Möglichkeiten in persönlicher und arbeitsmarktlicher
+Hinsicht bestehen. Wer somit bewusst deshalb nicht arbeitet,
+weil die öffentliche Fürsorge sowieso einspringt,
+nützt diese staatliche Einrichtung aus, ja missbraucht
+sie. Ein solcher Gesuchsteller ist anders zu behandeln als
+derjenige, welcher eigene Initiative gezeigt hat, aber aus
+arbeitsmarktlichen Gründen und/oder persönlichen,
+familiären oder psychischen Problemen zeitweise oder auf
+Dauer nicht imstande ist, eine Arbeit zufriedenstellend
+auszuführen" (EGVSZ 1988 Nr. 44 S. 119; AGVE 1984 Nr. 19
+S. 79; Ries, S. 87 Anm. 76 mit weiteren Hinweisen).
+c)    Wie im allgemeinen Sozialhilferecht
+(Wolffers, S. 105 ff.) hat der Gesuchsteller auch bei der
+Beanspruchung der unentgeltlichen Prozessführung seine
+Mitwirkungspflichten zu erfüllen (BGE 120 Ia 179 ff.),
+d.h. namentlich nachzuweisen, dass ihm die Aufnahme einer
+Arbeitstätigkeit objektiv nicht möglich oder
+zumindest subjektiv nicht zumutbar ist. Dabei ist zu
+berücksichtigen, dass aufgrund der verfahrensrechtlichen
+Natur des Anspruchs auf unentgeltliche Prozessführung mit
+Offizialanwalt die entsprechenden Voraussetzungen
+grundsätzlich von Amtes wegen zu prüfen sind. Es gilt
+die Offizialmaxime, allerdings mit den Beschränkungen,
+dass die Voraussetzungen für die Gewährung des
+Armenrechts lediglich auf Gesuch hin zu prüfen sind und
+der Gesuchsteller der in § 80 Abs. 2 ZPO vorgesehenen
+Mitwirkungspflicht nachzukommen hat. So ist zwar aus
+prozessökonomischen Gründen erwünscht, aber
+nicht vorgeschrieben, dass der Gesuchsteller das Gesuch von
+Anfang an hinreichend begründet und belegt. Ein "Nachweis"
+kann hingegen erst im Rahmen der Mitwirkungspflichten des
+Gesuchstellers gemäss § 80 Abs. 2 ZPO verlangt
+werden. Bei der Mittellosigkeit ist jedoch zu
+berücksichtigen, dass es sich um eine negative Tatsache
+handelt, für die kein strikter Beweis verlangt werden
+darf. Es genügt, wenn der Gesuchsteller seine
+Mittellosigkeit (auf Verlangen) glaubhaft macht (SJZ 89, 1993,
+Nr. 15 S. 144).
+2.
+a)    Der Rekurrent beschränkt sich auf den
+Hinweis, er habe keine abgeschlossene berufliche Ausbildung, er
+sei selbständig als Uebersetzer tätig. Er verdiene
+nicht einmal soviel, dass er bescheidenst davon leben
+könnte. Er werde im wesentlichen von seinem Bruder
+unterstützt und lebe in einem Abbruchobjekt.
+Abgesehen davon, dass keinerlei Angaben über die Höhe
+des Einkommens gemacht werden, fehlen auch Belege für die
+Suche nach einer Arbeit mit einem besseren Einkommen oder einer
+ausgedehnteren Uebersetzertätigkeit. Ungenügend ist
+auch der Hinweis vor Vorinstanz, die Umstände und die
+Persönlichkeitsstruktur des Rekurrenten brächten es
+mit sich, "dass er nur ganz langsam soweit sein wird, für
+seinen Lebensunterhalt selber aufzukommen".
+Indessen kann dem Rekurrenten nicht vorgeworfen werden, er habe
+seine Mitwirkungspflichten gemäss § 80 Abs. 2 ZPO
+verletzt, da von ihm offensichtlich weder Auskünfte noch
+Belege verlangt wurden. Gestützt auf die beschränkte
+Offizialmaxime sowie die richterliche Fragepflicht gemäss
+§ 95 Abs. 2 ZPO wären daher die Verhältnisse
+genauer abzuklären und insbesondere zu prüfen
+gewesen, ob dem Rekurrenten aus objektiven oder subjektiven
+Gründen die Aufnahme einer Erwerbstätigkeit nicht
+möglich bzw. zumutbar ist. In Frage kommt dabei
+insbesondere eine - auch in § 80 Abs. 1 ZPO vorgesehene -
+Einvernahme des Rekurrenten sowie die Edition von Urkunden
+(letzte Steuererklärung und Steuerrechnung, evtl.
+Buchhaltung, Belege über Zahlungen des Bundes etc.).
+b)    Der Rekurrent kam somit hinsichtlich
+seines Gesuchs um unentgeltliche Prozessführung mit
+Offizialanwalt bislang seiner Mitwirkungspflicht nicht nach;
+eine Verletzung dieser Pflicht kann ihm indessen nicht
+vorgeworfen werden, da die Vorinstanz ihn zur Mitwirkung (noch)
+nicht anhielt. Die Verhältnisse sind auch im
+Rekursverfahren nicht abgeklärt, so dass die Streitsache
+praxisgemäss zu weiteren Erhebungen an die Vorinstanz
+zurückzuweisen ist. Diese wird - ausgehend von den
+Verhältnissen zum Zeitpunkt ihres Entscheids (SJZ 89,
+1993, Nr. 15 S. 143) - insbesondere zu prüfen haben, ob
+dem Rekurrenten die Aufnahme einer (allenfalls
+beschränkten) Arbeits- und Erwerbstätigkeit objektiv
+möglich oder subjektiv zumutbar ist.
+Rekurskommission, 13. Mai 1994, ZR 94 67
