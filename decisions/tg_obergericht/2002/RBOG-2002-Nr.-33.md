@@ -1,0 +1,36 @@
+---
+decision_id: "tg_obergericht_RBOG_2002_Nr._33"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2002 Nr. 33"
+docket_2: "SBR.2002.32"
+decided: "2002-09-05"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/400BE896-E789-43F6-A2CD00E6C8FF07F5.html"
+cites_law: ["switzerland/bund/acts/220/art-041.md"]
+---
+
+# TG Obergericht RBOG 2002 Nr. 33
+
+## Regeste
+
+Wegen Verjährung der Übertretungen wurde das Strafverfahren im Berufungsverfahren eingestellt. Voraussetzung ist dabei stets, dass das in Frage stehende Verhalten die adäquate Ursache für die Einleitung oder Erschwerung des Strafverfahrens war. Dem Berufungskläger kann auch nicht angelastet werden, er habe die Durchführung des Strafverfahrens erschwert; der Umstand, dass mittlerweile die Verjährung eingetreten ist, kann nicht ihm angelastet werden.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 05.09.2002 RBOG 2002 Nr. 33 (SBR.2002.32)
+Thurgovie Obergericht Rechenschaftsbericht 05.09.2002 RBOG 2002 Nr. 33 (SBR.2002.32)
+Turgovia Obergericht Rechenschaftsbericht 05.09.2002 RBOG 2002 Nr. 33 (SBR.2002.32)
+
+Wegen Verjährung der Übertretungen wurde das Strafverfahren im Berufungsverfahren eingestellt. Voraussetzung ist dabei stets, dass das in Frage stehende Verhalten die adäquate Ursache für die Einleitung oder Erschwerung des Strafverfahrens war. Dem Berufungskläger kann auch nicht angelastet werden, er habe die Durchführung des Strafverfahrens erschwert; der Umstand, dass mittlerweile die Verjährung eingetreten ist, kann nicht ihm angelastet werden.
+
+RBOG 2002 Nr. 33
+RBOG 2002 Nr. 33
+Kostenauflage bei Verfahrenseinstellung
+(§ 58 StPO)
+1.    Das Bezirksamt büsste X wegen Verursachens eines Selbstunfalls infolge Nichtbeherrschens des Fahrzeugs, pflichtwidrigen Verhaltens nach Verkehrsunfall und Nichttragens der Sicherheitsgurten. Die Bezirksgerichtliche Kommission bestätigte die Busse; dagegen erklärte X Berufung. Wegen Verjährung der Übertretungen wurde das Strafverfahren im Berufungsverfahren eingestellt.
+2.    a)    Wird das Strafverfahren eingestellt, hat der Staat die Kosten zu tragen, und dem Angeschuldigten werden die notwendigen Kosten der privaten Verteidigung vom Staat ersetzt (§ 57 Abs. 2 StPO). Gab der Angeschuldigte indessen durch Verletzung gesetzlicher Pflichten Anlass für das Strafverfahren oder erschwerte er dessen Durchführung, sind ihm die Kosten ganz oder teilweise zu überbinden (§ 58 Abs. 1 StPO). Gleichermassen muss er alsdann auch die ihm entstandenen Parteikosten selber tragen (§ 58 Abs. 2 StPO). Die Kosten des Strafverfahrens dürfen dem Angeschuldigten allerdings nur auferlegt werden, wenn er in zivilrechtlich vorwerfbarer Weise, das heisst im Sinn einer analogen Anwendung der sich aus Art. 41 OR ergebenden Grundsätze, gegen eine geschriebene oder ungeschriebene Verhaltensnorm, die aus der gesamten schweizerischen Rechtsordnung stammen kann, verstiess und dadurch das Strafverfahren veranlasste oder dessen Durchführung erschwerte (BGE 116 Ia 168 ff. mit Hinweisen; Pra 81, 1992, Nr. 2; Spühler, Die EMRK in der bundesgerichtlichen Rechtsprechung zum Straf- und Strafprozessrecht, in: ZStR 107, 1990, S. 326;
+RBOG 2001 Nr. 42
+und 1992 Nr. 43). Dabei ist es nicht ausgeschlossen, dem nicht verurteilten Angeschuldigten die Verfahrenskosten wegen eines Verhaltens aufzuerlegen, das in objektiver Hinsicht die Merkmale eines Straftatbestands erfüllt, denn entscheidend ist insoweit nur, dass damit nicht der Eindruck erweckt wird, dem nicht verurteilten Angeschuldigten werde eben doch ein strafrechtliches Verschulden angelastet (BGE 116 Ia 174). Voraussetzung ist dabei stets, dass das in Frage stehende Verhalten die adäquate Ursache für die Einleitung oder Erschwerung des Strafverfahrens war. Dies trifft zu, wenn das gegen geschriebene oder ungeschriebene, kommunale, kantonale oder eidgenössische Verhaltensnormen verstossende Benehmen des Angeschuldigten nach dem gewöhnlichen Lauf der Dinge und der allgemeinen Erfahrung des Lebens geeignet war, den Verdacht einer strafbaren Handlung zu erwecken und damit Anlass zur Eröffnung eines Strafverfahrens zu geben oder die Durchführung des im Gang befindlichen Strafprozesses zu erschweren (BGE 116 Ia 170). Hat ein Angeschuldigter durch die Verletzung einer solchen Norm - sei es das Schädigungsverbot, sei es das Verbot des Rechtsmissbrauchs - ein Strafverfahren veranlasst, wodurch Kosten entstehen und eine Schädigung des Staatsvermögens bewirkt wird, wäre es sehr stossend und unbefriedigend, wenn letztlich der Steuerzahler für den entstandenen Schaden aufkommen müsste (BGE 116 Ia 173). Diese Grundsätze gelten ohne weiteres auch für die Frage, ob der Angeschuldigte seine Verteidigungskosten selbst zu tragen hat.
+b)    Die Staatsanwaltschaft kommt in der Berufungsantwort nach einlässlicher Begründung zur Schlussfolgerung, der Berufungskläger habe als Lenker des Unfallfahrzeugs durch Verletzen strassenverkehrsrechtlicher Bestimmungen Anlass für das Strafverfahren gegeben, weshalb ihn die Vorinstanz völlig zu Recht schuldig gesprochen und bestraft habe, so dass er auch die Kosten der Strafuntersuchung und die Gerichtskosten zu übernehmen habe und ihm keine Parteientschädigung zustehe. Diese Argumentation verfängt indessen nicht, weil es nach der bundesgerichtlichen Rechtsprechung gerade nicht angeht, die Kostenauflage letztlich einzig auf einen strafrechtlichen Vorwurf zu stützen. Mit dem blossen Vorwurf, der Berufungskläger habe gegen strassenverkehrsrechtliche Vorschriften verstossen, was übrigens ohnehin nach wie vor umstritten ist, lässt sich eine Kostenauflage nicht begründen. Die Unschuldsvermutung schützt in diesem Bereich den guten Ruf des Angeschuldigten gegen Vermutungen, ihn treffe trotz des nicht verurteilenden Entscheids strafrechtlich relevante Schuld. Deshalb darf sich aus dem Entscheid, mit welchem dem Angeklagten trotz Freispruch oder Verfahrenseinstellung die Kosten überbunden werden, keine strafrechtliche Missbilligung ergeben, wobei davon auszugehen ist, wie das durchschnittliche Publikum die Erwägungen versteht bzw. verstehen darf. Ebenso wenig sind andere gesetzliche Pflichten ausserhalb des Strassenverkehrsrechts ersichtlich, gegen welche der Berufungskläger verstossen hat, und welche eine Kostenauflage rechtfertigen könnten. Dem Berufungskläger kann auch nicht angelastet werden, er habe die Durchführung des Strafverfahrens erschwert; der Umstand, dass mittlerweile die Verjährung eingetreten ist, kann nicht ihm angelastet werden. Soweit nicht Rechtsmissbrauch vorliegt oder eigentliche Straftatbestände erfüllt werden (wie etwa Irreführung der Rechtspflege oder falsche Anschuldigung), kann es dem Angeschuldigten ohnehin nicht angelastet werden, wenn er im Rahmen seiner Verteidigung und seines Rechts auf Lüge seine prozessualen Rechte vollumfänglich ausschöpft; das gilt auch dann, wenn seine Argumentation reichlich weit geht.
+Obergericht, 5. September 2002, SBR.2002.32
