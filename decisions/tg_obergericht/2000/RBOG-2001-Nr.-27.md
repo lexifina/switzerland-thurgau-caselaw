@@ -1,0 +1,94 @@
+---
+decision_id: "tg_obergericht_RBOG_2001_Nr._27"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2001 Nr. 27"
+docket_2: "SBR.2000.36"
+decided: "2000-12-07"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/38D4324D-FA5D-4C32-A28B16A0C9EE81A4.html"
+cites_law: ["switzerland/bund/acts/741.01/art-090.md"]
+---
+
+# TG Obergericht RBOG 2001 Nr. 27
+
+## Regeste
+
+1. Der Berufungskläger fuhr auf der Autobahn A1 in Fahrtrichtung St. Gallen im Bereich einer Baustelle statt mit der temporär signalisierten Höchstgeschwindigkeit von 80 km/h mit gemessenen 121 km/h. 2. a) Entgegen der Auffassung des Berufungsklägers ist für die Frage, ob bereits aufgrund der Geschwindigkeitsüberschreitung eine grobe Verkehrsregelverletzung zu bejahen sei, nicht auf die für (richtungsgetrennte) Autobahnen geltenden Verhältnisse abzustellen. b) Es blieb unbestritten und ist...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 07.12.2000 RBOG 2001 Nr. 27 (SBR.2000.36)
+Thurgovie Obergericht Rechenschaftsbericht 07.12.2000 RBOG 2001 Nr. 27 (SBR.2000.36)
+Turgovia Obergericht Rechenschaftsbericht 07.12.2000 RBOG 2001 Nr. 27 (SBR.2000.36)
+
+1. Der Berufungskläger fuhr auf der Autobahn A1 in Fahrtrichtung St. Gallen im Bereich einer Baustelle statt mit der temporär signalisierten Höchstgeschwindigkeit von 80 km/h mit gemessenen 121 km/h. 2. a) Entgegen der Auffassung des Berufungsklägers ist für die Frage, ob bereits aufgrund der Geschwindigkeitsüberschreitung eine grobe Verkehrsregelverletzung zu bejahen sei, nicht auf die für (richtungsgetrennte) Autobahnen geltenden Verhältnisse abzustellen. b) Es blieb unbestritten und ist...
+
+RBOG 2001 Nr. 27
+RBOG 2001 Nr. 27
+Überschreiten der zulässigen Höchstgeschwindigkeit um 35 km/h im Bereich einer Baustelle auf der Autobahn stellt eine schwere Verkehrsregelverletzung dar
+(Art. 90 Ziff.
+2, 32 SVG)
+1.    Der
+Berufungskläger fuhr auf der Autobahn A1 in Fahrtrichtung
+St. Gallen im Bereich einer Baustelle statt mit der
+temporär signalisierten Höchstgeschwindigkeit von 80
+km/h mit gemessenen 121 km/h. Die Vorinstanz sprach ihn der
+groben Verletzung von Verkehrsregeln schuldig und verurteilte
+ihn zu einer Busse von Fr. 1'300.--.
+2.
+a)    Entgegen der Auffassung des
+Berufungsklägers ist für die Frage, ob bereits
+aufgrund der Geschwindigkeitsüberschreitung eine grobe
+Verkehrsregelverletzung zu bejahen sei, nicht auf die für
+(richtungsgetrennte) Autobahnen geltenden Verhältnisse
+abzustellen. Die Geschwindigkeitskontrolle wurde nicht auf
+einem gewöhnlichen Streckenabschnitt der Autobahn
+durchgeführt, sondern im Bereich einer Baustelle mit einer
+signalisierten Höchstgeschwindigkeit von 80 km/h. Beim
+Messort war die Überholspur in Richtung St. Gallen
+lediglich durch erhöhte Bodenmarkierungen und Absperrbaken
+vom Gegenverkehr abgetrennt. Massgebend sind daher die für
+nicht richtungsgetrennte Autostrassen bzw. ausserorts geltenden
+Grenzwerte. Wer im fraglichen Baustellenbereich die
+zulässige Höchstgeschwindigkeit von 80 km/h um 30
+km/h oder mehr überschreitet, begeht ungeachtet der
+konkreten Umstände eine grobe Verkehrsregelverletzung. Der
+Berufungskläger erfüllte somit den objektiven
+Tatbestand von Art. 90 Ziff. 2 SVG, nachdem die
+Geschwindigkeitsüberschreitung nach Abzug der
+Sicherheitsmarge 35 km/h betrug.
+b)    Es blieb unbestritten und ist aufgrund der
+im Plan eingezeichneten Messstelle belegt, dass der
+Berufungskläger auf der Überholspur Richtung St.
+Gallen fuhr. Das Radargerät war rund 150 m nach Beginn der
+Überleitung auf die Überholspur der Fahrbahn
+Zürich installiert. Abgesehen von erhöhten
+Bodenmarkierungen und Absperrbaken war die Fahrbahn des
+Berufungsklägers nicht vom Gegenverkehr abgetrennt. Wer an
+einer solchen Stelle bereits wieder oder immer noch eine
+Geschwindigkeit von 115 km/h statt 80 km/h aufweist, fährt
+rücksichtslos. Wer eine solche Stelle mit mehr als 110
+km/h passiert, verhält sich zumindest grobfahrlässig,
+d.h. er lässt diejenige Sorgfalt ausser Acht, die jedem
+verständigen Menschen in gleicher Lage und unter gleichen
+Umständen als beachtlich hätte einleuchten
+müssen. Dies gilt umso mehr, als aufgrund der
+Medienberichte in den letzten Jahren als allgemein bekannt
+vorausgesetzt werden darf, dass sich gerade im Bereich von
+Baustellen auf Autobahnen als Folge überhöhter
+Geschwindigkeit bzw. Überschreitens der signalisierten
+Höchstgeschwindigkeit verschiedene - zum Teil schwere -
+Unfälle ereigneten. Auch bei günstigen
+Witterungsverhältnissen und bloss mässigem Verkehr
+kann bereits eine kleine Unaufmerksamkeit schwerwiegende Folgen
+nach sich ziehen. Angesichts der massiven
+Geschwindigkeitsüberschreitung von 35 km/h und des damit
+verbundenen besonders rücksichtslosen oder zumindest
+grobfahrlässigen Verhaltens ist daher auch der subjektive
+Tatbestand von Art. 90 Ziff. 2 SVG erfüllt.
+Obergericht, 7. Dezember 2000,
+SBR.2000.36
+Eine gegen dieses Urteil erhobene
+Nichtigkeitsbeschwerde wies das Bundesgericht am 20. September
+2001 ab.
