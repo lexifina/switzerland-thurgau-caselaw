@@ -1,0 +1,37 @@
+---
+decision_id: "tg_obergericht_RBOG_2000_Nr._09"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2000 Nr. 09"
+decided: "2000-09-25"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2000-nr-9"
+cites_law: ["switzerland/bund/acts/281.1/art-092.md"]
+---
+
+# TG Obergericht RBOG 2000 Nr. 09
+
+## Regeste
+
+Führt ein Landwirt die Buchhaltung seines Betriebs mit einem Personalcomputer, zählt dieser zu den unpfändbaren Vermögenswerten
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2000 RBOG 2000 Nr. 09
+Thurgovie Obergericht Rechenschaftsbericht 2000 RBOG 2000 Nr. 09
+Turgovia Obergericht Rechenschaftsbericht 2000 RBOG 2000 Nr. 09
+
+RBOG 2000 Nr. 09
+Skip to main content
+Show navigation
+Führt ein Landwirt die Buchhaltung seines Betriebs mit einem Personalcomputer, zählt dieser zu den unpfändbaren Vermögenswerten
+Art. 92 Abs. 1 Ziff. 3 SchKG
+1. X arbeitet als Landwirt. Das Betreibungsamt pfändete seinen Personalcomputer (geschätzter Wert: Fr. 200.--). X beantragt, dieser sei ihm als Kompetenzstück zu belassen.
+2. Für die Beantwortung der Frage, ob der Einsatz eines Computers notwendig im Sinn von Art. 92 Abs. 1 Ziff. 3 SchKG ist, kann als Vergleich die Rechtsprechung zur Schreibmaschine herangezogen werden, was sich schon deshalb rechtfertigt, weil nicht nur in vielen Haushaltungen, sondern auch in Betrieben der Computer die (elektrische) Schreibmaschine ersetzte. 1958 hatte das Bundesgericht entschieden, eine Schreibmaschine sei für einen Geschäftsreisenden, der - und sei es auch nur nebenbei - ein selbständiges kaufmännisches Gewerbe betreibe, ein unentbehrliches Arbeitsgerät (BGE 84 III 97 ff.); die kantonale Aufsichtsbehörde des Kantons Graubünden entschied mit Bezug auf einen Handelsvertreter 1962 im gleichen Sinn (BlSchK 29, 1965, S. 81 f. Nr. 29). Die Genfer Aufsichtsbehörde erklärte 1979 die Schreibmaschine, Aktenschränke und den Schreibtisch eines Liegenschaftenverwalters für unpfändbar (BlSchK 44, 1980, S. 18 f. Nr. 8). 1981 entschied die Aufsichtsbehörde des Kantons Basel-Stadt, eine elektrische Schreibmaschine im Schatzungswert von Fr. 300.-- sei nach "heutiger" Auffassung für einen freischaffenden Werbefachmann unpfändbares Berufswerkzeug (BlSchK 47, 1983, S. 220 ff. Nr. 123). Das Bundesgericht schliesslich stellte in BGE 110 III 53 ff. fest, bei der Beantwortung der Frage, ob ein Computer ein unpfändbares Werkzeug sei, müsse geprüft werden, ob der Schuldner zur Bewältigung der bisher von ihm übernommenen Buchhaltungsarbeiten mehr Zeit aufwenden müsste, wenn er sich statt des Computers einer Durchschreibebuchhaltung oder einer anderen Arbeitstechnik bedienen würde. Es sei auch zu untersuchen, ob bei Wegfall des Computers bisherige oder künftige Kundschaft ausbleiben und der Schuldner eine Verdiensteinbusse erleiden würde. Letzteres dürfte zwar bei einem Landwirtschaftsbetrieb direkt nicht zutreffen. Aber der beim Einsatz der EDV wesentlich geringere Zeitaufwand ist auch in einem landwirtschaftlichen Betrieb beträchtlich, umso mehr, als heute immer weniger Arbeitskräfte dasselbe Arbeitspensum erledigen müssen. Ein Landwirtschaftsbetrieb bringt in der heutigen Zeit erhebliche Administrativarbeiten mit sich, für deren rationelle Erledigung ein Computer unabdingbar ist. Zudem werden spezifische, für die Landwirtschaft entwickelte Softwareprogramme eingesetzt und beispielsweise Futter- oder Bewirtschaftungspläne über die EDV abgewickelt. Der Computer ist folglich für X ein unpfändbares Werkzeug im Sinn von Art. 92 Abs. 1 Ziff. 3 SchKG.
+Obergericht, 25. September 2000, BS.2000.17
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
