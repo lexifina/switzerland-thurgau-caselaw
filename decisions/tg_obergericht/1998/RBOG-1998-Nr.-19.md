@@ -1,0 +1,113 @@
+---
+decision_id: "tg_obergericht_RBOG_1998_Nr._19"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1998 Nr. 19"
+docket_2: "ZR 98 92"
+decided: "1998-11-16"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/AB766B80-DA98-4D00-BBD0B0C61505C970.html"
+cites_law: ["switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-083.md"]
+---
+
+# TG Obergericht RBOG 1998 Nr. 19
+
+## Regeste
+
+Die Einreichung einer Aberkennungsklage beeinträchtigt die Rechtskraft des Rechtsöffnungsentscheids und namentlich die damit verbundene Kostenverfügung in keiner Weise (BGE vom 29. April 1996, 5P.84/1996, S. 4). Aufgrund dieser Überlegungen schützte das Bundesgericht eine im Aberkennungsprozess gestützt auf § 77 Abs. Wird die Aberkennungsklage des Schuldners geschützt, berührt dies die Rechtskraft des Entscheids des Rechtsöffnungsrichters ebenfalls nicht.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 16.11.1998 RBOG 1998 Nr. 19 (ZR 98 92)
+Thurgovie Obergericht Rechenschaftsbericht 16.11.1998 RBOG 1998 Nr. 19 (ZR 98 92)
+Turgovia Obergericht Rechenschaftsbericht 16.11.1998 RBOG 1998 Nr. 19 (ZR 98 92)
+
+Die Einreichung einer Aberkennungsklage beeinträchtigt die Rechtskraft des Rechtsöffnungsentscheids und namentlich die damit verbundene Kostenverfügung in keiner Weise (BGE vom 29. April 1996, 5P.84/1996, S. 4). Aufgrund dieser Überlegungen schützte das Bundesgericht eine im Aberkennungsprozess gestützt auf § 77 Abs. Wird die Aberkennungsklage des Schuldners geschützt, berührt dies die Rechtskraft des Entscheids des Rechtsöffnungsrichters ebenfalls nicht.
+
+RBOG 1998 Nr. 19
+RBOG 1998 Nr. 19
+Rückstand mit Rechtsöffnungskosten als Kautionsgrund im Aberkennungsprozess
+(§
+77  Abs. 1 Ziff. 3 ZPO; Art. 83 Abs. 2 SchKG)
+1.    Der
+Kläger wurde im Aberkennungsprozess verpflichtet, mangels
+Bezahlung der  amtlichen Kosten des vorhergehenden
+Rechtsöffnungsverfahrens eine Kaution zu entrichten.
+Er  verwahrt sich dagegen mit der Begründung, die
+Tatsache, dass Betreibungs- und  Rechtsöffnungskosten
+aberkannt werden könnten, schliesse aus, dass solche
+Kosten vorher  bezahlt werden müssten; wegen
+Nichtbezahlens der amtlichen Kosten eines
+Rechtsöffnungsverfahrens dürften ihm deshalb vor der
+Rechtskraft des Aberkennungsurteils  keine Rechtsnachteile
+erwachsen.
+2.
+a)    Ist die klagende Partei mit
+rechtskräftigen Kosten oder  Entschädigungen aus
+einem Gerichts- oder Verwaltungsverfahren im Rückstand,
+hat sie nach §  77 Abs. 1 Ziff. 3 ZPO für die
+mutmasslichen Kosten (amtliche Kosten und
+Prozessentschädigung) eine Kaution zu leisten.
+Bereits in RBOG 1971 Nr. 14 wurde festgestellt,
+Rechtsöffnungskosten seien  Prozesskosten, deren
+Nichtbezahlung im Aberkennungsprozess die Kautionspflicht
+begründe.
+b)    Die Aberkennungsklage nach Art. 83 Abs. 2
+SchKG ist kein  Rechtsmittel. Sie bezweckt nicht die
+Aufhebung des Rechtsöffnungsentscheids, und sie ist,
+obschon sie mit dem Betreibungsverfahren im Zusammenhang steht,
+nicht  betreibungsrechtlicher, sondern
+materiell-rechtlicher Natur (BGE 118 III 42; Amonn/
+Gasser,  Grundriss des Schuldbetreibungs- und
+Konkursrechts, 6.A., § 19 N 94). Mit der
+Aberkennungsklage wird die Feststellung der Nichtexistenz der
+betriebenen Forderung  verlangt, nicht aber die Aufhebung
+der provisorischen Rechtsöffnung (BGE 95 II 617,
+620).  Daher wird auch der Kostenspruch im
+Rechtsöffnungsverfahren vom Ausgang des
+Aberkennungsprozesses nicht unmittelbar berührt
+(Jaeger/Daeniker, Schuldbetreibungs- und  Konkurs-Praxis
+der Jahre 1911-1945, Bd. I, Zürich 1947, Art. 83 SchKG N
+10). Daran ändert  die (missverständliche)
+Formulierung in BGE 68 III 89 nichts, wonach dem
+obsiegenden  Schuldner mit Rücksicht darauf, dass die
+Rechtsöffnung nach dem damaligen Rechtszustand
+begründet war, Aberkennung nur für die Forderung,
+nicht aber auch für die Kosten der  Betreibung und
+der Rechtsöffnung gewährt werde. Die Einreichung
+einer Aberkennungsklage  beeinträchtigt die
+Rechtskraft des Rechtsöffnungsentscheids und namentlich
+die damit  verbundene Kostenverfügung in keiner Weise
+(BGE vom 29. April 1996, 5P.84/1996, S. 4).  Aufgrund
+dieser Überlegungen schützte das Bundesgericht eine
+im Aberkennungsprozess gestützt  auf § 77 Abs. 1
+Ziff. 3 ZPO erlassene Kautionsverfügung, weil die Partei
+im Rückstand mit  Kosten und Entschädigungen aus
+dem Rechtsöffnungsentscheid war (vgl.
+Frank/Sträuli/Messmer,  Kommentar zur
+zürcherischen Zivilprozessordnung, 3.A., § 73 N 31
+mit Hinweisen). Wird die  Aberkennungsklage des Schuldners
+geschützt, berührt dies die Rechtskraft des
+Entscheids des  Rechtsöffnungsrichters ebenfalls
+nicht. Welche Partei letztlich die angefallenen Kosten
+des  Summarverfahrens zu tragen hat, ist nach den
+Umständen des Einzelfalls zu entscheiden;  mithin hat
+der Richter im Aberkennungsprozess darüber zu befinden,
+wenn ein entsprechendes  Rechtsbegehren ausdrücklich
+gestellt wurde (vgl. BJM 1955 S. 200). Diese Lösung
+erscheint  deshalb gerechtfertigt, weil im summarischen
+Verfahren eine Beweismittelbeschränkung
+gegenüber dem ordentlichen Verfahren besteht, und weil es
+genügt, wenn der Schuldner  Einwendungen, welche die
+Schuldanerkennung entkräften, glaubhaft macht (vgl. Art.
+82 Abs. 2  SchKG). Im ordentlichen Verfahren hingegen hat
+die beweisbelastete Partei ihre Behauptungen  zu beweisen.
+Aus diesen Gründen ist es durchaus möglich, dass der
+Entscheid des  Summarrichters je nach Vorbringen der
+Parteien zu Recht anders ausfiel als derjenige des
+Richters im Aberkennungsverfahren.
+3.    Die
+in RBOG 1971 Nr. 14 wiedergegebene Rechtsprechung hat demnach
+weiterhin  Gültigkeit.
+Rekurskommission, 16. November 1998, ZR 98
+92
