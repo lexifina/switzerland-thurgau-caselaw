@@ -1,0 +1,38 @@
+---
+decision_id: "tg_obergericht_RBOG_1999_Nr._9"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1999 Nr. 9"
+docket_2: "BR.1999.29"
+decided: "1999-05-06"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/4FBF2118-FF19-42EC-A01D124E777C3F8A.html"
+cites_law: ["switzerland/bund/acts/281.1/art-080.md"]
+---
+
+# TG Obergericht RBOG 1999 Nr. 9
+
+## Regeste
+
+1. Die Rekurrentin - eine Gemeinde im Kanton Zürich - verlangt die definitive Rechtsöffnung gestützt auf eine von ihr erlassene Verfügung und das Konkordat über die Gewährung gegenseitiger Rechtshilfe zur Vollstreckung öffentlich-rechtlicher Ansprüche. Indessen käme es überspitztem Formalismus gleich, wollte man wegen des fehlenden Auszugs einer gesetzlichen Bestimmung der Zivilprozessordnung eines Nachbarkantons die definitive Rechtsöffnung verweigern.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 06.05.1999 RBOG 1999 Nr. 9 (BR.1999.29)
+Thurgovie Obergericht Rechenschaftsbericht 06.05.1999 RBOG 1999 Nr. 9 (BR.1999.29)
+Turgovia Obergericht Rechenschaftsbericht 06.05.1999 RBOG 1999 Nr. 9 (BR.1999.29)
+
+1. Die Rekurrentin - eine Gemeinde im Kanton Zürich - verlangt die definitive Rechtsöffnung gestützt auf eine von ihr erlassene Verfügung und das Konkordat über die Gewährung gegenseitiger Rechtshilfe zur Vollstreckung öffentlich-rechtlicher Ansprüche. Indessen käme es überspitztem Formalismus gleich, wollte man wegen des fehlenden Auszugs einer gesetzlichen Bestimmung der Zivilprozessordnung eines Nachbarkantons die definitive Rechtsöffnung verweigern.
+
+RBOG 1999 Nr. 9
+RBOG 1999 Nr. 9
+Nachweis der Gleichstellung einer kantonalen Verfügung mit einem vollstreckbaren  gerichtlichen Urteil gemäss Art. 80 Abs. 2 SchKG
+(Art. 4 lit. d des Konkordats über die  Gewährung gegenseitiger Rechtshilfe zur Vollstreckung öffentlich-rechtlicher Ansprüche)
+1.    Die Rekurrentin - eine Gemeinde im Kanton Zürich - verlangt die definitive  Rechtsöffnung gestützt auf eine von ihr erlassene Verfügung und das Konkordat über die  Gewährung gegenseitiger Rechtshilfe zur Vollstreckung öffentlich-rechtlicher Ansprüche.
+2.    a)    Dem Rekurs nicht beigelegt wurde ein Ausweis über die gesetzliche  Grundlage, wonach die Verfügung der Rekurrentin einem gerichtlichen Urteil gleichzusetzen  sei. Einzig auf dem Ausdruck aus einem Protokoll der Zivilvorsteherschaft, welches der  Verfügung vorausging, wird auf § 214 ZPO ZH hingewiesen, wonach nach Eintritt der  Rechtskraft die Verfügung der Rekurrentin zur definitiven Rechtsöffnung berechtige.
+b)    Die Rekurskommission des Obergerichts hält in ständiger Praxis daran  fest, dass es nicht Sache des Rechtsöffnungsrichters ist, von Amtes wegen Aktenergänzungen  anzuordnen oder fehlende Unterlagen einzuholen, sondern dass es vielmehr den Parteien  obliegt, dafür zu sorgen, dass der Richter in den Besitz der für seinen Entscheid  notwendigen Unterlagen gelangt (RBOG 1982 Nr. 13, 1995 Nr. 17). Ebenso ist es nicht möglich,  zur Einreichung von Unterlagen eine Nachfrist anzusetzen (RBOG 1992 Nr. 21). Eine Ausnahme  liegt nur dann vor, wenn Akten aufgrund eines erkennbaren Versehens nicht eingereicht  werden, obschon sie in der Rechtsschrift als Beilagen erwähnt sind (
+RBOG 1996 Nr. 18
+).
+c)    Im vorliegenden Fall wurde zwar auf § 214 ZPO ZH hingewiesen, ohne  dass der Wortlaut dieser Bestimmung nachgewiesen wurde. Indessen käme es überspitztem  Formalismus gleich, wollte man wegen des fehlenden Auszugs einer gesetzlichen Bestimmung der  Zivilprozessordnung eines Nachbarkantons die definitive Rechtsöffnung verweigern.
+d)    Nach § 214 ZPO ZH stehen die auf Geldzahlung gerichteten  rechtskräftigen Entscheide der Verwaltungsinstanzen des Kantons Zürich, seiner Gemeinden und  seiner andern öffentlich-rechtlichen Körperschaften hinsichtlich der Rechtsöffnung  vollstreckbaren gerichtlichen Urteilen gleich; diese Gleichstellung ist umfassend  (Frank/Sträuli/Messmer, Kommentar zur zürcherischen Zivilprozessordnung, 3.A., § 214 N 3).  Bei der Rekurrentin handelt es sich unbestrittenermassen um eine öffentlich-rechtliche  Körperschaft im Sinn von § 214 ZPO ZH, weshalb die in Frage stehende Verfügung ohne weiteres  einem gerichtlichen Urteil im Sinn von Art. 80 SchKG gleichzusetzen ist.
+Rekurskommission, 6. Mai 1999, BR.1999.29
