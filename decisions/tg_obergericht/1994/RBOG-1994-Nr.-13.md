@@ -1,0 +1,169 @@
+---
+decision_id: "tg_obergericht_RBOG_1994_Nr._13"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1994 Nr. 13"
+docket_2: "SB 93 26"
+decided: "1994-02-10"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/40A38FE1-AD7F-44D2-9C2D15DA1BF5623D.html"
+cites_law: ["switzerland/bund/acts/311.0/art-122.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/311.0/art-126.md"]
+---
+
+# TG Obergericht RBOG 1994 Nr. 13
+
+## Regeste
+
+1. Der Berufungskläger macht geltend, die Verletzung mit der brennenden Zigarette sei nicht als einfache Körperverletzung gemäss Art. 3. Ohne Erfolg bestreitet der Berufungskläger auch den subjektiven Tatbestand der Körperverletzung. 4. Zusammenfassend erfüllte der Berufungskläger daher sowohl in objektiver als auch in subjektiver Hinsicht den Tatbestand der vorsätzlichen einfachen Körperverletzung.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 10.02.1994 RBOG 1994 Nr. 13 (SB 93 26)
+Thurgovie Obergericht Rechenschaftsbericht 10.02.1994 RBOG 1994 Nr. 13 (SB 93 26)
+Turgovia Obergericht Rechenschaftsbericht 10.02.1994 RBOG 1994 Nr. 13 (SB 93 26)
+
+1. Der Berufungskläger macht geltend, die Verletzung mit der brennenden Zigarette sei nicht als einfache Körperverletzung gemäss Art. 3. Ohne Erfolg bestreitet der Berufungskläger auch den subjektiven Tatbestand der Körperverletzung. 4. Zusammenfassend erfüllte der Berufungskläger daher sowohl in objektiver als auch in subjektiver Hinsicht den Tatbestand der vorsätzlichen einfachen Körperverletzung.
+
+RBOG 1994 Nr. 13
+RBOG 1994 Nr. 13
+Einfache Körperverletzung mittels brennender Zigarette
+(Art. 123 Ziff.
+1 StGB)
+1.    Der
+Berufungskläger macht geltend, die Verletzung mit der
+brennenden Zigarette sei nicht als einfache
+Körperverletzung gemäss Art. 123 Ziff. 1 StGB,
+sondern höchstens als Tätlichkeit nach Art. 126 StGB
+zu qualifizieren.
+a)    Nach  der  Rechtsprechung stellt
+eine Handlung eine Tätlichkeit dar, wenn die physische
+Einwirkung auf einen Menschen das allgemein übliche und
+gesellschaftlich geduldete Mass überschreitet, ohne den
+Körper oder die Gesundheit zu schädigen. Ein
+Faustschlag ist dann als Tätlichkeit zu qualifizieren,
+wenn dieser keine Schädigung des Körpers oder der
+Gesundheit bewirkt (BGE 117 IV 17 = Pra 81, 1992, Nr. 144).
+Art. 123 StGB umfasst diejenigen Schädigungen am
+menschlichen Körper, die nicht schwer im Sinn von Art. 122
+StGB sind. Wenn sich der Angriff auf die körperliche
+Unversehrtheit lediglich in Prellungen, Quetschungen oder
+Kratzwunden manifestiert, bestimmt sich die Abgrenzung zwischen
+Tätlichkeit und einfacher Körperverletzung nach dem
+Mass des verursachten Schmerzes (Pra 83, 1994, Nr. 17 mit
+Hinweisen). Da die Begriffe der Tätlichkeit und der
+Beeinträchtigung der körperlichen Integrität
+unbestimmte Rechtsbegriffe sind, steht dem Richter hinsichtlich
+der Beurteilung ein relativ weites Ermessen zu (BGE 119 IV 1
+ff. = Pra 82, 1993, Nr. 237; BGE 116 IV 315). Lediglich der
+Ermessensmissbrauch kann zur Aufhebung seines Urteils
+führen (BGE 107 IV 43).
+b)    Zu Recht qualifizierte die Vorinstanz die
+zu beurteilende Tathandlung als Körperverletzung
+gemäss Art. 123 Ziff. 1 StGB. Einerseits trifft die
+Argumentation der Staatsanwaltschaft zu, die "Brandwunde" sei
+in die Nähe der Augen zu liegen gekommen. In Analogie zur
+Rechtsprechung des Bundesgerichts zur besonders empfindlichen
+Haut eines jungen Opfers (vgl. Pra 82, 1993, Nr. 237) muss auch
+die Verletzung eines besonders empfindlichen Körperteils -
+z.B. des Gesichts - zur Bejahung einer einfachen
+Körperverletzung führen, dies insbesondere dann,
+wenn, wie hier, dem Geschädigten zwar eine kleine, aber
+"verkrustete Brandwunde" verbleibt, welche jedenfalls noch
+einen guten Tag nach der Tat sichtbar war. Gestützt auf
+BGE 72 IV 21, gemäss welchem bei einer
+Schürfwunde  an der  rechten Nasenseite, einer
+Quetschung und einer Verfärbung der rechten
+Gesichtshälfte von einer blossen Tätlichkeit
+auszugehen ist, liesse sich zwar auch die Anwendung des
+objektiven Tatbestands von Art. 126 StGB rechtfertigen.
+Allerdings ist zu berücksichtigen, dass bezüglich
+solcher Gewaltdelikte in den vergangenen bald 50 Jahren eine
+gewisse Sensibilisierung der Bevölkerung eintrat; was
+damals noch als Tätlichkeit galt, wird heute ohne weiteres
+als Körperverletzung eingestuft. In einem neuesten
+Entscheid hielt das Bundesgericht denn auch fest, ein
+Faustschlag, der unterhalb des Auges einen Bluterguss
+verursache, mithin einen Riss der Blutgefässe mit
+nachfolgendem subkutanem Bluterguss, stelle eine einfache
+Körperverletzung dar (Pra 83, 1994, Nr. 17). Da
+Brandwunden, gerade auch die von Zigaretten stammenden, in der
+Regel sehr schmerzhaft sind und in vielen Fällen - anders
+als bei Faustschlägen - eine noch Tage und Monate
+später sichtbare Hautverletzung verursachen, kann die
+Körperverletzung im vorliegenden Fall nicht mehr als
+leichter Fall gemäss Art. 123 Ziff. 1 Abs. 2 StGB
+bezeichnet werden, umso weniger, als die Wunde nur ca.
+zweifingerbreit unter dem rechten Auge lag.
+2.    Der
+Berufungskläger zieht in Zweifel, dass er die Brandwunde
+verursachte. Er vermerkte indessen anlässlich seiner
+Einvernahme selbst: "Zufällig hatte ich in der linken Hand
+eine brennende Zigarette, als ich X einen Hieb an den Kopf
+versetzte, wobei ich ihn im Gesicht traf. Offenbar kam er dabei
+mit der Zigarettenglut in Kontakt."
+3.    Ohne
+Erfolg bestreitet der Berufungskläger auch den subjektiven
+Tatbestand der Körperverletzung.
+Der Berufungskläger fährt in seiner Einvernahme fort:
+"Dies (Kontakt mit der Zigarettenglut) war dann aber durch mich
+nicht beabsichtigt gewesen. Ich handelte in Notwehr und schlug
+deshalb auf ihn ein. Irgendwie war dies von mir eine
+Abwehrreaktion. Sicher wollte ich ihm nicht gezielt
+Verletzungen zufügen." In der Folge differenziert der
+Berufungskläger: "Gezielt habe ich nicht auf seinen Bauch
+oder sein Gesicht geboxt. In einer Hand hatte ich ja die Kamera
+und in der anderen eben die brennende Zigarette. Wenn ich ihn
+hätte vorsätzlich verletzen wollen, hätte ich
+ihm ja die Kamera gegen den Kopf schlagen können. Die
+Zigarette drückte ich also nicht gezielt auf dem
+Nasenflügel oder im Gesicht aus, dies war eben die Folge
+des Hiebes." Ebenso legte er in einer weiteren Einvernahme dar:
+"Von unten herauf schlug ich mit meiner Hand gegen X und hatte
+dabei die Zigarette in der Hand. ... Mit der Zigarette kam ich
+ihm ins Gesicht, ich hielt sie in meiner linken Hand, als ich
+ausholte zum Schlag. ... Ich bestreite, absichtlich die
+Zigarette in seinem Gesicht ausgedrückt zu haben. Diese
+kleine Brandverletzung ist eine Folge des Schlags. Ich habe
+ständig eine Zigarette in der Hand, es war mir gar nicht
+bewusst, dass ich eine in der Hand hatte, als ich ihm den
+Schlag versetzte. ... Ich habe, wie gesagt, mit der Linken
+zugeschlagen und dabei versehentlich mit der Zigarettenglut X
+im Gesicht gestreift".
+Es ist dem Berufungskläger durchaus zuzugestehen, dass
+kein direkter Vorsatz der Verletzung seines Gegners bestand;
+indessen sind die Elemente des Eventualvorsatzes erfüllt:
+Er versucht zwar glaubhaft zu machen, er habe beim Ausholen zum
+Schlag mit der linken Hand nicht realisiert, dass er auch noch
+eine Zigarette darin halte, weil dies offenbar ständig der
+Fall sei. Nach seiner eigenen Aussage hatte er aber noch
+"zufällig" die Zigarette in der Hand gehabt. So oder so,
+die Hand des Berufungsklägers war jedenfalls durch die
+Tatsache, dass sie etwas hielt, "blockiert". Dass der
+Berufungskläger dies nicht realisierte, ist
+unglaubwürdig, zumal er ausdrücklich auf seine
+Behinderung bezüglich der anderen Hand, die eine Kamera
+hielt, hinwies. Die Tatsache, dass er mit dem Fremdkörper
+in der Schlaghand gegenüber dem Geschädigten
+ausholte, anstatt die Zigarette fallenzulassen, kann nicht
+anders ausgelegt werden, als dass es ihm völlig
+gleichgültig war, ob sein Gegenüber mit der
+Zigarettenglut verletzt werde oder nicht. Es liegt damit gerade
+nicht der Fall vor, in dem aufgrund einer schuldhaften
+Unvorsichtigkeit darauf vertraut wurde, dass ein Kontakt mit
+der Zigarettenglut nicht eintreten werde. Unter
+Berücksichtigung der neuesten Kriterien des Bundesgerichts
+zur Abgrenzung des Eventualvorsatzes von der bewussten
+Fahrlässigkeit (Pra 82, 1993, Nr. 237), nämlich die
+dem Täter grundsätzlich bekannte Wahrscheinlichkeit,
+dass mit der Zigarettenhand ein Kontrahent verletzt werde, und
+die Tatsache, dass ein Faustschlag mit der "Zigarettenspitze"
+eine erhebliche Verletzung einer Vorsichtspflicht darstellt,
+ist davon auszugehen, dass der Berufungskläger trotz
+Leugnens die Möglichkeit des Eintretens des Erfolgs in
+Kauf nahm.
+4.
+Zusammenfassend erfüllte der Berufungskläger daher
+sowohl in objektiver als auch in subjektiver Hinsicht den
+Tatbestand der vorsätzlichen einfachen
+Körperverletzung.
+Obergericht, 10. Februar 1994, SB 93 26
