@@ -1,0 +1,35 @@
+---
+decision_id: "tg_obergericht_RBOG_1995_Nr._18"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1995 Nr. 18"
+docket_2: "BR 95 51"
+decided: "1995-06-26"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/A7765B45-AAC1-432C-B38C900113BDA7A0.html"
+cites_law: ["switzerland/bund/acts/220/art-269c.md", "switzerland/bund/acts/281.1/art-082.md"]
+---
+
+# TG Obergericht RBOG 1995 Nr. 18
+
+## Regeste
+
+a) Ein vom Mieter unterzeichneter Mietvertrag stellt für die darin festgelegten, fälligen Beträge an Mietzinsen und Nebenkosten einen provisorischen Rechtsöffnungstitel dar (Panchaud/Caprez, Die Rechtsöffnung, Zürich 1980, § 74). Eine mit amtlichem Formular mitgeteilte Mietzinserhöhung ist indessen kein Rechtsöffnungstitel im Sinne von Art. Ein provisorischer Rechtsöffnungstitel liegt lediglich vor, wenn der Mieter die Mietzinserhöhung unterschriftlich anerkannte (Fritzsche/Walder, ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 26.06.1995 RBOG 1995 Nr. 18 (BR 95 51)
+Thurgovie Obergericht Rechenschaftsbericht 26.06.1995 RBOG 1995 Nr. 18 (BR 95 51)
+Turgovia Obergericht Rechenschaftsbericht 26.06.1995 RBOG 1995 Nr. 18 (BR 95 51)
+
+a) Ein vom Mieter unterzeichneter Mietvertrag stellt für die darin festgelegten, fälligen Beträge an Mietzinsen und Nebenkosten einen provisorischen Rechtsöffnungstitel dar (Panchaud/Caprez, Die Rechtsöffnung, Zürich 1980, § 74). Eine mit amtlichem Formular mitgeteilte Mietzinserhöhung ist indessen kein Rechtsöffnungstitel im Sinne von Art. Ein provisorischer Rechtsöffnungstitel liegt lediglich vor, wenn der Mieter die Mietzinserhöhung unterschriftlich anerkannte (Fritzsche/Walder, ...
+
+RBOG 1995 Nr. 18
+RBOG 1995 Nr. 18
+Das amtliche Formular für Mietzinserhöhungen stellt keinen Rechtsöffnungstitel dar
+(Art. 82 SchKG)
+1.    Die Vorinstanz erteilte provisorische Rechtsöffnung für den Mietzins gemäss Mietvertrag, nicht aber für die zwischenzeitlich erfolgten Mietzinserhöhungen. Der Vermieter vertritt die Auffassung, auch die Mietzinserhöhungen seien zu berücksichtigen.
+2.    Beruht die Forderung auf einer durch öffentliche Urkunde festgestellten oder durch Unterschrift bekräftigten Schuldanerkennung, kann der Gläubiger die provisorische Rechtsöffnung verlangen. Der Richter spricht dieselbe aus, sofern der Betriebene nicht Einwendungen, welche die Schuldanerkennung entkräften, sofort glaubhaft macht (Art. 82 SchKG).
+a)    Ein vom Mieter unterzeichneter Mietvertrag stellt für die darin festgelegten, fälligen Beträge an Mietzinsen und Nebenkosten einen provisorischen Rechtsöffnungstitel dar (Panchaud/Caprez, Die Rechtsöffnung, Zürich 1980, § 74). Eine mit amtlichem Formular mitgeteilte Mietzinserhöhung ist indessen kein Rechtsöffnungstitel im Sinne von Art. 82 SchKG: Das Formular enthält keine Willenserklärung und damit keine unterschriftliche Schuldanerkennung des Mieters. Dies gilt selbst dann, wenn der Mieter auf eine Anfechtung der Mietzinserhöhung verzichtete und diese damit akzeptierte (LGVE 1992 I Nr. 48, 1977 I Nr. 385; BlSchK 46, 1982, S. 17; AGVE 1974 Nr. 24; Fritzsche/Walder, Schuldbetreibung und Konkurs nach schweizerischem Recht, Bd. I, § 20 N 10). Diese Rechtsprechung ist zwar streng; es ist aber davon auszugehen, dass weder das früher gegen Missbräuche im Mietwesen geltende Notrecht (BMM) noch das revidierte Mietrecht etwas an den Vorschriften des Schuldbetreibungsrechts über das Rechtsöffnungsverfahren änderten. Es bleibt somit dabei, dass selbst vom Mieter unangefochten gebliebene und mithin anerkannte Mietzinserhöhungen die gesetzlich vorgeschriebene Unterschrift des Mieters, welche Voraussetzung für die Beseitigung des Rechtsvorschlags im Rechtsöffnungsverfahren wäre (Art. 82 SchKG), nicht zu ersetzen vermag. Ein provisorischer Rechtsöffnungstitel liegt lediglich vor, wenn der Mieter die Mietzinserhöhung unterschriftlich anerkannte (Fritzsche/Walder, § 20 N 10). Schliesslich könnte Rechtsöffnung erteilt werden, wenn im Mietvertrag gestaffelte Mietzinse im Sinn von Art. 269c OR vereinbart wurden, weil in diesem Fall die Erhöhung bzw. Gestaltung der Mietzinse von Anfang an bekannt ist und vom Mieter bei Vertragsschluss unterschriftlich akzeptiert wird (vgl. LGVE 1992 I Nr. 49).
+b)    Die provisorische Rechtsöffnung könnte allenfalls für inzwischen eingetretene Mietzinserhöhungen erteilt werden, wenn im Rechtsöffnungsverfahren die Höhe der Mietzinsen grundsätzlich anerkannt wird, der Mieter hingegen andere Einreden gegen den Bestand oder die Höhe der in Betreibung gesetzten Forderung erhebt (z.B. Verrechnung oder Verjährung; Mängel an der Mietsache), die indessen nicht als genügend glaubhaft gemacht erscheinen. Zwar liegt auch in diesem Fall bezüglich der erhöhten Mietzinse kein Rechtsöffnungstitel im Sinn von Art. 82 SchKG vor, aber es ist prozessual von einer teilweisen Anerkennung der vom Vermieter vorgebrachten Gründe auszugehen. Genau dieser Fall lag RBOG 1992 Nr. 6 S. 72 zugrunde, wo ohne Begründung festgehalten wurde, der Mietvertrag stelle "zusammen mit den Mitteilungen betreffend Mietzinserhöhung unbestrittenermassen eine Schuldanerkennung und damit einen Rechtsöffnungstitel im Sinne von Art. 82 Abs. 1 SchKG dar". Das "unbestrittenermassen" bezieht sich nicht darauf, dass Mitteilungen von Mietzinserhöhungen nach Lehre und Rechtsprechung als Rechtsöffnungstitel zu qualifizieren sind; diese Frage war überhaupt nicht Gegenstand jenes Rekursverfahrens. Es ging vielmehr darum, ob sich die Mieter mit der Hinterlegung der in ihrer Höhe grundsätzlich unbestrittenen Mietzinse gegen die Betreibung zur Wehr setzen konnten (vgl. RBOG 1992 Nr. 6 S. 73). Mithin war in jenem Verfahren die Höhe der Mietzinse dem Grundsatz nach anerkannt. Aeussert sich der Mieter im Rechtsöffnungsverfahren nicht, kann indessen nicht auf eine Anerkennung der mitgeteilten Mietzinserhöhungen geschlossen werden.
+Rekurskommission, 26. Juni 1995, BR 95 51
