@@ -1,0 +1,97 @@
+---
+decision_id: "tg_obergericht_RBOG_1996_Nr._47"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1996 Nr. 47"
+docket_2: "ZR 96 84"
+decided: "1996-08-19"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/06D3C550-85D0-4C95-BDE88E961273D6EF.html"
+---
+
+# TG Obergericht RBOG 1996 Nr. 47
+
+## Regeste
+
+Das Gerichtspräsidium bestätigte den Entscheid der Schlichtungsbehörde und erklärte das Mietverhältnis als aufgelöst. Dem Grundsatz nach komme wohl das Summarverfahren zur Anwendung; da jedoch bei Mietstreitigkeiten keine Beweismittelbeschränkung gelte und ein zweiter Schriftenwechsel durchgeführt worden sei, entspreche "dies einem vollen Verfahren. Der Unterschied zu den übrigen Summarverfahren liegt einzig darin, dass in Mietstreitigkeiten nunmehr Zeugen einvernommen werden können und ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 19.08.1996 RBOG 1996 Nr. 47 (ZR 96 84)
+Thurgovie Obergericht Rechenschaftsbericht 19.08.1996 RBOG 1996 Nr. 47 (ZR 96 84)
+Turgovia Obergericht Rechenschaftsbericht 19.08.1996 RBOG 1996 Nr. 47 (ZR 96 84)
+
+Das Gerichtspräsidium bestätigte den Entscheid der Schlichtungsbehörde und erklärte das Mietverhältnis als aufgelöst. Dem Grundsatz nach komme wohl das Summarverfahren zur Anwendung; da jedoch bei Mietstreitigkeiten keine Beweismittelbeschränkung gelte und ein zweiter Schriftenwechsel durchgeführt worden sei, entspreche "dies einem vollen Verfahren. Der Unterschied zu den übrigen Summarverfahren liegt einzig darin, dass in Mietstreitigkeiten nunmehr Zeugen einvernommen werden können und ...
+
+RBOG 1996 Nr. 47
+RBOG 1996 Nr. 47
+Auf Mietstreitigkeiten nach § 2 Abs. 1 der Verordnung des Obergerichts über die gerichtliche Zuständigkeit und das Verfahren im Miet- und Pachtrecht sind auch hinsichtlich der Kosten- und Entschädigungsfolgen die Ansätze für das summarische Verfahren anwendbar
+(§ 10 AT;
+§ 8 GebVO; §§ 161 ff. ZPO)
+1.    Zwischen den Parteien war die
+Gültigkeit der Kündigung strittig. Das
+Gerichtspräsidium bestätigte den Entscheid der
+Schlichtungsbehörde und erklärte das
+Mietverhältnis als aufgelöst. Die
+Verfahrensgebühr und die Parteientschädigung setzte
+es entsprechend den Bestimmungen über das ordentliche
+Verfahren fest. Dem Grundsatz nach komme wohl das
+Summarverfahren zur Anwendung; da jedoch bei Mietstreitigkeiten
+keine Beweismittelbeschränkung gelte und ein zweiter
+Schriftenwechsel durchgeführt worden sei, entspreche "dies
+einem vollen Verfahren. Es ist aus diesem Grund angezeigt,
+für die Verfahrensgebühr wie auch die
+Anwaltsentschädigung den ordentlichen Tarif
+anzuwenden".
+2.    a)    Richtig ist, dass die
+im Summarverfahren geltende Beweismittelbeschränkung
+(§ 162 Abs. 1 ZPO) aufgrund der jüngsten
+bundesgerichtlichen Rechtsprechung gelockert werden musste und
+gemäss § 4 der Verordnung über die gerichtliche
+Zuständigkeit und das Verfahren im Miet- und Pachtrecht in
+derartigen Streitigkeiten nun ausnahmsweise die Einvernahme von
+Zeugen möglich ist. Ohne weiteres einzuräumen ist,
+dass dadurch der Aufwand sowohl für die Parteien als auch
+für die Gerichtsbehörden allenfalls erheblich
+grösser wird als in einem "gewöhnlichen"
+Summarverfahren. Dies ist indessen für sich allein noch
+keinerlei Grund, vom an sich unbestrittenermassen eindeutigen
+Wortlaut der massgebenden Bestimmungen abzuweichen: Um eine
+Gesetzesauslegung vornehmen zu können, wäre nach
+konstanter bundesgerichtlicher Praxis notwendig, dass der
+Wortlaut der Vorschrift unklar ist oder den klaren Sinn nicht
+richtig wiedergibt (BGE 120 V 525 mit Hinweisen). Beides ist
+vorliegend nicht der Fall: Bei Kündigungsanfechtungen
+gelten eindeutig und ausnahmslos die Bestimmungen des
+summarischen Verfahrens.
+b)    Die Vorinstanz tendiert denn offenbar auch
+gar nicht dazu, in sämtlichen im Summarium zu
+entscheidenden Mietstreitigkeiten den ordentlichen Tarif
+anzuwenden; aus ihren Ausführungen ist vielmehr zu
+schliessen, dass sie je nach benötigtem Aufwand, d.h.
+somit im Einzelfall, die Ansätze für das summarische
+oder aber für das ordentliche Verfahren zur Anwendung
+bringen möchte. Für eine dahingehende Differenzierung
+besteht jedoch kein Grund, und sie wäre überdies auch
+höchst problematisch. Der Unterschied zu den übrigen
+Summarverfahren liegt einzig darin, dass in Mietstreitigkeiten
+nunmehr Zeugen einvernommen werden können und allenfalls
+müssen. Von einem grösseren als dem üblichen
+Aufwand wäre folglich dann auszugehen, wenn das
+Gerichtspräsidium im Einzelfall effektiv Zeugenbefragungen
+durchführen musste. Allein die Tatsache, dass zur
+Klärung des Sachverhalts die Befragung von Drittpersonen
+unumgänglich ist, bedeutet jedoch noch lange nicht, dass
+das Verfahren gesamthaft und objektiv betrachtet als besonders
+aufwendig qualifiziert werden muss. Trifft dies jedoch zu,
+besteht keinerlei Notwendigkeit, zwecks Berücksichtigung
+der über das übliche Mass hinausgehenden Kosten auf
+die für das ordentliche Verfahren massgebenden
+Bestimmungen auszuweichen: § 3 Abs. 3 GebVO
+ermöglicht es genauso wie § 2 Abs. 2, § 10 sowie
+§ 3 AT, einem überdurchschnittlichen Aufwand ohne
+unnötige Verwässerung der klaren Begriffe
+"Summarverfahren" und "ordentliches Verfahren" Rechnung zu
+tragen.
+Rekurskommission, 19. August 1996, ZR 96
+84
