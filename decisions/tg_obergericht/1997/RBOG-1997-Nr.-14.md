@@ -1,0 +1,38 @@
+---
+decision_id: "tg_obergericht_RBOG_1997_Nr._14"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1997 Nr. 14"
+decided: "1997-06-30"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-1997-nr-14"
+cites_law: ["switzerland/bund/acts/281.1/art-081.md"]
+---
+
+# TG Obergericht RBOG 1997 Nr. 14
+
+## Regeste
+
+Substantiierungspflicht des Gläubigers im Rechtsöffnungsverfahren
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 1997 RBOG 1997 Nr. 14
+Thurgovie Obergericht Rechenschaftsbericht 1997 RBOG 1997 Nr. 14
+Turgovia Obergericht Rechenschaftsbericht 1997 RBOG 1997 Nr. 14
+
+RBOG 1997 Nr. 14
+Skip to main content
+Show navigation
+Substantiierungspflicht des Gläubigers im Rechtsöffnungsverfahren
+Art. 80 f. SchKG
+,
+§ 97 aZPO (TG)
+Die Einredemöglichkeiten des Schuldners sind im Verfahren betreffend definitive Rechtsöffnung äusserst beschränkt (vgl. Art. 81 Abs. 1 SchKG). Korrelat hiezu ist, dass der Rechtsöffnungstitel absolut klar und eindeutig sein muss. Nur demjenigen Gläubiger, welcher zweifelsfrei einen Anspruch gegenüber dem Schuldner geltend machen kann, steht die Möglichkeit offen, auf raschem sowie einfachem Weg und insbesondere ohne erneute Infragestellung der Forderung zu seinem Geld zu gelangen. Bei Entscheiden, in welchen rechtskräftig über die Zahlungspflicht eines Schuldners befunden wurde, ist dies in aller Regel der Fall. Gewähr dafür, dass der Schuldner dem Gläubiger die in Betreibung gesetzte Forderung tatsächlich schuldet, bieten insbesondere die Mitwirkungsrechte und Rechtsmittelmöglichkeiten des Betriebenen im ursprünglichen Gerichts- bzw. Steuerveranlagungsverfahren (Fritzsche/Walder, Schuldbetreibung und Konkurs nach schweizerischem Recht, Bd. I, 3.A., § 19 N 2 ff., 9 ff.; Amonn/Gasser, Grundriss des Schuldbetreibungs- und Konkursrechts, 6.A., § 19 N 32 ff., 44, 50 ff.). Nicht nur der Rechtsöffnungstitel an sich darf jedoch keine Zweifel an der Schuld entstehen lassen; auch die übrigen Gegebenheiten, welche die Höhe des Ausstands letztlich noch beeinflussen (z.B. Ratenzahlungen, Zinsforderungen), müssen durchschau- und nachvollziehbar sein. Dies gilt insbesondere bei einem Abrechnungsverhältnis. Dabei ist es Sache des Gläubigers, seine Forderung klar zu begründen, die Zahlen, welche für den Entscheid massgebend sind, deutlich zu nennen und dem Rechtsöffnungsrichter auch alle übrigen Fakten, die für die Entscheidfindung notwendig sind, verständlich vorzutragen. Er muss seiner Substantiierungspflicht, welche sich ihrerseits aus der Dispositionsmaxime ergibt (§ 97 ZPO), rechtsgenüglich nachkommen. Der Richter ist nicht gehalten, sich die Angaben in mühsamer Kleinarbeit aus diversen Akten zusammenzusuchen, weitere Unterlagen beizuziehen oder zu rätseln, aufgrund welcher Vorkommnisse wohl der Gläubiger im nachgesuchten Umfang Rechtsöffnung verlangt (RBOG 1982 Nr. 13, 1959 Nr. 20).
+Rekurskommission, 30. Juni 1997, BR 97 62
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
