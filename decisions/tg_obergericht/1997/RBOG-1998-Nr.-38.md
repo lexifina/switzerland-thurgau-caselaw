@@ -1,0 +1,189 @@
+---
+decision_id: "tg_obergericht_RBOG_1998_Nr._38"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1998 Nr. 38"
+docket_2: "SB 97 13"
+decided: "1997-05-22"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/FC4BD8F7-AEE0-42C3-81BF5988E527D9B3.html"
+---
+
+# TG Obergericht RBOG 1998 Nr. 38
+
+## Regeste
+
+Die Staatsanwaltschaft erklärte gegen den angefochtenen Entscheid weder Berufung noch Anschlussberufung; zu prüfen ist dagegen, ob ihr an der Berufungsverhandlung neu gestelltes Begehren (Verurteilung des Berufungsklägers wegen Fahrens in angetrunkenem Zustand und versuchter Vereitelung einer Blutprobe statt Vereitelung einer Blutprobe) gegen das Verschlechterungsverbot verstösst. 3. Auf den neu an der Berufungsverhandlung gestellten Antrag der Staatsanwaltschaft, der Berufungskläger sei des...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 22.05.1997 RBOG 1998 Nr. 38 (SB 97 13)
+Thurgovie Obergericht Rechenschaftsbericht 22.05.1997 RBOG 1998 Nr. 38 (SB 97 13)
+Turgovia Obergericht Rechenschaftsbericht 22.05.1997 RBOG 1998 Nr. 38 (SB 97 13)
+
+Die Staatsanwaltschaft erklärte gegen den angefochtenen Entscheid weder Berufung noch Anschlussberufung; zu prüfen ist dagegen, ob ihr an der Berufungsverhandlung neu gestelltes Begehren (Verurteilung des Berufungsklägers wegen Fahrens in angetrunkenem Zustand und versuchter Vereitelung einer Blutprobe statt Vereitelung einer Blutprobe) gegen das Verschlechterungsverbot verstösst. 3. Auf den neu an der Berufungsverhandlung gestellten Antrag der Staatsanwaltschaft, der Berufungskläger sei des...
+
+RBOG 1998 Nr. 38
+RBOG 1998 Nr. 38
+Das Verschlechterungsverbot im Rechtsmittelverfahren bezieht sich nicht nur auf die  ausgefällte Strafe oder Massnahme, sondern auch auf den Schuldpunkt
+(§ 209
+StPO)
+1.    Der
+Berufungskläger wurde wegen Vereitelung einer Blutprobe
+verurteilt;  hiegegen erhob er Berufung. Die
+Staatsanwaltschaft erklärte gegen den angefochtenen
+Entscheid weder Berufung noch Anschlussberufung; zu prüfen
+ist dagegen, ob ihr an der  Berufungsverhandlung neu
+gestelltes Begehren (Verurteilung des Berufungsklägers
+wegen  Fahrens in angetrunkenem Zustand und versuchter
+Vereitelung einer Blutprobe statt  Vereitelung einer
+Blutprobe) gegen das Verschlechterungsverbot
+verstösst.
+2.
+a)    Hat der Angeklagte allein oder hat die
+Staatsanwaltschaft zu seinen  Gunsten die Berufung
+erklärt, so darf das Urteil nicht zu Ungunsten des
+Angeklagten  abgeändert werden, es sei denn, dass das
+Berufungsverfahren wesentliche neue Tatsachen zu  seinen
+Lasten ergeben hat (§ 209 Abs. 1 StPO). Das Verbot der
+Schlechterstellung wird nach  der herrschenden Lehre und
+nach der Rechtsprechung in den meisten Kantonen - mit
+Unterschieden in den Einzelheiten - dahingehend verstanden,
+dass nur die strengere  Bestrafung untersagt ist
+(Hauser/Schweri, Schweizerisches Strafprozessrecht, 3.A., S.
+405;  Birchmeier, Aargauische Strafprozessordnung, 2.A.,
+§ 210 N 4 ff.; Bründler, Die Appellation  im
+Rechtsmittelsystem des Luzerner Strafverfahrens, Diss.
+Zürich 1990, S. 88 f.;  Bänziger/Stolz/Kobler,
+Kommentar zur Strafprozessordnung des Kantons Appenzell A.Rh.,
+2.A.,  Art. 199 N 1 f.; Staub, Kommentar zum
+Strafverfahren des Kantons Bern, Bern 1992, Art. 319 N  4
+ff.; Padrutt, Kommentar zur Strafprozessordnung des Kantons
+Graubünden, 2.A., Art. 146 N  3; Kolly, Zum
+Verschlechterungsverbot im schweizerischen Strafprozess, in:
+ZStR 113, 1995,  S. 309 ff.; BJM 1995 S. 223 f.; RBUR
+1986/87 S. 97; ZWR 1992 S. 286). Das gilt insbesondere
+auch für die Kantone Zürich (ZR 48, 1949, Nr. 200,
+57, 1958, Nr. 18 und Nr. 139 S. 317, 59,  1960, Nr. 59;
+Schmid, Strafprozessrecht, 3.A., N 984 ff.) und St. Gallen
+(SGGVP 1958 Nr. 52;  Kühnis, Das Rechtsmittel der
+Berufung in der st. gallischen Strafrechtspflege, Diss.
+Freiburg 1975, S. 89 ff.).
+b)    Die publizierte thurgauische
+Rechtsprechung befasst sich mit der  Frage der Tragweite
+des Schlechterstellungsverbots nur insofern, als eine
+zweitinstanzliche  Erhöhung des für den Staat
+einzuziehenden Betrags prozessual nicht möglich ist (RBOG
+1979  Nr. 28). Nach den Materialien soll das
+Schlechterstellungsverbot nur den Straf- oder
+Massnahmenentscheid betreffen, nicht auch den Schuldspruch bzw.
+die rechtliche Qualifikation  (Protokoll der 23. Sitzung
+der Expertenkommission vom 2. November 1959, S. 4). Litschgi
+(Die  Rechtsmittel im thurgauischen Strafprozess, Diss.
+Zürich 1975, S. 72 f.) weist darauf hin,  die StPO
+selbst sage nichts darüber aus, ob das
+Verschlechterungsverbot jede Verschärfung  des
+Entscheids erfasse, oder ob sich das Verbot nur auf die
+eigentliche Strafe beziehe;  warum die sich aus den
+Materialien ergebende klare Aussage, es gehe nur um den Straf-
+und  Massnahmenentscheid, zur Verdeutlichung nicht ins
+Gesetz aufgenommen worden sei, bleibe  unerklärlich.
+Hauser/Schweri (S. 405) schliessen offenbar aus dem blossen
+Wortlaut von § 209  Abs. 1 StPO, das Verbot besage
+nach thurgauischem Recht auch, dass die Tat nicht
+schwerer  qualifiziert werden dürfe, zum Beispiel als
+Vollendung statt als Versuch.
+c)    Der Wortlaut von § 209 Abs. 1 StPO
+spricht dafür, dass das  Verschlechterungsverbot nach
+thurgauischem Recht nicht nur für den Straf- und
+Massnahmenpunkt, sondern auch für den Schuldspruch gelten
+soll: Die Bestimmung schliesst  jede Änderung des
+Urteilsdispositivs zulasten des verurteilten
+Rechtsmittelklägers aus. Die  Materialien sind
+entgegen der Auffassung von Litschgi keineswegs sonderlich
+klar: Zwar ist  zutreffend, dass in der Expertenkommission
+festgehalten wurde, das Reformationsverbot  betreffe nicht
+auch den Schuldspruch respektive die rechtliche Qualifikation,
+sondern nur  den Straf- oder Massnahmenentscheid;
+gleichzeitig wird an jener Protokollstelle indessen
+darauf hingewiesen, dass der Kanton Aargau diesbezüglich
+weiter gehe: Hier fehlt es an einer  Begründung,
+warum gerade in diesem Punkt, obwohl man sich im übrigen
+sehr weitgehend an das  aargauische Vorbild hielt, anders
+vorgegangen werden wollte. Schliesslich ist nicht zu
+verkennen, dass in den Protokollen des Grossen Rates bzw. der
+grossrätlichen Kommission auf  dieses
+einschränkende Verständnis des
+Schlechterstellungsverbots nie hingewiesen wurde, so  dass
+sich mithin die Frage stellt, inwieweit diesbezüglich
+tatsächlich von einem Willen des  Gesetzgebers
+ausgegangen werden kann.
+d)    Ganz offensichtlich ist das Argument nicht
+zutreffend, dass eine  Verschlechterung des Schuldspruchs
+zulasten des Angeklagten für diesen keine
+weitergehende  Wirkung zeige: Gerade im Zusammenhang mit
+dem Delikt des Fahrens in angetrunkenem Zustand  kann eine
+zusätzliche zweitinstanzliche Verurteilung Folgen im
+strassenverkehrsrechtlichen  Administrativverfahren haben,
+beispielsweise mit Bezug auf die Dauer des
+Führerausweisentzugs; ebenso können zweitinstanzliche
+Änderungen im Schuldspruch in späteren
+Verfahren, insbesondere mit Bezug auf den Widerruf des
+bedingten Strafvollzugs, von  Bedeutung sein. Gründe,
+aus welchen mit Bezug auf die Auslegung von § 209 Abs. 1
+StPO eine  strenge Praxis - eingeschränkte Geltung
+des Schlechterstellungsverbots nur für Strafe und
+Massnahme - am Platz wäre, sind letztlich nicht
+ersichtlich. Dies gilt umso mehr, als auch  die st.
+gallische Praxis mittlerweilen klargestellt hat, dass das
+Verbot der reformatio in  peius sich zwar weiterhin nur
+auf das Strafmass und die Strafart, nicht aber auf den
+Schuldspruch beziehe. Doch sei hievon die Frage zu
+unterscheiden, ob die Berufungsinstanz  auf einen seitens
+der Staatsanwaltschaft unangefochten gebliebenen Freispruch
+zurückkommen  könne. Dies sei nur möglich,
+wenn der gleiche Lebensvorgang bzw. Sachverhalt rechtlich
+beurteilt werde, und wenn dies zu verneinen sei, müsse es
+beim erstinstanzlichen Freispruch  sein Bewenden haben
+(SGGVP 1989 Nr. 64). Die herrschende Lehre ist denn auch
+inkonsequent,  wenn der Berufungsinstanz einerseits
+gestattet wird, die Tat schwerer zu qualifizieren, ihr
+andererseits aber verwehrt wird, die Sanktion an das anders
+bewertete Delikt anzupassen  (Hasenböhler, Zur
+Appellation im basellandschaftlichen Strafverfahren, in: BJM
+1971 S. 73);  dies kann in Einzelfällen entweder zu
+unsinnigen oder zu völlig stossenden Ergebnissen
+führen.
+e)    Schliesslich ist mit Bezug auf den
+vorliegenden Fall auch die Frage  der Praktikabilität
+zu beachten: Es ist kein vernünftiger Grund zu erkennen,
+warum es der  Staatsanwaltschaft, wenn sie sowohl nach
+Eingang des erstinstanzlichen Urteils auf eine  Berufung
+als auch später nach Kenntnisnahme von der
+Berufungserklärung des Angeklagten auf  eine
+Anschlussberufung verzichtet hat, in der Berufungsverhandlung
+noch möglich sein sollte,  einen vom Schuldspruch der
+Vorinstanz abweichenden Antrag zu stellen. Dies gilt umso
+mehr,  als solche Anträge regelmässig nicht nur
+die Berufungsinstanz, sondern insbesondere auch die
+Verteidigung überraschen werden, so dass letztlich auch
+der Grundsatz der Fairness des  Strafverfahrens tangiert
+wird.
+f)    Damit bezieht sich das
+Verschlechterungsverbot nach § 209 Abs. 1  StPO nicht
+nur auf den Straf- und Massnahmenentscheid, sondern auch auf
+den Schuldpunkt;  jede Verschlechterung des
+Urteilsdispositivs ist unzulässig. Nur diese Auslegung
+entspricht  auch der bisherigen Praxis des Obergerichts
+und der Rekurskommission des Obergerichts (nicht
+publizierte Obergerichtsentscheide vom 11. Dezember 1990, vom
+19. Juni 1973, vom 15. März  1973 und vom 18. Januar
+1973 sowie nicht publiziertes Urteil der Rekurskommission vom
+16.  März 1992).
+3.    Auf
+den neu an der Berufungsverhandlung gestellten Antrag der
+Staatsanwaltschaft, der Berufungskläger sei des Fahrens in
+angetrunkenem Zustand und der  versuchten Vereitelung
+einer Blutprobe schuldig zu sprechen, ist daher nicht
+einzugehen.
+Obergericht, 22. Mai 1997, SB 97 13
