@@ -1,0 +1,130 @@
+---
+decision_id: "tg_obergericht_RBOG_1999_Nr._23"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1999 Nr. 23"
+docket_2: "ZBO.1999.46"
+decided: "1999-11-25"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/CDB45A61-C98A-404D-9C1CF807C7E2DCD3.html"
+cites_law: ["switzerland/bund/acts/210/art-730.md", "switzerland/bund/acts/210/art-736.md"]
+---
+
+# TG Obergericht RBOG 1999 Nr. 23
+
+## Regeste
+
+23 Eigentümer der berechtigten Grundstücke bilden bei Klage auf Löschung einer Dienstbarkeit keine notwendige Streitgenossenschaft. Nachdem X mit einzelnen Grundeigentümern der neu erstellten Parzellen eine einvernehmliche Lösung finden konnte, erhob er gegen die restlichen Grundeigentümer Klage auf Aufhebung der auf seinem Grundstück lastenden Dienstbarkeit. Die eingeklagten Grundeigentümer beantragen Abweisung der Klage wegen fehlender Passivlegitimation.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 25.11.1999 RBOG 1999 Nr. 23 (ZBO.1999.46)
+Thurgovie Obergericht Rechenschaftsbericht 25.11.1999 RBOG 1999 Nr. 23 (ZBO.1999.46)
+Turgovia Obergericht Rechenschaftsbericht 25.11.1999 RBOG 1999 Nr. 23 (ZBO.1999.46)
+
+23 Eigentümer der berechtigten Grundstücke bilden bei Klage auf Löschung einer Dienstbarkeit keine notwendige Streitgenossenschaft. Nachdem X mit einzelnen Grundeigentümern der neu erstellten Parzellen eine einvernehmliche Lösung finden konnte, erhob er gegen die restlichen Grundeigentümer Klage auf Aufhebung der auf seinem Grundstück lastenden Dienstbarkeit. Die eingeklagten Grundeigentümer beantragen Abweisung der Klage wegen fehlender Passivlegitimation.
+
+RBOG 1999 Nr. 23
+RBOG 1999 Nr. 23
+Eigentümer der berechtigten Grundstücke bilden bei Klage auf Löschung einer  Dienstbarkeit keine notwendige Streitgenossenschaft. Keine Verletzung der  Dispositionsmaxime, wenn der Richter statt auf Aufhebung auf Ablösung erkennt
+(§ 20
+ZPO;  Art. 736 Abs. 1 und 2 ZGB)
+1.    X
+ist Eigentümer einer Parzelle, auf welcher seit Jahren
+eine als "Fuss- und  Fahrwegrecht" bezeichnete
+Dienstbarkeit zugunsten einer benachbarten Parzelle lastet.
+Dieses  Grundstück wurde mehrfach abparzelliert.
+Nachdem X mit einzelnen Grundeigentümern der neu
+erstellten Parzellen eine einvernehmliche Lösung finden
+konnte, erhob er gegen die  restlichen
+Grundeigentümer Klage auf Aufhebung der auf seinem
+Grundstück lastenden  Dienstbarkeit. Die eingeklagten
+Grundeigentümer beantragen Abweisung der Klage wegen
+fehlender Passivlegitimation.
+2.    Nach
+§ 20 ZPO müssen mehrere Personen gemeinsam als
+Kläger auftreten oder  als Beklagte belangt werden,
+soweit ihnen das streitige Recht oder die streitige
+Verpflichtung  gemeinsam zukommt. Für Passivprozesse
+besteht diese notwendige  Streitgenossenschaft nur
+insoweit, als dingliche Rechte gegen Gesamthänder geltend
+gemacht  werden oder sich als Gestaltungsklagen auf
+Aufhebung eines Rechtsverhältnisses richten, das
+mehrere Personen umfasst und mit Wirkung gegen alle aufgehoben
+werden muss (Vogel, Grundriss  des Zivilprozessrechts,
+6.A., 5. Kap. N 50 ff.). Bejaht wird die notwendige
+Streitgenossenschaft bei dinglichen Ansprüchen auf eine
+unteilbare Leistung gegenüber allen
+Miteigentümern, etwa der Einräumung einer
+Dienstbarkeit (Frank/Sträuli/ Messmer, Kommentar  zur
+zürcherischen Zivilprozessordnung, 3.A., § 39 N 12);
+indessen wird eine einfache  Streitgenossenschaft
+angenommen, wo mehrere Miteigentümer auf eine unteilbare
+Leistung  klagen (Frank/Sträuli/Messmer, § 40
+ZPO N 6). Besinnt man sich auf die Natur der
+Grunddienstbarkeit zurück, so ergibt sich, dass die
+Grunddienstbarkeit den jeweiligen  Eigentümern der
+berechtigten Grundstücke zusteht (Liver, Zürcher
+Kommentar, Art. 730 ZGB N  32). Will der belastete
+Grundeigentümer die Dienstbarkeit aufheben, so kann er
+dies gegen  jeden Berechtigten separat geltend machen;
+insofern könnten für jedes berechtigte
+Grundstück  durchaus auch unterschiedliche
+Interessenlagen bestehen, welche einzeln zu
+berücksichtigen  wären. Die Ausübung der
+Dienstbarkeit steht den Eigentümern der berechtigten
+Grundstücke  nicht gemeinsam, sondern jedem von ihnen
+einzeln zu. Das zeigt schon der Umstand, dass  einzelne
+der ursprünglich ins Recht gefassten Grundeigentümer
+einvernehmlich einer Aufhebung  des sie betreffenden
+Rechts zustimmten und die diesbezügliche Löschung
+grundbuchlich  offenbar bereits vollzogen wurde. Es ist
+demnach hier nicht von notwendiger, sondern von  einfacher
+Streitgenossenschaft zufolge gleichgerichteter bzw. auf gleiche
+Tatsachen und  Rechtsgründe abgestützter
+Ansprüche auszugehen. X ist Alleineigentümer der
+belasteten  Liegenschaft, und soweit auf der Seite der
+Beklagten Miteigentum besteht, fasste er die
+Miteigentümer gemeinsam ins Recht. Die Besonderheit liegt
+lediglich darin, dass X das  Begehren auf Löschung
+der Servitut gleichzeitig gegen alle Eigentümer der
+berechtigten  Grundstücke richtete.
+3.    Die
+Berufungskläger machen geltend, es sei von X nur die
+entschädigungslose  Löschung beantragt worden;
+die Vorinstanz habe die Dispositionsmaxime verletzt, indem
+sie  eine Ablösung der Dienstbarkeit gestützt
+auf Art. 736 Abs. 2 ZGB ausgesprochen habe.
+a)    Hat eine Dienstbarkeit für das
+berechtigte Grundstück alles  Interesse verloren, so
+kann der Belastete ihre Löschung verlangen (Art. 736 Abs.
+1 ZGB). Das  Gesetz gestattet jedoch auch die
+Ablösung der Dienstbarkeit gegen Entschädigung, wenn
+zwar  ein Interesse des Berechtigten daran noch besteht,
+dieses aber im Vergleich zur Belastung  von
+unverhältnismässig geringerer Bedeutung ist (Art. 736
+Abs. 2 ZGB).
+b)    Die Vorinstanz erwog, es erscheine
+unwahrscheinlich, dass das noch  bestehende Interesse der
+Berechtigten vom ursprünglichen Zweck der Dienstbarkeit
+noch  gedeckt sei. Jedenfalls aber erachtete sie den
+Tatbestand von Art. 736 Abs. 2 ZGB als  erfüllt. Die
+Vorinstanz wählte denn auch einen ungewöhnlichen Weg
+und nahm die Gesetzesnorm  explizit ins Dispositiv auf.
+Entgegen der Auffassung der Berufungskläger liegt darin
+keine  Verletzung der Dispositionsmaxime. Beim
+Ablösungsurteil gestützt auf Art. 736 Abs. 2
+ZGB  handelt es sich um ein Feststellungsurteil (Liver,
+Art. 736 ZGB N 103, N 176 f.). Deshalb  kann es
+ausgefällt werden, auch wenn nur auf
+entschädigungslose Aufhebung der Dienstbarkeit
+gemäss Art. 736 Abs. 1 ZGB geklagt worden ist (Liver, Art.
+736 ZGB N 196); es handelt sich  um ein Minus, nicht um
+ein Aliud (Liver, Art. 736 ZGB N 197). Das materielle Recht
+diktiert  hier somit eine  Ausnahme vom Grundsatz,
+der Richter dürfe nichts anderes zusprechen als der
+Kläger verlangt (Frank/ Sträuli/Messmer, § 54
+ZPO N 18). Der Einwand, die Dispositionsmaxime  sei
+verletzt, erweist sich demnach als unbegründet.
+Obergericht, 25. November 1999,
+ZBO.1999.46
