@@ -1,0 +1,37 @@
+---
+decision_id: "tg_obergericht_RBOG_1995_Nr._24"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1995 Nr. 24"
+docket_2: "SB 94 15"
+decided: "1994-05-10"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/5957AA43-CE83-4823-8EF27D2F64BB3339.html"
+cites_law: ["switzerland/bund/acts/312.5/art-002.md", "switzerland/bund/acts/312.5/art-008.md"]
+---
+
+# TG Obergericht RBOG 1995 Nr. 24
+
+## Regeste
+
+1. Der Berufungskläger machte sich der fahrlässigen schweren Körperverletzung zum Nachteil eines Kindes schuldig. Der Ehegatte des Opfers, dessen Kinder und Eltern sowie andere Personen, die ihm in ähnlicher Weise nahestehen, werden, soweit ihnen Zivilansprüche gegenüber dem Täter zustehen, bei der Geltendmachung von Verfahrensrechten und Zivilansprüchen gemäss Art.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 10.05.1994 RBOG 1995 Nr. 24 (SB 94 15)
+Thurgovie Obergericht Rechenschaftsbericht 10.05.1994 RBOG 1995 Nr. 24 (SB 94 15)
+Turgovia Obergericht Rechenschaftsbericht 10.05.1994 RBOG 1995 Nr. 24 (SB 94 15)
+
+1. Der Berufungskläger machte sich der fahrlässigen schweren Körperverletzung zum Nachteil eines Kindes schuldig. Der Ehegatte des Opfers, dessen Kinder und Eltern sowie andere Personen, die ihm in ähnlicher Weise nahestehen, werden, soweit ihnen Zivilansprüche gegenüber dem Täter zustehen, bei der Geltendmachung von Verfahrensrechten und Zivilansprüchen gemäss Art.
+
+RBOG 1995 Nr. 24
+RBOG 1995 Nr. 24
+Mitwirkung des Opfers im Strafverfahren
+(Art. 8 OHG)
+1.    Der Berufungskläger machte sich der fahrlässigen schweren Körperverletzung zum Nachteil eines Kindes schuldig. Im Berufungsverfahren bringen das Kind und dessen Eltern vor, in der Strafuntersuchung und vor Bezirksgericht seien ihre Parteirechte krass verletzt worden.
+2.    Um als Opfer im Sinn des OHG anerkannt zu werden, muss nach Art. 2 OHG eine Person durch eine Straftat in ihrer körperlichen und psychischen Integrität unmittelbar beeinträchtigt worden sein. Zu den in Frage kommenden Beeinträchtigungen zählen Tötung, Körperverletzung, psychische Schädigung sowie Beeinträchtigungen der Gesundheit (RBOG 1993 Nr. 34). Das schwerverletzte Kind ist daher Opfer im Sinn des OHG.
+Der Ehegatte des Opfers, dessen Kinder und Eltern sowie andere Personen, die ihm in ähnlicher Weise nahestehen, werden, soweit ihnen Zivilansprüche gegenüber dem Täter zustehen, bei der Geltendmachung von Verfahrensrechten und Zivilansprüchen gemäss Art. 8 und 9 OHG sowie bei der Geltendmachung von Entschädigung und Genugtuung nach Art. 11 bis 17 OHG dem Opfer gleichgestellt (Art. 2 Abs. 1 lit. b und c OHG). Wie das Kind selbst berufen sich dessen Eltern, welche zusammen mit dem Kind im Grundsatz eine Schadenersatz- und Genugtuungsforderung gegen den Berufungskläger geltend machen, somit zu Recht auf die Verfahrensrechte, die Art. 8 OHG einräumt.
+3.    Art. 8 Abs. 1 lit. a OHG schreibt nicht ausdrücklich vor, welche konkreten Mitwirkungsrechte einem Opfer zukommen, das im Rahmen des Strafverfahrens Zivilforderungen erhebt. Art. 8 OHG soll jedoch gewährleisten, dass ein Opfer seine Entschädigungsansprüche wirksam geltend machen kann (vgl. BBl 1990 II 985). Dieser Zweck kann in der Regel nur dadurch erreicht werden, dass das Opfer die Möglichkeit erhält, Einfluss auf die Frage der strafrechtlichen Verantwortlichkeit und des strafrechtlichen Verschuldens des Schädigers zu nehmen, sofern der Entscheid darüber Auswirkungen auf den Zivilpunkt haben kann. Dass einem Opfer im Sinn des OHG umfassendere Mitwirkungsrechte zustehen als einem anderen Geschädigten, ergibt sich auch aus Art. 8 Abs. 1 lit. c OHG, wonach das Opfer den Gerichtsentscheid mit den gleichen Rechtsmitteln anfechten kann wie der Beschuldigte, wenn es sich bereits vorher am Verfahren beteiligt hat und soweit der Entscheid seine Zivilansprüche betrifft oder sich auf deren Beurteilung auswirken kann. In solchen Fällen, in denen das Opfer also auch im Strafpunkt Berufung erheben könnte, ist eine Beteiligungsmöglichkeit des Opfers deshalb auch für die Strafuntersuchung und das erstinstanzliche Gerichtsverfahren zu bejahen, denn es würde wenig Sinn machen, hinsichtlich des Strafpunkts das Opfer gleichsam auf die Berufungsmöglichkeit zu vertrösten.
+Demnach hätten das Bezirksamt und das Bezirksgericht - jedenfalls ab dem 1. Januar 1993, dem Zeitpunkt des Inkrafttretens des OHG - dem Kind und dessen Eltern eine Mitwirkung am Strafverfahren auch in bezug auf den Strafpunkt in gleicher Weise wie dem Berufungskläger gestatten müssen. Dies gilt erst recht hinsichtlich der Zivilforderungen. Diesen sich aus dem OHG ergebenden Anspruch der drei Opfer auf rechtliches Gehör zum Strafpunkt und zu den Zivilansprüchen missachtete das Bezirksgericht insbesondere dadurch, dass den Opfern anlässlich der Gerichtsverhandlung verwehrt wurde, Ausführungen zur Begründung der von ihnen gestellten Anträge zu machen.
+Dieser Verfahrensmangel im Zusammenhang mit dem Mitwirken der Opfer wurde im Rahmen des Berufungsverfahrens geheilt: Den Opfern wurden umfassende Mitwirkungsmöglichkeiten eingeräumt, die sie auch nutzten.
+Obergericht, 10. Mai 1994, SB 94 15
