@@ -1,0 +1,124 @@
+---
+decision_id: "tg_obergericht_RBOG_1999_Nr._29"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1999 Nr. 29"
+docket_2: "ZR.1999.3"
+decided: "1999-02-01"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/0F3C3066-3571-47E2-83A282DF2556DDEE.html"
+cites_law: ["switzerland/bund/acts/210/art-177.md", "switzerland/bund/acts/210/art-291.md", "switzerland/bund/acts/281.1/art-081.md", "switzerland/bund/acts/291/art-029.md"]
+---
+
+# TG Obergericht RBOG 1999 Nr. 29
+
+## Regeste
+
+3 Übereinkommen über die Anerkennung und Vollstreckung von Entscheidungen auf dem Gebiet der Unterhaltspflicht gegenüber Kindern; Art. Erfüllt der Rekurrent seine Unterhaltspflicht gegenüber der Rekursgegnerin persönlich nicht, ist sie auf den Betreibungsweg zu verweisen. 3 des Haager Übereinkommens über die Anerkennung und Vollstreckung von Entscheidungen auf dem Gebiet der Unterhaltspflicht gegenüber Kindern sind Unterhaltsentscheidungen, die in einem der Vertragsstaaten ergangen sind, in ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 01.02.1999 RBOG 1999 Nr. 29 (ZR.1999.3)
+Thurgovie Obergericht Rechenschaftsbericht 01.02.1999 RBOG 1999 Nr. 29 (ZR.1999.3)
+Turgovia Obergericht Rechenschaftsbericht 01.02.1999 RBOG 1999 Nr. 29 (ZR.1999.3)
+
+3 Übereinkommen über die Anerkennung und Vollstreckung von Entscheidungen auf dem Gebiet der Unterhaltspflicht gegenüber Kindern; Art. Erfüllt der Rekurrent seine Unterhaltspflicht gegenüber der Rekursgegnerin persönlich nicht, ist sie auf den Betreibungsweg zu verweisen. 3 des Haager Übereinkommens über die Anerkennung und Vollstreckung von Entscheidungen auf dem Gebiet der Unterhaltspflicht gegenüber Kindern sind Unterhaltsentscheidungen, die in einem der Vertragsstaaten ergangen sind, in ...
+
+RBOG 1999 Nr. 29
+RBOG 1999 Nr. 29
+Schuldneranweisung aufgrund eines ausländischen Urteils
+(§§
+258, 260 ZPO; Art. 2  Ziff. 3 Übereinkommen über
+die Anerkennung und Vollstreckung von Entscheidungen auf
+dem  Gebiet der Unterhaltspflicht gegenüber Kindern;
+Art. 291 ZGB)
+1.    Die
+Vorinstanz verfügte gestützt auf einen
+ausländischen Entscheid in  Anwendung von Art. 177
+ZGB für die der Rekursgegnerin und den drei Kindern
+geschuldeten  Unterhaltsbeiträge eine
+Schuldneranweisung. Da die Ehe zwischen den Parteien geschieden
+ist,  kommt eine Anweisung gemäss Art. 177 ZGB nicht
+in Frage. Erfüllt der Rekurrent seine
+Unterhaltspflicht gegenüber der Rekursgegnerin
+persönlich nicht, ist sie auf den  Betreibungsweg zu
+verweisen. Damit ist zu prüfen, ob eine Anweisung für
+die geltend  gemachten Kinderunterhaltsbeiträge nach
+Art. 291 ZGB zulässig ist.
+2.
+a)    Gemäss Art. 2 Ziff. 3 des Haager
+Übereinkommens über die Anerkennung  und
+Vollstreckung von Entscheidungen auf dem Gebiet der
+Unterhaltspflicht gegenüber Kindern  sind
+Unterhaltsentscheidungen, die in einem der Vertragsstaaten
+ergangen sind, in den  anderen Vertragsstaaten ohne
+sachliche Nachprüfung anzuerkennen und für
+vollstreckbar zu  erklären, wenn die Entscheidung in
+dem Staat, in welchem sie ergangen ist, Rechtskraft
+erlangt hat. Die Bestimmungen dieses Übereinkommens sind
+sowohl auf Entscheidungen als auch  auf Vergleiche ohne
+Rücksicht auf ihre Bezeichnung anzuwenden (Art. 2, 21
+des  Übereinkommens). Das Haager Übereinkommen
+bleibt vom Lugano-Übereinkommen unberührt, da
+es  für ein besonderes Rechtsgebiet die Anerkennung
+und Vollstreckung von Entscheiden regelt  (Art. 57 Abs. 1
+LugÜ; Siehr, in: IPRG Kommentar, Zürich 1993, Art. 84
+N 8).
+Ist ein Urteil, welches aus einem Vertragsstaat des
+Lugano-Übereinkommens  oder des Haager
+Unterhalts-Vollstreckungsübereinkommens stammt, auf dem
+Betreibungsweg zu  vollstrecken, so wird der
+Rechtsöffnungsrichter nach Art. 81 Abs. 3 SchKG auch
+darüber  entscheiden können, ob das
+ausländische Urteil als Rechtsöffnungstitel
+genügt (Volken, in:  IPRG Kommentar, Art. 29 N 17).
+Geht ein Anspruch jedoch nicht auf Geld- oder
+Sicherheitsleistung, richtet sich das Verfahren der
+Vollstreckung ausländischer  Entscheidungen
+weitgehend nach kantonalem Recht. Im Rahmen des
+Lugano-Übereinkommens ist zu  beachten, dass ein
+Vollstreckungsantrag gemäss Art. 32 Abs. 1 LugÜ an
+den "zuständigen  kantonalen Vollstreckungsrichter"
+zu richten ist (Berti/ Schnyder, Basler Kommentar, Art.
+29  IPRG N 11 f.).
+b)    Bei der Anweisung gemäss Art. 291 ZGB
+handelt es sich um eine  privilegierte
+Zwangsvollstreckungsmassnahme eigener Art, welche zwar eher
+eine Zivilsache  darstellt, aber kein Endentscheid und vom
+Bundesgericht nur im Verfahren der  staatsrechtlichen
+Beschwerde überprüfbar ist (Breitschmid, Basler
+Kommentar, Art. 291 ZGB N  5). Da der Unterhaltsanspruch
+gemäss Art. 291 ZGB und nicht nach SchKG vollstreckt
+wird,  richtet sich das Verfahren nach § 260 ZPO.
+Somit stellt sich die Frage, ob hier - wie im
+Vollstreckungsverfahren nach SchKG - über die
+Vollstreckbarkeit des ausländischen Urteils
+entschieden werden kann, oder ob ein separates
+Exequaturverfahren zu erfolgen hat.
+Aufgrund der Auslegung der einschlägigen Bestimmungen
+der  Zivilprozessordnung ist die Möglichkeit einer
+vorfrageweisen Überprüfung der
+Vollstreckbarkeit zu bejahen. Einerseits ist sowohl für
+das Verfahren auf  Vollstreckbarerklärung als auch
+für dasjenige gemäss Art. 291 ZGB der
+Gerichtspräsident als  Summarrichter zuständig
+(§ 172 Ziff. 15 ZPO und § 260 i.V.m. § 164 ZPO).
+Andererseits sieht  § 258 Abs. 2 ZPO
+ausdrücklich vor, dass bei ausländischen Entscheiden
+auf Begehren einer  Partei im Befehlsverfahren über
+die Frage der Vollstreckbarkeit ein besonderer Entscheid
+ergehen kann. Demnach muss die Möglichkeit gegeben sein,
+dass gleichzeitig über die  Vollstreckbarkeit des
+ausländischen Entscheids entschieden werden kann, falls
+nicht ein  anderslautendes Begehren einer Partei vorliegt.
+Für diese Lösung spricht auch die Tatsache,
+dass dadurch unnötige Doppelspurigkeiten vermieden werden
+können.
+3.    Da
+keine der Parteien ein separates Verfahren für die
+Vollstreckbarkeit  verlangte, kann darüber
+gleichzeitig entschieden werden. Dass der dem Begehren
+der  Rekursgegnerin zugrundeliegende Entscheid in der
+Schweiz vollstreckbar ist, blieb  unbestritten.
+Rekurskommission, 1. Februar 1999,
+ZR.1999.3
