@@ -1,0 +1,36 @@
+---
+decision_id: "tg_obergericht_RBOG_2002_Nr._32"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2002 Nr. 32"
+docket_2: "ZBR.2002.23"
+decided: "2002-08-15"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/FDEFF392-1997-44B1-9F5AF77B4C1CCBCD.html"
+---
+
+# TG Obergericht RBOG 2002 Nr. 32
+
+## Regeste
+
+Ebenso können sie gegen die Bestellung von Sachverständigen Einsprache erheben (§ 199 Abs. Die Äusserungen von Sachverständigen an Parteiverhandlungen vor Gericht werden wie Zeugenaussagen protokolliert (§ 207 Abs. Sie kann weder als Zeugenbefragung noch als zulässige Einvernahme eines Sachverständigen qualifiziert werden.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 15.08.2002 RBOG 2002 Nr. 32 (ZBR.2002.23)
+Thurgovie Obergericht Rechenschaftsbericht 15.08.2002 RBOG 2002 Nr. 32 (ZBR.2002.23)
+Turgovia Obergericht Rechenschaftsbericht 15.08.2002 RBOG 2002 Nr. 32 (ZBR.2002.23)
+
+Ebenso können sie gegen die Bestellung von Sachverständigen Einsprache erheben (§ 199 Abs. Die Äusserungen von Sachverständigen an Parteiverhandlungen vor Gericht werden wie Zeugenaussagen protokolliert (§ 207 Abs. Sie kann weder als Zeugenbefragung noch als zulässige Einvernahme eines Sachverständigen qualifiziert werden.
+
+RBOG 2002 Nr. 32
+RBOG 2002 Nr. 32
+Telefonische Befragung eines Fachmanns während der Gerichtsverhandlung; Verletzung der Vorschriften über die Zeugen- oder Expertenbefragung
+(§§ 196 ff. und 208 ff., insb. § 214 ZPO)
+1.    Der Mieter bestreitet, für einen Schaden an der Küchenabdeckung, für welchen die Vermieter Ersatz forderten, verantwortlich zu sein. Anlässlich der Hauptverhandlung stellte die Vorinstanz fest, bezüglich des Brandschadens an der Küchenabdeckung lägen zwei schriftliche Bestätigungen von Elektro-Firmen vor. Erstere gehe davon aus, dass ein vom Berufungskläger geltend gemachter Kurzschluss Spuren unter dem Plattensatz und der Abdeckung, nicht auf der Abdeckung selber hinterlassen würde; die zweite konstatiere, dass der Brandschaden erfahrungsgemäss durch das Verhalten mit einer heissen Pfanne verursacht sein müsse. Da es sich bei diesen Bestätigungen um an sich gemäss § 191 ZPO unbeachtliche Prozessbescheinigungen handle, sei während der Verhandlung eine telefonische Befragung des Geschäftsführers der einen Elektro-Unternehmung mit eingeschaltetem Lautsprecher durchgeführt worden. Diese habe ergeben, dass der Schaden von einer heissen Pfanne stammen müsse, wobei der Befragte einen Kurzschluss als unmögliche Brandursache bezeichnet habe. Da eine Befragung als Zeuge mit Bestimmtheit zu keinem anderen Ergebnis hätte führen können, sei der Anspruch der Vermieter unter dem Titel Brandschaden, insbesondere da das Quantum nicht bestritten sei, als ausgewiesen zu betrachten.
+2.    a)    Gemäss § 208 ZPO hat die Abhörung von Zeugen zum Zweck, diejenigen vom Richter als erheblich befundenen Tatsachen, welche auf ihrer unmittelbaren sinnlichen Wahrnehmung beruhen, zu erstellen. Wer nur indirekt, mittelbar vom Sachverhalt Kenntnis hat, kann nicht als Zeuge angerufen werden (Merz, Die Praxis zur thurgauischen Zivilprozessordnung, Bern 2000, § 208 N 1), was freilich die Einvernahme von Zeugen zu Wahrnehmungen vom Hörensagen nicht ausschliesst (vgl. Frank/Sträuli/Messmer, Kommentar zur zürcherischen Zivilprozessordnung, 3.A., § 165 ZPO N 3 mit Hinweisen). Stehen Tatsachen in Frage, zu deren Wahrnehmung oder Beurteilung besondere Fachkenntnisse erforderlich sind, sollen auf Antrag einer Partei oder von Amtes wegen Sachverständige in Anspruch genommen werden (§ 196 ZPO).
+Zeugen sind gemäss § 214 ZPO vor ihrer Einvernahme unter Hinweis auf die Folgen des falschen Zeugnisses auf ihre Pflichten aufmerksam zu machen; auch Sachverständige werden bei der Ernennung auf ihre Pflichten aufmerksam gemacht und auf die strafrechtlichen Folgen eines falschen Gutachtens und der Verletzung des Amtsgeheimnisses hingewiesen (§ 198 ZPO). Nach § 218 ZPO sind die Aussagen der Zeugen schriftlich festzuhalten. Die Aufzeichnungen sind vorzulesen, und der Zeuge hat die Richtigkeit des Protokolls unterschriftlich zu bestätigen. Für die Zeugenaussagen sind die schriftlichen Protokolle massgebend, nicht allfällige Tonbandaufnahmen (
+RBOG 1998 Nr. 25
+). Aus dem verfassungsmässigen Anspruch auf rechtliches Gehör ergibt sich, dass die Parteien im Zivilprozess befugt sind, den Zeugen Ergänzungs- und Erläuterungsfragen stellen zu lassen (§ 215 Abs. 2 ZPO). Ebenso können sie gegen die Bestellung von Sachverständigen Einsprache erheben (§ 199 Abs. 2 ZPO) und sich bei mündlichen oder schriftlichen Experteninstruktionen zur Fragestellung äussern (§ 200 Abs. 2 ZPO), und sie erhalten Gelegenheit, zu Gutachten Stellung zu nehmen und deren Erläuterung oder Ergänzung oder die Bestellung anderer Sachverständiger zu beantragen (§ 205 ZPO). Die Äusserungen von Sachverständigen an Parteiverhandlungen vor Gericht werden wie Zeugenaussagen protokolliert (§ 207 Abs. 2 ZPO).
+b)    Die Vorinstanz hat sich als Beweis für die Behauptung der Vermieter mit einer telefonischen Befragung eines Elektrofachmanns durch den Gerichtspräsidenten während der Verhandlung bei eingeschaltetem Lautsprecher begnügt; diese soll ergeben haben, dass der Schaden von einer heissen Pfanne stammen müsse. Ein Protokoll dieser Befragung existiert nicht. Sie kann weder als Zeugenbefragung noch als zulässige Einvernahme eines Sachverständigen qualifiziert werden. Als solche würde sie, da nicht auf die Folgen falschen Zeugnisses aufmerksam gemacht wurde, an einem formellen Mangel leiden, welcher eine Wiederholung der Zeugenaussage notwendig machen würde (RBOG 1989 Nr. 33). Auch wurde den Parteien keine Möglichkeit zur Stellung von Ergänzungsfragen geboten, was ebenfalls einen gewichtigen Mangel darstellt. Eine telefonische Befragung eines Zeugen ist in der Zivilprozessordnung nicht vorgesehen und grundsätzlich nicht zulässig. Die telefonische Befragung eines Elektrofachmanns ist daher nicht verwertbar. Hinzu kommt, dass der Mieter behauptet, der Befragte habe erklärt, den Schadenfall nur vom Hörensagen her zu kennen. Eine solche Aussage wäre von vornherein wertlos, soweit es um eine Sachverständigenäusserung geht. Weitere Beweismittel lagen nicht vor oder durften - wie die als Prozessbescheinigungen zu qualifizierenden schriftlichen Bestätigungen der beiden Elektro-Unternehmungen - nicht berücksichtigt werden, obwohl sie dievorinstanzliche Auffassung stützten, dass der Schaden von einer heissen Pfanne stammen müsse bzw. ein Kurzschluss am Kochherd, wie vom Mieter geltend gemacht, Spuren unter dem Plattensatz und der Abdeckung, nicht aber auf der Abdeckung selber hinterlassen hätte. In Anbetracht der ganz konkreten Bestreitung durch den Mieter und der genauen Schilderung, wie der Schaden durch einen Kurzschluss entstanden sei, hätte sich die Durchführung eines förmlichen Beweisverfahrens aufgedrängt.
+Obergericht, 15. August 2002, ZBR.2002.23
