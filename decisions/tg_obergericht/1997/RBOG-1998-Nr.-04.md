@@ -1,0 +1,50 @@
+---
+decision_id: "tg_obergericht_RBOG_1998_Nr._04"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1998 Nr. 04"
+decided: "1997-12-01"
+published: "1998-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-1998-nr-4"
+cites_law: ["switzerland/bund/acts/220/art-396.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-019.md", "switzerland/bund/acts/281.1/art-027.md"]
+---
+
+# TG Obergericht RBOG 1998 Nr. 04
+
+## Regeste
+
+Beschränkung der Vollmacht im betreibungsrechtlichen Beschwerdeverfahren; Bezeichnung eines Zustellungsempfängers
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 1998 RBOG 1998 Nr. 04
+Thurgovie Obergericht Rechenschaftsbericht 1998 RBOG 1998 Nr. 04
+Turgovia Obergericht Rechenschaftsbericht 1998 RBOG 1998 Nr. 04
+
+RBOG 1998 Nr. 04
+Skip to main content
+Show navigation
+Beschränkung der Vollmacht im betreibungsrechtlichen Beschwerdeverfahren; Bezeichnung eines Zustellungsempfängers
+Art. 29 Abs. 4 OG
+,
+Art. 17 SchKG
+,
+§§ 31 f. aZPO (TG)
+,
+§ 58 Abs. 3 aZPO (TG)
+,
+§ 80 aZPO (TG)
+1. Rechtsanwalt X erhob namens des angeblich im Ausland wohnenden Beschwerdeführers bei der Vorinstanz Beschwerde und reichte eine vom Beschwerdeführer unterzeichnete, undatierte Vollmacht ein. Gemäss diesem Dokument war Rechtsanwalt X in der Angelegenheit "Steuern/Betreibungen" zur Stellvertretung bevollmächtigt, allerdings mit der "Ausnahme: Keine Entgegennahme von Verfügungen/Betreibungen etc.". Die Vorinstanz erachtete die Beschwerde als ungültig und erwog, die ZPO, die mit Bezug auf die Vertretung zumindest analog auch für betreibungsrechtliche Belange gelte, sehe eine Limitierung der Vollmacht in dem Sinn, dass der Vertreter nicht zur Entgegennahme von Verfügungen oder Betreibungen, wohl aber zur Erhebung von Rechtsmitteln berechtigt sei, nicht vor. Die Vertretung gemäss § 34 ZPO sei vielmehr als umfassende Vertretung ausgestaltet.
+2. a) Diese Frage braucht im vorliegenden Fall nicht abschliessend entschieden zu werden. Immerhin ist aus § 31 Abs. 3 ZPO zu schliessen, dass ein vom Obergericht zugelassener Anwalt in der Regel als allgemein bevollmächtigter Stellvertreter einer Partei gilt, dass aber eine Beschränkung der Vollmacht nicht von vornherein ausgeschlossen ist. Auch § 32 ZPO geht von einer "allgemeinen Prozessvollmacht" aus, welche alle im Verfahren notwendigen oder nützlichen Rechtshandlungen abdeckt, sieht aber für bestimmte Rechts- bzw. Prozesshandlungen eine spezielle Vollmacht vor (Klagerückzug, Vergleich, Empfang von Zahlungen etc.). Auch aufgrund des allgemeinen Auftragsrechts ist eine Beschränkung des Inhalts der Vollmacht ohne weiteres möglich (Fellmann, Berner Kommentar, Art. 396 OR N 66 ff.). Eine Beschränkung der Vollmacht - immer unter dem Vorbehalt des Rechtsmissbrauchs - wäre demnach in dem Sinn denkbar, dass der Bevollmächtigte zwar zur Ergreifung eines Rechtsmittels, nicht aber zur Entgegennahme des entsprechenden Rechtsmittelentscheids ermächtigt wird. Dies mag zwar mit gewissen Umtrieben für die gerichtlichen Instanzen verbunden sein, ist aber ohne weiteres mit dem - unbestrittenermassen zulässigen - Fall vergleichbar, dass nach Erhebung eines Rechtsmittels oder einer Klage das Vertretungsmandat für erloschen erklärt wird. Dabei stellen sich solange keine grossen Probleme, als der Vertretene Wohnsitz in der Schweiz hat. Ist dies nicht der Fall, bietet sich gestützt auf das Prozessrecht die Möglichkeit, einen Zustellungsempfänger im Sinn von § 58 Abs. 3 ZPO bezeichnen zu lassen.
+b) Indessen sind die Bestimmungen der ZPO im vorliegenden Fall nicht ohne weiteres anwendbar, weil betreibungsrechtliche Aufsichtsbeschwerden nicht zu den Streitigkeiten zählen, welche im Sinn der ZPO vom Richter zu entscheiden sind (RBOG 1982 Nr. 18; Frank/Sträuli/Messmer, Kommentar zur zürcherischen Zivilprozessordnung, 3.A., § 29 N 4). Die Kompetenz von Gerichtspräsidium und Rekurskommission liegt vielmehr in § 15 GerOG begründet. Die Stellvertretung im Beschwerdeverfahren ist im allgemeinen im weitesten Umfang gestattet; die Stellvertreter brauchen sich nicht durch Vollmacht auszuweisen, und es darf mangels einer solchen das Eintreten auf die Beschwerde nicht abgelehnt werden. Wenn aber die Qualität als Vertreter von der Gegenpartei bestritten wird, so hat der Betreffende den Beweis des Auftrags bzw. der Genehmigung der als Geschäftsführer ohne Auftrag vorgenommenen Handlung zu führen (Jaeger/Walder/Kull/Kottmann, Bundesgesetz über Schuldbetreibung und Konkurs, 4.A., Art. 17 N 38, Art. 27 N 5). Die Kantone können wohl die gewerbsmässige Vertretung für das Beschwerdeverfahren in Schuldbetreibungs- und Konkurssachen ordnen (Art. 27 Abs. 1 SchKG; Amonn/Gasser, Grundriss des Schuldbetreibungs- und Konkursrechts, 6.A., § 8 N 14); von dieser Kompetenz machte der Kanton Thurgau jedoch keinen Gebrauch. Damit können sich Gläubiger und Schuldner im Beschwerdeverfahren vor den Betreibungs- und Konkursbehörden frei vertreten lassen (RBOG 1982 Nr. 18, 1948 Nr. 4).
+Mithin ist es auch im Beschwerdeverfahren mangels anderslautender Bestimmungen grundsätzlich zulässig, sich vertreten zu lassen bzw. die Vertretungsvollmacht zu beschränken, beispielsweise die Entgegennahme von Zahlungsbefehlen oder Beschwerdeentscheiden auszuschliessen, freilich wiederum unter dem Vorbehalt des Rechtsmissbrauchs. Dies ergibt sich nicht zuletzt auch daraus, dass ein vom Schuldner allgemein, auch für Betreibungen, bevollmächtigter Anwalt, der von seiner Vollmacht in Prozessen und Beschwerdeverfahren gegenüber dem Gläubiger Gebrauch gemacht hat, frei bleibt, die Entgegennahme eines Zahlungsbefehls für den Schuldner abzulehnen (BGE 69 III 82 ff.), weil letztlich allein der Anwalt zu entscheiden hat, ob bzw. in welchem Umfang er sich zur Stellvertretung berechtigt erachtet. Alsdann muss es aber auch dem Vertreter sowie dem Vertretenen freistehen, von Anfang an vertraglich eine entsprechende Beschränkung der Vollmacht zu vereinbaren.
+c) Gestützt auf Art. 29 Abs. 4 OG, welcher als "gemeinsame Verfahrensvorschrift" auch auf das Beschwerdeverfahren vor der Schuldbetreibungs- und Konkurskammer des Bundesgerichts gemäss Art. 19 SchKG bzw. Art. 75 ff. OG anwendbar ist, haben Parteien, die im Ausland wohnen, in der Schweiz ein Zustellungsdomizil zu bezeichnen. Zustellungen an Parteien, die dieser Auflage nicht Folge leisten, können unterbleiben oder auf dem Ediktalweg erfolgen. Art. 29 Abs. 4 OG gilt aber nicht nur im Beschwerdeverfahren vor Bundesgericht, sondern - neben dem analog anwendbaren § 58 Abs. 3 ZPO - auch vor den oberen und unteren kantonalen Aufsichtsbehörden über Schuldbetreibung und Konkurs. Erhebt mithin ein im Ausland wohnender Beschwerdeführer Beschwerde nach Art. 17 SchKG bzw. ist der zur Beschwerdeerhebung bevollmächtigte, in der Schweiz domizilierte Vertreter nicht berechtigt, Beschwerdeentscheide entgegenzunehmen, ist dem Beschwerdeführer bzw. seinem Rechtsvertreter eine Nachfrist zur Bezeichnung eines Zustellungsempfängers anzusetzen.
+d) Aufgrund dieser Überlegungen war Rechtsanwalt X grundsätzlich berechtigt, im Auftrag des Beschwerdeführers Beschwerde bei der Vorinstanz zu erheben. Grundsätzlich nicht zu beanstanden ist auch die Einschränkung der Vollmacht, wonach Rechtsanwalt X nicht berechtigt war, Betreibungen bzw. Verfügungen und Rechtsmittel gültig für den Beschwerdeführer entgegenzunehmen. Da der Beschwerdeführer selbst behauptet, im Ausland Wohnsitz zu haben, und Rechtsanwalt X aufgrund der der Vorinstanz vorgelegten Vollmacht nicht berechtigt war, Beschwerdeentscheide entgegenzunehmen, hätte die Vorinstanz dem Beschwerdeführer bzw. Rechtsanwalt X Frist zur Bezeichnung eines Zustellungsempfängers ansetzen sollen. Nicht zulässig war jedenfalls, auf die Beschwerde von Rechtsanwalt X nicht einzutreten bzw. dessen Eingabe nicht zu behandeln.
+Rekurskommission, 1. Dezember 1997, BS 97 40
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
