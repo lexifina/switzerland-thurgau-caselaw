@@ -1,0 +1,148 @@
+---
+decision_id: "tg_obergericht_RBOG_1994_Nr._35"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1994 Nr. 35"
+docket_2: "SB 94 1"
+decided: "1994-02-07"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/11C00DF6-7515-4A87-AE48050FC6134C30.html"
+---
+
+# TG Obergericht RBOG 1994 Nr. 35
+
+## Regeste
+
+2. Die zu beurteilende Streitsache ist zum einen in persönlicher, zum andern in zeitlicher Hinsicht ungewöhnlich: Allein schon eine Blutalkoholkonzentration von mindestens 5,65 Gewichtspromille sprengt jegliches Vorstellungsvermögen. Weil aus jenem Bericht des Bezirksamts A hervorging, dass X verbeiständet war, ersuchte die Staatsanwaltschaft des Kantons Thurgau die Amtsvormundschaft A um Auskunft über den heutigen Zustand resp. 3. Mit diesem Wissensstand fällte die Bezirksgerichtliche ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 07.02.1994 RBOG 1994 Nr. 35 (SB 94 1)
+Thurgovie Obergericht Rechenschaftsbericht 07.02.1994 RBOG 1994 Nr. 35 (SB 94 1)
+Turgovia Obergericht Rechenschaftsbericht 07.02.1994 RBOG 1994 Nr. 35 (SB 94 1)
+
+2. Die zu beurteilende Streitsache ist zum einen in persönlicher, zum andern in zeitlicher Hinsicht ungewöhnlich: Allein schon eine Blutalkoholkonzentration von mindestens 5,65 Gewichtspromille sprengt jegliches Vorstellungsvermögen. Weil aus jenem Bericht des Bezirksamts A hervorging, dass X verbeiständet war, ersuchte die Staatsanwaltschaft des Kantons Thurgau die Amtsvormundschaft A um Auskunft über den heutigen Zustand resp. 3. Mit diesem Wissensstand fällte die Bezirksgerichtliche ...
+
+RBOG 1994 Nr. 35
+RBOG 1994 Nr. 35
+Bedeutung der persönlichen Einvernahme des Angeklagten
+(§§
+74 Abs. 1, 85, 87 StPO)
+1.    Am
+9. März 1988, ca. 09.00 Uhr, geriet X mit ihrem
+Personenwagen in eine Polizeikontrolle. Während der
+Befragung schlief sie am Steuer ein und war in der Folge nicht
+mehr ansprechbar, weshalb sie ins Kantonsspital eingewiesen
+wurde. Die Abklärungen ergaben, dass sie im massgebenden
+Zeitpunkt eine Blutalkoholkonzentration von mindestens 5,65
+Gewichtspromille gehabt hatte.
+2.    Die
+zu beurteilende Streitsache ist zum einen in persönlicher,
+zum andern in zeitlicher Hinsicht ungewöhnlich: Allein
+schon eine Blutalkoholkonzentration von mindestens 5,65
+Gewichtspromille sprengt jegliches Vorstellungsvermögen. X
+war denn offensichtlich auch den ganzen Tag nicht
+vernehmungsfähig. Polizeilich befragt werden konnte sie
+erst am 27. April 1988. Wie lange sie sich zuvor im
+Kantonsspital aufgehalten hatte, ist unbekannt. Nach ihrer
+Entlassung war sie vom 16. März bis 13. Mai 1988 in der
+Psychiatrischen Klinik hospitalisiert. Ob sie sich dazu
+freiwillig entschlossen hatte oder zwangsweise eingeliefert
+worden war, ist nicht bekannt. Erstellt ist demgegenüber,
+dass sie bereits am 30. Mai 1988 von der Polizei festgenommen
+wurde und erneut in die Psychiatrische Klinik verbracht werden
+musste. Am 12. August 1988 kehrte sie von einem bewilligten
+Urlaub nicht mehr zurück. Am 31. August 1988 wurde sie von
+der Kantonspolizei Tessin in Lugano angehalten. Vom 5. bis 12.
+September 1988 befand sie sich erneut in der Psychiatrischen
+Klinik.
+Nach diesem Zeitpunkt lässt sich aufgrund der Akten nicht
+mehr im einzelnen rekonstruieren, wo sich X jeweils aufhielt.
+Tatsache ist jedenfalls, dass die Staatsanwaltschaft des
+Kantons Thurgau die Strafuntersuchung gegen X wegen
+Führens eines Motorfahrzeugs in angetrunkenem Zustand mit
+Verfügung vom 12. November 1992 zufolge unbekannten
+Aufenthalts vorläufig einstellte. Ausdrücklich wurde
+indessen festgehalten, die Ausschreibung zur
+Aufenthaltsnachforschung sei aufrecht zu erhalten. Am 14. Mai
+1993 kam denn auch der Bericht, X wohne nunmehr in A. Das
+Bezirksamt A lud sie gestützt auf das Rechtshilfegesuch
+des Bezirksamts B auf den 8. Juni 1993 zur Einvernahme vor. Auf
+ihr Ersuchen wurde sie bereits am 28. Mai 1993 befragt. Ihr
+Zustand muss desolat gewesen sein. Sie sei deutlich
+alkoholisiert und zeitlich nicht orientiert gewesen. Eine
+schriftliche Einvernahme habe nicht durchgeführt werden
+können.
+Weil aus jenem Bericht des Bezirksamts A hervorging, dass X
+verbeiständet war, ersuchte die Staatsanwaltschaft des
+Kantons Thurgau die Amtsvormundschaft A um Auskunft über
+den heutigen Zustand resp. die Befindlichkeit von X sowie um
+Angaben darüber, was sie in den letzten Jahren "so alles
+getan resp. erlitten hat". Im verlangten Bericht wird die
+Lebensgeschichte von X relativ drastisch geschildert.
+3.    Mit
+diesem Wissensstand fällte die Bezirksgerichtliche
+Kommission ihr Urteil. Die Vorladung zum Verhandlungstermin
+hatte X erhalten. Erst am Verhandlungstermin teilte sie
+indessen per Telegramm mit, es sei ihr nicht möglich, vor
+Gericht zu erscheinen. Einerseits befinde sie sich zwecks
+Behandlung ihrer Trunksucht freiwillig in einer Therapie,
+andererseits sei es ihr aber auch aus finanziellen Gründen
+nicht möglich, zu kommen. Sie bitte daher darum, das
+Verfahren zu verschieben, oder wenn das nicht möglich sei,
+es in ihrer Abwesenheit durchzuführen. Die Vorinstanz
+erachtete die Anwesenheit von X an der Verhandlung offenbar als
+nicht notwendig. Eine Verhandlung kann jedoch nur dann in
+Abwesenheit des Angeklagten durchgeführt werden, wenn ihm
+das persönliche Erscheinen erlassen wurde oder seine
+Abwesenheit sonst entschuldbar ist (§ 168 StPO). Unter den
+hier vorliegenden, besonderen Umständen fehlte es an
+beiden dieser Voraussetzungen (vgl. auch § 147 Abs. 1
+StPO). X ist seit 1974 Alkoholikerin. Zwischen 1986 und 1988
+musste sie neunmal in verschiedenen psychiatrischen Kliniken
+interniert werden. Einerseits behauptet sie nun heute, seit
+einem Jahr nichts mehr zu trinken; andererseits weist sie
+selbst darauf hin, sie befinde sich zur Zeit wegen ihrer
+Trunksucht in einer Therapie. Wie es in Tat und Wahrheit um
+ihren Gesundheitszustand steht, ist völlig unbekannt. Das
+Gutachten der Psychiatrischen Klinik datiert vom 9. September
+1988. Polizeilich zur Sache befragt wurde X am 27. April 1988.
+Die rogatorische Einvernahme vom 28. Mai 1993 fand unter
+äusserst schwierigen Bedingungen statt: X war deutlich
+alkoholisiert und verwirrt. Ihr Befinden erlaubte es nicht,
+eine "gewöhnliche" Einvernahme mit schriftlichem, von ihr
+unterzeichnetem Protokoll durchzuführen. Ein solches
+existiert überhaupt nirgends in den Akten. Ueber die
+tatsächlichen Verhältnisse, die Geschehnisse am 9.
+März 1988 sowie in den letzten rund fünf Jahren und
+die nunmehrigen Lebensbedingungen von X herrscht völlige
+Unklarheit. Die Untersuchung hat jedoch alle sachlichen und
+persönlichen Umstände abzuklären, welche
+für die Anklageerhebung oder die Einstellung des
+Verfahrens und für die gerichtliche Beurteilung von
+Bedeutung sein können (§ 74 Abs. 1 StPO).
+Grundsätzlich ist der Angeschuldigte vom
+Untersuchungsrichter ferner wenigstens einmal persönlich
+einzuvernehmen und über seine Personalien, den Lebenslauf,
+seine persönlichen und familiären Verhältnisse
+sowie über allfällige Vorstrafen zu befragen (§
+85 Abs. 1 und § 87 Abs. 1 StPO). Zu sämtlichen diesen
+Punkten nahm X nie selbst Stellung. Es wäre deshalb
+unabdingbar gewesen, dass sie wenigstens vor Gericht erschienen
+und durch die Bezirksgerichtliche Kommission angehört
+worden wäre (§ 150 Abs. 1 StPO). Gerade aufgrund des
+Umstands, dass seit der fraglichen Deliktsbegehung bald rund
+fünf Jahre vergingen, sind weitere Abklärungen,
+insbesondere aber auch eine persönliche Befragung,
+nötig. Erforderlich ist ferner, dass die Akten
+bezüglich der Verurteilung durch das Bezirksamt A vom 24.
+März 1988 beigezogen werden. Ausserdem scheint die
+Einholung objektiver Stellungnahmen zur Frage des momentanen
+Alkoholkonsums von X sowie ihrer Wohn- und Lebenssituation
+notwendig zu sein. Da die absolute
+Strafverfolgungsverjährung noch nicht eintrat, ist es
+vielmehr unumgänglich, die Strafsache zur
+Beweisergänzung und nachherigem neuem Entscheid an die
+Vorinstanz zurückzuweisen.
+Rekurskommission, 7. Februar 1994, SB 94
+1
