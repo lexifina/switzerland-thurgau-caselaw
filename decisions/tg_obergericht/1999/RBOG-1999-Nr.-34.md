@@ -1,0 +1,190 @@
+---
+decision_id: "tg_obergericht_RBOG_1999_Nr._34"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1999 Nr. 34"
+docket_2: "SAO.1999.1"
+decided: "1999-05-04"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/260E83F6-802C-4E80-A45A9AB14CE25E84.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md"]
+---
+
+# TG Obergericht RBOG 1999 Nr. 34
+
+## Regeste
+
+Der Gesuchsteller muss Tatsachen oder Beweismittel vorbringen, also entweder neue urteilsrelevante Umstände oder neue Beweismittel. Eine Wiederaufnahme ist deshalb möglich, wenn ein bereits früher vorhandenes Beweismittel in wesentlichen Punkten nicht ausgeschöpft wurde, etwa weil einem Zeugen wesentliche Fragen nicht gestellt wurden, oder wenn das Beweismittel - auch ein Privatgutachten - ein früher erhobenes Beweismittel in Frage stellt. Unter diesen Umständen können die allgemeinen ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 04.05.1999 RBOG 1999 Nr. 34 (SAO.1999.1)
+Thurgovie Obergericht Rechenschaftsbericht 04.05.1999 RBOG 1999 Nr. 34 (SAO.1999.1)
+Turgovia Obergericht Rechenschaftsbericht 04.05.1999 RBOG 1999 Nr. 34 (SAO.1999.1)
+
+Der Gesuchsteller muss Tatsachen oder Beweismittel vorbringen, also entweder neue urteilsrelevante Umstände oder neue Beweismittel. Eine Wiederaufnahme ist deshalb möglich, wenn ein bereits früher vorhandenes Beweismittel in wesentlichen Punkten nicht ausgeschöpft wurde, etwa weil einem Zeugen wesentliche Fragen nicht gestellt wurden, oder wenn das Beweismittel - auch ein Privatgutachten - ein früher erhobenes Beweismittel in Frage stellt. Unter diesen Umständen können die allgemeinen ...
+
+RBOG 1999 Nr. 34
+RBOG 1999 Nr. 34
+Voraussetzungen für die Wiederaufnahme eines Strafverfahrens
+(§§
+217 ff. StPO)
+1.
+a)    Das Wiederaufnahmegesuch ist unter genauer
+Bezeichnung der dafür  geltend gemachten Tatsachen
+und Beweismittel dem Gericht einzureichen, welches das
+frühere  Verfahren rechtskräftig beurteilt hat
+(§ 219 Abs. 1 StPO). Gemäss § 220 Satz 2 StPO
+kann der  Gerichtspräsident eine mündliche
+Verhandlung anordnen; er ist dazu jedoch nicht
+verpflichtet, umso weniger als Art. 6 EMRK keine Anwendung auf
+Verfahren findet, in denen  über die Wiederaufnahme
+entschieden wird (Villiger, Handbuch der
+Europäischen  Menschenrechtskonvention, Zürich
+1993, N 402). Erscheint ein Wiederaufnahmegesuch indessen
+wie im vorliegenden Fall als offensichtlich aussichtslos,
+erübrigt sich die Durchführung  einer
+mündlichen Verhandlung.
+b)    Die Wiederaufnahme eines durch Urteil
+rechtskräftig beendigten  Verfahrens kann jederzeit
+verlangt werden, wenn erhebliche Tatsachen oder
+Beweismittel  glaubhaft gemacht werden, die dem Gericht im
+früheren Verfahren nicht bekannt waren und die
+allein oder in Verbindung mit den früher festgestellten
+Tatsachen geeignet sind, den  Freispruch oder eine mildere
+Bestrafung des Verurteilten herbeizuführen (§ 217
+Ziff. 1  StPO).
+c)    Das Wiederaufnahmeverfahren ist kein
+ordentliches Sachverfahren,  sondern ein
+Bewilligungsverfahren, in welchem das Gericht lediglich
+darüber zu befinden hat,  ob das Gesuch in formeller
+und materieller Beziehung begründet sei (BGE 107 Ia 102).
+Nach  Art. 397 StGB sind die Kantone verpflichtet,
+gegenüber Urteilen wegen erheblicher Tatsachen  oder
+Beweismittel, die dem Gericht zur Zeit des früheren
+Verfahrens nicht bekannt waren, die  Wiederaufnahme des
+Verfahrens zugunsten des Verurteilten zu gestatten. Diesem
+Auftrag des  Bundesgesetzgebers kam der kantonale
+Gesetzgeber in § 217 Ziff. 1 StPO nach. Dabei geht
+es  um eine veränderte tatsächliche Grundlage
+des Urteils, nie um neue rechtliche Anschauungen;
+Revision kann somit nur verlangt werden, wenn sich der dem
+Urteil zugrunde gelegte  Sachverhalt als unrichtig
+erweist, nicht aber zur Überprüfung und Änderung
+seiner  rechtlichen Würdigung (BGE 92 IV 179). Der
+Gesuchsteller muss Tatsachen oder Beweismittel
+vorbringen, also entweder neue urteilsrelevante Umstände
+oder neue Beweismittel. Diese  müssen dem Gericht zum
+Zeitpunkt des früheren Verfahrens nicht bekannt gewesen
+sein, was  dann der Fall ist, wenn sie dem Gericht
+überhaupt nicht zur Beurteilung vorlagen, oder wenn
+Tatsachen, die zwar aus den Akten ersichtlich waren, vom
+Gericht übersehen wurden (BGE 116  IV 357, 99 IV 183,
+92 IV 179). Die Neuheit einer Tatsache kann nicht mit der
+Begründung  verneint werden, der Verurteilte berufe
+sich zu deren Beweis auf ein altes Beweismittel (BGE  116
+IV 357). Eine Wiederaufnahme ist deshalb möglich, wenn ein
+bereits früher vorhandenes  Beweismittel in
+wesentlichen Punkten nicht ausgeschöpft wurde, etwa weil
+einem Zeugen  wesentliche Fragen nicht gestellt wurden,
+oder wenn das Beweismittel - auch ein  Privatgutachten -
+ein früher erhobenes Beweismittel in Frage stellt.
+Hingegen ist es nicht  möglich, eine im früheren
+Entscheid diskutierte Streitfrage ohne neue Tatsachen mit
+einem  Gutachten neu aufzurollen (Schmid,
+Strafprozessrecht, 3.A., N 1152 mit Hinweisen). Die neuen
+Tatsachen oder Beweismittel müssen erheblich sein; sie
+müssen mithin allein oder in  Verbindung mit
+früher erhobenen Tatsachen und Beweisen Freispruch oder
+eine wesentlich  mildere Bestrafung des Angeklagten zur
+Folge haben (Schmid, N 1153 mit Hinweisen;
+Hauser/Schweri, Schweizerisches Strafprozessrecht, 3.A., §
+102 N 16 ff.).
+2.
+a)    Der Gesuchsteller machte geltend, er habe
+ohne Pause und unter Druck  mit Androhung weiterer
+Untersuchungshaft unter Zwang des Verhörrichters
+ausgesagt. Dieses  Vorbringen ist indessen weder neu noch
+erheblich: Das Obergericht führte in seinem
+Strafurteil aus, es treffe offensichtlich nicht zu, dass die
+massgebenden Aussagen des  Gesuchstellers unter Druck
+erfolgt seien: "Zwar wurde er während zwei Tagen relativ
+intensiv  befragt. Von zermürbenden Verhören
+kann indessen keine Rede sein. Zudem konnte sich der
+Berufungsbeklagte über weite Strecken frei äussern
+und den Gesamtzusammenhang aus seiner  Sicht schildern
+(offene Fragen). Suggestivfragen wurden nicht gestellt. Der
+(damalige)  Berufungsbeklagte bestätigte denn auch,
+er sei korrekt behandelt und die Protokolle seien  richtig
+abgefasst worden." An diesen Feststellungen wird sich auch
+aufgrund der neuen  Vorbringen des Gesuchstellers nichts
+ändern; es handelt sich offensichtlich um eine
+blosse  Schutzbehauptung, die den Erfordernissen von
+§ 217 Ziff. 1 StPO keineswegs zu genügen
+vermag.
+b)    Der Gesuchsteller machte weiter geltend,
+er sei das Opfer einer  Lügnerin; er äusserte
+sich zur Lebensführung des Opfers und reichte unter
+anderem gegen 20  Unterschriften von Personen ein, die das
+Opfer offenbar für eine Lügnerin halten.
+Dem fraglichen Unterschriftenblatt fehlt praktisch jeglicher
+Beweiswert:  Abgesehen davon, dass letztlich jede einzelne
+Person, die unterschrieben hat, noch als  Zeugin oder
+Zeuge einvernommen werden müsste, kann keine Person
+über einen anderen Menschen  grundsätzlich
+aussagen, er sei - unter allen Umständen und zu jeder Zeit
+- ein Lügner;  solche blossen
+Meinungsäusserungen sind ohnehin weder Tatsachen noch
+Beweismittel (Hauser/  Schweri, § 102 N 19). Vielmehr
+kann jede Person unter gewissen Umständen lügen, und
+jeder  Mensch wird unter gewissen Umständen die
+Wahrheit sagen; mithin gibt es keine Person, die  sich
+grundsätzlich immer an die Wahrheit hält oder immer
+die Unwahrheit sagt. Aus diesem  Grunde wird in der Arbeit
+der Justiz so grosser Wert auf eine detaillierte Analyse
+von  Aussagen gelegt, worauf schon einlässlich im
+Urteil des Obergerichts hingewiesen wurde. Das
+Obergericht unterzog die Aussagen des Opfers denn auch einer
+ausführlichen und sorgfältigen
+Glaubwürdigkeitsanalyse und folgte aufgrund des
+Ergebnisses dieser Analyse in einzelnen  Punkten den
+Angaben des Opfers nicht. Unter diesen Umständen
+können die allgemeinen  Behauptungen des
+Gesuchstellers, beim Opfer handle es sich um eine notorische
+Lügnerin,  nicht zu einer Wiederaufnahme des
+Verfahrens führen.
+Dasselbe gilt aber auch für die verschiedenen
+Vorfälle, die in den Eingaben  des Gesuchstellers mit
+Bezug auf die Lebensführung des Opfers geschildert werden
+(vgl. auch  die von der Mutter des Gesuchstellers neu
+eingereichten "Bestätigungen"). Es ist nicht zu
+erkennen, was für einen Einfluss diese Vorbringen haben
+sollen, nachdem der Strafrichter  entscheidend nur auf die
+vorhandenen Beweismittel, insbesondere die Indizien und
+die  Aussagen der beteiligten Personen abstellen kann,
+nicht aber auf allgemeine Aussagen über  sie.
+c)    Entscheidend ist indessen, dass der
+Gesuchsteller entgegen seiner  Auffassung keineswegs das
+"Opfer einer Lügnerin" geworden ist: Er wurde vom
+Obergericht im  Wesentlichen aufgrund seiner eigenen
+Aussagen verurteilt; insofern genügt der Hinweis auf
+das angefochtene Urteil.
+d)    Der Gesuchsteller vermag offensichtlich
+nach wie vor nicht zu  verstehen, dass sein Vorgehen
+gegenüber dem Opfer rechtlich als Vergewaltigung gilt;
+dieses  mangelnde Rechtsempfinden vermag aber an der
+rechtlichen Situation nichts zu ändern. Im
+übrigen hat das Obergericht den besonderen
+Verhältnissen im Strafverfahren durchaus Rechnung
+getragen, indem das zumindest am Anfang wohl
+widersprüchliche Verhalten des Opfers  strafmindernd
+berücksichtigt und bei der Bemessung der Genugtuung das
+Verhalten des Opfers  reduzierend in Rechnung gestellt
+wurde.
+e)    Zusammenfassend sind die vom Gesuchsteller
+vorgetragenen Punkte  weder neu noch erheblich;
+insbesondere vermögen sie im Strafverfahren nicht einen
+Freispruch  herbeizuführen. Unter diesen
+Umständen ist das Gesuch um Wiederaufnahme des
+Strafverfahrens  abzuweisen.
+Obergericht, 4. Mai 1999, SAO.1999.1
