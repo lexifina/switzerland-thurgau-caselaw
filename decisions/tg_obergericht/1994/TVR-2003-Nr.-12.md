@@ -1,0 +1,50 @@
+---
+decision_id: "tg_obergericht_TVR_2003_Nr._12"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2003 Nr. 12"
+decided: "1994-10-28"
+published: "2003-10-17"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2003-nr-12"
+cites_law: ["switzerland/bund/acts/211.412.11/art-070.md", "switzerland/bund/acts/211.412.11/art-071.md", "switzerland/bund/acts/211.412.11/art-083.md", "switzerland/bund/acts/221.213.2/art-019.md"]
+---
+
+# TG Obergericht TVR 2003 Nr. 12
+
+## Regeste
+
+Geltendmachung der Nichtigkeit einer Feststellungsverfügung des Inhalts, es liege kein landwirtschaftliches Gewerbe vor
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 17.10.2003 TVR 2003 Nr. 12
+Thurgovie Obergericht Rechenschaftsbericht 17.10.2003 TVR 2003 Nr. 12
+Turgovia Obergericht Rechenschaftsbericht 17.10.2003 TVR 2003 Nr. 12
+
+TVR 2003 Nr. 12
+Skip to main content
+Show navigation
+Geltendmachung der Nichtigkeit einer Feststellungsverfügung des Inhalts, es liege kein landwirtschaftliches Gewerbe vor
+Art. 70 BGBB
+,
+Art. 71 BGBB
+In Art. 70 BGBB geht es um nichtige Rechtsgeschäfte, was nicht zu verwechseln ist mit der Frage der Nichtigkeit einer Feststellungsverfügung. Nicht von der Nichtigkeitsfolge erfasst werden jene Rechtsgeschäfte, für die eine – auch möglicherweise fehlerhafte – rechtskräftige Bewilligung vorliegt. Widerruf einer solchen Bewilligung (E. 2d).
+Bis 1994 betrieb M das landwirtschaftliche Gut Feldhof, bestehend aus fünf Parzellen von ca. 6 ha Pachtland. Auf Gesuch hin stellte das Landwirtschaftsamt fest, der Grundbesitz von M stelle kein landwirtschaftliches Gewerbe im Sinne des BGBB dar. Der beabsichtigte Erwerb der Parzelle Nr. 260 durch P bedürfe keiner Bewilligung. Das Landwirtschaftsamt nahm an, der hohe Anteil an Pachtland könne aufgrund der Bestimmungen des LPG nicht berücksichtigt werden. Zur Bewirtschaftung der ca. 6 ha Eigenland aber werde weniger als die halbe Arbeitskraft einer bäuerlichen Familie beansprucht, weshalb es sich nicht um ein landwirtschaftliches Gewerbe handle (Entscheid vom 28. Oktober 1994). Die Feststellungsverfügung blieb unangefochten. P wurde als Eigentümer der Parzelle Nr. 260 im Grundbuch eingetragen. Am 26. Juni 1995 erwarb K die restlichen vier Parzellen von M, wobei er auch einen Teil des Pachtlandes übernehmen konnte.
+Mit Schreiben vom 28. November 2001 leitete K ein Verfahren auf Nichtigerklärung der erwähnten Feststellungsverfügung ein mit der Begründung, beim Betrieb von M habe es sich um ein landwirtschaftliches Gewerbe gehandelt, so dass der Kaufvertrag zwischen M und P der Bewilligung bedurft hätte. Das Landwirtschaftsamt trat auf den Antrag auf Nichtigerklärung nicht ein. Den dagegen erhobenen Rekurs wies die kantonale Rekurskommission für Landwirtschaftssachen ab. K gelangt mit Beschwerde ans Verwaltungsgericht, das diese abweist.
+Aus den Erwägungen:
+2. a) Der Beschwerdeführer bringt insbesondere vor, er habe entgegen den Ausführungen der Rekurskommission geltend gemacht, M habe in seinem Bodenrechtsgesuchsformular 2 völlig unvollständige Angaben über den Betriebsspiegel des Gewerbes gemacht. So fehlten alle Angaben über Zupachtland und die Tierhaltung. Das Landwirtschaftsamt sei bei seinem Entscheid offensichtlich davon ausgegangen, es gehe nur um das Eigenland Ms und nicht auch um die Möglichkeit der Tierhaltung und des zusätzlichen Pachtlandes. Das habe zu einer massiven Fehleinschätzung bei den Standardarbeitstagen (SAT) geführt. Am 22. August 1994, also nur zwei Tage vor dem Bodenrechtsgesuch, habe M seinen Pachtlandbesitzern mitgeteilt, er müsse das Pachtverhältnis auf Herbst 1994 auflösen. Diese einseitige Auflösung sei dem Gesuch um Ausserkraftsetzung des Realteilungsverbotes nur förderlich gewesen. Allerdings sei nur ein Teil der Pachtverhältnisse aufgelöst worden. Er habe beim Kauf des Betriebes von M einen Teil der Pachtverhältnisse übernommen. Auch sei das Bodenrechtsgesuchsformular 3 des Erwerbers P unvollständig gewesen, hätte doch auch dort das Pachtland gefehlt und die ausgedehnte Kleintierhaltung sei nicht deklariert worden. Seiner Meinung nach handle es sich um einen Fall von Art. 71 BGBB. Effektiv habe sich der Feststellungsentscheid des Landwirtschaftsamtes als Bewilligung für P ausgewirkt. Dem stehe die Rechtssicherheit nicht entgegen, habe doch P das Gesuch, das zu einem krassen Fehlentscheid geführt habe, zusammen mit M eingefädelt. Schliesslich seien die Voraussetzungen für eine Revision gegeben, sei doch die Legitimation dazu auf ihn als Rechtsnachfolger von M übergegangen.
+b) Dem Beschwerdeführer ging es ursprünglich um die Feststellung der Nichtigkeit des Entscheides des Landwirtschaftsamtes und nicht um die Nichtigkeit eines Rechtsgeschäftes, wie es Art. 70 BGBB zugrunde liegt.
+In der Literatur und Rechtsprechung wird bei den Rechtsfolgen eines (behaupteten) fehlerhaften Verwaltungsaktes unterschieden zwischen Anfechtbarkeit und Nichtigkeit, wobei als typische Folge fehlerhafter Verwaltungsakte die Anfechtbarkeit angesehen wird. Nichtigkeit tritt im Interesse der Rechtssicherheit nur ausnahmsweise ein. Nichtigkeit ist von Amtes wegen zu beachten und kann grundsätzlich jederzeit geltend gemacht werden. Nichtigkeit tritt nur ein, wenn die Verfügung mit einem schwerwiegenden und offenkundigen oder doch leicht erkennbaren Mangel behaftet ist. Nichtigkeitsgründe bilden gemäss Praxis schwerwiegende Zuständigkeitsfehler, schwerwiegende Verfahrensmängel, gewisse Formfehler, Eröffnungsfehler und inhaltliche Mängel, jedoch nur in Ausnahmefällen (vgl. zum Ganzen Rhinow/Krähenmann, Schweizerische Verwaltungsrechtsprechung, Ergänzungsband, Basel und Frankfurt am Main 1990, Nr. 40).
+Solche Gründe sind offensichtlich nicht gegeben. Der Beschwerdeführer macht im Übrigen auch «nur» inhaltliche Mängel geltend, indem er bei der SAT-Berechnung des Landwirtschaftsamtes im Entscheid vom 28. Oktober 1994 auf die fehlende Berücksichtigung der Pachtfläche und die Tierhaltung hinweist. Das trifft so nicht zu, war doch dem Landwirtschaftsamt der «höhere Anteil an Pachtland» bewusst (auch wenn im Bodenrechtsformular 2 hierzu Angaben nicht gemacht wurden). Aufgrund von Art. 19 LPG ist dieser Pachtanteil allerdings nicht berücksichtigt worden, sondern lediglich das Eigenland. Ob zu Recht oder nicht, ist ohne Belang, denn dabei handelt es sich, ginge man von einem Fehler aus, nicht um einen ausserordentlich schwerwiegenden Fehler, wie es die Rechtsprechung verlangt. Vielmehr wäre dieser behauptete Fehler anfechtbar gewesen. Die Anfechtungsfrist ist aber längst abgelaufen, weshalb das Landwirtschaftsamt sich zu Recht auf die Rechtskraft seines Entscheides vom 28. Oktober 1994 berufen hat. Abgesehen davon müsste man sich fragen, ob K überhaupt berechtigt gewesen wäre, diesen Entscheid anzufechten (vgl. Art. 88 f. BGBB).
+Betreffend Tierhaltung erklärt das Landwirtschaftsamt, die noch nicht bezahlten Stallinstallationen seien im Herbst 1994 durch die Stallbaufirmen wieder ausgebaut worden, um wenigstens das Material nicht zu verlieren. Damit musste der Bodenrechtsgesuchsteller auch keinen Tierbestand mehr deklarieren.
+c) Gemäss Art. 70 BGBB sind Rechtsgeschäfte nichtig, die den Verboten der Realteilung und der Zerstückelung von Grundstücken oder den Bestimmungen über den Erwerb von landwirtschaftlichen Gewerben und Grundstücken zuwiderlaufen oder deren Umgehung bezwecken. Klar nicht von der Nichtigkeitsfolge erfasst werden jene Geschäfte, für die eine Bewilligung – wenn auch aus materieller Hinsicht möglicherweise zu Unrecht – erteilt worden ist. Auch eine möglicherweise rechtsfehlerhafte Bewilligung erwächst in Rechtskraft und kann nur unter den Voraussetzungen von Art. 71 BGBB widerrufen werden (Bandli, e.a., Das bäuerliche Bodenrecht, Brugg 1995, Art. 70 Rz 6). Nachdem hier eine rechtskräftige Bewilligung vorliegt, kommt also nur ein allfälliger Widerruf nach Art. 71 BGBB in Betracht.
+d) Gemäss Art. 71 BGBB widerruft die Bewilligungsbehörde ihren Entscheid, wenn der Erwerber ihn durch falsche Angaben erschlichen hat. Abgesehen davon, dass hauptsächlicher Erwerber der Beschwerdeführer selbst ist, es also nur um Parzelle Nr. 260 geht, kann diesbezüglich von einem Erschleichen der Bewilligung (das heisst des Feststellungsentscheides vom 28. Oktober 1994) durch falsche Angaben nicht gesprochen werden. Was unter E. 2c) zum Pachtland und zur Tierhaltung gesagt wurde, gilt hier gleichermassen. e) Wenn der Beschwerdeführer schliesslich dafür hält, es seien die Voraussetzungen für eine Revision des Feststellungsentscheides vom 28. Oktober 1994 gemäss § 70 VRG beziehungsweise § 245 ff. ZPO gegeben, so kann ihm auch darin nicht gefolgt werden. Er war beim fraglichen Rechtsgeschäft nicht Verfahrenspartei beziehungsweise beim Entscheid auch nicht Pächter sowie Kaufs-, Vorkaufs- oder Zuweisungsberechtigter (vgl. Art. 83 Abs. 3 BGBB). Demgemäss steht ihm auch die Geltendmachung der Revision nicht offen. Da hilft ihm auch die Konstruktion mit dem behaupteten Übergehen der Legitimation von M auf ihn als Rechtsnachfolger nichts. Von einer Rechtsnachfolge kann sowieso nicht ansatzweise gesprochen werden. Schliesslich macht der Beschwerdeführer auch keinerlei Revisionsgrund gemäss § 246 ZPO geltend.
+Entscheid vom 28. Mai 2003
+Die dagegen von M erhobene Verwaltungsgerichtsbeschwerde hat das Bundesgericht mit Urteil 5A.19/2003 vom 17. Oktober 2003 abgewiesen.
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
