@@ -1,0 +1,154 @@
+---
+decision_id: "tg_obergericht_RBOG_1999_Nr._10"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1999 Nr. 10"
+docket_2: "BR.1999.51"
+decided: "1999-05-21"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/B4A00AEB-F6B7-44D6-9B38AD51D998B158.html"
+---
+
+# TG Obergericht RBOG 1999 Nr. 10
+
+## Regeste
+
+c des Konkordats), sowie eine Rechtskraftbescheinigung derjenigen Instanz, bei welcher das zulässige Rechtsmittel einzulegen war bzw. Der Rechtsöffnungsrichter ist im interkantonalen Verhältnis nicht verpflichtet, nur eine Rechtskraftbescheinigung derjenigen Instanz, bei welcher das zulässige Rechtsmittel einzulegen war, zu akzeptieren; vielmehr genügt gemäss Konkordat ganz generell eine Rechtskraftbescheinigung "der Steuerbehörde" (Art. 20). Oft wird die Rechtsabteilung der kantonalen ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 21.05.1999 RBOG 1999 Nr. 10 (BR.1999.51)
+Thurgovie Obergericht Rechenschaftsbericht 21.05.1999 RBOG 1999 Nr. 10 (BR.1999.51)
+Turgovia Obergericht Rechenschaftsbericht 21.05.1999 RBOG 1999 Nr. 10 (BR.1999.51)
+
+c des Konkordats), sowie eine Rechtskraftbescheinigung derjenigen Instanz, bei welcher das zulässige Rechtsmittel einzulegen war bzw. Der Rechtsöffnungsrichter ist im interkantonalen Verhältnis nicht verpflichtet, nur eine Rechtskraftbescheinigung derjenigen Instanz, bei welcher das zulässige Rechtsmittel einzulegen war, zu akzeptieren; vielmehr genügt gemäss Konkordat ganz generell eine Rechtskraftbescheinigung "der Steuerbehörde" (Art. 20). Oft wird die Rechtsabteilung der kantonalen ...
+
+RBOG 1999 Nr. 10
+RBOG 1999 Nr. 10
+Rechtskraftbescheinigung bei Steuersachen im innerkantonalen Verhältnis
+(Art. 80
+f.  SchKG)
+1.    Die
+Vorinstanz wies das Begehren um definitive Rechtsöffnung
+mit der  Begründung ab, es sei um Rechtsöffnung
+für eine Steuerrechnung (Staats- und Gemeindesteuern
+1997) ersucht worden, die auf den Steuerfaktoren der
+früheren thurgauischen  Wohnsitzgemeinde, in welcher
+der Schuldner bis Ende August 1997 angemeldet gewesen
+sei,  beruhe. Gegen die Veranlagungsverfügung der
+Zuzugsgemeinde vom 23. Juni 1998 habe keine
+Einsprachemöglichkeit bestanden, jedoch gegen diejenige
+der Wegzugsgemeinde. Die  Rechtskraftbescheinigung
+hätte demnach von der Steuerkommission der Wegzugsgemeinde
+oder von  einer von ihr bevollmächtigten Person
+ausgestellt werden müssen.
+2.
+a)    Richtig ist, dass bei der von der
+Vorinstanz neu gehandhabten Praxis  weder die
+Rechtsabteilung der Steuerverwaltung noch die Steuerkommission
+der Zuzugsgemeinde  zuständig wäre, die
+Rechtskraft der Veranlagungsverfügung vom 23. Juni 1998 zu
+bestätigen.  Diese Steuerrechnung basiert auf einer
+Taxationsübernahme. Gegen diese aufgrund der
+Steuerfaktoren der vorherigen Wohngemeinde des Rekursgegners
+festgesetzte Veranlagung konnte  der Schuldner keine
+Einsprache einreichen. Hingegen hätte er dieses
+Rechtsmittel gegen die  Veranlagung durch seine
+frühere Wohngemeinde ergreifen können.
+Zuständige  Rechtsmittelinstanz hiefür wäre
+die Steuerkommission der betreffenden Gemeinde gewesen
+(§  142 Ziff. 1 i.V.m. § 144 Abs. 1 und Abs. 2
+aStG). Die Rekurskommission kann sich indessen in
+grundsätzlicher Hinsicht der Auffassung der Vorinstanz
+nicht anschliessen:
+b)    aa)    Die Rekurskommission
+hielt in ihrer früher publizierten  Praxis (RBOG 1989
+Nr. 13, 1985 Nr. 18) stets fest, in Steuersachen könnten
+im  innerkantonalen Verfahren - um der Rechtsgleichheit
+willen - keine strengeren Anforderungen  an die
+massgebenden Rechtsöffnungstitel gestellt werden als dann,
+wenn ein in einem anderen  Kanton ergangener Entscheid zur
+Diskussion stehe; RBOG 1992 Nr. 10, welcher
+diesbezüglich  eine Änderung brachte, ist
+zwischenzeitlich aufgrund von § 18 Abs. 3 VRG
+überholt.
+bb)    Gemäss Art. 3 des Konkordats
+über die Gewährung  gegenseitiger Rechtshilfe
+zur Vollstreckung öffentlich-rechtlicher Ansprüche
+(SR und RB  281.22) setzt die Vollstreckbarkeit eines
+ausserkantonalen Entscheids, in welchem über einen
+Anspruch auf Geld- oder Sicherheitsleistung zugunsten des
+Kantons oder der Gemeinden  befunden worden ist (Art. 1
+des Konkordats), voraus, dass der Betriebene Gelegenheit
+gehabt  hat, sich zur Sache zu äussern und von einem
+die Überprüfung des Sachverhalts
+gewährleistenden Rechtsmittel, auf welches er samt
+Rechtsmittelfrist und -instanz aufmerksam  gemacht worden
+ist, Gebrauch zu machen. Dem (ausserkantonalen)
+Rechtsöffnungsrichter sind  unter anderem eine
+Bescheinigung der entscheidenden Behörde, dass diese
+Anforderungen an das  Verfahren erfüllt sind (Art. 4
+lit. c des Konkordats), sowie eine
+Rechtskraftbescheinigung  derjenigen Instanz, bei welcher
+das zulässige Rechtsmittel einzulegen war bzw. eine
+Bescheinigung der Steuerbehörde, dass die
+Steuerveranlagung rechtskräftig geworden ist (Art.  4
+lit. b des Konkordats), einzureichen.
+cc)    Die Rechtskraftbescheinigungen, welche
+notwendig sind, damit  für Steuerforderungen
+Rechtsöffnung erteilt werden kann, geben nicht zum ersten
+Mal Anlass  zu Diskussionen. Das Obergericht nahm in
+diesem Zusammenhang 1987 Kontakt auf mit der
+Steuerverwaltung des Kantons Thurgau: Ziel war es, eine
+Vereinheitlichung des Vorgehens der  Gemeinden und der
+kantonalen Steuerverwaltung in Rechtsöffnungsverfahren zu
+erwirken (RBOG  1987 S. 6 lit. e). Es wurde damals
+vereinbart, dass zukünftig die
+Rechtskraftbestätigungen  von der Rechtsabteilung der
+Steuerverwaltung ausgestellt würden. Dieser Instanz ist
+es  einerseits problemlos möglich, Einblick in
+sämtliche notwendigen Unterlagen zu nehmen.
+Andererseits wird dadurch, dass eine einzige kantonale
+Amtsstelle zuständig erklärt wird,  eine
+einheitliche Praxis gewährleistet. Der
+Rechtsöffnungsrichter ist im interkantonalen
+Verhältnis nicht verpflichtet, nur eine
+Rechtskraftbescheinigung derjenigen Instanz, bei  welcher
+das zulässige Rechtsmittel einzulegen war, zu akzeptieren;
+vielmehr genügt gemäss  Konkordat ganz generell
+eine Rechtskraftbescheinigung "der Steuerbehörde" (Art. 4
+lit. b).  Im innerkantonalen Verhältnis grössere
+Anforderungen zu stellen, geht nicht an; ebensowenig  sind
+Gründe ersichtlich, an der bestehenden Praxis, wonach die
+Rechtsabteilung der  Steuerverwaltung die Rechtskraft von
+Steuerveranlagungen zu bestätigen hat,
+Änderungen  vorzunehmen. Wohl trifft fraglos zu, dass
+"vereinzelt" materiell nicht korrekte, weil
+standardisierte Bescheinigungen ausgestellt wurden. Allein
+deshalb den Steuerkommissär bzw.  die
+Steuerrekurskommission zu verpflichten, die Rechtskraft zu
+bestätigen, besteht aber kein  Anlass. Passieren
+Fehler, muss dies in erster Linie zur Folge haben, dass die mit
+dem  Auftrag befasste Behörde den Einzelheiten mehr
+Beachtung schenkt. Es ist  unbestrittenermassen
+unabdingbar, dass die Rechtskraftbescheinigungen
+sorgfältig und  entsprechend den konkreten
+Gegebenheiten auszustellen sind. Enthalten sie beispielsweise
+ein  falsches Datum, hat der Rechtsöffnungsrichter
+ohne Weiterungen des Verfahrens davon  auszugehen, dass
+sich die Bestätigung auf einen anderen als den als
+Rechtsöffnungstitel  eingereichten Entscheid bezieht,
+was zur Abweisung des Rechtsöffnungsbegehrens führen
+muss  (vgl. RBOG 1992 Nr. 21, 1982 Nr. 13, 1959 Nr. 20).
+Oft wird die Rechtsabteilung der  kantonalen
+Steuerverwaltung ferner auch nicht darum herumkommen, beim
+zuständigen  Steuerkommissär nähere
+Auskünfte einzuholen. Dies rechtfertigt aber nicht, bei
+allen  Veranlagungen, gegen welche keine Einsprache
+erhoben worden ist, den Steuerkommissär der
+Wohngemeinde als für die Abgabe der
+Rechtskraftbescheinigung zuständig zu erklären,
+steht  eine solche Praxis doch der gewünschten
+einheitlichen kantonalen Handhabung krass entgegen.
+Rekurskommission, 21. Mai 1999,
+BR.1999.51
