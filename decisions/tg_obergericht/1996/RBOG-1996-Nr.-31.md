@@ -1,0 +1,119 @@
+---
+decision_id: "tg_obergericht_RBOG_1996_Nr._31"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1996 Nr. 31"
+docket_2: "ZR 96 163"
+decided: "1996-12-20"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/1814F130-63E0-4F04-A0830EAC7B5F97B7.html"
+---
+
+# TG Obergericht RBOG 1996 Nr. 31
+
+## Regeste
+
+Für den Fall der ganzen oder teilweisen Abweisung dieses Antrags ersuchte sie beim Bezirksgericht um Bewilligung der unentgeltlichen Prozessführung mit Offizialanwalt für den Hauptprozess. Die Vorinstanz durfte daher ohne weiteres davon ausgehen, dass das Gesuch um Bewilligung der unentgeltlichen Prozessführung mangels gegenteiliger Äusserungen der Rekurrentin zufolge der Zusprache des Prozesskostenvorschusses gegenstandslos war. Insofern durfte die Rekurrentin nach Zustellung des ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 20.12.1996 RBOG 1996 Nr. 31 (ZR 96 163)
+Thurgovie Obergericht Rechenschaftsbericht 20.12.1996 RBOG 1996 Nr. 31 (ZR 96 163)
+Turgovia Obergericht Rechenschaftsbericht 20.12.1996 RBOG 1996 Nr. 31 (ZR 96 163)
+
+Für den Fall der ganzen oder teilweisen Abweisung dieses Antrags ersuchte sie beim Bezirksgericht um Bewilligung der unentgeltlichen Prozessführung mit Offizialanwalt für den Hauptprozess. Die Vorinstanz durfte daher ohne weiteres davon ausgehen, dass das Gesuch um Bewilligung der unentgeltlichen Prozessführung mangels gegenteiliger Äusserungen der Rekurrentin zufolge der Zusprache des Prozesskostenvorschusses gegenstandslos war. Insofern durfte die Rekurrentin nach Zustellung des ...
+
+RBOG 1996 Nr. 31
+RBOG 1996 Nr. 31
+Das Gesuch um unentgeltliche Prozessführung muss nach Zusprache eines Prozesskostenvorschusses erneuert werden; über das Gesuch ist spätestens im Endurteil zu entscheiden
+(§§
+80, 82 ZPO)
+1.    Die Rekurrentin leitete den
+Scheidungsprozess ein und verlangte im Rahmen vorsorglicher
+Massnahmen von ihrem Ehemann einen Prozesskostenvorschuss von
+Fr. 5'000.--. Für den Fall der ganzen oder teilweisen
+Abweisung dieses Antrags ersuchte sie beim Bezirksgericht um
+Bewilligung der unentgeltlichen Prozessführung mit
+Offizialanwalt für den Hauptprozess. Der Massnahmerichter
+sprach ihr einen Prozesskostenvorschuss von Fr. 2'500.-- zu. Im
+Scheidungsurteil verpflichtete das Bezirksgericht die
+Prozessparteien, je zur Hälfte die Verfahrensgebühr
+zu bezahlen; die Parteikosten wurden unter Vorbehalt des der
+Rekurrentin zugesprochenen Prozesskostenvorschusses
+wettgeschlagen.
+Eineinhalb Monate nach Zustellung des Scheidungsurteils wies
+die Rekurrentin die Vorinstanz darauf hin, das Gesuch um
+unentgeltliche Prozessführung sei noch offen, worauf die
+Vorinstanz das Gesuch abwies, soweit darauf einzutreten war.
+Sie erwog, mit dem zwar knapp bemessenen Prozesskostenvorschuss
+sei das Eventualbegehren um unentgeltliche Prozessführung
+mit Offizialanwalt gegenstandslos geworden, auch wenn dies im
+Massnahmeentscheid nicht ausdrücklich festgestellt worden
+sei. Die Rekurrentin beharrt im Rekursverfahren auf der
+Bewilligung ihres Gesuchs.
+2.    a)    Die Pflicht zur
+Leistung eines Prozesskostenvorschusses gestützt auf Art.
+145 ZGB geht dem Anspruch auf Gewährung der
+unentgeltlichen Prozessführung  mit Offizialanwalt
+nach § 80 und § 82 ZPO grundsätzlich vor (RBOG
+1992 Nr. 27). Die unentgeltliche Prozessführung wird von
+jener Instanz bewilligt, bei welcher der entsprechende Prozess
+hängig ist; soweit das Gesuch den Ehescheidungsprozess
+betraf, war demnach die Vorinstanz zuständig (vgl. RBOG
+1990 Nr. 28 S. 118). Über Armenrechtsgesuche darf im
+Regelfall nicht erst mit dem Endurteil entschieden werden (RBOG
+1969 Nr. 4); umgekehrt ist über ein entsprechendes Gesuch
+spätestens mit dem Endurteil zu entscheiden (vgl. §
+108 Abs. 1 Ziff. 5 ZPO).
+b)    Es entspricht ständiger Praxis, dass
+ein Gesuch um unentgeltliche Prozessführung für den
+Hauptprozess erneuert werden muss, wenn die Partei von der
+Gegenpartei in der Zwischenzeit gestützt auf Art. 145 ZGB
+einen Prozesskostenvorschuss erhielt. Das Gericht darf mithin
+davon ausgehen, dass die Partei nach der Zusprache eines
+Prozesskostenvorschusses auf die Behandlung des Gesuchs um
+unentgeltliche Prozessführung verzichtet, falls sie sich
+nicht ausdrücklich nochmals darauf beruft. Die Rekurrentin
+präzisierte ihr Gesuch angesichts des bereits
+zugesprochenen Prozesskostenvorschusses aber weder im Verlauf
+des weiteren Verfahrens noch wiederholte sie es an der
+Hauptverhandlung. Die Vorinstanz durfte daher ohne weiteres
+davon ausgehen, dass das Gesuch um Bewilligung der
+unentgeltlichen Prozessführung mangels gegenteiliger
+Äusserungen der Rekurrentin zufolge der Zusprache des
+Prozesskostenvorschusses gegenstandslos war. Bereits aus diesem
+Grund erweist sich der Rekurs als unbegründet.
+c)    Selbst wenn indessen angesichts der
+Tatsache, dass die Rekurrentin mit ihrem Begehren um Zusprache
+eines Prozesskostenvorschusses nur teilweise durchdrang,
+anzunehmen wäre, das Gesuch um Bewilligung der
+unentgeltlichen Prozessführung sei weiterhin pendent
+gewesen, ist der Rekurs abzuweisen: Die Vorinstanz entschied in
+ihrem nur im Dispositiv zugestellten Scheidungsurteil, dass dem
+Gesuch - soweit überhaupt noch hängig - nicht
+stattgegeben werde, indem sie die Verfahrensgebühr des
+Scheidungsprozesses hälftig den Eheleuten auferlegte und
+die Parteikosten (unter Berücksichtigung des vom Ehemann
+geleisteten Kostenvorschusses) wettschlug. Dabei bestand
+für die Vorinstanz praxisgemäss keine Pflicht, die
+Abweisung des Gesuchs um unentgeltliche Prozessführung im
+Dispositiv ausdrücklich zu erwähnen. Der Kostenspruch
+erwuchs in Rechtskraft, nachdem keine Partei eine
+Begründung verlangte. Es blieb unter diesen Umständen
+mithin gar kein Raum, nachträglich noch über die
+Bewilligung der unentgeltlichen Prozessführung zu
+entscheiden. Insofern durfte die Rekurrentin nach Zustellung
+des Urteilsdispositivs nicht ernsthaft mit der Möglichkeit
+eines separaten Beschlusses über die unentgeltliche
+Prozessführung rechnen, denn über die unentgeltliche
+Prozessführung ist spätestens im Endurteil zu
+entscheiden. Es wäre vielmehr Sache der Rekurrentin
+gewesen, innert 10 Tagen ein begründetes Urteil zu
+verlangen (§ 109 ZPO) und alsdann den Entscheid mit
+Berufung innert 10 Tagen (§ 225 ZPO) oder mit Kostenrekurs
+innert 20 Tagen (§ 234 Ziff. 2 i.V.m. § 238 Abs. 1
+ZPO) anzufechten oder innert 30 Tagen ein Gesuch um Revision
+nach § 246 Ziff. 1 ZPO einzureichen. Sie hielt aber keine
+dieser Fristen ein.
+Rekurskommission, 20. Dezember 1996, ZR 96
+163
