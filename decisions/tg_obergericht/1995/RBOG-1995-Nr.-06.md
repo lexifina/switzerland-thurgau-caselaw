@@ -1,0 +1,47 @@
+---
+decision_id: "tg_obergericht_RBOG_1995_Nr._06"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1995 Nr. 06"
+decided: "1995-10-02"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-1995-nr-6"
+cites_law: ["switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/220/art-063.md", "switzerland/bund/acts/220/art-067.md", "switzerland/bund/acts/220/art-269d.md"]
+---
+
+# TG Obergericht RBOG 1995 Nr. 06
+
+## Regeste
+
+Rückforderung irrtümlich bezahlter Mietzinse
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 1995 RBOG 1995 Nr. 06
+Thurgovie Obergericht Rechenschaftsbericht 1995 RBOG 1995 Nr. 06
+Turgovia Obergericht Rechenschaftsbericht 1995 RBOG 1995 Nr. 06
+
+RBOG 1995 Nr. 06
+Skip to main content
+Show navigation
+Rückforderung irrtümlich bezahlter Mietzinse
+Art. 63 Abs. 1 OR
+,
+Art. 269d OR
+1. Die Eheleute X vereinbarten mit Y für Wohnräume einen monatlichen Mietzins von Fr. 2'100.--. Der Ehemann X stimmte unterschriftlich einer undatierten Berechnung des Vermieters zu und bezahlte ab 1. Januar 1991 einen um Fr. 160.-- erhöhten Mietzins. Nunmehr auf amtlichem Formular teilte Y die Erhöhung des Mietzinses auf Fr. 2'217.30 ab 1. April 1994 mit. Die Mieter fochten diese Erhöhung nicht an. Am 17. Oktober 1994 wandten sie sich indessen an die Schlichtungsbehörde für Mietsachen und forderten die ab 1. Januar 1991 zuviel bezahlten Mietzinse wegen Nichtigkeit der Mietzinserhöhung zurück.
+2. a) Ist die Mietzinserhöhung nichtig, steht dem Mieter eine Rückforderungsklage aus ungerechtfertigter Bereicherung für den zuviel bezahlten Mietzins zu (Pra 77, 1988, Nr. 171 S. 624 mit Hinweisen). Wenn der Mieter eine Nichtschuld freiwillig bezahlt, kann er das Geleistete nach Art. 63 Abs. 1 OR zurückfordern, wenn er nachzuweisen vermag, dass er sich über die Schuldpflicht im Irrtum befand. Das Erfordernis, dass die Mitteilung auf einem amtlichen Formular erfolgt, beruht auf dem Gedanken, der Mieter brauche seine gesetzlichen Rechte nicht zu kennen. Die Rechtsvermutung, wonach Rechtsirrtum schadet, wird hier also umgekehrt. Es würde offensichtlich gegen diese ratio legis verstossen, wenn vom Mieter, der über seine Rechte mit eben diesem amtlichen Formular informiert werden muss, verlangt würde, dass er die Unkenntnis dieser Rechte oder der formellen Voraussetzungen von Art. 269d Abs. 2 OR nachweise. Es ist daher davon auszugehen, dass eine Ausnahme vom Rückforderungsrecht nur in den engen Grenzen des Rechtsmissbrauchs zugelassen werden kann, d.h. dort, wo der Mieter sich des Formfehlers bewusst war und in der Absicht schwieg, allenfalls später davon zu profitieren (Pra 77, 1988, Nr. 171). Dieser Bundesgerichtsentscheid beruht zwar auf dem alten Mietrecht, hat indessen nach wie vor Gültigkeit, nachdem Art. 18 Abs. 2 und 3 BMM inhaltlich Art. 269d Abs. 2 OR entsprechen (vgl. SVIT-Kommentar Mietrecht, Art. 269d OR N 3).
+Bezüglich der Rückforderung für zuviel bezahlte Mietzinse ist zudem Art. 67 Abs. 1 OR zu beachten, wonach der Bereicherungsanspruch mit Ablauf eines Jahres verjährt, nachdem der Verletzte von seinem Anspruch Kenntnis erhielt, in jedem Fall aber mit Ablauf von 10 Jahren seit der Entstehung des Anspruchs. Kenntnisnahme des Anspruchs liegt vor, wenn der Gläubiger genügende Unterlagen und genügenden Anlass zur gerichtlichen Geltendmachung hat. Es kommt nicht darauf an, wann der Gläubiger die Forderung bei gehöriger Aufmerksamkeit hätte erkennen können (Berti, in: Kommentar zum schweizerischen Privatrecht, Obligationenrecht I, Art. 67 N 4 mit Hinweisen).
+Bestehen beim Leistenden Zweifel am Rechtsgrund, ist ihm die Rückforderung nach Art. 63 Abs. 1 OR versagt. Hat ein Pächter bewusst einen kontrollrechtlich unzulässigen Mehrpreis bezahlt, steht ihm kein Rückforderungsrecht zu; dasselbe ist beim Mieter der Fall (Schulin, in: Kommentar zum schweizerischen Privatrecht, Obligationenrecht I, Art. 63 N 11; BGE 93 II 106 f. und 85 IV 105 f.).
+b) Wenn das Bundesgericht festhält, vom Mieter könne nicht der Nachweis verlangt werden, er habe in Unkenntnis seiner gesetzlichen Rechte und der formellen Voraussetzungen der Mietzinserhöhung eine Nichtschuld bezahlt, und eine Ausnahme vom Rückforderungsrecht könne nur in den engen Grenzen des Rechtsmissbrauchs (Art. 2 Abs. 2 ZGB) zugelassen werden, führt dies grundsätzlich zu einer Umkehr der Beweislast. Gelingt mithin dem Vermieter der Nachweis, dass der Mieter trotz Kenntnis des Formularzwangs und der Nichtigkeit der Mietzinserhöhung den erhöhten Mietzins bezahlte, ist dem Mieter die Geltendmachung des Rückforderungsanspruchs verwehrt, weil es alsdann an einer irrtümlich erbrachten Leistung fehlt. Im Ergebnis entspricht dies der Auffassung des Bundesgerichts, welches ein Rückforderungsrecht ausschliesst, wenn der Mieter sich des Formfehlers bewusst war und in der Absicht schwieg, allenfalls später davon zu profitieren, weil er alsdann rechtsmissbräuchlich handelt; dies gilt zumindest dann, wenn - bei Dauerschuldverhältnissen richtigerweise - angenommen wird, die Kenntnis der Nichtigkeit der Mietzinserhöhung bzw. die "Absicht des späteren Profits" müsse nicht bereits zum Zeitpunkt der nichtigen Mitteilung vorliegen, sondern könne sich auch später noch einstellen.
+Mithin kann der Vermieter einerseits den Beweis antreten, der Mieter habe ab einem bestimmten Zeitpunkt von der Nichtigkeit der Mietzinserhöhung Kenntnis gehabt und gewusst, dass er die erhöhten Mietzinse nicht bezahlen müsste. Alsdann steht dem Mieter ab diesem Zeitpunkt mangels Irrtums über seine Schuldpflicht kein entsprechendes Rückforderungsrecht mehr zu. Andererseits kann sich der Vermieter auf die Verjährung berufen. Die Kenntnis des Rückforderungsanspruchs nach Art. 67 OR - und damit der Beginn der Verjährungsfrist - muss indessen nicht notwendigerweise mit derjenigen über die Nichtigkeit der Mietzinserhöhung, welche eine Rückforderung gemäss Art. 63 Abs. 1 OR ausschliesst, übereinstimmen, weil der Wegfall des Irrtums über die Schuldpflicht nicht zwingend mit dem Wissen um den Rückforderungsanspruch gleichgesetzt werden kann. Es ist bei entsprechenden Behauptungen des Vermieters somit zu prüfen, ob der Mieter ab einem bestimmten Zeitpunkt mangels Irrtums über die Schuldpflicht die zuviel bezahlten Mietzinse nicht mehr zurückfordern kann, weil keine Ansprüche aus ungerechtfertigter Bereicherung mehr entstanden; zusätzlich ist abzuklären, wann bezüglich der vor diesem Zeitpunkt bezahlten, gestützt auf Art. 63 Abs. 1 OR grundsätzlich rückforderbaren Mietzinse die Verjährung nach Art. 67 OR zu laufen begann.
+c) Bezüglich der Frage, wann der Mieter Kenntnis von der Nichtigkeit einer Mietzinserhöhung hatte und ab wann er somit die erhöhten Mietzinse nicht mehr irrtümlich bezahlte, ist wegen des Schutzzwecks der mietrechtlichen Bestimmungen ein strenger Massstab anzulegen. Entscheidend sind nicht objektive Kriterien; es genügt somit nicht, dass der Mieter um die Nichtigkeit der Erhöhung hätte wissen können. Massgebend ist vielmehr, wann er tatsächlich von der Nichtigkeit Kenntnis hatte, mithin wusste, dass er die erhöhten Mietzinse aufgrund der mietrechtlichen Bestimmungen gar nicht zahlen müsste.
+Hinsichtlich des Beginns der relativen Verjährungsfrist muss der Vermieter zudem nachweisen, dass der Mieter sichere Kenntnis von seinem Rückforderungsrecht zufolge zuviel bezahlter Mietzinse hat. In zeitlicher Hinsicht kann, muss diese Kenntnis aber nicht mit derjenigen bezüglich der Nichtigkeit der Mietzinserhöhung zusammenfallen.
+3. Der Vermieter hatte stets behauptet, die Eheleute X - bzw. zumindest der Ehemann - hätten um die Formularpflicht bei Mietzinserhöhungen gewusst. Im Februar 1991 und August 1992 habe ihm X scherzhaft mitgeteilt, eigentlich müsste er den höheren Mietzins gar nicht entrichten; auch die Ehefrau müsste diesen Umstand gekannt haben, weil die Eheleute sich über diese Angelegenheit zumindest miteinander unterhalten hätten. Bereits vor Vorinstanz hatte Y als Beweis mehrere Zeugen sowie die Befragung der Parteien beantragt.
+Aufgrund der Sachverhaltsdarstellung von Y hätte die Vorinstanz diesem somit die Möglichkeit eröffnen müssen zu beweisen, dass und ab welchem Zeitpunkt die Eheleute X (und insbesondere auch die Gattin) Kenntnis von der Nichtigkeit der Mietzinserhöhung und der daraus resultierenden Rechtsfolgen hatten. Ebenso muss Y zum Beweis zugelassen werden, dass und ab wann die Mieter um ihr Rückforderungsrecht wussten.
+Rekurskommission, 2. Oktober 1995, ZB 95 32
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
