@@ -1,0 +1,35 @@
+---
+decision_id: "tg_obergericht_RBOG_1996_Nr._12"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 1996 Nr. 12"
+docket_2: "BS 96 30"
+decided: "1996-08-05"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/52178E52-74F8-4B94-BF4B5CDD651F38F7.html"
+cites_law: ["switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-046.md", "switzerland/bund/acts/281.1/art-053.md", "switzerland/bund/acts/281.1/art-111.md"]
+---
+
+# TG Obergericht RBOG 1996 Nr. 12
+
+## Regeste
+
+1. Gegen den Beschwerdeführer wurde 1992 in X die Betreibung angehoben. Der Beschwerdeführer unterzeichnete das Pfändungsprotokoll widerspruchslos. Der Beschwerdeführer hätte die Möglichkeit gehabt, die Betreibungshandlungen anzufechten.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 05.08.1996 RBOG 1996 Nr. 12 (BS 96 30)
+Thurgovie Obergericht Rechenschaftsbericht 05.08.1996 RBOG 1996 Nr. 12 (BS 96 30)
+Turgovia Obergericht Rechenschaftsbericht 05.08.1996 RBOG 1996 Nr. 12 (BS 96 30)
+
+1. Gegen den Beschwerdeführer wurde 1992 in X die Betreibung angehoben. Der Beschwerdeführer unterzeichnete das Pfändungsprotokoll widerspruchslos. Der Beschwerdeführer hätte die Möglichkeit gehabt, die Betreibungshandlungen anzufechten.
+
+RBOG 1996 Nr. 12
+RBOG 1996 Nr. 12
+Keine Nichtigkeit der Pfändung bzw. des Verlustscheins bei Verletzung der Zuständigkeitsordnung, sofern keine Drittinteressen tangiert sind
+(Art. 46, 17 Abs. 2 SchKG)
+1.    Gegen den Beschwerdeführer wurde 1992 in X die Betreibung angehoben. Nachdem kein Rechtsvorschlag erhoben wurde, kam es in X zur Pfändung. Der Beschwerdeführer unterzeichnete das Pfändungsprotokoll widerspruchslos. 1996 stellte das Betreibungsamt X den Verlustschein aus. Der Beschwerdeführer beantragte die Aufhebung des Verlustscheins, weil er sich bereits 1992 von X nach Y (Kanton Tessin) abgemeldet und seinen Wohnsitz dorthin verlegt habe.
+2.    Art. 46 Abs. 1 SchKG bestimmt, dass sich der ordentliche Betreibungsort am Wohnsitz des Schuldners befindet. Diese gesetzliche Regelung hat zwingenden Charakter, richtet sich doch nach ihr die örtliche Zuständigkeit der Vollstreckungsorgane, deren Bestimmbarkeit im öffentlichen Interesse liegt. Sie stellt die Einheit der Betreibung sicher, die allein die gerechte und gleichmässige Behandlung aller Gläubiger im Verfahren zu gewährleisten vermag. Der zwingende Charakter führt unter Umständen dazu, dass der Betreibungsort im Verlauf des Verfahrens seinen Voraussetzungen entsprechend ändert (z.B. bei einem Wohnsitzwechsel). Praktische Erwägungen gebieten indessen eine vernünftige Einschränkung dieser Regel, weshalb Art. 53 SchKG bestimmt, dass der Wechsel des Wohnsitzes nach Zustellung der Pfändungsankündigung zu keiner Änderung der bisherigen örtlichen Zuständigkeit führt (Amonn, Grundriss des Schuldbetreibungs- und Konkursrechts, 5.A., § 10 N 26 ff.; ZR 94, 1995, Nr. 54 S. 163 f.).
+a)    Unter Bezugnahme auf Brügger (SchKG, Schweizerische Gerichtspraxis 1946-1984, Art. 46 N 45; BlSchK 30, 1966, Nr. 21 S. 76) macht der Beschwerdeführer geltend, der Betreibungsort des Wohnsitzes sei unter allen Umständen zu beachten. Eine Beschwerde gegen eine Pfändungsankündigung, die sich über diesen Grundsatz hinwegsetze, müsse selbst nach Ablauf der Frist von Art. 17 Abs. 2 SchKG geschützt werden. In der Tat ist eine nicht am Wohnsitz des Schuldners vorgenommene Pfändung nach der Rechtsprechung als nichtig anzusehen. Diese Rechtsprechung beruht auf der Überlegung, dass eine solche Pfändung nicht nur die Interessen von Gläubiger und Schuldner, sondern auch diejenigen Dritter betrifft, nämlich allfälliger weiterer Gläubiger, die sich der Pfändung gemäss Art. 110 oder Art. 111 SchKG anschliessen können. Sind jedoch keine derartigen Drittinteressen im Spiel, so besteht kein Grund, eine von einem unzuständigen Amt vollzogene Pfändung als nichtig zu betrachten. Die Rechtsprechung verwehrt deshalb dem Schuldner, sich auf Nichtigkeit der Pfändung zu berufen, wenn er geltend machen will, er wohne im Ausland und müsse dort betrieben werden, weil eben die Anschlussrechte anderer Gläubiger bei einer Pfändung im Ausland ausser Betracht fallen. Weil ein Anschluss Dritter zum vornherein nicht möglich ist, ist auch eine am unrichtigen Ort eingeleitete Betreibung auf Pfandverwertung nicht nichtig (BGE 105 III 61). Von einem unzuständigen Betreibungsamt ausgestellte Verlustscheine können dann nichtig sein, wenn beispielsweise der Schuldner vom Betreibungsverfahren (bzw. von der Pfändung) keine Kenntnis erhielt und somit keine Möglichkeit hatte, sich mit Beschwerde gegen einzelne Betreibungshandlungen zur Wehr zu setzen. Berührt mithin die Verletzung der Zuständigkeitsordnung bloss die Interessen der am Betreibungsverfahren beteiligten Parteien, so können diese sich bei der Aufsichtsbehörde beschweren (Amonn, § 10 N 33). Von Amtes wegen ist lediglich dann einzuschreiten, wenn das öffentliche Interesse oder die Interessen Dritter auf dem Spiel stehen. Auch Fritzsche/Walder (Schuldbetreibung und Konkurs nach schweizerischem Recht, Bd. I, § 11 N 2) halten fest, die am unrichtigen Ort vorgenommene Betreibungshandlung sei nichtig, soweit dadurch die Interessen Dritter tangiert würden.
+b)    Im vorliegenden Fall wohnte der Beschwerdeführer der 1993 vollzogenen Pfändung bei. Die Pfändung ergab fünf Positionen: Eine Liegenschaft mit einer betreibungsamtlichen Schätzung von Fr. 700'000.-- und Grundpfandrechten im Betrag von Fr. 950'000.-- sowie vier Fahrzeuge im Schätzwert von Fr. 32'000.--, an welchen in jedem Einzelfall Drittansprüche geltend gemacht und nicht bestritten wurden. Mithin stellte einzig die Liegenschaft pfändbares Vermögen dar. Unter Berücksichtigung der Tatsache, dass die Grundpfandrechte die betreibungsamtliche Schätzung um Fr. 250'000.-- überstiegen, stellte die Liegenschaft für nicht grundpfandrechtlich gesicherte Gläubiger im Grund genommen einen "Non-Valeur" dar. War aber kein verwertbares Vermögen vorhanden, konnten auch die Anschlussrechte allfälliger anderer Gläubiger in diesem Verfahren nicht beeinträchtigt werden. Es sind somit weder öffentliche Interessen noch solche Dritter ersichtlich, welche durch eine allenfalls vom örtlich nicht zuständigen Betreibungsamt vollzogene Pfändung tangiert würden. Es besteht mithin kein Anlass, die Pfändung als nichtig zu betrachten. Der Beschwerdeführer hätte die Möglichkeit gehabt, die Betreibungshandlungen anzufechten. Ob er sich gegebenenfalls bezüglich der rechtlichen Situation in einem Irrtum befand, spielt keine Rolle. Jedenfalls behauptet er nicht, aufgrund einer behördlichen Auskunft von einer Beschwerde abgesehen zu haben. Mangels Nichtigkeit der Pfändung kommt auch eine Aufhebung des Verlustscheins von Amtes wegen nicht in Frage.
+Rekurskommission, 5. August 1996, BS 96 30
