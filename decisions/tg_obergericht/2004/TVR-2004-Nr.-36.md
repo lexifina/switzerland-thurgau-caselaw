@@ -1,0 +1,42 @@
+---
+decision_id: "tg_obergericht_TVR_2004_Nr._36"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2004 Nr. 36"
+decided: "2004-08-26"
+published: "2004-11-24"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2004-nr-36"
+cites_law: ["switzerland/bund/acts/741.01/art-032.md", "switzerland/bund/acts/741.21/art-107.md", "switzerland/bund/acts/741.21/art-108.md"]
+---
+
+# TG Obergericht TVR 2004 Nr. 36
+
+## Regeste
+
+Anfechtung von Verkehrsanordnungen und Gesuche um Erlass einer Herabsetzung der Höchstgeschwindigkeit
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 24.11.2004 TVR 2004 Nr. 36
+Thurgovie Obergericht Rechenschaftsbericht 24.11.2004 TVR 2004 Nr. 36
+Turgovia Obergericht Rechenschaftsbericht 24.11.2004 TVR 2004 Nr. 36
+
+TVR 2004 Nr. 36
+Skip to main content
+Show navigation
+Anfechtung von Verkehrsanordnungen und Gesuche um Erlass einer Herabsetzung der Höchstgeschwindigkeit
+§ 36 EntG
+,
+Art. 107 Abs. 1 SSV
+Höchstgeschwindigkeitsanordnungen sind anfechtbar. Auf ein gleichzeitig mit der Anfechtung gestelltes Gesuch einer Gemeinde um wesentliche Ausdehnung der Herabsetzung der Höchstgeschwindigkeit im Beschwerdeverfahren kann nicht eingetreten werden, weil hiefür ein Gutachten erforderlich ist, das durch die Erlassbehörde (DBU) und nicht die Rechtsmittelinstanz in Auftrag zu geben ist.
+Mit Entscheid vom 26. August 2004 ordnete das DBU auf der Kantonsstrasse im Bereich des Autobahnanschlusses O die Anbringung der Signale Nr. 2.30/2.53 «Anfang und Ende der Höchstgeschwindigkeit 70 km/h» (gemäss Planbeilage) an. Diese Verkehrsanordnung wurde im Amtsblatt veröffentlicht, den Gemeinden O und F aber auch direkt zugestellt. Mit Eingabe vom 9. September 2004 erhebt die Gemeinde F Beschwerde beim Verwaltungsgericht. Der Gemeinderat bringt vor, die Höchstgeschwindigkeitsanordnung von 70 km/h werde begrüsst, doch gehe sie zu wenig weit. Er beantragt deshalb, die Höchstgeschwindigkeit von 70 km/h bereits ab der Feldstrasse in O bis zum Dorfeingang von T anzuordnen. Das Verwaltungsgericht tritt auf dieses Begehren nicht ein.
+Aus den Erwägungen:
+1. b) Mit Beschwerde anfechtbar sind Entscheide einer unteren Verwaltungsbehörde (vgl. § 35 i.V. mit § 62 VRG). Entscheide sind Anordnungen von Behörden im Einzelfall (vgl. § 4 VRG). Was die Gemeinde beantragt, ist nicht die Änderung oder Aufhebung der Anordnung (die sie begrüsst), sondern sie bemängelt vielmehr die Nichtanordnung einer Anordnung (eine Anordnung, die sie vermisst). Gemäss Art. 107 Abs. 1 SSV sind örtliche Verkehrsanordnungen von der zuständigen Behörde zu verfügen und mit einer Rechtsmittelbelehrung zu veröffentlichen. Auch daraus ergibt sich, dass nur Anordnungen anfechtbar sind. Nach der Praxis des Bundesrates muss die zuständige Behörde aber auf ein Gesuch um Erlass einer Verkehrsanordnung – was hier geltend gemacht wird – eintreten und die Sache materiell behandeln, sofern der Gesuchsteller ein schutzwürdiges Interesse daran hat (VPB 59.9 mit Hinweis auf VPB 55.31). Zuständige Behörde ist das DBU und nicht das Verwaltungsgericht. Es kommt hinzu, dass für eine Herabsetzung der Höchstgeschwindigkeit (von 80 km/h) ein Gutachten erforderlich ist (Art. 32 Abs. 3 SVG) und dass hierfür genau umschriebene Voraussetzungen gelten (Art. 108 SSV). Die Einholung/Erstellung eines entsprechenden Gutachtens obliegt der zuständigen Behörde (dem DBU). Dessen Entscheid unterliegt der Beschwerde ans Verwaltungsgericht. Mangels Anfechtungsobjekt kann demnach auf die Beschwerde nicht eingetreten werden.
+Entscheid vom 24. November 2004
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
