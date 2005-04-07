@@ -1,0 +1,34 @@
+---
+decision_id: "tg_obergericht_RBOG_2005_Nr._27"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2005 Nr. 27"
+docket_2: "ZBO.2004.22"
+decided: "2005-04-07"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/000B2533-24C6-14B6-A24F0261A14ED036.html"
+cites_law: ["switzerland/bund/acts/281.1/art-250.md", "switzerland/bund/acts/281.1/art-260.md"]
+---
+
+# TG Obergericht RBOG 2005 Nr. 27
+
+## Regeste
+
+2. Anders als die Berufungsbeklagte vermag das Obergericht aus BGE 111 II 81 ff. In anderen Fällen sei das Bundesgericht dagegen stets davon ausgegangen, der Beklagte könne in einem solchen Prozess seine Schuldpflicht gegenüber der Masse nicht mit Einwendungen gegen den Kollokationsplan bestreiten, weil sich daraus ergebe, wer Konkursgläubiger sei, und zwar mit welchem Betrag, in welchem Rang und mit welchen Vorzugsrechten. Insofern nützt der Berufungsbeklagten der Hinweis auf dieses ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 07.04.2005 RBOG 2005 Nr. 27 (ZBO.2004.22)
+Thurgovie Obergericht Rechenschaftsbericht 07.04.2005 RBOG 2005 Nr. 27 (ZBO.2004.22)
+Turgovia Obergericht Rechenschaftsbericht 07.04.2005 RBOG 2005 Nr. 27 (ZBO.2004.22)
+
+2. Anders als die Berufungsbeklagte vermag das Obergericht aus BGE 111 II 81 ff. In anderen Fällen sei das Bundesgericht dagegen stets davon ausgegangen, der Beklagte könne in einem solchen Prozess seine Schuldpflicht gegenüber der Masse nicht mit Einwendungen gegen den Kollokationsplan bestreiten, weil sich daraus ergebe, wer Konkursgläubiger sei, und zwar mit welchem Betrag, in welchem Rang und mit welchen Vorzugsrechten. Insofern nützt der Berufungsbeklagten der Hinweis auf dieses ...
+
+RBOG 2005 Nr. 27
+RBOG 2005 Nr. 27
+Der Beklagte kann im Prozess um abgetretene Ansprüche nicht geltend machen, die Kollozierung der klägerischen Forderung im Konkurs sei zu Unrecht erfolgt
+(Art. 250, 260 SchKG)
+1.    Die Berufungsbeklagte macht gegenüber den Gläubigern, die sich Ansprüche der Masse abtreten liessen, geltend, die klägerische Forderung sei zu Unrecht kolloziert worden.
+2.    Anders als die Berufungsbeklagte vermag das Obergericht aus BGE 111 II 81 ff. nicht herauszulesen, dass ihr im Verfahren der paulianischen Anfechtung die Einrede des Nichtbestehens der Konkursforderungen der beiden klagenden Gläubiger zustehen soll. Das Bundesgericht hielt zu dieser Frage fest, das Recht zur Anfechtung eines Kollokationsplans sei gemäss Art. 249 und Art. 250 SchKG den Konkursgläubigern vorbehalten; einem Drittschuldner stehe es nur zu, wenn er zugleich Gläubiger sei und im Konkurs als solcher auftrete. Die Rechtsprechung habe es freilich zugelassen, auf einen rechtskräftigen Kollokationsplan zurückzukommen. Dies gelte insbesondere, wenn sich herausstelle, dass eine Forderung offensichtlich zu Unrecht oder nicht kolloziert worden sei, ein Rechtsverhältnis sich seit der Kollokation geändert habe oder neue Tatsachen eine Revision rechtfertigen würden. Auch eine nachträgliche Änderung des Kollokationsplans habe indessen keine über den Konkurs hinausgehenden Rechtswirkungen, weil es im Kollokationsverfahren nicht um den Bestand einer Forderung, sondern bloss darum gehe, inwieweit angemeldete Gläubigeransprüche bei der Verteilung der Aktivmasse zu berücksichtigen seien. Ein Dritter habe darauf keinen Einfluss; falls er Schuldner der Konkursmasse sei, könne er sich daher seiner Verpflichtung gegenüber der Masse nicht mit dem Einwand entziehen, dass er von einem Nichtberechtigten belangt werde, weil dessen Konkursforderung zu Unrecht kolloziert worden sei. In einem nicht veröffentlichten Urteil aus dem Jahr 1982 sei allerdings beiläufig angenommen worden, der Bestand einer kollozierten Forderung dürfe in einem Abtretungsprozess nachgeprüft werden. In anderen Fällen sei das Bundesgericht dagegen stets davon ausgegangen, der Beklagte könne in einem solchen Prozess seine Schuldpflicht gegenüber der Masse nicht mit Einwendungen gegen den Kollokationsplan bestreiten, weil sich daraus ergebe, wer Konkursgläubiger sei, und zwar mit welchem Betrag, in welchem Rang und mit welchen Vorzugsrechten. Mit dem Kollokationsplan stehe auch fest, wer überhaupt die Abtretung eines Prozessführungsrechts nach Art. 260 SchKG verlangen könne, denn das Recht auf Abtretung folge aus der Stellung des Gläubigers im Konkurs und bestehe unabhängig davon, ob eine Forderung zu Recht kolloziert worden sei oder nicht; es gehe daher nicht an, den Bestand der Forderung gegen die Konkursmasse im Abtretungsprozess nachprüfen zu wollen (BGE 111 II 84 f.).
+Die Interpretation der Berufungsbeklagten findet auch in der Literatur keine Stütze: Sowohl Amonn/Walther (Grundriss des Schuldbetreibungs- und Konkursrechts, 7.A., § 47 N 55) als auch Berti (Basler Kommentar, Art. 260 SchKG N 62 f.) ziehen aus dem einschlägigen Bundesgerichtsurteil einzig den Schluss, dass der "debitor cessus" die Konkursforderung des Abtretungsgläubigers oder die Kollokationsverfügung darüber nicht in Frage stellen kann. Wäre das Bundesgericht der Auffassung gewesen, dass in gewissen Situationen die Konkursforderung oder die Kollokationsverfügung durchaus angefochten werden könne, so hätte es in seinem breit ausgelegten Überblick über seine Rechtsprechung auf eine theoretisch denkbare Ausnahme hingewiesen oder die Frage mindestens teilweise offen gelassen. Dies erfolgte indessen gerade nicht; vielmehr wurde das nicht veröffentlichte Urteil aus dem Jahr 1982 gewissermassen als "Ausreisser" dargestellt und einer stattlichen Zahl von Urteilen gegenüber gestellt, die durchwegs zu einem anderen Ergebnis gelangten. Insofern nützt der Berufungsbeklagten der Hinweis auf dieses unpublizierte Urteil nichts.
+Obergericht, 7. April 2005, ZBO.2004.22
