@@ -1,0 +1,46 @@
+---
+decision_id: "tg_obergericht_TVR_2007_Nr._34"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2007 Nr. 34"
+decided: "2005-08-30"
+published: "2007-01-17"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2007-nr-34"
+---
+
+# TG Obergericht TVR 2007 Nr. 34
+
+## Regeste
+
+Öffnungszeiten für eine Autowaschanlage an Sonntagen
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 17.01.2007 TVR 2007 Nr. 34
+Thurgovie Obergericht Rechenschaftsbericht 17.01.2007 TVR 2007 Nr. 34
+Turgovia Obergericht Rechenschaftsbericht 17.01.2007 TVR 2007 Nr. 34
+
+TVR 2007 Nr. 34
+Skip to main content
+Show navigation
+Öffnungszeiten für eine Autowaschanlage an Sonntagen
+§ 5 Abs. 1 RTG
+1. Bei § 5 Abs. 1 RTG handelt es sich gewissermassen um ein Polizeiverbot mit Erlaubnisvorbehalt, das im Einzelfall zu konkretisieren ist (E. 2a).
+2. Eine Distanz zwischen betroffenen Anwohnern und einer Autowaschbox von 40 bis 50 m mit dazwischen liegender - auch an Sonntagen - stark befahrener Kantonsstrasse spricht für eine Bewilligungsfähigkeit des Betriebs auch an Sonntagen (E. 2b).
+3. Der an Sonntagen längeren Morgen- und früheren Abendruhe ist Rechnung zu tragen (E. 2c). Vorbehalten bleibt der Widerruf bei ernstlicher Störung der Anwohner (E. 2d).
+Mit Entscheid vom 30. August 2005 bewilligte der Gemeinderat N der Garage Q AG den Bau einer Selbstbedienungs-Autowaschanlage. Die Betriebszeiten wurden wie folgt festgelegt: Montag bis Freitag 06.00 Uhr bis 22.00 Uhr, Samstag 06.00 Uhr bis 20.00 Uhr, Sonntag geschlossen.
+Am 21. Februar 2006 stellte die Garage Q das Gesuch um Betrieb der 5 Boxen auch an den Sonntagen von 08.00 Uhr bis 20.00 Uhr. Der Gemeinderat wies das Gesuch gestützt auf § 2 RTG ab, da der Betrieb der Waschanlage an Sonntagen nicht als lebensnotwendige Verrichtung ange­sehen werden könne. Dagegen legte die Q AG Rekurs beim DIV ein, das abwies. Das Verwaltungsgericht heisst die Beschwerde in dem Sinne teilweise gut, als es festhält, die beiden hinteren Boxen dürften auch an den Sonntagen betrieben werden, allerdings nur von 10.00 bis 18.00 Uhr.
+Aus den Erwägungen:
+2.a) ( ... ) Nach § 5 Abs. 1 RTG sind Arbeiten, Betätigungen oder Veranstaltungen, die durch Lärm oder auf andere Weise die dem jeweiligen Ruhetag angemessene Ruhe ernstlich stören, verboten. Wie das Verwaltungsgericht im Entscheid TVR 1996, Nr. 25, festgehalten hat, stellt diese Bestimmung eine genügende gesetzliche Grundlage für ein Verbot des Betriebes einer Auto­waschanlage an Sonntagen dar. Allerdings – so TVR 1996, Nr. 25, E. 2b) – erhellt der Wortlaut von § 5 Abs. 1 RTG, dass sich ein solches Verbot nicht generell abstrakt festlegen lässt. Diese Bestimmung geht vielmehr vom Prinzip des zu konkretisierenden Verbots aus, das in jedem Fall auch verhältnismässig sein muss. Es handelt sich damit gewissermassen um ein Polizei­verbot mit Erlaubnisvorbehalt. Zuständig zur Konkretisierung dieses Verbots ist der Gemeinderat. Dabei steht ihm ein massgeblicher Beurteilungs­spielraum zur Verfügung. Das hat zur Folge, dass das Verwaltungsgericht auf­grund seiner eingeschränkten Prüfungsbefugnis (vgl. E. 1b) grundsätzlich nur zur Rechtsrichtigkeit der gemeinderätlichen Anordnung Stellung zu nehmen hat, wobei deren Zweckmässigkeit dem Grundsatz der Verhältnismässigkeit zu entsprechen hat. Ein abstraktes, generelles Verbot zur Gewährleistung der im öffentlichen Interesse liegenden Sonntagsruhe beziehungsweise der Gleichbehandlung innerhalb der Gemeinde, wie es der Gemeinderat in seiner Stellungnahme ans DIV formulierte, ist nicht haltbar.
+b) Wie der Augenschein klar gemacht hat, geht es nur um die Frage, ob durch den allfälligen (reduzierten) Betrieb der Selbstbedienungs-Waschanlage die Bewohner nördlich der Hauptstrasse in ihrer Sonntagsruhe ernstlich gestört würden, sei es durch Lärm oder auf andere Weise. Allerdings sind die Belastungsgrenzwerte der LSV eingehalten. Dass sich andere Bevölkerungs­kreise – wie es im erwähnten Entscheid TVR 1996, Nr. 25, der Fall war (S. 152 Mitte) – in ihrer Sonntagsruhe ernstlich gestört fühlen würden, war am Augenschein nicht ersichtlich. Am Augenschein war ebenso ersichtlich, dass die Selbstbedienungs-Tankstelle und der Tankstellen-Shop auf demselben Grundstück sind und gewissermassen eine Einheit bilden. Daraus lässt sich aber – wie das DIV richtig gefolgert hat – nicht zwingend ableiten, dass die Selbstbedienungs-Waschanlage bezüglich Betriebszeiten gleich zu behandeln wäre wie die Tankstelle und der Shop (wobei die Tankstelle sogar 24 Stunden offen ist).
+Aufgrund der konkreten Situation ist allerdings nicht nachvollziehbar, wie die Anwohner nördlich der Hauptstrasse in ihrer Sonntagsruhe ernstlich gestört würden, wenn die Bewilligung für die beiden hintersten Boxen erteilt würde. Einerseits ist das Verkehrsaufkommen auf der Hauptstrasse auch an Sonn­tagen sehr hoch und andererseits beträgt die Distanz zu den Liegenschaften nördlich der Hauptstrasse gut 40 bis 50 m, so dass der Lärm beim Wasch­vorgang auch angesichts des Strassenlärms kaum wahrnehmbar sein dürfte. Die Boxen sind auch parallel zur Strasse angeordnet, so dass die Wände einen gewissen Sicht- und Lärmschutz gegenüber allfällig Betroffenen gewährleis­ten. Ein grundsätzliches Verbot ist demnach nicht verhältnismässig. Die vom Gemeinderat vorgebrachte Begründung, wonach eine Waschanlage nicht als «lebensnotwendige Verrichtung» angesehen werden könne, ist jedenfalls nicht haltbar, ist dies doch ein unzulässiger Umkehrschluss aus § 6 Abs. 1 RTG. Vielmehr hätte die Frage beantwortet werden müssen, ob mit dem Betrieb der Waschanlage eine ernstliche Störung der Sonntagsruhe verbun­den wäre. Dass sich der Begriff der Sonntagsruhe im heutigen Leben anders beurteilt als noch vor 20 Jahren, ist eine Realität, erlauben heute doch mehre­re Gesetze Öffnungszeiten von diversen Betrieben an Sonntagen (z.B. SBB-Shops und Tankstellen-Shops). Zudem hat der Verkehr gerade an Sonntagen ebenso stark zugenommen.
+c) Demnach kann die Bewilligung nicht grundsätzlich verweigert werden, wie es der Gemeinderat in seiner Baubewilligung vom 30. August 2005 unbegrün­det und in seiner Gesuchsablehnung vom 24. März 2006 begründeterweise festhielt. Allerdings ist die gewünschte Betriebszeit (08.00 Uhr bis 20.00 Uhr) nicht mit dem allgemeinen sonntäglichen Verhalten grosser Teile der Bevöl­kerung vereinbar, beschränken sich doch die Aktivitäten (vor allem aber der Hauptverkehr) mehr oder weniger auf den Zeitraum ab 10.00 Uhr bis 18.00 Uhr. Zu berücksichtigen ist dabei das Bedürfnis der Bewohner der Haupt­strasse nach längerer Morgen- und früherer Abendruhe.
+d) Daran zu behaften ist die Betreiberin allerdings, dass der Betrieb an den sogenannten hohen Feiertagen (Karfreitag, Ostersonntag, Pfingstsonntag, Eidgenössischer Dank-, Buss- und Bettag sowie an Weihnachten) ganz einge­stellt bleibt. Allerdings hat die Betreiberin entsprechende Vorkehrungen für einen geordneten Betrieb an Sonntagen zu treffen, indem sie durch entspre­chende Tafeln die Benutzer auf ein rücksichtsvolles Verhalten insbesondere (auch) an Sonntagen anhält, und zwar hinsichtlich der Zu- und Wegfahrt, des Türenschliessens sowie des Radiolärms aus offenen, wartenden Fahrzeugen oder bei der Staubsaugeranlage. Zu bekannt ist, dass dieser mit dem Betrieb einer Waschanlage vielfach verbundene Lärm zu Recht als mit der Sonntags­ruhe nicht vereinbar gehalten wird. Dadurch, dass der Tankstellen-Shop bedient ist, sollte es auch möglich sein, allfällige «Sünder» zurechtzuweisen. Sollte sich allerdings aufgrund von Reklamationen und behördlichen Kontrollen erweisen, dass sich mehrere Bewohner der nördlich der Hauptstrasse gelegenen Liegenschaften ernstlich in ihrer Sonntagsruhe gestört fühlen, ist der Gemeinderat gehalten, entsprechende Schritte einzuleiten, was mithin den Widerruf der Bewilligung zum Betrieb der beiden hintersten Boxen und/oder der Staubsaugeranlage an Sonntagen bedeuten kann.
+Entscheid vom 17. Januar 2007
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
