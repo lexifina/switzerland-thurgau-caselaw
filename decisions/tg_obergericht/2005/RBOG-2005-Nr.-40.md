@@ -1,0 +1,33 @@
+---
+decision_id: "tg_obergericht_RBOG_2005_Nr._40"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2005 Nr. 40"
+docket_2: "ZBR.2005.9"
+decided: "2005-12-01"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/0005127F-2592-14B6-A24F0261A14ED036.html"
+---
+
+# TG Obergericht RBOG 2005 Nr. 40
+
+## Regeste
+
+2. a) Entgegen der Auffassung der Berufungsklägerin stand ihr damit kein "verbrieftes Parteienwahlrecht" zu, um die Durchführung eines schriftlichen Berufungsverfahrens zu verlangen. Nachdem die Berufungsbeklagten der Durchführung eines schriftlichen Berufungsverfahrens indessen zustimmten, wurde diesem Antrag der Berufungsklägerin entsprochen. 1 ZPO, wonach die Berufungsinstanz dem Berufungskläger eine nicht erstreckbare Verwirkungsfrist von 20 Tagen ansetzt, um schriftlich die ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 01.12.2005 RBOG 2005 Nr. 40 (ZBR.2005.9)
+Thurgovie Obergericht Rechenschaftsbericht 01.12.2005 RBOG 2005 Nr. 40 (ZBR.2005.9)
+Turgovia Obergericht Rechenschaftsbericht 01.12.2005 RBOG 2005 Nr. 40 (ZBR.2005.9)
+
+2. a) Entgegen der Auffassung der Berufungsklägerin stand ihr damit kein "verbrieftes Parteienwahlrecht" zu, um die Durchführung eines schriftlichen Berufungsverfahrens zu verlangen. Nachdem die Berufungsbeklagten der Durchführung eines schriftlichen Berufungsverfahrens indessen zustimmten, wurde diesem Antrag der Berufungsklägerin entsprochen. 1 ZPO, wonach die Berufungsinstanz dem Berufungskläger eine nicht erstreckbare Verwirkungsfrist von 20 Tagen ansetzt, um schriftlich die ...
+
+RBOG 2005 Nr. 40
+RBOG 2005 Nr. 40
+Frist zum Stellen der Berufungsanträge im vereinfachten Berufungsverfahren
+(§ 232 ZPO)
+1.    Bei Berufungen gegen Urteile der Bezirksgerichtlichen Kommissionen und der Einzelrichter wird eine schriftliche Berufungsbegründung und eine schriftliche Berufungsantwort eingeholt. Ausnahmsweise, insbesondere wenn die Berufungsantwort wesentliche neue Gesichtspunkte enthält, kann ein doppelter Schriftenwechsel durchgeführt werden (§ 232 Abs. 1 ZPO). Auf Verlangen einer Partei führt das Obergericht eine mündliche Berufungsverhandlung durch (§ 232 Abs. 3 ZPO). Das Obergericht kann jedoch auch von Amtes wegen die Mündlichkeit des Verfahrens anordnen (Merz, Die Praxis zur thurgauischen Zivilprozessordnung, Bern 2000, § 232 N 7).
+2.    a)    Entgegen der Auffassung der Berufungsklägerin stand ihr damit kein "verbrieftes Parteienwahlrecht" zu, um die Durchführung eines schriftlichen Berufungsverfahrens zu verlangen. Vielmehr hätte einerseits auf Verlangen einer Partei eine mündliche Berufungsverhandlung angesetzt werden müssen und andererseits stand es dem Obergerichtspräsidenten frei, bereits zu Beginn des Berufungsverfahrens von Amtes wegen das mündliche Verfahren anzuordnen. Ein Anspruch auf die Durchführung eines schriftlichen Verfahrens besteht somit nicht. Nachdem die Berufungsbeklagten der Durchführung eines schriftlichen Berufungsverfahrens indessen zustimmten, wurde diesem Antrag der Berufungsklägerin entsprochen.
+b)    Die Berufungsklägerin macht geltend, ihr hätte für die Berufungseingabe eine nicht erstreckbare Verwirkungsfrist von 20 statt zehn Tagen angesetzt werden müssen, was sich aus § 228 ZPO ergebe. Die Bestimmung von § 228 Abs. 1 ZPO, wonach die Berufungsinstanz dem Berufungskläger eine nicht erstreckbare Verwirkungsfrist von 20 Tagen ansetzt, um schriftlich die Berufungsanträge zu stellen und allfällige Noven geltend zu machen oder die Durchführung eines schriftlichen Verfahrens zu verlangen, gelangt hier nicht zur Anwendung. Im vereinfachten Verfahren ist § 232 ZPO massgebend; diese Bestimmung sieht keine gesetzliche Frist   auch nicht für die Berufungsanträge   vor, womit eine richterliche Frist anzusetzen ist, welche in der Regel nicht unter zehn Tagen betragen soll (§ 69 ZPO). Die diesbezüglichen Ausführungen der Berufungsklägerin erweisen sich damit als unzutreffend.
+Obergericht, 1. Dezember 2005, ZBR.2005.9
