@@ -1,0 +1,74 @@
+---
+decision_id: "tg_obergericht_TVR_2006_Nr._29"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2006 Nr. 29"
+decided: "2006-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2006-nr-29"
+cites_law: ["switzerland/bund/acts/832.102/art-009.md", "switzerland/bund/acts/832.102/art-090.md"]
+---
+
+# TG Obergericht TVR 2006 Nr. 29
+
+## Regeste
+
+Ausstellen eines Verlustscheines für ausstehende Krankenkassenprämien und Meldung an die Sozialhilfebehörde. Übernahme der Prämienausstände durch die Sozialhilfebehörden
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2006 TVR 2006 Nr. 29
+Thurgovie Obergericht Rechenschaftsbericht 2006 TVR 2006 Nr. 29
+Turgovia Obergericht Rechenschaftsbericht 2006 TVR 2006 Nr. 29
+
+TVR 2006 Nr. 29
+Skip to main content
+Show navigation
+Ausstellen eines Verlustscheines für ausstehende Krankenkassenprämien und Meldung an die Sozialhilfebehörde. Übernahme der Prämienausstände durch die Sozialhilfebehörden
+Art. 90 KVV
+,
+§ 4 Abs. 2 TG KVV
+1. Bestätigung der Rechtsprechung gemäss TVR 2005 Nr. 32. Der Leistungsaufschub einer Krankenkasse nach Art. 90 Abs. 4 KVV beruht auf einer genügenden gesetzlichen Grundlage (Praxisänderung gegenüber TVR 2001 Nr. 37).
+2. Eine Pflicht zur Übernahme von Prämienrückständen durch die Gemeinde besteht nicht in dem Sinne, als sie diese in jedem Fall zu übernehmen hätte (gewissermassen im Sinne einer «Inkassorisikogarantie»). Die Gemeinde hat im gegebenen Zeitpunkt das Wahlrecht, entweder die Prämienausstände oder die Krankheitskosten zu übernehmen (E. 2c).
+Die Krankenkasse M meldete dem Fürsorgeamt der Gemeinde S am 16. Oktober 2003, dass die Prämien für die Grundversicherung der in ihrer Gemeinde wohnhaften C samt Mahnspesen und Betreibungskosten im Gesamtumfang von Fr. 504.95 ausstehend seien. Sie verlange von der Gemeinde, dass dieser Betrag bezahlt werde. Die Krankenkasse legte eine Kopie des Verlustscheins vom 14. Oktober 2003 über diesen Betrag bei. DasFürsorgeamt lehnte die Übernahme ab, da es dazu gesetzlich nicht verpflichtet sei. Es könne in einem Leistungsfall die Prämien auch rückwirkend bezahlen, worauf dann die Kasse die Leistungen rückwirkend zu vergüten habe. Die Kasse gelangte mit Rekurs an das DFS, das abwies. Auch das hierauf angerufene Verwaltungsgericht weist ab.
+Aus den Erwägungen:
+2. b) Wiederzugeben sind primär die für den vorliegenden Fall massgebenden bundesrechtlichen Rechtsgrundlagen. Aufgrund von Prämienausständen im Zeitraum 1. April bis 30. Juni 2003 ist vom bis 31. Dezember 2005 geltenden Art. 90 KVV auszugehen, der per 1. Januar 2003 den alten Art. 9 KVV ersetzte und bezüglich der hier interessierenden Absätze 3 und 4 wie folgt lautet:
+«
+3
+Bezahlen Versicherte fällige Prämien oder Kostenbeteiligungen trotz Mahnung nicht, hat der Versicherer das Vollstreckungsverfahren einzuleiten. Endet das Vollstreckungsverfahren mit der Ausstellung eines Verlustscheines, benachrichtigt der Versicherer die zuständige Sozialhilfebehörde. Vorbehalten bleiben kantonale Bestimmungen, welche eine vorhergehende Meldung an die für die Prämienverbilligung zuständige Behörde vorsehen.
+4
+Nach Ausstellung eines Verlustscheines und Meldung an die Sozialhilfebehörde kann der Versicherer die Übernahme der Kosten für die Leistungen aufschieben, bis die ausstehenden Prämien, Kostenbeteiligungen, Verzugszinse und Betreibungskosten vollständig bezahlt sind. Sind diese bezahlt, hat der Versicherer die Kosten für die Leistungen während der Zeit des Aufschubes zu übernehmen.»
+Die Kasse macht sinngemäss geltend, sie habe das in Abs. 3 i.V. mit der dazugehörigen kantonalen Vorschrift (nämlich § 4 Abs. 1 TG KVV) verlangte Vorgehen korrekt durchgeführt und alsdann der Sozialhilfebehörde eine Kopie des Verlustscheines zugestellt (16. Oktober 2003). Somit sei sie berechtigt, einen Leistungsaufschub zu verhängen. Dieses Vorgehen habe in Einklang mit der Lehre und Praxis gestanden.
+Das trifft in der Tat zu. Zwar ging auch das Verwaltungsgericht anfänglich davon aus, Art. 9 Abs. 2 KVV, die Vorgängerreglung von Art. 90 Abs. 4 KVV, biete keine genügende gesetzliche Grundlage für einen Leistungsaufschub (vgl. TVR 2001, Nr. 37). Wohl in Kenntnis dieses Entscheides stellte sich die Gemeindebehörde auf denselben Standpunkt. Nachdem sich aber das Eidgenössische Versicherungsgericht (EVG) mit Urteil K 1/03 vom 22. August 2003 für die grundsätzliche Anwendbarkeit dieser Regelung ausgesprochen hatte, schloss sich das Verwaltungsgericht dieser Rechtsprechung an (vgl. TVR 2005, Nr. 32, E. 3a). Der Leistungsaufschub der Krankenkasse wegen der Prämienausstände vom 1. April bis 30. Juni 2003 ist demnach grundsätzlich nicht zu beanstanden (ob im Einzelnen alle Voraussetzungen erfüllt sind, ist nicht umstritten und kann angesichts des Verfahrensausgangs offen gelassen werden).
+c) Die Krankenkasse leitet die Pflicht der Gemeinde zur Übernahme der Ausstände nicht aus dem erwähnten Art. 90 KVV ab, sondern aus § 4 Abs. 2 TG KVV. Zu Recht, denn Art. 90 KVV sagt nicht, wer die Ausstände zu bezahlen hat. § 4 TG KVV lautete in der ursprünglichen Fassung vom 19. Dezember 1995:
+«Zahlungsverzug
+§ 4. Leitet ein Versicherer bei Zahlungsverzug der versicherten Person das Vollstreckungsverfahren ein, hat er dies der Wohnsitzgemeinde anzuzeigen.»
+Per 1. Januar 2003 trat folgende Fassung in Kraft:
+«§ 4.
+1
+Leitet ein Versicherer bei Zahlungsverzug der versicherten Person das Vollstreckungsverfahren ein, hat er dies der Wohnsitz- oder Aufenthaltsgemeinde anzuzeigen.
+2
+Die Wohnsitz- oder Aufenthaltsgemeinde übernimmt die während der Wohnsitz- oder Aufenthaltsdauer entstehenden Prämienrückstände und Krankheitskosten, sofern der Versicherer seiner Anzeigepflicht gemäss Absatz 1 innert 12 Monaten nachgekommen ist. Für Kurzaufenthalter beträgt die Frist 6 Monate.
+3
+Begleicht die Wohnsitz- oder Aufenthaltsgemeinde im Versicherungsfall Prämienrückstände der versicherten Person, hat sie gegenüber früheren Wohn- oder Aufenthaltsorten im Kanton das Rückgriffsrecht für dort entstandene Prämienausstände.»
+Auffallend ist, dass hier von einer Pflicht zur Übernahme von Prämienrückständen und Krankheitskosten die Rede ist, was wohl nie die Meinung gewesen sein konnte. Per 1. August 2003 wurden die Absätze 2 und 3 wie folgt geändert:
+«
+2
+Die Wohnsitz- oder Aufenthaltsgemeinde übernimmt die während der Wohnsitz- oder Aufenthaltsdauer entstehenden Prämienrückstände, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten, sofern der Versicherer seiner Anzeigepflicht gemäss Absatz 1 innert 12 Monaten nachgekommen ist. Für Kurzaufenthalter beträgt die Frist 6 Monate.
+3
+Begleicht die Wohnsitz- oder Aufenthaltsgemeinde im Versicherungsfall die Kosten gemäss Absatz 2, hat sie gegenüber früheren Wohn- oder Aufenthaltsorten im Kanton das Rückgriffsrecht für dort entstandene Prämienrückstände und Kostenbeteiligungen.»
+Im Amtsblatt Nr. 19/2004 wurde folgendes Korrigendum vom 10. Mai 2004 publiziert:
+«
+2
+Die Wohnsitz- oder Aufenthaltsgemeinde übernimmt die während der Wohnsitz- oder Aufenthaltsdauer entstehenden Prämienrückstände, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten oder die Krankheitskosten, sofern der Versicherer seiner Anzeigepflicht gemäss Absatz 1 innert 12 Monaten nachgekommen ist. Für Kurzaufenhalter beträgt die Frist 6 Monate.»
+Die Krankenkasse hat der Gemeinde die Ausstände und den Verlustschein am 16. Oktober 2003 angezeigt und das Gesuch um Zahlung der Ausstände am 22. Oktober 2003 gestellt. Damit kommt grundsätzlich die per 1. August 2003 in Kraft getretene Fassung für den vorliegenden Fall zur Anwendung. Das DFS nimmt aber die korrigierte Fassung vom 10. Mai 2004 als Rechtsgrundlage. Es fragt sich, ob das zulässig ist.
+Gemäss § 9 Abs. 1 des Gesetzes über die öffentlichen Bekanntmachungen vom 5. Mai 1978 müssen Erlasse, die im Rechtsbuch aufzunehmen sind, im Amtsblatt veröffentlicht werden (die TG KVV ist im Rechtsbuch aufgenommen). Kantonale Erlasse treten nach § 11 dieses Gesetzes in der Regel am Tage der Veröffentlichung im Amtsblatt in Kraft, sofern der Erlass nicht selbst eine abweichende Regelung enthält. Das im Amtsblatt Nr. 19/2004 veröffentlichte Korrigendum kann also nicht etwa rückwirkend per 1. August 2003 in Kraft getreten sein, enthält doch der Erlass selbst keine Regelung des Inkrafttretens. Massgebend für den vorliegenden Fall ist demnach die per 1. August 2003 in Kraft getretene Fassung. Diese Fassung enthält das von der Gemeinde geltend gemachte Wahlrecht – wie es im Entscheid TVR 2005, Nr. 32, E. 3d genannt wurde – nicht, wie die Kasse zu Recht ausführt. Der Hauptstandpunkt der Gemeinde fällt damit vordergründig in sich zusammen. Gleichwohl ergibt sich aus § 4 Abs. 2 TG KVV (in der Fassung per 1. August 2003) nicht, dass die Gemeinde die ausstehenden Prämien, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten (im Folgenden Prämienausstände etc.) in jedem Fall zwingend zu übernehmen hätte (damit dem Krankenversicherer letztlich gar keine Prämienverluste blieben). Aus Art. 90 KVV (in der Fassung bis 31. Dezember 2005) ergibt sich nur, dass der Versicherer die Kosten für Leistungen während der Zeit des Aufschubes nicht zu übernehmen hat. Eine «Inkassorisikogarantie» enthält weder das Bundesrecht noch das kantonale Recht. Dazu bräuchte es eine Grundlage im Gesetz in formellem Sinne; eine Verordnung des Regierungsrates würde klarerweise nicht reichen. Abzustellen ist auch auf Sinn und Zweck des KVG. Dieses sichert durch das Obligatorium der Krankenpflegeversicherung den Schutz der Bevölkerung vor den wirtschaftlichen Folgen von Krankheit (Unfall und Mutterschaft) und nicht die Kassen vor Prämienverlusten.
+Bezahlt die Gemeinde die Prämienausstände etc. nicht, so läuft sie das Risiko, letztlich für Krankheitskosten via Sozialhilfe angegangen zu werden. Davon kann sie sich aber gemäss Art. 90 KVV in dem Ausmass befreien, als sie die Prämienausstände etc. übernimmt, worauf es dem Versicherer obliegt, die Kosten der Leistungserbringer (nachträglich) zu begleichen. Sind diese Kosten jedoch kleiner als die Prämienausstände etc., wird die Gemeinde sich für die direkte Begleichung der Krankheitskosten entscheiden (und der Krankenkasse entsprechende Mitteilung machen). Allerdings riskiert sie dann, dass sich die Krankenkasse bei einer neuen Erkrankung der/des Versicherten mit Kostenfolge weiterhin darauf berufen wird, es bestehe (gestützt auf Art. 90 KVV) ein Leistungsaufschub bis zur vollständigen Bezahlung der Prämienausstände etc. Insofern ist also das von der Gemeinde in den Vordergrund gerückte Wahlrecht trotz «fehlender» Nennung der Krankheitskosten in § 4 Abs. 2 TG KVV in der Fassung per 1. August 2003 gleichwohl gegeben. Eine generelle Pflicht zur Begleichung von Prämienausständen etc. besteht aber wie gesagt nicht. Das ergibt sich auch aus dem Satzanfang von § 4 Abs. 3 TG KVV («Begleicht...»), der impliziert, dass eine Gemeinde die Prämienausstände etc. eben auch nicht begleichen kann.
+Entscheid vom 6. Dezember 2006
+Die dagegen beim Bundesgericht erhobene Verwaltungsgerichtsbeschwerde ist noch hängig (K12/07).
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
