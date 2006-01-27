@@ -1,0 +1,52 @@
+---
+decision_id: "tg_obergericht_RBOG_2006_Nr._11"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2006 Nr. 11"
+docket_2: "BR.2005.101"
+decided: "2006-01-27"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/00000F16-3706-169B-ACBB0261A14ED036.html"
+cites_law: ["switzerland/bund/acts/172.021/art-055.md", "switzerland/bund/acts/281.1/art-080.md", "switzerland/bund/acts/281.1/art-082.md"]
+---
+
+# TG Obergericht RBOG 2006 Nr. 11
+
+## Regeste
+
+Entscheidend sei, dass der Titel zur Zeit der Rechtsöffnung rechtskräftig und vollstreckbar sei[4]. Dem Obergericht erscheint die zwischen Fälligkeit und formeller Rechtskraft/Vollstreckbarkeit differenzierende Betrachtungsweise gerechtfertigt, weil die Fälligkeit, welche im Zeitpunkt der Einreichung des Betreibungsbegehrens vorausgesetzt ist, zur Forderung an sich gehört, während die Frage der formellen Rechtskraft beziehungsweise der Vollstreckbarkeit lediglich die Durchsetzung der ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 27.01.2006 RBOG 2006 Nr. 11 (BR.2005.101)
+Thurgovie Obergericht Rechenschaftsbericht 27.01.2006 RBOG 2006 Nr. 11 (BR.2005.101)
+Turgovia Obergericht Rechenschaftsbericht 27.01.2006 RBOG 2006 Nr. 11 (BR.2005.101)
+
+Entscheidend sei, dass der Titel zur Zeit der Rechtsöffnung rechtskräftig und vollstreckbar sei[4]. Dem Obergericht erscheint die zwischen Fälligkeit und formeller Rechtskraft/Vollstreckbarkeit differenzierende Betrachtungsweise gerechtfertigt, weil die Fälligkeit, welche im Zeitpunkt der Einreichung des Betreibungsbegehrens vorausgesetzt ist, zur Forderung an sich gehört, während die Frage der formellen Rechtskraft beziehungsweise der Vollstreckbarkeit lediglich die Durchsetzung der ...
+
+RBOG 2006 Nr. 11
+RBOG 2006 Nr. 11
+Zum Zeitpunkt der Einleitung der Betreibung muss der Rechtsöffnungstitel nicht rechtskräftig und vollstreckbar sein; die Fälligkeit der im Titel verurkundeten Forderung genügt
+(Art. 80 SchKG)
+1.       Gemäss der Rechtsprechung des Obergerichts muss die in Betreibung gesetzte Forderung am Tag der Einreichung des Betreibungsbegehrens fällig gewesen sein, andernfalls für die Betreibung trotz des Vorliegens eines Titels keine Rechtsöffnung erteilt werden kann
+[1]
+. Der Rechtsöffnungsrichter hat die Fälligkeit von Amtes wegen zu beachten
+[2]
+.
+Im Rechtsöffnungstitel, einer Beitragsverfügung des Verbands Schweizer Milchproduzenten SMP, legte der Rekurrent den Fälligkeitstermin fest, indem festgehalten wurde, der geschuldete Betrag sei bis am 9. August 2004 zu bezahlen. Der Zahlungsbefehl wurde dem Rekursgegner am 15. Oktober 2004 zugestellt, womit das Betreibungsbegehren wenige Tage zuvor und damit offensichtlich zur Zeit der Fälligkeit der Forderung eingereicht wurde.
+2.     a)       Allerdings war die Beitragsverfügung im Zeitpunkt der Einreichung des Betreibungsbegehrens noch nicht rechtskräftig und vollstreckbar, da sie vom Rekursgegner mit einem Rechtsmittel mit aufschiebender Wirkung
+[3]
+angefochten worden war. Würde die Vollstreckbarkeit der Forderung gleich wie die Fälligkeit bereits im Zeitpunkt der Einreichung des Betreibungsbegehrens verlangt, könnte die Rechtsöffnung nicht erteilt werden. Indessen wird diese Gleichbehandlung in der Literatur mit der Begründung abgelehnt, das Gesetz verlange weder bei der provisorischen noch bei der definitiven Rechtsöffnung - bei letzterer weder bei Zivilurteilen noch bei Entscheiden von Verwaltungsbehörden -, dass der Titel älter als der Zahlungsbefehl sein müsse. Entscheidend sei, dass der Titel zur Zeit der Rechtsöffnung rechtskräftig und vollstreckbar sei
+[4]
+. Dem Obergericht erscheint die zwischen Fälligkeit und formeller Rechtskraft/Vollstreckbarkeit differenzierende Betrachtungsweise gerechtfertigt, weil die Fälligkeit, welche im Zeitpunkt der Einreichung des Betreibungsbegehrens vorausgesetzt ist, zur Forderung an sich gehört, während die Frage der formellen Rechtskraft beziehungsweise der Vollstreckbarkeit lediglich die Durchsetzung der Forderung betrifft. Dabei ist allerdings hinzunehmen, dass der Staat mit Angabe eines Fälligkeitstermins verfügte Forderungen - zum Beispiel auch Abgabeforderungen ‑ mit Eintritt der Fälligkeit, also in der Regel schon kurze Zeit nach Erlass der Verfügung, betreiben kann, auch wenn die Verfügung angefochten ist. Der Schuldner kann die Betreibung dann zwar mit Rechtsvorschlag stoppen, nicht aber die Einleitung einer neuen Betreibung nach Erledigung des Rechtsmittelverfahrens durchsetzen.
+b)       Somit sind die Voraussetzungen für die Erteilung der definitiven Rechtsöffnung erfüllt: Neben der Fälligkeit im Zeitpunkt der Einreichung des Betreibungsbegehrens wurde die Forderung inzwischen rechtskräftig und vollstreckbar.
+Obergericht, 27. Januar 2006, BR.2005.101
+[1]
+RBOG 2000 Nr. 8
+mit Hinweisen
+[2]
+Staehelin, Basler Kommentar, Art. 80 SchKG N 39
+[3]
+Art. 55 Abs. 1 VwVG; Art. 111 Abs. 1 OG
+[4]
+Staehelin, Art. 80 SchKG N 13, 112 und Art. 82 SchKG N 20
