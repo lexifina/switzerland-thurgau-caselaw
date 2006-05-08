@@ -1,0 +1,38 @@
+---
+decision_id: "tg_obergericht_RBOG_2006_Nr._13"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2006 Nr. 13"
+docket_2: "BR.2006.21"
+decided: "2006-05-08"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/000EAB37-371F-169B-ACBB0261A14ED036.html"
+cites_law: ["switzerland/bund/acts/281.1/art-079.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-083.md"]
+---
+
+# TG Obergericht RBOG 2006 Nr. 13
+
+## Regeste
+
+Beruht die Forderung auf einer durch öffentliche Urkunde festgestellten oder durch Unterschrift bekräftigten Schuldanerkennung, so kann der Gläubiger die provisorische Rechtsöffnung verlangen. Das Verfahren der provisorischen Rechtsöffnung mit anschliessender Aberkennungsklage vor dem Zivilrichter ist alsdann ausgeschlossen. Dementsprechend ist das Verfahren der provisorischen Rechtsöffnung mit anschliessender Aberkennungsklage vor dem Zivilrichter ausgeschlossen, und die Erteilung einer ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 08.05.2006 RBOG 2006 Nr. 13 (BR.2006.21)
+Thurgovie Obergericht Rechenschaftsbericht 08.05.2006 RBOG 2006 Nr. 13 (BR.2006.21)
+Turgovia Obergericht Rechenschaftsbericht 08.05.2006 RBOG 2006 Nr. 13 (BR.2006.21)
+
+Beruht die Forderung auf einer durch öffentliche Urkunde festgestellten oder durch Unterschrift bekräftigten Schuldanerkennung, so kann der Gläubiger die provisorische Rechtsöffnung verlangen. Das Verfahren der provisorischen Rechtsöffnung mit anschliessender Aberkennungsklage vor dem Zivilrichter ist alsdann ausgeschlossen. Dementsprechend ist das Verfahren der provisorischen Rechtsöffnung mit anschliessender Aberkennungsklage vor dem Zivilrichter ausgeschlossen, und die Erteilung einer ...
+
+RBOG 2006 Nr. 13
+RBOG 2006 Nr. 13
+Keine provisorische Rechtsöffnung für Lohnforderung aus öffentlich-rechtlichem Arbeitsverhältnis
+(Art. 82 SchKG)
+1.     Ein Gläubiger, gegen dessen Betreibung Rechtsvorschlag erhoben worden ist, hat seinen Anspruch gemäss Art. 79 SchKG im ordentlichen Prozess oder im Verwaltungsverfahren geltend zu machen. Er kann die Fortsetzung der Betreibung nur aufgrund eines rechtskräftigen Entscheids erwirken, der den Rechtsvorschlag ausdrücklich beseitigt. Beruht die Forderung auf einer durch öffentliche Urkunde festgestellten oder durch Unterschrift bekräftigten Schuldanerkennung, so kann der Gläubiger die provisorische Rechtsöffnung verlangen. Gemäss Art. 82 SchKG spricht der Richter dieselbe aus, sofern der Betriebene nicht Einwendungen, welche die Schuldanerkennung entkräften, sofort glaubhaft macht. Für öffentlich-rechtliche Forderungen kann grundsätzlich, selbst wenn sie unterschriftlich oder in öffentlicher Urkunde anerkannt sind, keine provisorische Rechtsöffnung erteilt werden, wenn sie nicht vor dem Zivilrichter geltend gemacht werden können. Gleich verhält es sich bei einer Schuldanerkennung der Verwaltung gegenüber einer Privatperson. Entscheidend ist, ob eine aus dem öffentlichen Recht stammende Forderung auf dem Verwaltungsweg oder vor dem Zivilrichter geltend gemacht werden muss. Kann sie auf dem Verwaltungsweg geltend gemacht werden, so bildet der Verwaltungsentscheid einen Titel zur definitiven Rechtsöffnung. Das Verfahren der provisorischen Rechtsöffnung mit anschliessender Aberkennungsklage vor dem Zivilrichter ist alsdann ausgeschlossen. Daher verweist das Gesetz bei der Anerkennungsklage in Art. 79 Abs. 1 SchKG seit der Revision 1994 alternativ zum ordentlichen Prozess auf das Verwaltungsverfahren, bei der Aberkennungsklage in Art. 83 Abs. 2 SchKG jedoch nur auf den ordentlichen Prozess vor dem (Zivil‑)Gericht des Betreibungsorts. Ohne Aberkennungsklage ist aber auch keine provisorische Rechtsöffnung möglich. Einzig dort, wo die Verwaltung nicht hoheitlich durch Verfügung handeln kann, sondern zur Geltendmachung ihrer Ansprüche ein kantonales Verwaltungsgericht anrufen muss, ist eine provisorische Rechtsöffnung mit anschliessender Aberkennungsklage vor dem Verwaltungsgericht möglich
+[1]
+.
+2.     Hier steht eine Lohnforderung aus einem öffentlich-rechtlichen Arbeitsverhältnis zur Diskussion. Der Rekursgegner erhob denn auch gegen die Entlassung aus dem Dienstverhältnis bei der Personalrekurskommission des Kantons Thurgau Rekurs. Diese trat auf den Rekurs ein und bezeichnete das Anstellungsverhältnis ausdrücklich als öffentlich-rechtliches. Nachdem der Rekursgegner Rekurs bei der Personalrekurskommission erhoben und gleichzeitig seine finanziellen Ansprüche geltend gemacht hatte, was in § 42 Abs. 2 VRG ausdrücklich vorgesehen ist, beschritt er den Weg der Klage beziehungsweise des Verwaltungsverfahrens im Sinn von Art. 79 SchKG. Dementsprechend ist das Verfahren der provisorischen Rechtsöffnung mit anschliessender Aberkennungsklage vor dem Zivilrichter ausgeschlossen, und die Erteilung einer provisorischen Rechtsöffnung kommt schon aus diesem Grund nicht in Betracht. Ein rechtsmissbräuchliches Verhalten der Rekurrentin ist nicht ersichtlich und vermag im Übrigen an dieser Rechtslage ohnehin nichts zu ändern.
+Dem Rekursgegner bleibt damit nichts anderes übrig, als den definitiven Entscheid des Verwaltungsgerichts abzuwarten, welcher einen definitiven Rechtsöffnungstitel darstellen und ihn zur Fortsetzung des Betreibungsverfahrens berechtigen wird. Schliesslich ist darauf hinzuweisen, dass die Fortsetzung der Betreibung aufgrund des bereits eingeleiteten Verwaltungsverfahrens so oder so ausgeschlossen wäre, selbst wenn die provisorische Rechtsöffnung erteilt würde.
+Obergericht, 8. Mai 2006, BR.2006.21
+[1]
+Staehelin, Basler Kommentar, Art. 82 SchKG N 46
