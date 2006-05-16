@@ -1,0 +1,51 @@
+---
+decision_id: "tg_obergericht_RBOG_2006_Nr._08"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2006 Nr. 08"
+decided: "2006-05-16"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2006-nr-8"
+cites_law: ["switzerland/bund/acts/220/art-018.md", "switzerland/bund/acts/220/art-275.md", "switzerland/bund/acts/220/art-305.md", "switzerland/bund/acts/220/art-306.md", "switzerland/bund/acts/221.213.2/art-001.md", "switzerland/bund/acts/221.213.2/art-004.md", "switzerland/bund/acts/221.213.2/art-035a.md"]
+---
+
+# TG Obergericht RBOG 2006 Nr. 08
+
+## Regeste
+
+Abgrenzung der landwirtschaftlichen Pacht von der Gebrauchsleihe
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 1987 RBOG 2006 Nr. 08
+Thurgovie Obergericht Rechenschaftsbericht 1987 RBOG 2006 Nr. 08
+Turgovia Obergericht Rechenschaftsbericht 1987 RBOG 2006 Nr. 08
+
+RBOG 2006 Nr. 08
+Skip to main content
+Show navigation
+Abgrenzung der landwirtschaftlichen Pacht von der Gebrauchsleihe
+Art. 4 LPG
+,
+Art. 305 OR
+1. Der Berufungskläger macht geltend, das Vertragsverhältnis zwischen den Parteien falle unter das Bundesgesetz über die landwirtschaftliche Pacht[1] und könne nur unter Beachtung der Bestimmungen im LPG aufgelöst werden.
+2. a) aa) Das LPG gilt laut Art. 1 Abs. 1 lit. a für die Pacht von Grundstücken zur landwirtschaftlichen Nutzung. Gemäss Art. 4 Abs. 1 LPG verpflichtet sich der Verpächter durch den Pachtvertrag, dem Pächter ein Gewerbe oder ein Grundstück zur landwirtschaftlichen Nutzung zu überlassen, und der Pächter, dafür einen Pachtzins zu leisten. Der Pachtzins kann nach Art. 35a Abs. 1 LPG in Geld, einem Teil der Früchte (Teilpacht) oder in einer Sachleistung bestehen. In Abgrenzung zur Pacht ist die Gebrauchsleihe demgegenüber zwingend unentgeltlich[2], nicht jedoch kostenlos[3]. Der Entlehner hat regelmässig die Kosten für den Gebrauch und den gewöhnlichen Unterhalt zu tragen[4]. Der Entlehner darf von der geliehenen Sache gemäss Art. 306 Abs. 1 OR nur denjenigen Gebrauch machen, der sich aus dem Vertrag oder, wenn darüber nichts vereinbart ist, aus ihrer Beschaffenheit oder Zweckbestimmung ergibt. Der Inhalt eines Vertrags bestimmt sich nach Massgabe von Art. 18 Abs. 1 OR in erster Linie durch subjektive Auslegung, das heisst nach dem übereinstimmenden wirklichen Parteiwillen.
+bb) Zwischen den Parteien ist unbestritten, dass der Berufungskläger auf der fraglichen Parzelle Gras mähen konnte und dafür kein Geld zu bezahlen hatte. Der Berufungskläger macht jedoch geltend, die anderweitige Nutzung der Parzelle durch die Berufungsbeklagte sei als Entgelt zu betrachten. Zumindest ab August 2003, dem Zeitpunkt der Vermietung der Parzelle an einen Dritten für Veranstaltungen, mit welchem eine stärkere Nutzung durch die Berufungsbeklagte begonnen habe, sei das Vertragsverhältnis als Pacht zu qualifizieren. Dieser Auffassung kann nicht gefolgt werden.
+Dem Berufungskläger wurde lediglich das Recht eingeräumt, auf der Parzelle Gras mähen zu dürfen. Dass nicht beabsichtigt war, dem Berufungskläger ein umfassendes und ausschliessliches Nutzungsrecht an der Parzelle einzuräumen, zeigt sich gerade darin, dass die Berufungsbeklagte das Land auch für eigene und fremde Zwecke nutzte, was vom Berufungskläger akzeptiert wurde, mag dies auch widerwillig geschehen sein. Das Argument des Berufungsklägers, dass er als Bauer durch seine Arbeit den Graswuchs gefördert habe und deshalb eine anderweitige Nutzung des Landes durch die Berufungsbeklagte eine "Landgutsrente" darstelle, überzeugt nicht. Indem die Berufungsbeklagte ihr eigenes Land für das Aufstellen von Plakaten und für diverse Veranstaltungen benützte, wurde möglicherweise der Umfang des vom Berufungskläger geernteten Grases vermindert. Diese Verminderung stellt jedoch ebenso wenig ein Entgelt des Berufungsklägers an die Berufungsbeklagte dar wie allfällige Erträge aus dem Aufstellen von Plakaten oder der Vermietung des Bodens an Dritte, zumal solche Erträge nicht von der Bearbeitung des Landes durch den Berufungskläger abhingen und der Berufungskläger dafür keine Gegenleistung erbrachte.
+cc) Zusammenfassend ist der Gebrauchsüberlassungsvertrag zwischen den Parteien mangels Entgelts nicht als Pacht i.S.v. Art. 4 LPG respektive Art. 275 ff. OR, sondern als Gebrauchsleihe im Sinn von Art. 305 ff. OR zu qualifizieren.
+b) aa) Unter das LPG fallen gemäss Art. 1 Abs. 2 LPG auch Rechtsgeschäfte, die das Gleiche bezwecken wie die landwirtschaftliche Pacht und ohne Unterstellung unter das Gesetz den von diesem angestrebten Schutz vereiteln würden. Bei einer Gebrauchsleihe kann es sich unter Umständen um ein Umgehungsgeschäft im Sinn von Art. 1 Abs. 2 LPG handeln, wenn kein Übergangsproblem und kein vernünftiger Grund für eine kürzere Vertragsdauer vorliegt[5].
+bb) Bei der fraglichen Parzelle handelt es sich um Bauland. Sie grenzt an der Süd- und Westseite an das von der Berufungsbeklagten betriebene Einkaufszentrum. Gerichtsnotorisch ist, dass die Berufungsbeklagte plant, das Einkaufszentrum zu erweitern und die hier interessierende Parzelle von diesem Bauvorhaben auch mitbetroffen sein wird. Angesichts dieser Entwicklung hat die Berufungsbeklagte ein legitimes Interesse an der kurzfristigen Verfügbarkeit des Bodens. Da die Berufungsbeklagte die Parzelle für das Aufstellen von Plakaten, Autoausstellungen oder diverse Veranstaltungen nutzte, bestand zudem ein vernünftiger Grund dafür, dem Berufungskläger nicht ein umfassendes landwirtschaftliches Nutzungsrecht einzuräumen, sondern nur das Recht, auf der Parzelle Gras zu mähen. Da sich die Ausgestaltung der Vereinbarung zwischen den Parteien als unentgeltliche Gebrauchsleihe somit sowohl in Bezug auf die Dauer als auch auf den Umfang der Berechtigung des Berufungsklägers auf vernünftige Gründe stützt, stellt sie kein Umgehungsgeschäft im Sinn von Art. 1 Abs. 2 LPG dar.
+c) Zusammenfassend ist davon auszugehen, dass es sich bei dem zwischen den Parteien vereinbarten Vertragsverhältnis um eine Gebrauchsleihe handelt und die Vorschriften des LPG nicht anwendbar sind.
+Obergericht, 16. Mai 2006, ZBR.2006.3
+Auf eine dagegen erhobene Berufung trat das Bundesgericht am 23. Oktober 2006 nicht ein (4C.303/2006).
+[1] LPG, SR 221.213.2
+[2] Higi, Zürcher Kommentar, Vorbem. zu Art. 305-311 OR N 45; Studer, Basler Kommentar, Art. 305 OR N 3; Bucher, Obligationenrecht BT, 3.A., S. 185, 192
+[3] Higi, Art. 305 OR N 72
+[4] Higi, Art. 305 OR N 72 ff.
+[5] Studer/Hofer, Das landwirtschaftliche Pachtrecht, Brugg 1987, S. 38 f.; Higi, Vorbem. zu Art. 305-311 OR N 48
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
