@@ -1,0 +1,144 @@
+---
+decision_id: "tg_obergericht_RBOG_2006_Nr._6"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2006 Nr. 6"
+docket_2: "ZBR.2006.11"
+decided: "2006-06-29"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/0000D2A2-364E-169B-ACBB0261A14ED036.html"
+cites_law: ["switzerland/bund/acts/210/art-001.md", "switzerland/bund/acts/220/art-335f.md", "switzerland/bund/acts/220/art-337.md", "switzerland/bund/acts/220/art-356.md"]
+---
+
+# TG Obergericht RBOG 2006 Nr. 6
+
+## Regeste
+
+2. Gegenstand der Berufung ist die Frage, ob der Berufungskläger Ansprüche aus dem Sozialplan geltend machen kann. cc) Zwar enthält der Sozialplan keine ausdrückliche Antwort auf die Frage, ob Mitarbeiter, die im Zeitpunkt der Schliessung des Betriebszweigs wegen Krankheit Leistungen der Berufungsbeklagten oder von Dritten erhielten, Anspruch auf eine Austrittsentschädigung oder eine Leistung gemäss Sozialplan haben. Der im September 2003 im Rahmen einer weiteren Umstrukturierung ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 29.06.2006 RBOG 2006 Nr. 6 (ZBR.2006.11)
+Thurgovie Obergericht Rechenschaftsbericht 29.06.2006 RBOG 2006 Nr. 6 (ZBR.2006.11)
+Turgovia Obergericht Rechenschaftsbericht 29.06.2006 RBOG 2006 Nr. 6 (ZBR.2006.11)
+
+2. Gegenstand der Berufung ist die Frage, ob der Berufungskläger Ansprüche aus dem Sozialplan geltend machen kann. cc) Zwar enthält der Sozialplan keine ausdrückliche Antwort auf die Frage, ob Mitarbeiter, die im Zeitpunkt der Schliessung des Betriebszweigs wegen Krankheit Leistungen der Berufungsbeklagten oder von Dritten erhielten, Anspruch auf eine Austrittsentschädigung oder eine Leistung gemäss Sozialplan haben. Der im September 2003 im Rahmen einer weiteren Umstrukturierung ...
+
+RBOG 2006 Nr. 6
+RBOG 2006 Nr. 6
+Rechtsnatur und Auslegung eines Sozialplans
+(Art. 356 OR; Art. 1 ZGB)
+1.     Der Berufungskläger arbeitete seit Jahren bei der Berufungsbeklagten. Im Zuge einer Restrukturierung wurde der Betriebszweig, in welchem der Berufungskläger tätig war, per Ende März 2002 geschlossen und dem Berufungskläger im Dezember 2001 per Ende März 2002 gekündigt. Der Berufungskläger ist seit Mitte Januar 2002 arbeitsunfähig und erlangte seine Arbeitsfähigkeit nicht wieder. Sein Arbeitsverhältnis dauerte aufgrund der gesetzlichen Sperrfrist bis Ende Oktober 2002. Er ist heute IV-Rentner.
+Ende Januar 2002 unterzeichneten die Betriebskommission und die Angestelltenvertretung der Berufungsbeklagten auf der einen und die Berufungsbeklagte auf der anderen Seite im Zusammenhang mit der Schliessung des fraglichen Betriebszweigs einen Sozialplan.
+2.       Gegenstand der Berufung ist die Frage, ob der Berufungskläger Ansprüche aus dem Sozialplan geltend machen kann.
+a)       Der Berufungskläger fordert gestützt auf den Sozialplan eine Austrittsentschädigung. Die Voraussetzungen dafür seien gegeben, da er nicht vorzeitig pensioniert worden sei und die Kündigung nicht auf ein Fehlverhalten seinerseits zurückgehe, sondern auf die Schliessung.
+b)       Die Berufungsbeklagte bestreitet einen Anspruch des Berufungsklägers auf eine Abgangsentschädigung, weil er andere Leistungen bezogen habe, die weit über den Betrag der Abgangsentschädigung hinausgingen. Zwar statuiere der Sozialplan für Arbeitnehmer, die vor oder anlässlich der Schliessung langzeitkrank gewesen und aufgrund der Lohnfortzahlungspflicht und aufgrund der Leistungen der Kurzzeit-Erwerbsausfall-Versicherung anderweitig entschädigt worden seien, keine Ausnahme. Das sei eine Lücke im Sozialplan, die entsprechend dem Willen der Vertragspartner zu füllen sei. Die Betriebskommission und die Arbeitnehmervertretung auf der einen und die Berufungsbeklagte auf der anderen Seite seien sich immer einig gewesen, dass diese Arbeitnehmer nicht auch noch eine Leistung aus dem Sozialplan erhalten sollten.
+c)       Die Vorinstanz hielt dafür, die normativen Bestimmungen eines Sozialplans seien wie die normativen Bestimmungen eines Gesamtarbeitsvertrags und damit wie Gesetze auszulegen. Es liege eine Lücke im Sozialplan vor, die gemäss Art. 1 Abs. 2 und 3 ZGB zu füllen sei. Die Vorinstanz kam zum Schluss, Arbeitnehmer, die bei der Betriebsschliessung wegen Krankheit zu 100% arbeitsunfähig gewesen und auch später nicht mehr auf den Arbeitsmarkt zurückgekehrt seien, hätten keine Ansprüche auf eine Austrittsentschädigung.
+3.     a)       Der Sozialplan ist in der Schweiz gesetzlich nicht normiert und ein entsprechendes Projekt des Bundesamts für Justiz mittlerweile gestoppt. Über die Rechtsnatur des Sozialplans besteht nicht durchwegs Einigkeit; sie hängt auch von der Art des Zustandekommens und dem Inhalt ab
+[1]
+. Wird der Sozialplan vom Arbeitgeber mit einem Arbeitnehmerverband vertraglich vereinbart und enthält er Bestimmungen über den Inhalt oder die Beendigung der Arbeitsverhältnisse, liegt ein Gesamtarbeitsvertrag im Sinn von Art. 356 OR vor
+[2]
+. Wird der Sozialplan hingegen einseitig vom Arbeitgeber erlassen oder sind die Sozialplanmassnahmen individuell zwischen Arbeitgeber und einem einzelnen Arbeitnehmer vereinbart, handelt es sich nicht um eine Kollektivvereinbarung
+[3]
+.
+Die Frage der Rechtsnatur des Sozialplans ist deshalb von Bedeutung, weil deren Beantwortung die Auslegung bestimmt: Ist der Sozialplan gleich wie ein Gesamtarbeitsvertrag zu behandeln, sind die darin enthaltenen normativen Bestimmungen wie ein Gesetz auszulegen. Handelt es sich hingegen um die Anpassung von Individualarbeitsverträgen, sind diese gemäss den Grundsätzen über die Auslegung von Verträgen zu interpretieren
+[4]
+.
+b)       Im Entscheid vom 17. Oktober 2003 kam das Bundesgericht entgegen der ‑ allerdings spärlich publizierten ‑ Praxis und der Lehre zum Schluss, beim Sozialplan überwiege die vertragliche Rechtsnatur, zumindest wenn dieser bezüglich des Gegenstands und des Adressatenkreises begrenzt sei und ihm somit der generell-abstrakte Charakter fehle
+[5]
+. Auf diesen Entscheid beruft sich die Berufungsbeklagte. Er überzeugt allerdings nicht. Müller
+[6]
+legte zutreffend dar, der Sozialplan wirke im Normalfall, indem er gestützt auf eine GAV-Dele­gationsnorm im Sinn einer Betriebsvereinbarung zustande komme, normativ stellvertretend für GAV-Recht, mithin kollektivrechtlich. Dem schlossen sich Vischer und Streiff/von Kaenel grundsätzlich an
+[7]
+. Nicht zuzustimmen ist insbesondere der Feststellung des Bundesgerichts, mit dem Kriterium, der Sozialplan sei auf die von der Kündigung des Arbeitsverhältnisses betroffenen Arbeitnehmer anwendbar, werde der ausgesprochen konkrete Charakter der Regelung aufgezeigt; dadurch führe der Sozialplan zu einer Änderung der individuellen Arbeitsvertragsbedingungen einer begrenzten Zahl von Arbeitnehmern, und es fehle ihm somit jeder generell-abstrakte Charakter eines normativen Akts
+[8]
+. Diese Argumentation ist in der Tat eine "besondere Logik"
+[9]
+: Alsdann wäre jede gesetzliche Regelung nicht generell-abstrakter Natur mit normativer Wirkung, sondern immer individuell-konkret mit vertraglicher Wirkung, weil jede gesetzliche Regelung irgendwann mit Wirkungen auf ein konkretes Rechtsverhältnis verbunden ist
+[10]
+. Der von der Berufungsbeklagten zitierte Entscheid des Bundesgerichts vom 17. Oktober 2003 scheint denn auch ein Einzelfall zu sein. In BGE 130 V 26 bezeichnete das Bundesgericht den Sozialplan ohne eigentliche Auseinandersetzung mit der Frage der Rechtsnatur unter Hinweis auf zwei nicht in der amtlichen Sammlung publizierte Entscheide
+[11]
+als besondere Form eines Gesamtarbeitsvertrags. In BGE 132 III 43 f. bestätigte das Bundesgericht diese Rechtsprechung, allerdings ohne Auseinandersetzung mit seinem Entscheid vom 17. Oktober 2003. Es wies ergänzend darauf hin, ein Sozialplan müsse nicht notwendigerweise das Ergebnis von Verhandlungen zwischen Sozialpartnern sein, sondern könne auch aus einem einseitigen Beschluss des Arbeitgebers resultieren. Im Regelfall sei der Sozialplan aber eine Folge von Vertragsverhandlungen mit den Gewerkschaften oder der Betriebskommission. Er nehme alsdann die Form eines Gesamtarbeitsvertrags an oder werde in eine Betriebsvereinbarung integriert
+[12]
+.
+c)       Der fragliche Sozialplan basiert auf der Vereinbarung in der Maschinenindustrie (VMI) vom 1. Juli 1998 und findet grundsätzlich Anwendung auf alle Mitarbeiterinnen und Mitarbeiter, deren Arbeitsvertrag im Zusammenhang mit der Schliessung des fraglichen Betriebszweigs per Ende März 2002 beendigt wird. Er wurde zwischen der Arbeitgeberin und der Arbeitnehmervertretung abgeschlossen. Es handelt sich um eine Betriebsvereinbarung, die gestützt auf eine Delegationsnorm im GAV getroffen wurde. Der Sozialplan ist daher wie ein Gesamtarbeitsvertrag und damit wie ein Gesetz auszulegen.
+4.     a)       aa)   Ein Gesetz ist in erster Linie aus sich selbst heraus, d.h. nach Wortlaut, Sinn und Zweck und den ihm zugrunde liegenden Wertungen auf der Basis einer teleologischen Verständnismethode auszulegen. Auszurichten ist die Auslegung auf die ratio legis, die zu ermitteln den Gerichten nicht nach ihren eigenen, subjektiven Wertvorstellungen, sondern nach den Vorgaben des Gesetzgebers aufgegeben ist. Der Balancegedanke des Prinzips der Gewaltenteilung bestimmt nicht allein die Gesetzesauslegung im herkömmlichen Sinn, sondern führt darüber hinaus zur Massgeblichkeit der bei der Auslegung gebräuchlichen Methode auf den Bereich richterlicher Rechtsschöpfung, indem ein vordergründig klarer Wortlaut einer Norm entweder auf dem Analogieweg auf einen davon nicht erfassten Sachverhalt ausgedehnt oder umgekehrt auf einen solchen Sachverhalt durch teleologische Reduktion nicht angewandt wird. Die Auslegung des Gesetzes ist zwar nicht entscheidend historisch zu orientieren, im Grundsatz aber dennoch auf die Regelungsabsicht des Gesetzgebers und die damit erkennbar getroffenen Wertentscheidungen auszurichten, da sich die Zweckbezogenheit des rechtsstaatlichen Normverständnisses nicht aus sich selbst begründen lässt, sondern aus den Absichten des Gesetzgebers abzuleiten ist, die es mit Hilfe der herkömmlichen Auslegungselemente zu ermitteln gilt. Die Gesetzesauslegung hat sich vom Gedanken leiten zu lassen, dass nicht schon der Wortlaut die Rechtsnorm darstellt, sondern erst das an Sachverhalten verstandene und konkretisierte Gesetz. Gefordert ist die sachlich richtige Entscheidung in normativem Gefüge, ausgerichtet auf ein befriedigendes Ergebnis aus der ratio legis. Das Bundesgericht befolgt dabei einen pragmatischen Methodenpluralismus und lehnt es ab, die einzelnen Auslegungselemente einer hierarchischen Prioritätenordnung zu unterstellen
+[13]
+. Zusammengefasst ist bei der Auslegung in erster Linie vom Wortlaut auszugehen, bei Mehrdeutigkeit vom Umfeld der Norm, vom Normzweck sowie vom Willen des Gesetzgebers, wie er sich aus den Materialien ergibt. Nach der objektiven Auslegungsmethode ist danach zu fragen, was die vernünftigen und korrekten Adressaten der Norm unter den ihnen erkennbaren Umständen aus der Norm ‑ hier der gesamtarbeitsvertraglichen Regelung ‑ als Sinn herauslesen müssen
+[14]
+.
+bb)   Eine echte Gesetzeslücke liegt nach der Rechtsprechung des Bundesgerichts vor, wenn der Gesetzgeber etwas zu regeln unterlassen hat, was er hätte regeln müssen, und wenn dem Gesetz weder nach seinem Wortlaut noch nach dem durch Auslegung zu ermittelnden Inhalt eine Vorschrift entnommen werden kann. Von einer unechten oder rechtspolitischen Lücke ist demgegenüber die Rede, wenn dem Gesetz zwar eine Antwort, aber keine befriedigende, zu entnehmen ist, namentlich, wenn die vom klaren Wortlaut geforderte Subsumtion eines Sachverhalts in der Rechtsanwendung teleologisch als unhaltbar erscheint. Echte Lücken zu füllen, ist dem Richter aufgegeben; unechte zu korrigieren, ist ihm nach traditioneller Auffassung grundsätzlich verwehrt, es sei denn, die Berufung auf den als massgeblich erachteten Wortsinn der Norm stelle einen Rechtsmissbrauch dar. Zu beachten ist indessen, dass mit dem Lückenbegriff in seiner heutigen "schillernden Bedeutungsvielfalt leicht die Grenze zwischen zulässiger richterlicher Rechtsfindung contra verba aber secundum rationem legis
+[15]
+und grundsätzlich unzulässiger richterlicher Gesetzeskorrektur verwischt wird"
+[16]
+.
+Die Lehre vertritt die Auffassung, die Abgrenzung zwischen Auslegung und Lückenfüllung habe kaum praktische Bedeutung. Die grundsätzliche Unterscheidung sei überholt. Das gelte sowohl methodologisch als auch unter dem Gesichtspunkt der Kompetenz des Richters im Verhältnis gegenüber dem Gesetzgeber. Die einzig praktisch bedeutsame Unterscheidung sei jene zwischen zulässiger und unzulässiger richterlicher Rechtsfindung, mithin zwischen zulässiger richterlicher Lückenfüllung einerseits und unzulässiger rechtspolitischer Entscheidung andererseits
+[17]
+.
+b)       aa)   Im Zusammenhang mit Massenentlassungen wird oft ein Sozialplan vereinbart. Allerdings besteht kein gesetzliches Obligatorium für einen Sozialplan im Fall der Massenentlassung. Es ist nur die Konsultation und Information der Arbeitnehmervertretung und ein entsprechendes Verfahren gesetzlich vorgesehen
+[18]
+. Gemäss deutschem Recht dient der Sozialplan laut § 112 Abs. 1 des Betriebsverfassungsgesetzes dem Ausgleich oder der Milderung der wirtschaftlichen Nachteile, die Arbeitnehmer infolge einer Betriebsänderung erleiden. In der Schweiz gilt der Sozialplan im weitesten Sinn als Massnahme zum Schutz bei Massenentlassungen. Die Auswirkungen von Massenentlassungen sollen abgefedert, und den Betroffenen soll der Übergang zu einer neuen Stelle erleichtert werden. Der Sozialplan hilft, menschliche und wirtschaftliche Härten für die von Abbaumassnahmen betroffene Belegschaft zu vermeiden oder zumindest zu mildern. Inhaltlich sind dem Sozialplan kaum Grenzen gesetzt. Es sind viele Massnahmen denkbar, die dem genannten Zweck dienen können. Der Inhalt hängt unter anderem von den Forderungen der Arbeitnehmer, der Bereitschaft der Arbeitgeber, aber auch von den vorhandenen oder zur Verfügung gestellten finanziellen Mitteln ab. In Betracht kommt etwa die Regelung folgender Bereiche: Zahlung von Abgangsentschädigungen, Durchhalteprämien, Erstreckung der Kündigungsfrist, Besitzstandswahrung oder Deckung von Einkommensverlusten für eine bestimmte Dauer, Finanzierung von Stellenvermittlungen, Stelleninseraten, Supervision, Outplacement, Umschulung oder Weiterbildung, Beteiligung der Arbeitgeber an Umzugs- und Transportkosten, Weiterzahlung von Sozialversicherungsbeiträgen und Versicherungsprämien für eine gewisse Zeit, Leistung von Betreuungszulagen, Ermöglichung vorzeitiger Pensionierung ohne Renteneinbusse
+[19]
+.
+bb)   Der Sozialplan basiert gemäss seiner Ziff. 1 auf Art. 40-45 VMI. Er findet laut Ziff. 2 Anwendung auf alle Mitarbeiterinnen und Mitarbeiter, deren Arbeitsvertrag im Zusammenhang mit der Schliessung des Betriebszweigs per Ende März 2002 gekündigt wird. Er gilt ferner für Mitarbeiterinnen und Mitarbeiter, die im Zusammenhang mit der Schliessung innerhalb des Unternehmens versetzt werden, das neue Arbeitsverhältnis aber vom Arbeitgeber innert dreier Monate nach der Versetzung aufgelöst wird, weil der Mitarbeiter für die neue Aufgabe ungeeignet ist. Keine Anwendung findet der Sozialplan bei Kündigungen durch den Arbeitnehmenden, bei Versetzungen und bei disziplinarischen oder anderen wichtigen Gründen gemäss Art. 337 OR. Gemäss Ziff. 3 bezweckt der Sozialplan, menschliche und wirtschaftliche Härten gegenüber den von der Schliessung betroffenen Mitarbeiterinnen und Mitarbeitern nach Möglichkeit zu vermindern oder zu vermeiden. Er basiert auf dem Grundsatz "Hilfe zur Selbsthilfe". Laut Ziff. 13 des Sozialplans können die von der Schliessung betroffenen Mitarbeiter nach vollendetem 60. Altersjahr, Mitarbeiterinnen mit Jahrgang 1943 und älter mit ihrem Einverständnis vorzeitig in Pension gehen, wobei in Verbesserung der im Pensionskassenreglement vorgesehenen Leistungen der Grundbetrag der Überbrückungsrente ungeschmälert bis zum Erreichen des ordentlichen Rücktrittsalters ausgerichtet und die Kostenbeteiligung des betroffenen Mitarbeiters voll durch das Unternehmen übernommen wird. Ziff. 17 regelt die Austrittsentschädigung der Entlassenen. Gemäss Ziff. 17.1 erhalten Mitarbeiter, die nicht vorzeitig pensioniert werden, und denen auch nicht wegen Fehlverhaltens gekündigt wurde, eine Austrittsentschädigung. Ziff. 17.2 legt die Kriterien für die Höhe der Austrittsentschädigung fest und verweist auf eine entsprechende Skala.
+cc)   Zwar enthält der Sozialplan keine ausdrückliche Antwort auf die Frage, ob Mitarbeiter, die im Zeitpunkt der Schliessung des Betriebszweigs wegen Krankheit Leistungen der Berufungsbeklagten oder von Dritten erhielten, Anspruch auf eine Austrittsentschädigung oder eine Leistung gemäss Sozialplan haben. Trotzdem kann nicht ohne weiteres von einer Lücke ausgegangen werden, da es in der Natur der Sache liegt, dass normative Bestimmungen nicht jeden Einzelfall regeln. Vielmehr ist durch Auslegung zu ermitteln, ob der konkrete Einzelfall unter eine bestimmte Norm fällt oder nicht.
+c)       aa)       Entgegen der Auffassung der Vorinstanz hat der Berufungskläger Anspruch auf eine Austrittsentschädigung gemäss Ziff. 17 des Sozialplans:
+Der Sozialplan findet gemäss dessen Ziff. 2 Anwendung auf den Berufungskläger, da ihm im Zusammenhang mit der Schliessung gekündigt wurde und nicht aus wichtigen Gründen im Sinn von Art. 337 OR. Zudem erfüllt der Berufungskläger die Voraussetzungen für eine Austrittsentschädigung, denn der Sozialplan sieht diese für Mitarbeiter vor, die nicht vorzeitig pensioniert werden, und denen nicht wegen eines Fehlverhaltens gekündigt wurde. Der Wortlaut des Sozialplans ist mithin klar: Der Berufungskläger erfüllt die positiven und die negativen Voraussetzungen gemäss Ziff. 17.2.
+Auch die Systematik der Regelung spricht für einen Anspruch des Berufungsklägers. Die Massnahmen und Ansprüche sollen laut dem Sozialplan für alle gelten, denen wegen der Schliessung gekündigt wird und die nicht im Sinn von Art. 337 OR selbst einen Grund für eine Kündigung gesetzt haben. Im Anschluss an die Bestimmung des Anwendungsbereichs wird der Kreis derjenigen umschrieben, die eine Austrittsentschädigung erhalten. Es sind dies die Mitarbeitenden, die nicht vorzeitig pensioniert werden und die nicht mit einem Fehlverhalten die Kündigung verursacht haben. Zusätzliche Ausschlussgründe enthält der Sozialplan nicht. Aus der im Anhang festgelegten Berechnung der Austrittsentschädigung, die einzig von der Höhe des Lohns, vom Alter und Dienstalter sowie von der Anzahl der Kinder abhängt, ergeben sich als indirekte Voraussetzungen ein Mindestalter von 40 Jahren und ein Mindestdienstalter von fünf Jahren. Der Berufungskläger erfüllt diese Bedingungen unbestrittenermassen.
+Der Zweck des Sozialplans ‑ Verminderung oder Vermeidung menschlicher und wirtschaftlicher Härten ‑ ist derart weit, die dadurch gedeckten Massnahmen sind derart zahlreich und die möglichen Umschreibungen der Voraussetzungen und der Höhe einer Abgrenzung derart vielfältig, dass entgegen der Auffassung der Vorinstanz aus der Zweckbestimmung nicht auf eine zusätzliche Einschränkung des Kreises der Anspruchsberechtigten geschlossen werden kann. Vielmehr durften die Adressaten der Norm, mithin die von der Schliessung betroffenen Mitarbeiter, unter diesen Umständen davon ausgehen, dass sie eine Abgangsentschädigung erhalten, wenn sie die festgelegten Voraussetzungen erfüllen.
+Die Vorinstanz verglich den Berufungskläger mit einem Arbeitnehmer, der frühpensioniert wurde, da der Berufungskläger zur Zeit der Betriebsschliessung wegen Krankheit zu 100% arbeitsunfähig gewesen sei und später nicht mehr auf den Arbeitsmarkt zurückkehren müsse, weil er dauerhaft arbeitsunfähig bleibe. Der Berufungskläger habe daher wie ein Frühpensionierter keinen Anspruch auf eine Austrittsentschädigung. Dieser Analogieschluss ist allerdings nicht haltbar: Erstens hinkt der Vergleich mit den vorzeitig Pensionierten in doppelter Hinsicht. Einerseits ist in den vorzeitigen Pensionierungen eine finanzielle Leistung der Berufungsbeklagten enthalten, indem sie gemäss Sozialplan die Kostenbeteiligung des vorzeitig Pensionierten im Zusammenhang mit der Überbrückungsrente übernimmt. Das ist nichts anderes als eine zweckgebundene Austrittsentschädigung, die regelmässig vorkommt
+[20]
+. Damit fällt die Argumentation der Vorinstanz in sich zusammen, denn frühzeitig Pensionierte erhalten ebenfalls eine Abfindung, allerdings in etwas anderer, zweckgebundener Form. Andererseits gibt es neben der finanziellen auch die menschliche Seite zu beachten, was der Sozialplan unter dem Titel "Zweck" ausdrücklich festhält. Mit 60 Jahren und bei voller Pension fällt das Ausscheiden aus dem Erwerbsleben wesentlich leichter als mit 50 oder 45 Jahren. Zweitens war weder zum Zeitpunkt der Schliessung noch zum Zeitpunkt des Austritts des Berufungsklägers nach der wegen Krankheit verlängerten Kündigungsfrist, in dem die Austrittsentschädigung gemäss Ziff. 17.3 des Sozialplans fällig wurde, absehbar, ob und wann der Berufungskläger wieder auf den Arbeitsmarkt zurückkehren werde, oder ob er dauerhaft arbeitsunfähig bleibe. Die Verweigerung eines gemäss Wortlaut bestehenden, fälligen Anspruchs mit einer Tatsache, die sich in Zukunft möglicherweise verwirklichen wird, ist eine unzulässige Auslegung.
+bb)   Das Argument, der Berufungskläger habe andere Leistungen erhalten und deshalb keine finanziellen Nachteile erlitten, genügt nicht, um eine Austrittsentschädigung zu verweigern. Diese Voraussetzung ist im Sozialplan nicht genannt. Es sind auch keine objektiven Anhaltspunkte ersichtlich, aus denen auf einen solchen Ausschlussgrund geschlossen werden dürfte. Eine andere von der Berufungsbeklagten behauptete subjektive Absicht der Vertragsparteien würde daran nichts ändern, da der Sozialplan insbesondere auch aus Gründen des Vertrauensschutzes
+[21]
+objektiv auszulegen ist. Objektiv fehlen aber Anhaltspunkte, die auf eine solche Absicht der Sozialpartner hinweisen würden. Der im September 2003 im Rahmen einer weiteren Umstrukturierung abgeschlossene Sozialplan, auf den die Berufungsbeklagte hinwies, hat für die Auslegung des hier zu beurteilenden Sozialplans keine Bedeutung. Wie bei einer Gesetzesrevision müsste vielmehr davon ausgegangen werden, mit der Revision solle die bisherige Regelung materiell geändert und nicht bestätigt werden. Überdies wirft die von der Berufungsbeklagten angerufene neue Regelung, wonach im Krankheitsfall von mehr als 20 Arbeitstagen während der Kündigungsfrist die Abgangsentschädigung um die bezogenen Leistungen gekürzt wird, unter dem Aspekt der Gleichbehandlung zusätzliche Fragen auf. Der kranke Mitarbeitende sieht sich vor die gleichen Probleme gestellt wie der gesunde; lediglich der Beginn wird um 20 oder mehr Krankheitstage hinausgeschoben. Abgesehen davon belegt der Sozialplan vom September 2003, dass die Abgangsentschädigung gerade nicht von finanziellen Nachteilen abhängig ist. Gemäss diesem Sozialplan erhält der Betroffene, der durch Eigeninitiative eine Stelle im Konzern gefunden hat und damit keinen Schaden erleidet, ebenfalls eine um 50% reduzierte Abgangsentschädigung.
+Auch gemäss dem hier zu beurteilenden Sozialplan spielen tatsächlich erlittene finanzielle Nachteile keine oder zumindest keine entscheidende Rolle. Es wird nicht geprüft, ob der Entlassene durch die Entlassung tatsächlich einen finanziellen Schaden erlitt. Wäre der Berufungskläger beispielsweise nicht krank geworden und hätte er bis zum Produktionsende mitgearbeitet und danach ab Mitte Mai 2002 wieder Arbeit mit gleichem Lohn gefunden, hätte er gemäss der von der Berufungsbeklagten anerkannten Berechnung Fr. 36'609.00 erhalten, obwohl sein finanzieller Schaden nur etwa Fr. 1'500.00 betragen hätte. Bei einem höheren Lohn an der neuen Arbeitsstelle entstünde insgesamt betrachtet überhaupt kein Schaden. Trotzdem wäre die Abgangsentschädigung geschuldet. Dem entspricht, dass Austrittsentschädigungen oft den Beigeschmack von Strafzahlungen für den Arbeitgeber haben
+[22]
+. Der Hinweis auf Leistungen Dritter hilft der Berufungsbeklagten ferner nicht, weil auch der nicht kranke Arbeitslose während längerer Zeit solche Leistungen, insbesondere Arbeitslosentaggelder, erhält.
+Wollte der Anspruch auf eine Austrittsentschädigung von einer tatsächlichen finanziellen Einbusse abhängig gemacht werden, müsste dies aus dem Sozialplan heraus zu lesen sein. Das ist indessen gerade nicht der Fall.
+Obergericht, 29. Juni 2006, ZBR.2006.11
+Eine dagegen erhobene Berufung wies das Bundesgericht am 12. Februar 2007 ab (4C.401/2006).
+[1]
+Streiff/von Kaenel, Leitfaden zum Arbeitsvertragsrecht, 6.A., Art. 335f OR N 11; Vischer, Der Arbeitsvertrag, 3.A., S. 153 und Anm. 20; BGE vom 17. Oktober 2003, 4C.168/2003, Erw. 3.1 (übersetzt in: ARV 2004 S. 20 ff.); BGE 132 III 43 f.
+[2]
+BGE 130 V 26; JAR 1996 S. 303; Müller, Rechtsnatur und Auslegung eines Sozialplans, in: ARV 2004 S. 88
+[3]
+BGE 132 III 44; Müller, S. 88
+[4]
+ARV 2004 S. 21, Erw. 3. Zu den unterschiedlichen Auslegungsregeln für die schuldrechtlichen und die normativen Bestimmungen eines Gesamtarbeitsvertrags: BGE 127 III 322; Vischer, S. 330; Stöckli, Berner Kommentar, Art. 356 OR N 133 ff.
+[5]
+ARV 2004 S. 21 mit Hinweisen
+[6]
+Müller, S. 88 ff.
+[7]
+Vischer, S. 153 f.; Streiff/von Kaenel, Art. 335f OR N 11 und 14
+[8]
+Vgl. ARV 2004 S. 22 Erw. 3.3
+[9]
+Müller, S. 89
+[10]
+Müller, S. 89
+[11]
+BGE vom 2. Juli 2002, 4C.115/2002, und vom 5. Januar 1999, 4C.264/1998
+[12]
+BGE 132 III 44
+[13]
+BGE 128 I 40 f.
+[14]
+Stöckli, Art. 356 OR N 134; Müller, S. 89 f.
+[15]
+Entgegen dem Wortlaut, aber gemäss dem Sinn des Gesetzes
+[16]
+BGE 128 I 42
+[17]
+Baumann/Dürr/Lieber/Marti/Schnyder, Zürcher Kommentar, Art. 1 ZGB N 405 ff.
+[18]
+Art. 335f f. OR
+[19]
+Vgl. Streiff/von Kaenel, Art. 335f OR N 13; http://syndikat.ch; Dienstleistungen; Ratgeber; Massenentlassungen
+[20]
+Müller, Abfindungen in Sozialplänen, in: AJP 1999 S. 287
+[21]
+Vgl. Stöckli, Art. 356 OR N 136
+[22]
+Müller, Abfindungen, S. 287
