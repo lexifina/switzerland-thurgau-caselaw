@@ -1,0 +1,45 @@
+---
+decision_id: "tg_obergericht_RBOG_2006_Nr._14"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2006 Nr. 14"
+docket_2: "BR.2006.66"
+decided: "2006-12-01"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/000C7497-3730-169B-ACBB0261A14ED036.html"
+cites_law: ["switzerland/bund/acts/281.1/art-083.md"]
+---
+
+# TG Obergericht RBOG 2006 Nr. 14
+
+## Regeste
+
+Indessen richten sich Beginn und Dauer der Frist für die Einreichung der Aberkennungsklage gemäss Art. Ist dies der Fall und wurde Rekurs erhoben, beginnt die Frist mit der Eröffnung des Rechtsöffnungsentscheids der oberen kantonalen Instanz[1], und zwar auch dann, wenn trotz Einlegung des ordentlichen Rechtsmittels der Entscheid vorläufig vollstreckbar wird. Ansonsten müsste der Schuldner neben dem ordentlichen Rechtsmittel zusätzlich die Aberkennungsklage erheben[2]. Daraus folgt, dass im ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 01.12.2006 RBOG 2006 Nr. 14 (BR.2006.66)
+Thurgovie Obergericht Rechenschaftsbericht 01.12.2006 RBOG 2006 Nr. 14 (BR.2006.66)
+Turgovia Obergericht Rechenschaftsbericht 01.12.2006 RBOG 2006 Nr. 14 (BR.2006.66)
+
+Indessen richten sich Beginn und Dauer der Frist für die Einreichung der Aberkennungsklage gemäss Art. Ist dies der Fall und wurde Rekurs erhoben, beginnt die Frist mit der Eröffnung des Rechtsöffnungsentscheids der oberen kantonalen Instanz[1], und zwar auch dann, wenn trotz Einlegung des ordentlichen Rechtsmittels der Entscheid vorläufig vollstreckbar wird. Ansonsten müsste der Schuldner neben dem ordentlichen Rechtsmittel zusätzlich die Aberkennungsklage erheben[2]. Daraus folgt, dass im ...
+
+RBOG 2006 Nr. 14
+RBOG 2006 Nr. 14
+Beginn der Frist für die Aberkennungsklage bei Teilrechtskraft des Rechtsöffnungsentscheids
+(Art. 83 Abs. 2 SchKG; § 237 ZPO)
+1.     Die Gläubigerin verlangte eine Rechtskraftbescheinigung für den Teil der in Betreibung gesetzten Forderung, der von der Schuldnerin nicht mit Rekurs angefochten wurde und demnach anerkannt ist; zudem sei der Schuldnerin und dem Faustpfandeigentümer Frist zur Aberkennungsklage zu eröffnen.
+2.     Zwar hemmt der Rekurs Rechtskraft und Vollstreckbarkeit des angefochtenen Entscheids gemäss § 237 ZPO im Umfang der Rekursanträge. Soweit die Schuldnerin den angefochtenen Entscheid anerkannte, wäre dieser somit in Anwendung des kantonalen Rechts rechtskräftig und vollstreckbar. Indessen richten sich Beginn und Dauer der Frist für die Einreichung der Aberkennungsklage gemäss Art. 83 Abs. 2 SchKG nach Bundesrecht. Massgebend für den Beginn der Frist ist, ob gegen den Rechtsöffnungsentscheid ein ordentliches kantonales Rechtsmittel eingelegt werden kann. Ist dies der Fall und wurde Rekurs erhoben, beginnt die Frist mit der Eröffnung des Rechtsöffnungsentscheids der oberen kantonalen Instanz
+[1]
+, und zwar auch dann, wenn trotz Einlegung des ordentlichen Rechtsmittels der Entscheid vorläufig vollstreckbar wird. Ansonsten müsste der Schuldner neben dem ordentlichen Rechtsmittel zusätzlich die Aberkennungsklage erheben
+[2]
+. Daraus folgt, dass im Zusammenhang mit der Aberkennungsklage der Teilrechtskraft nach kantonalem Prozessrecht keine eigenständige Bedeutung zukommen kann. Vielmehr beginnt die Frist zur Erhebung der Aberkennungsklage mit der Eröffnung dieses Entscheids
+[3]
+. Jede andere Betrachtungsweise hätte zur Folge, dass für die Schuldnerin, die nach dem erstinstanzlichen Rechtsöffnungsentscheid einen Teil der in Betreibung gesetzten Forderung anerkennt, zwei Fristen mit unterschiedlichem Beginn laufen und sie zwei Aberkennungs-Teilklagen erheben müsste.
+Obergericht, 1. Dezember 2006, BR.2006.66
+[1]
+BGE 124 III 35
+[2]
+Staehelin, Basler Kommentar, Art. 83 SchKG N 22 mit Hinweisen
+[3]
+Vgl. § 112 ZPO
