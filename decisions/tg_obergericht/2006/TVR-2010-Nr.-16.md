@@ -1,0 +1,48 @@
+---
+decision_id: "tg_obergericht_TVR_2010_Nr._16"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2010 Nr. 16"
+decided: "2006-12-13"
+published: "2010-06-30"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2010-nr-16"
+cites_law: ["switzerland/bund/acts/814.20/art-011.md", "switzerland/bund/acts/814.201/art-012.md"]
+---
+
+# TG Obergericht TVR 2010 Nr. 16
+
+## Regeste
+
+Pflicht zum Anschluss einer Liegenschaft an die öffentliche Kanalisation
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 30.06.2010 TVR 2010 Nr. 16
+Thurgovie Obergericht Rechenschaftsbericht 30.06.2010 TVR 2010 Nr. 16
+Turgovia Obergericht Rechenschaftsbericht 30.06.2010 TVR 2010 Nr. 16
+
+TVR 2010 Nr. 16
+Skip to main content
+Show navigation
+Pflicht zum Anschluss einer Liegenschaft an die öffentliche Kanalisation
+Art. 11 Abs. 2 GSchG
+;
+Art. 12 Abs. 1 GSchV
+Die Zumutbarkeitsgrenze dafür, dass der Eigentümer einer Liegenschaft ausserhalb der Bauzone an die öffentliche Kanalisation anschliessen muss, liegt in etwa bei Fr. 30'000.--, wobei aber immer die konkreten Umstände zu berücksichtigen sind.
+B ist Eigentümer der Parzellen Nrn. 175 und 36 in der Gemeinde P. Die Parzellen befinden sich ausserhalb der Bauzone. 2004 wies das Amt für Umwelt (AfU) B an, seine Wohnliegenschaft bis zum 31. Dezember 2004 an die öffentliche Schmutzwasserkanalisation der Gemeinde P anzuschliessen. Gegen diesen Entscheid erhob B erfolglos Rekurs beim DBU, worauf er ans Verwaltungsgericht gelangte. Dieses hiess die Beschwerde mit Entscheid vom 13. Dezember 2006 insofern teilweise gut, als es die Sache zur Einholung eines Gutachtens hinsichtlich der zu erwartenden Kosten für den Kanalisationsanschluss an das DBU zurückwies.
+Nach Einholung des Gutachtens wies das DBU den Rekurs erneut ab. Wiederum gelangte B an das Verwaltungsgericht, das die Beschwerde abweist.
+Aus den Erwägungen:
+2.
+2.1 Nach Art. 11 Abs. 2 GSchG sind die Grundeigentümer verpflichtet, das im Bereich der öffentlichen Kanalisation anfallende verschmutzte Wasser in die Kanalisation einzuleiten. In Art. 11 Abs. 2 GSchG wird der Bereich öffentlicher Kanalisationen näher umschrieben. Er umfasst die Bauzonen, weitere Gebiete, sobald für sie eine Kanalisation erstellt worden ist, und Gebiete, in denen der Anschluss zweckmässig und zumutbar ist. Es besteht Einigkeit darin, dass lediglich die Anwendung von Art. 11 Abs. 2 lit. c GSchG in Frage kommt, da sich die Grundstücke des Beschwerdeführers weder in einer Bauzone befinden, noch in einem Gebiet, für das eine Kanalisation erstellt worden ist.Art. 12 Abs. 1 GSchV umschreibt, dass der Anschluss ausserhalb von Bauzonen dann zweckmässig sei, wenn er sich mit normalem baulichen Aufwand herstellen lasse. Zumutbar sei er dann, wenn die Kosten dafür diejenigen für vergleichbare Anschlüsse innerhalb der Bauzonen nicht wesentlich überschreiten. Wie bereits im Entscheid vom 13. Dezember 2006 festgehalten, spielt demgegenüber die Frage, ob allenfalls eine Kleinkläranlage günstiger wäre, für die Zumutbarkeit keine Rolle. Festgehalten wurde in jenem Entscheid auch, es sei anerkannt, die Grenze der Zumutbarkeit liege bei Fr. 30'000.--. Davon ist nach wie vor auszugehen.
+2.2 (…)
+2.3 Die Gemeinde P schätzte die gesamten Kosten (Kosten der Detailerschliessung und des Hausanschlusses mit den notwendigen internen Anpassungen, Durchleitungsrecht und Bucheinträge sowie Anschlussgebühren) am 20. August 2007 auf Fr. 29'370.--. Die Gemeinde beabsichtigt, sich an den Kosten der Anschlüsse der drei vom Projekt betroffenen Grundeigentümer mit insgesamt Fr. 3'000.-- bzw. mit einem Zuschuss von Fr. 1'000.-- je angeschlossener Liegenschaft zu beteiligen, weil alle Grundeigentümer für eine ausserordentlich lange Zuleitung aufkommen müssten. Demnach reduziert sich die Kostenschätzung auf Fr. 28'370.--. Der Beschwerdeführer knüpfte in seiner Eingabe vom 1. Juli 2008 an diese Aufstellung an und rechnet mit den vom Experten am 29. Mai 2008 empfohlenen 160 mm-Rohren, was Mehrkosten von Fr. 2'392.35 auslöse. Hinzu kämen noch die Mehrkosten von Fr. 500.-- für einen weiteren Schacht, was Anschlusskosten von Fr. 31'262.35 ausmache. Damit sei die Zumutbarkeitsgrenze von Fr. 30'000.-- klar überschritten.
+Nimmt man - wie vom Experten zugestanden - anstatt der 160 mm-Rohre solche mit einem Durchmesser von 125 mm, so beläuft sich der entsprechende Betrag auf Fr. 28'870.--. Wird noch eine mit 5% bezifferte Teuerung aufaddiert, so betragen die Anschlusskosten Fr. 30'313.35. Damit liegen sie knapp über dem als Zumutbarkeitsgrenze definierten Betrag von Fr. 30'000.-. Dabei wird allerdings nicht berücksichtigt, dass auch die 2006 festgelegte Zumutbarkeitsgrenze von Fr. 30’000.-- zwischenzeitlich der Teuerung angepasst werden müsste. Da diese in den letzten vier Jahren zweifelsfrei mehr als 1% betragen hat, ist die Zumutbarkeitsgrenze für den Beschwerdeführer - so gesehen - noch nicht erreicht. Hinzu kommt nun, dass das Verwaltungsgericht den ersten Entscheid vom 13. Dezember 2006 vor allem deswegen teilweise gutgeheissen hatte, weil der Beschwerdeführer geltend machte, es würden ihm Baukosten in der Höhe von Fr. 40'000.-- bis Fr. 50'000.-- entstehen. Solches wäre in der Tat nicht mehr zumutbar gewesen. Hätte das Ergebnis der Expertise bereits damals vorgelegen, hätte das Verwaltungsgericht seinen Entscheid unzweifelhaft nicht mit einer Rückweisung, sondern mit einer Abweisung der Beschwerde entschieden. Letztlich kann es nicht darauf ankommen, dass eine Zumutbarkeitsgrenze nur um einige wenige Franken überschritten wird. Die heutigen Kostenschätzungen liegen auf jeden Fall im Rahmen dessen, was noch als zumutbar angesehen werden kann.
+2.4 Der Beschwerdeführer verweist auf das Urteil des Bundesgerichts 1A.1/2001 vom 7. Mai 2001. In diesem Entscheid sei ein Betrag von Fr. 6'000.-- bis Fr. 6'700.-- noch als zumutbar erklärt worden. Somit sei die Bandbreite für seine Liegenschaft, für die vier Einwohnergleichwerte (EGW) einzurechnen seien, bei Fr. 24'000.-- bis Fr. 26'800.-- anzusetzen. In BGE 132 V 515 (= Pra 96 Nr. 114) führte das Bundesgericht aus, Kosten von rund Fr. 6'800.-- pro EGW für eine Anschlussleitung von 120 m Länge seien nicht übermässig. Das Bundesgericht selbst hat nicht gesagt, wo die Obergrenze für die Zumutbarkeit liegt, weder im vom Beschwerdeführer zitierten Entscheid, noch im soeben genannten. Das Berner Verwaltungsgericht hat in einem Entscheid, zitiert in URP 2002, Seite 225, erwogen, Anschlusskosten von Fr. 7'500.-- pro EGW seien noch zumutbar. Nachdem der Beschwerdeführer diese Grenze grundsätzlich selbst anerkannt hat und auch aus der Praxis keine fixe Grenze bekannt ist, ist abschliessend festzustellen, dass die voraussichtlichen Kosten des geplanten Anschlusses in der Höhe von rund Fr. 30'000.-- für den Beschwerdeführer zumutbar sind.
+Entscheid vom 30. Juni 2010
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
