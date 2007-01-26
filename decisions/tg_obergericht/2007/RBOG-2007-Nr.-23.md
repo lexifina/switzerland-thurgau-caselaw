@@ -1,0 +1,66 @@
+---
+decision_id: "tg_obergericht_RBOG_2007_Nr._23"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2007 Nr. 23"
+docket_2: "ZR.2006.125"
+decided: "2007-01-26"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/000A2A95-5ADC-1863-81290261A14ED036.html"
+---
+
+# TG Obergericht RBOG 2007 Nr. 23
+
+## Regeste
+
+2. a) Gemäss bundesgerichtlicher Rechtsprechung ist es nicht willkürlich, einer Partei, welche durch einen bei einer Rechtsschutzversicherung angestellten Rechtsanwalt vertreten wird, nicht die übliche Parteientschädigung, sondern lediglich eine Umtriebsentschädigung zuzusprechen[2]. Das Bundesgericht erwog, die unterschiedlichen rechtlichen und wirtschaftlichen Verhältnisse, die je nachdem bestehen, ob die Partei durch einen freiberuflich tätigen oder einen bei einer Rechtsschutzversicherung...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 26.01.2007 RBOG 2007 Nr. 23 (ZR.2006.125)
+Thurgovie Obergericht Rechenschaftsbericht 26.01.2007 RBOG 2007 Nr. 23 (ZR.2006.125)
+Turgovia Obergericht Rechenschaftsbericht 26.01.2007 RBOG 2007 Nr. 23 (ZR.2006.125)
+
+2. a) Gemäss bundesgerichtlicher Rechtsprechung ist es nicht willkürlich, einer Partei, welche durch einen bei einer Rechtsschutzversicherung angestellten Rechtsanwalt vertreten wird, nicht die übliche Parteientschädigung, sondern lediglich eine Umtriebsentschädigung zuzusprechen[2]. Das Bundesgericht erwog, die unterschiedlichen rechtlichen und wirtschaftlichen Verhältnisse, die je nachdem bestehen, ob die Partei durch einen freiberuflich tätigen oder einen bei einer Rechtsschutzversicherung...
+
+RBOG 2007 Nr. 23
+RBOG 2007 Nr. 23
+Entschädigung eines bei einer Rechtsschutzversicherung angestellten Anwalts
+(§ 75 ZPO; §§ 1 ff. AnwT)
+1.     Lässt sich eine Partei in einem Prozess anwaltlich vertreten, richtet sich die Entschädigung nach der Verordnung des Obergerichts über den Anwaltstarif für Zivil- und Strafsachen
+[1]
+. Zu prüfen ist, ob dies auch Geltung hat, wenn eine Partei durch einen bei einer Rechtsschutzversicherung angestellten Rechtsanwalt vertreten wird.
+2.     a)    Gemäss bundesgerichtlicher Rechtsprechung ist es nicht willkürlich, einer Partei, welche durch einen bei einer Rechtsschutzversicherung angestellten Rechtsanwalt vertreten wird, nicht die übliche Parteientschädigung, sondern lediglich eine Umtriebsentschädigung zuzusprechen
+[2]
+. Das Bundesgericht erwog, die unterschiedlichen rechtlichen und wirtschaftlichen Verhältnisse, die je nachdem bestehen, ob die Partei durch einen freiberuflich tätigen oder einen bei einer Rechtsschutzversicherung angestellten Rechtsanwalt vertreten wird, rechtfertigten eine Ungleichbehandlung bei der Bemessung der Entschädigung. Der grundlegende Unterschied bestehe nicht in der Art der Tätigkeit und der Stellung des Vertreters im Prozess, sondern in der rechtlichen, organisatorischen und finanziellen Grundlage, auf welche sich die Tätigkeit abstütze. Das sei zur Hauptsache durch die unterschiedlichen Dienstleistungen bedingt, die von einem freiberuflich tätigen Rechtsanwalt einerseits und einer Rechtsschutzversicherung andererseits primär erbracht würden. Während im einen Fall die berufsmässige Parteivertretung vor Gericht im Vordergrund stehe, gehe es im anderen Fall in erster Linie um das Anbieten und Gewähren von Versicherungsschutz, wie es bei allen Arten des Versicherungsgeschäfts üblich sei. Damit seien auch die unterschiedlichen rechtlichen Regelungen und die damit verbundenen Einschränkungen der Berufstätigkeit verbunden (Unabhängigkeit, Reklameverbot, Schweigepflicht). Dass der Rechtsschutzversicherungs-Anwalt zwar wie ein freiberuflich tätiger Advokat an diese Standespflichten gebunden und auch in der Lage sei, sie einzuhalten, ändere nichts daran, dass er in die betriebliche Organisation der Versicherungsunternehmung eingebunden sei, die selbst solchen Standespflichten nicht unterworfen sei. Er profitiere zum Beispiel mittelbar von den Möglichkeiten der Versicherung, uneingeschränkt für die angebotenen Dienstleistungen zu werben. Zudem sei davon auszugehen, dass er die Infrastruktur der Versicherungsgesellschaft benutzen könne und für seine Arbeit angemessen entschädigt werde. Die Gesellschaft ihrerseits erhalte für ihre Leistungen die Prämien der Versicherungsnehmer, aus denen sie auch ihre Betriebskosten finanziere. Auf solche Verhältnisse sei die kantonale Tarifordnung indessen nicht zugeschnitten. Dieser liege vielmehr der Fall der freiberuflichen Advokaten zugrunde. Für diese stelle das vom Gericht festgesetzte Honorar im Allgemeinen die einzige Entschädigung für die Tätigkeit als Prozessvertreter dar. Berücksichtigt werde damit neben den regelmässig höheren Infrastrukturkosten auch der Umstand, dass die freiberuflichen Anwälte in der Regel Mandate von unterschiedlicher finanzieller Bedeutung ausführten. Es sei deshalb sachlich vertretbar und nicht willkürlich, bei der Bemessung der Parteientschädigung generell dem Umstand Rechnung zu tragen, ob die Parteivertreter bei einer Rechtsschutzversicherung angestellt oder freiberuflich tätig seien, und zwar auch in dem Sinn, dass bei freiberuflichen Anwälten die kantonale Tarifordnung angewendet, bei Angestellten das Honorar dagegen ohne Bindung an den Tarif von Fall zu Fall festgesetzt werde
+[3]
+.
+b)    Der bundesgerichtlichen Rechtsprechung ist zu folgen, zumal auch das Obergericht darauf hinwies, bei der Bemessung der Höhe einer Parteientschädigung werde dem Umstand Rechnung getragen, dass ein beigezogener Anwalt im Anstellungsverhältnis tätig sei
+[4]
+. Daran ändert nichts, dass es dabei um Rechtsanwälte ging, die im Namen des Treuhandunternehmens, für welches sie tätig waren, vor Gericht auftreten wollten. Die Rekurrentin legt nicht dar, aus welchen Gründen von dieser Rechtsprechung abzuweichen wäre. Allein die Argumentation, es wäre ein falsches Signal, wenn eine Arbeitnehmerin, welche in einem arbeitsrechtlichen Prozess obsiege, auch noch die Kosten ihres eigenen Anwalts zu tragen hätte, genügt nicht. Die Ausführungen, wonach die Zufälligkeit, dass die Rekurrentin rechtsschutzversichert sei, keine Ausnahme begründe, welche ein Abweichen von der gesetzlichen Parteikostenverteilung rechtfertige, haben nichts mit der Frage zu tun, wie die Parteientschädigung zu bemessen ist. Damit wird einzig darauf hingewiesen, dass die Vertretung durch einen Anwalt einer Rechtsschutzversicherung keinen Grund bildet, die Kosten nicht gemäss § 75 ZPO zu verlegen
+[5]
+. Dies hat zur Folge, dass unbestrittenermassen auch die von einem Anwalt einer Rechtsschutzversicherung vertretene Partei in der Regel Anspruch auf eine Entschädigung entsprechend dem Verfahrensausgang hat.
+3.     Entschädigungspflichtig ist indessen stets bloss der objektiv notwendige, nicht aber der tatsächlich angefallene Aufwand. Zu den Kosten und Umtrieben gehören beispielsweise die Kosten des Sühneverfahrens, Zeitaufwand und Reisespesen einer Partei wegen Teilnahme an Gerichtsverhandlungen, Instruktionen eines Vertreters, Auslagen für die Beschaffung von Beweismaterial sowie für die Kosten einer Vertretung, wenn und soweit nicht der Anwaltstarif massgebend ist
+[6]
+. Eine obsiegende Partei hat in den Ausnahmefällen von § 34 Abs. 2 ZPO denn auch Anspruch auf eine Parteientschädigung, wenn sie sich durch eine andere Person berufsmässig vertreten lässt, wobei diese Entschädigung aufgrund des konkreten und für die Bemühungen notwendigen Zeitaufwands zu erfolgen hat und in der Regel ein Stundensatz von Fr. 60.00 angemessen ist
+[7]
+. Für den hier strittigen Fall ist ein Zeitaufwand von fünf Stunden ausreichend, zumal eine Vertretung am Vermittlungsvorstand nicht notwendig war. Unter Berücksichtigung der notwendigen Barauslagen ist die Umtriebsentschädigung hier auf gesamthaft Fr. 400.00 festzusetzen. Grundsätzlich wird bei Rechtsanwälten bei entsprechender Steuerpflicht die Mehrwertsteuer zur Gebühr und zu den Barauslagen hinzugerechnet
+[8]
+. Nachdem die Rekurrentin nicht ausführt, dass eine Mehrwertsteuerpflicht besteht, und sich der Rekurseingabe auch keine Mehrwertsteuernummer entnehmen lässt, ist die Mehrwertsteuer aber nicht zusätzlich zu berücksichtigen.
+Obergericht, 26. Januar 2007, ZR.2006.125
+[1]
+RB 176.3
+[2]
+BGE 120 Ia 169
+[3]
+BGE 120 Ia 170 f.
+[4]
+RBOG 1992 S. 18 f.; Merz, Die Praxis zur thurgauischen Zivilprozessordnung, 2.A., § 75 N 37b
+[5]
+BGE 117 Ia 295 ff.
+[6]
+Merz, § 75 ZPO N 25a
+[7]
+Entscheid des Obergerichts vom 13. Dezember 2001, ZBR.2001.6, S. 15 ff.
+[8]
+Merz, § 75 ZPO N 36
