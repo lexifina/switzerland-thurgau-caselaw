@@ -1,0 +1,63 @@
+---
+decision_id: "tg_obergericht_RBOG_2007_Nr._16"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2007 Nr. 16"
+docket_2: "BR.2006.98"
+decided: "2007-02-12"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/00022360-5A79-1863-81290261A14ED036.html"
+cites_law: ["switzerland/bund/acts/220/art-074.md", "switzerland/bund/acts/220/art-257d.md", "switzerland/bund/acts/281.1/art-172.md"]
+---
+
+# TG Obergericht RBOG 2007 Nr. 16
+
+## Regeste
+
+1. Die Vorinstanz eröffnete den Konkurs über die Rekurrentin zu Recht, nachdem die Schuldnerin bis zur Konkursverhandlung vom 15. Dezember 2006 weder den Nachweis über die Ablösung der Betreibung durch vollständige Bezahlung noch einen vom Rekursgegner erklärten Rückzug des Konkursbegehrens vorgelegt hatte. Im Zusammenhang mit dem bargeldlosen Zahlungsverkehr ist aber in Lehre und Praxis umstritten[2], ob der Schuldner nur dann rechtzeitig erfüllt, wenn die Gutschrift auf dem Konto des ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 12.02.2007 RBOG 2007 Nr. 16 (BR.2006.98)
+Thurgovie Obergericht Rechenschaftsbericht 12.02.2007 RBOG 2007 Nr. 16 (BR.2006.98)
+Turgovia Obergericht Rechenschaftsbericht 12.02.2007 RBOG 2007 Nr. 16 (BR.2006.98)
+
+1. Die Vorinstanz eröffnete den Konkurs über die Rekurrentin zu Recht, nachdem die Schuldnerin bis zur Konkursverhandlung vom 15. Dezember 2006 weder den Nachweis über die Ablösung der Betreibung durch vollständige Bezahlung noch einen vom Rekursgegner erklärten Rückzug des Konkursbegehrens vorgelegt hatte. Im Zusammenhang mit dem bargeldlosen Zahlungsverkehr ist aber in Lehre und Praxis umstritten[2], ob der Schuldner nur dann rechtzeitig erfüllt, wenn die Gutschrift auf dem Konto des ...
+
+RBOG 2007 Nr. 16
+RBOG 2007 Nr. 16
+Rechtzeitigkeit der Tilgung der Schuld im Konkursverfahren bei bargeldlosem Zahlungsverkehr
+(Art. 172 Ziff. 3 SchKG)
+1.     Die Vorinstanz eröffnete den Konkurs über die Rekurrentin zu Recht, nachdem die Schuldnerin bis zur Konkursverhandlung vom 15. Dezember 2006 weder den Nachweis über die Ablösung der Betreibung durch vollständige Bezahlung noch einen vom Rekursgegner erklärten Rückzug des Konkursbegehrens vorgelegt hatte.
+2.     In der Zwischenzeit belegte die Rekurrentin die Tilgung der Schuld samt Zinsen und Kosten. Die Anweisung an die Bank zur Überweisung der Schuld erfolgte nachweislich bereits am 13. Dezem­ber 2006 per Eilauftrag. Die Zahlung wurde dem Rekursgegner allerdings erst am 18. Dezember 2006 gutgeschrieben.
+Die Schuld ist im Sinn von Art. 172 Ziff. 3 SchKG zwar erst getilgt, wenn der Kapitalbetrag samt Zinsen und Kosten auf dem Konto des Adressaten gutgeschrieben ist
+[1]
+, weil Geldschulden laut Art. 74 Abs. 2 Ziff. 1 OR grundsätzlich Bringschulden sind. Im Zusammenhang mit dem bargeldlosen Zahlungsverkehr ist aber in Lehre und Praxis umstritten
+[2]
+, ob der Schuldner nur dann rechtzeitig erfüllt, wenn die Gutschrift auf dem Konto des Gläubigers innerhalb der Erfüllungszeit erfolgt, oder ob es bereits ausreicht, dass er innert Frist einzahlt oder den Überweisungsauftrag erteilt
+[3]
+. Bezüglich Postanweisungen sieht das Bundesgericht aufgrund des Vertrauensgrundsatzes als massgebenden Erfüllungszeitpunkt denjenigen der Einzahlung des Betrags am Postschalter an
+[4]
+. Weshalb bei einer Bankzahlung anders entschieden werden soll, wäre angesichts der Verkehrsauffassung in der Praxis nur schwer verständlich. Ferner gibt es in Anbetracht der Verkehrsübung und der Praktikabilität der Überprüfung der Rechtzeitigkeit der Zahlung gute Gründe, bei der Post- oder Banküberweisung im Zusammenhang mit Art. 172 Ziff. 3 SchKG eine eher liberale Haltung zu vertreten: Es würde im Rechtsverkehr einen übertriebenen Aufwand für den Schuldner und den Gläubiger erfordern, wenn der Schuldner regelmässig neben der Postquittung über die Einzahlung auch eine Bestätigung des Gläubigers über den Zeitpunkt des Erhalts der Zahlung beibringen müsste
+[5]
+. Das gilt umso mehr, als der Konkursrichter die Vorlage der Postquittung oder einer Belastungsanzeige als Nachweis für die Tilgung in der Regel als genügend erachten wird. Schliesslich ist nicht einzusehen, weshalb mit Bezug auf die Rechtzeitigkeit der Zahlung im Schuldbetreibungs- und Konkursrecht anders als beispielsweise im Mietrecht
+[6]
+entschieden werden sollte. In beiden Fällen geht es um einschneidende Konsequenzen: Hier um die Eröffnung des Konkurses, dort um die Berechtigung zur ausserordentlichen Kündigung
+[7]
+.
+Die Rekurrentin erteilte ihrer Bank am Mittwochnachmittag, 13. Dezember 2006, mithin 48 Stunden vor der Konkursverhandlung, den Auftrag, die Schuld samt Zinsen und Kosten mit einer Express-Überweisung dem Konto des Rekursgegners gutzuschreiben. Die Zahlung kann daher als vor der Konkursverhandlung erfolgt betrachtet werden. Damit ist das Konkursdekret aufzuheben.
+Obergericht, 12. Februar 2007, BR.2006.98
+[1]
+BGE 124 III 117 mit Hinweisen, 119 II 234 f.; Giroud, Basler Kommentar, Art. 172 SchKG N 16
+[2]
+Vgl. Weber, Berner Kommentar, Art. 74 OR N 124 mit Hinweisen
+[3]
+Letzteres bejahen: BJM 1995 S. 138 f.; SJZ 83, 1987, S. 244 Nr. 5, und 57, 1961, S. 77 Nr. 15; PKG 1975 Nr. 21 Erw. 3; ZR 68, 1969, Nr. 117 Erw. 5. Zur Kritik vgl. Weber, Art. 74 OR N 125.
+[4]
+BGE 124 III 147 f.
+[5]
+BJM 1995 S. 139
+[6]
+BGE 124 III 145 ff.; Rajower, Prozessuale Aspekte der Ausweisung von Mietern unter besonderer Berücksichtigung der zürcherischen Praxis, in: AJP 1998 S. 808 mit Hinweisen; Kramer/Probst, Bundesgerichtspraxis zum Allgemeinen Teil des Schweizerischen Obligationenrechts, Zürich 2003, S. 256
+[7]
+Art. 257d OR
