@@ -1,0 +1,76 @@
+---
+decision_id: "tg_obergericht_RBOG_2007_Nr._34"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2007 Nr. 34"
+docket_2: "SW.2007.3"
+decided: "2007-05-14"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/000C8C78-5B69-1863-81290261A14ED036.html"
+---
+
+# TG Obergericht RBOG 2007 Nr. 34
+
+## Regeste
+
+1 StPO ist die Staatsanwaltschaft Aufsichtsbehörde über die Untersuchungsrichter sowie deren vorgesetzte Stelle in allen fachlichen Belangen[1]. Stehen Fragen zur Diskussion, welche die richterliche Tätigkeit des Bezirksamts betreffen, ist hingegen nicht die Staatsanwaltschaft, sondern das Obergericht zuständige Instanz[2]. Im von W und X erwähnten Entscheid vom 6./19. Oktober 2004[3] bestätigte das Obergericht diese Praxis. c) Damit hat bei Strafverfügungen das Bezirksamt über ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 14.05.2007 RBOG 2007 Nr. 34 (SW.2007.3)
+Thurgovie Obergericht Rechenschaftsbericht 14.05.2007 RBOG 2007 Nr. 34 (SW.2007.3)
+Turgovia Obergericht Rechenschaftsbericht 14.05.2007 RBOG 2007 Nr. 34 (SW.2007.3)
+
+1 StPO ist die Staatsanwaltschaft Aufsichtsbehörde über die Untersuchungsrichter sowie deren vorgesetzte Stelle in allen fachlichen Belangen[1]. Stehen Fragen zur Diskussion, welche die richterliche Tätigkeit des Bezirksamts betreffen, ist hingegen nicht die Staatsanwaltschaft, sondern das Obergericht zuständige Instanz[2]. Im von W und X erwähnten Entscheid vom 6./19. Oktober 2004[3] bestätigte das Obergericht diese Praxis. c) Damit hat bei Strafverfügungen das Bezirksamt über ...
+
+RBOG 2007 Nr. 34
+RBOG 2007 Nr. 34
+Die Einsichtnahme in Strafverfügungen beurteilt sich nach der Informationsverordnung, nicht aber die Einsicht­nahme in Einstellungs- und Nichtanhandnahmeverfügungen des Bezirksamts; Beschwerdeinstanz
+(§§ 1 Abs. 3, 5 InfoV)
+1.     W und X verlangten mit diversen Eingaben Einsicht in die vom Bezirksamt in den letzten fünf Jahren gegen Y und Z erlassenen, bestimmte Verfahren betreffenden Nichtanhandnahme- und Einstellungsverfügungen. Die Staatsanwaltschaft wies das Begehren mit Ent­scheid vom 5. Februar 2007 ab. W und X reichten dagegen beim Obergericht Beschwerde ein, wobei sie im Beschwerdeverfahren den Antrag auf Einsicht in alle gegen Y und Z erlassenen "Strafentscheide" erweiterten.
+2.     a)    Gemäss § 4 Abs. 1 StPO ist die Staatsanwaltschaft Aufsichtsbehörde über die Untersuchungsrichter sowie deren vorgesetzte Stelle in allen fachlichen Belangen
+[1]
+. Stehen Fragen zur Diskussion, welche die richterliche Tätigkeit des Bezirksamts betreffen, ist hingegen nicht die Staatsanwaltschaft, sondern das Obergericht zuständige Instanz
+[2]
+. Im von W und X erwähnten Entscheid vom 6./19. Oktober 2004
+[3]
+bestätigte das Obergericht diese Praxis.
+b)    Am 1. Januar 2007 trat die Verordnung des Obergerichts über die Information in Zivil- und Strafgerichtsverfahren und die Akteneinsicht durch Dritte
+[4]
+in Kraft. Entsprechend allgemeinen prozessualen Grundsätzen ist sie mangels anders lautender ausdrücklicher Anordnung auch auf vor diesem Zeitpunkt anhängig gemachte Verfahren anwendbar; massgebend ist der Zeitpunkt des Entscheids
+[5]
+. Sie gilt für die vor dem Obergericht und vor den Bezirksgerichten, ihren Kommissionen und Vorsitzenden geführten ordentlichen und beschleunigten Verfahren
+[6]
+. Soweit ein Bezirksamt richterliche Funktionen ausübt, finden §§ 2-5 sowie §§ 23 ff. InfoV Anwendung, und § 20 Abs. 3 InfoV gilt sinngemäss
+[7]
+. § 5 InfoV hält fest, dass über Informations- und Akteneinsichtsbegehren, soweit die Verordnung nicht ausdrücklich die Zuständigkeit des Obergerichts vorsieht, sowie unter Vorbehalt besonderer Regelungen der Prozessordnungen die Strafverfügungsrichter und die Präsidien und Vizepräsidien der Bezirksgerichte sowie des Obergerichts je für ihren Bereich entscheiden. Gegen entsprechende Verfügungen der Bezirksstatthalter kann beim Obergericht Aufsichtsbeschwerde geführt werden
+[8]
+. Als richterlicher Entscheid eines Bezirksamts kann nur eine Strafverfügung gelten, denn nur diese unterliegt der Einsprache an eine strafrichterliche Instanz; demgegenüber erlässt das Bezirksamt Nichtanhandnahmeverfügungen und Einstellungsentscheide nicht als richterliche, sondern als untersuchungsrichterliche Behörde, was sich einerseits schon im Rechtsmittelweg
+[9]
+und andererseits darin zeigt, dass Einstellungsverfügungen der Genehmigung durch die Staatsanwaltschaft unterliegen
+[10]
+.
+c)     Damit hat bei Strafverfügungen das Bezirksamt über Einsichtsbegehren zu entscheiden; gegen dessen Verfügung ist das Obergericht anzurufen. Das Bezirksamt wird hier entscheiden müssen, ob § 20 Abs. 3 oder § 30 Abs. 1 InfoV massgebend ist, ob mit anderen Worten W und X ein schutzwürdiges Interesse für die Einsichtsnahme glaubhaft machen müssen, wie dies bei erledigten und vom Gericht archivierten Verfahren der Fall ist. Sollten W und X ihr Begehren um Einsicht hingegen innerhalb eines Monats ab der letzten Zustellung der massgebenden Entscheide an die Parteien gestellt haben, besteht ihr Recht auf Kenntnisnahme voraussetzungslos.
+d)    Soweit es indessen entsprechend dem ursprünglichen Antrag um die Einsicht in Einstellungs- und Nichtanhandnahmeverfügungen des Bezirksamts geht, handelte dieses als untersuchungsrichterliche Behörde; damit bestand auch eine Zuständigkeit der Staatsanwaltschaft, und die InfoV ist nicht anwendbar. Dementsprechend ist die Beschwerde in dieser Hinsicht zuständigkeitshalber der Anklagekammer zu überweisen.
+3.     Die Beschwerde ist demnach insofern zu schützen, als das Akteneinsichtsbegehren von W und X an das Bezirksamt überwiesen wird, soweit es um die Einsicht in Strafverfügungen geht; im Übrigen wird die Beschwerde zuständigkeitshalber der Anklagekammer überwiesen.
+Obergericht, 14. Mai 2007, SW.2007.3
+[1]
+Zweidler, Die Praxis zur thurgauischen Strafprozessordnung, Bern 2005, § 4 N 3
+[2]
+RBOG 2000 S. 19, 1993 Nr. 33
+[3]
+Entscheid des Obergerichts vom 6. Oktober 2004, SW.2004.8
+[4]
+InfoV, RB 271.31
+[5]
+Zweidler, § 233 StPO N 3; Merz, Die Praxis zur thurgauischen Zivilprozessordnung, 2.A., § 264 N 1
+[6]
+§ 1 Abs. 1 InfoV
+[7]
+§ 1 Abs. 3 InfoV
+[8]
+§ 5 Abs. 2 InfoV
+[9]
+Zweidler, § 73 StPO N 14 und § 137 StPO N 25
+[10]
+§ 137 Abs. 3 StPO
