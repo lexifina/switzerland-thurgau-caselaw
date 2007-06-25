@@ -1,0 +1,57 @@
+---
+decision_id: "tg_obergericht_RBOG_2007_Nr._15"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2007 Nr. 15"
+docket_2: "BS.2007.10"
+decided: "2007-06-25"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/00091F1F-5A60-1863-81290261A14ED036.html"
+cites_law: ["switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/281.1/art-115.md", "switzerland/bund/acts/281.1/art-116.md", "switzerland/bund/acts/281.1/art-144.md", "switzerland/bund/acts/281.1/art-149.md"]
+---
+
+# TG Obergericht RBOG 2007 Nr. 15
+
+## Regeste
+
+Das Betreibungsamt stellte auf den Zeitpunkt der Pfändung ab, weil danach keine Verwertungshandlungen vorgenommen worden seien. War nach der Schätzung des Beamten kein genügendes Vermögen vorhanden, so dient die Pfändungsurkunde dem Gläubiger als provisorischer Verlustschein[1]. Bezüglich des Zinsenlaufs bestimmt Art. Im Fall einer Verdienstpfändung kann in keinem Fall die Verwertung verlangt werden, da gar kein verwertbarer Anspruch vorhanden ist[5]. Trotzdem kann nicht argumentiert werden, ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 25.06.2007 RBOG 2007 Nr. 15 (BS.2007.10)
+Thurgovie Obergericht Rechenschaftsbericht 25.06.2007 RBOG 2007 Nr. 15 (BS.2007.10)
+Turgovia Obergericht Rechenschaftsbericht 25.06.2007 RBOG 2007 Nr. 15 (BS.2007.10)
+
+Das Betreibungsamt stellte auf den Zeitpunkt der Pfändung ab, weil danach keine Verwertungshandlungen vorgenommen worden seien. War nach der Schätzung des Beamten kein genügendes Vermögen vorhanden, so dient die Pfändungsurkunde dem Gläubiger als provisorischer Verlustschein[1]. Bezüglich des Zinsenlaufs bestimmt Art. Im Fall einer Verdienstpfändung kann in keinem Fall die Verwertung verlangt werden, da gar kein verwertbarer Anspruch vorhanden ist[5]. Trotzdem kann nicht argumentiert werden, ...
+
+RBOG 2007 Nr. 15
+RBOG 2007 Nr. 15
+Zinsenlauf im Fall der Ausstellung eines Verlustscheins bei fruchtloser Einkommens- und Verdienstpfändung
+(Art. 144 Abs. 4 SchKG)
+1.     Umstritten ist, bis zu welchem Zeitpunkt die Zinsen in der Betreibung liefen und im Verlustschein zu berücksichtigen sind. Das Betreibungsamt stellte auf den Zeitpunkt der Pfändung ab, weil danach keine Verwertungshandlungen vorgenommen worden seien. Die Beschwerdeführerin hingegen erachtet als massgeblichen Zeitpunkt das Datum der Ausstellung des Verlustscheins.
+2.     a)    Gemäss Art. 149 Abs. 1
+bis
+SchKG stellt das Betreibungsamt den Verlustschein aus, sobald die Höhe des Verlustes feststeht. War bereits bei der Pfändung kein pfändbares Vermögen vorhanden, so bildet gemäss Art. 115 Abs. 1 SchKG die Pfändungsurkunde den Verlustschein im Sinn von Art. 149 SchKG. War nach der Schätzung des Beamten kein genügendes Vermögen vorhanden, so dient die Pfändungsurkunde dem Gläubiger als provisorischer Verlustschein
+[1]
+. Bezüglich des Zinsenlaufs bestimmt Art. 144 Abs. 4 SchKG, dass der Reinerlös den beteiligten Gläubigern bis zur Höhe ihrer Forderung, einschliesslich des Zinses bis zum Zeitpunkt der letzten Verwertung und der Betreibungskosten ausgerichtet werde. Das alte Recht liess die Zinsen bis zur Ausstellung des Verlustscheins weiter laufen. Diese Regelung hatte die Unbilligkeit zur Folge, dass der Betriebene umso höhere Zinsausfallforderungen gegen sich gelten lassen musste, je länger das Amt für die Ausstellung des Verlustscheins benötigte. Der Gesetzgeber erachtete es daher als stossend, dass die Höhe der Verlustscheinsforderung nicht allein vom Verwertungsergebnis und damit vom effektiven Verlust, sondern auch von der Speditivität des Amtes abhängt, das den Verlustschein ausstellen musste
+[2]
+. Findet mangels pfändbarem Vermögen keine Verwertung statt, hört der Zinsenlauf mit der amtlichen Feststellung dieses Sachverhalts, d.h. der Ausstellung der als Verlustschein dienenden leeren Pfändungsurkunde auf
+[3]
+. Umstritten ist, was unter dem Begriff der "letzten Verwertung" zu verstehen ist. Währenddem der massgebliche Zeitpunkt bei einer allfälligen Versteigerung völlig klar ist, auch wenn sie keinen Erlös abwerfen sollte, ist der Begriff im Rahmen der Einkommenspfändung schwierig zu fassen. Bei der Pfändung künftigen Einkommens kommt es nämlich meist gar nicht zur Verwertung im eigentlichen Sinn. Der Drittschuldner (z.B. der Arbeitgeber) überweist die gepfändeten Beträge monatlich an das Betreibungsamt, das sie verteilt. Nur bei Säumnis des Arbeitgebers stellt sich die Frage der Verwertung
+[4]
+. Die Einkommenspfändung endet mit Ablauf des Pfändungsjahrs, bei vollständiger Bezahlung von Forderung, Zinsen und Kosten oder durch Rückzug der Betreibung seitens des Gläubigers. Bezahlt der Drittschuldner die eingepfändeten Einkommensquoten regelmässig, so bedarf es keines Verwertungsbegehrens seitens des Gläubigers. Ein solches kann nur gestellt werden, wenn die gepfändeten Beträge nicht abgeliefert werden. Die Verwertung des entsprechenden Anspruchs kann gemäss Art. 116 Abs. 2 SchKG daher längstens binnen 15 Monaten nach dem Pfändungsvollzug verlangt werden. Im Fall einer Verdienstpfändung kann in keinem Fall die Verwertung verlangt werden, da gar kein verwertbarer Anspruch vorhanden ist
+[5]
+. Trotzdem kann nicht argumentiert werden, im Fall einer ungenügenden Verdienstpfändung fänden keine Verwertungshandlungen statt. Wie die Vorinstanz und das Betreibungsamt zutreffend ausführten, müsste die Ablieferung des gepfändeten Betrags und die Entgegennahme desselben durch das Betreibungsamt als Verwertungshandlung betrachtet werden. Fraglich ist, ob im Fall, da keine Beträge abgeliefert werden, auch keine Verwertungshandlungen stattfanden, wie die Vorinstanz annahm.
+Bei der Verdienstpfändung ist zu beachten, dass der Schuldner nicht nur verpflichtet ist, den monatlichen Überschuss über das Existenzminimum abzuliefern, sondern auch monatlich über sein Einkommen abzurechnen hat. Die Abrechnung über das monatliche Einkommen kann ebenfalls als Verwertungshandlung im Sinn von Art. 144 Abs. 4 SchKG betrachtet werden. Daher lief der Zins bis zum Zeitpunkt der letzten Abrechnung, die gemäss der Pfändungsurkunde monatlich, letztmals am Ende des Pfändungsjahres, zu erfolgen hatte.
+b)    Unmassgeblich ist entgegen der Auffassung der Beschwerdeführerin der Zeitpunkt der Ausstellung des Verlustscheins. Dass die Schuldnerin ihrer Abrechnungspflicht nicht nachgekommen sei, wird auch vom Betreibungsamt nicht geltend gemacht. Ob die Schuldnerin ihrer Abrechnungspflicht überhaupt nachgekommen ist oder nicht, spielt zudem keine Rolle, da es nicht im Belieben der Schuldnerin liegen kann, entgegen der unter Androhung von Art. 169/292 StGB verfügten Ablieferungspflicht den Zinsenlauf durch Nichtstun zu verkürzen. Wenn schon dem Gläubiger die Möglichkeit der nachträglichen Stellung eines Verwertungsbegehrens bei der Verdienstpfändung im Gegensatz zur Lohnpfändung verwehrt wird, so muss der Zins wenigstens bis zum Ablauf des Pfändungsjahrs, d.h. bis zum eigentlichen Abschluss der Verwertung weiter laufen.
+Obergericht, 25. Juni 2007, BS.2007.10
+[1]
+Art. 115 Abs. 2 SchKG
+[2]
+Botschaft des Bundesrats über die Änderung des SchKG vom 8. Mai 1991, in: BBl 1991 III 100
+[3]
+Schöniger, Basler Kommentar, Art. 144 SchKG N 24
+[4]
+Amonn/Walther, Grundriss des Schuldbetreibungs- und Konkursrechts, 7. A., § 26 N 9
+[5]
+Vonder Mühll, Basler Kommentar, Art. 93 SchKG N 63
