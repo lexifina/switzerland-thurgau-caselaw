@@ -1,0 +1,55 @@
+---
+decision_id: "tg_obergericht_RBOG_2007_Nr._06"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2007 Nr. 06"
+decided: "2007-07-09"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2007-nr-6"
+cites_law: ["switzerland/bund/acts/210/art-960.md", "switzerland/bund/acts/210/art-961.md"]
+---
+
+# TG Obergericht RBOG 2007 Nr. 06
+
+## Regeste
+
+Richterliche Anordnung betreffend eine Verfügungsbeschränkung i.S.v. Art. 960 Abs. 1 Ziff. 1 ZGB; Klagefrist
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2007 RBOG 2007 Nr. 06
+Thurgovie Obergericht Rechenschaftsbericht 2007 RBOG 2007 Nr. 06
+Turgovia Obergericht Rechenschaftsbericht 2007 RBOG 2007 Nr. 06
+
+Richterliche Anordnung betreffend eine Verfügungsbeschränkung i.S.v. Art. 960 Abs. 1 Ziff. 1 ZGB; Klagefrist
+
+RBOG 2007 Nr. 06
+Skip to main content
+Show navigation
+Richterliche Anordnung betreffend eine Verfügungsbeschränkung i.S.v. Art. 960 Abs. 1 Ziff. 1 ZGB; Klagefrist
+Art. 960 Abs. 1 Ziff. 1 ZGB
+,
+§ 172 Ziff. 44 aZPO (TG)
+1. a) Zwischen der Rekurrentin und dem Rekursgegner besteht seit dem Jahr 2000 ein Vertrag über die Abtretung einer Liegenschaft. Im Jahr 2005 wurde der Rekurrentin durch die örtliche Baukommission die Bewilligung zum Verschieben eines Badehauses auf der fraglichen Liegenschaft erteilt; diese Bewilligung focht der Rekursgegner beim Departement für Bau und Umwelt an. Ausserdem erhob er beim Bezirksgericht Klage und beantragte, es sei der Rekurrentin die Verschiebung des Badehauses zu verbieten. Dieses Verfahren wurde bis zur rechtskräftigen Erledigung des verwaltungsrechtlichen Bewilligungsverfahrens sistiert.
+b) Im Jahr 2006 ordnete das Gerichtspräsidium auf Begehren des Rekursgegners an, dass die Rekurrentin über die Liegenschaft nicht anders verfügen dürfe, als in Erfüllung des Abtretungsvertrags, und es wies das Grundbuchamt an, auf der Liegenschaft eine entsprechende Verfügungsbeschränkung im Sinn von Art. 960 Abs. 1 Ziff. 1 ZGB einzutragen.
+2. Die Rekurrentin focht diese Verfügung an. In ihrem Rekurs beantragte sie, die Verfügungssperre sei mit einer dem Rekursgegner anzusetzenden Prosequierungsfrist gemäss § 167 ZPO zu versehen.
+3. a) Die Vorinstanz fasste die Verfügung als eine vorsorgliche Massnahme in einem hängigen Prozess im Sinn von § 176 ZPO auf; es treffe aber zu, dass das Begehren des Rekursgegners mit guten Gründen auch als Verfügung gemäss § 161 Ziff. 1 oder 3 ZPO betrachtet werden könne, in welchem Fall eine Fristansetzung zur Einleitung eines ordentlichen Gerichtsverfahrens hätte erfolgen müssen.
+b) Der angefochtene Entscheid stellt weder eine Verfügung nach § 161 Ziff. 1 ZPO noch eine solche nach § 176 ZPO dar, sondern eine Verfügung gestützt auf Bundesprivatrecht gemäss § 172 Ziff. 44 ZPO. Nach dieser Bestimmung ist der Bezirksgerichtspräsident zuständig für Verfügungsbeschränkungen und Anordnungen vorläufiger Grundbucheinträge im Sinn von Art. 960, 961 und 966 ZGB. Zu dieser Qualifikation wird einmal durch eine Auslegung des Gesuchs gelangt: Beantragt wurde vom Rekursgegner ausdrücklich eine Verfügungsbeschränkung im Sinn von Art. 960 Abs. 1 Ziff. 1 ZGB zur Sicherung des Anspruchs auf Eigentumsübertragung an die Gesuchsteller gestützt auf den öffentlich beurkundeten Abtretungsvertrag, und auch der Betreff lautete auf "Anordnung einer Verfügungsbeschränkung (Art. 960 Abs. 1 Ziff. 1 ZGB)". Sodann stützte die Vorinstanz ihre Anordnung ebenfalls ausdrücklich auf Art. 960 Abs. 1 Ziff. 1 ZGB. Schliesslich handelte das Gesuch von der Sicherung eines streitigen vertraglichen Anspruchs, während es in dem zwischen den Parteien bereits hängigen ordentlichen Verfahren um eine privatrechtliche Bauverbotsklage geht; gemeinsam ist beiden Verfahren nur, dass sie auf die gleiche Vereinbarung zwischen den Parteien zurückgehen. Mit anderen Worten ist über den streitigen vertraglichen Anspruch noch kein Hauptprozess hängig. Damit steht fest, dass es sich bei der angefochtenen Verfügung nicht um eine vorsorgliche Massnahme nach § 176 ZPO handeln kann, setzt diese doch mindestens ein Vorstandsbegehren voraus[1]. Formale Grundlage des Gesuchs und der angefochtenen Verfügung bildet daher § 172 Ziff. 44 ZPO, wobei der Vollständigkeit halber festzustellen ist, dass es nach dem Zweck von Art. 960 Abs. 1 Ziff. 1 ZGB durchaus zulässig ist, die Vormerkung einer Verfügungsbeschränkung vor der Einleitung des Hauptprozesses zu verlangen[2].
+c) Art. 960 ZGB sieht - anders als etwa Art. 961 Abs. 3 ZGB - für den Fall, dass die Massnahme vor Einleitung des Prozesses verlangt wird, nicht vor, dass eine Frist zur Einleitung der Klage angesetzt wird[3]. Indessen verlangte die Rekurrentin eine Fristansetzung, und nachdem der Rekursgegner keine stichhaltigen materiellen Gründe vorzubringen vermochte, die dagegen sprächen, ist eine solche gerechtfertigt. Die Rekurrentin hat Anspruch darauf, dass die Verfügungsbeschränkung durch Klärung der streitigen vertraglichen Ansprüche des Rekursgegners innert angemessener Frist überprüft wird. Angesichts des Fehlens einer ausdrücklichen bundesrechtlichen Grundlage zur Ansetzung einer Klagefrist vertritt Deschenaux allerdings die Auffassung, dass die Ansetzung einer Frist zur Einleitung der Klage nur möglich sei, wenn das kantonale Prozessrecht dies regle[4]. Die Rekurrentin möchte die Klagefrist auf § 167 ZPO gestützt haben, wogegen der Rekursgegner aber zutreffend einwendet, diese Bestimmung sei nur auf das Befehlsverfahren zugeschnitten[5]. Eine andere kantonalrechtliche Grundlage für das Ansetzen einer Klagefrist besteht nicht. Indessen ist das Obergericht in Abweichung von der Auffassung Deschenaux' der Meinung, dass Art. 960 Abs. 1 Ziff. 1 ZGB eine genügende Grundlage darstellt: Wenn es der Zweck dieser Bestimmung schon zulässt, dass bereits vor der Einleitung der Klage um eine Verfügungsbeschränkung nachgesucht und eine solche angeordnet werden darf, muss darin im Gegenzug auch die Grundlage für das Ansetzen einer Frist zur Klage erblickt werden können. Es leuchtet nicht ein, weshalb in der hier vorliegenden Konstellation anders als in Fällen, in denen das Begehren um eine Verfügungsbeschränkung im Rahmen des Hauptprozesses als klassisches Gesuch um Erlass einer vorsorglichen Massnahme gestellt wird, eine unter Umständen zeitlich unbefristete Verfügungsbeschränkung sollte erreicht werden können, die dem Gesuchsteller je nach Sachlage mehr zusprechen kann, als er auf dem ordentlichen Prozessweg vielleicht erreichen könnte. Ein solches Resultat liesse sich mit der vorsorglichen Natur der Verfügungsbeschränkung gemäss Art. 960 Abs. 1 Ziff. 1 ZGB nicht in Einklang bringen. Wollte man die Grundlage für eine Klagefrist nicht in Art. 960 Abs. 1 Ziff. 1 ZGB selbst erblicken, so müsste diesbezüglich in der ZPO eine echte Gesetzeslücke angenommen werden, indem der Gesetzgeber etwas zu regeln unterliess, was er hätte regeln müssen[6]. Der Regelungsbedarf ergibt sich aus den soeben angestellten Überlegungen, während aufgrund der Materialien ausgewiesen ist, dass der Gesetzgeber im Zusammenhang mit §§ 172 f. ZPO schlicht nicht an die Regelung einer Klagefrist dachte[7]. Da es dem Richter aufgegeben ist, echte Gesetzeslücken zu füllen, wären demnach §§ 172 f. ZPO in dem Sinn zu ergänzen, dass in Fällen, in denen auf Bundesprivatrecht gestützten Verfügungen nur vorläufiger Charakter zukommt und noch kein Hauptprozess hängig ist, Frist zur Klage anzusetzen ist.
+d) Die von der Vorinstanz erwähnte Problematik, dass die angesetzte Frist zu einer inhaltlichen Abänderung der Abtretungsvereinbarung der Parteien führen könnte, besteht. Es ist indessen Sache des Rekursgegners, mit geeigneten Rechtsbegehren im Hauptprozess ? denkbar ist etwa eine Feststellungsklage, allenfalls verbunden mit einer Leistungsklage - dafür zu sorgen, dass keine unerwünschte Abänderung eintritt. Die mögliche Schwierigkeit kann jedenfalls nicht zur Folge haben, dass zulasten der Rekurrentin von der Ansetzung einer Frist zur Klage abgesehen wird.
+e) Somit ist dem Rekursgegner zur Klärung des streitigen vertraglichen Anspruchs eine Frist zur Einleitung der Klage anzusetzen, die analog der bei § 167 ZPO üblichen Frist beziehungsweise mit Blick auf § 69 ZPO auf 30 Tage festgesetzt wird[8]. Wird innert dieser Frist keine Klage erhoben, fällt die angefochtene Verfügung dahin.
+Obergericht, 9. Juli 2007, ZR.2007.52
+[1] Merz, Die Praxis zur thurgauischen Zivilprozessordnung, 2.A., § 176 N 1
+[2] Deschenaux, in: Schweiz. Privatrecht, V/3,I, Basel/Frankfurt a.M. 1988, S. 344
+[3] Deschenaux, S. 344 f.
+[4] S. 345
+[5] Merz, § 172 ZPO N 1 lit. a
+[6] Zum Lückenbegriff vgl. BGE 128 I 42
+[7] Protokoll der Kommission zur Vorberatung von zwei Gesetzesentwürfen über die Zivilrechtspflege, das Versicherungswesen und das Betreibungs- und Konkurswesen (1985 - 1988), S. 376, 567, 784 und 830 ff.; Protokoll der Sitzung des Grossen Rates des Kantons Thurgau vom 21. März 1988, S. 9
+[8] Merz, § 167 ZPO N 3
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
