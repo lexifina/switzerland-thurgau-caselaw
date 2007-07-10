@@ -1,0 +1,48 @@
+---
+decision_id: "tg_obergericht_RBOG_2007_Nr._03"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2007 Nr. 03"
+decided: "2007-07-10"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2007-nr-3"
+---
+
+# TG Obergericht RBOG 2007 Nr. 03
+
+## Regeste
+
+Fragepflicht des Richters im streitigen Scheidungsverfahren
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2000 RBOG 2007 Nr. 03
+Thurgovie Obergericht Rechenschaftsbericht 2000 RBOG 2007 Nr. 03
+Turgovia Obergericht Rechenschaftsbericht 2000 RBOG 2007 Nr. 03
+
+RBOG 2007 Nr. 03
+Skip to main content
+Show navigation
+Fragepflicht des Richters im streitigen Scheidungsverfahren
+Art. 135 ff. ZGB
+,
+Art. 140 ZGB
+,
+§ 95 aZPO (TG)
+,
+§ 153 aZPO (TG)
+1. a) Die Vorinstanz hielt im Scheidungsurteil fest, die Ehefrau habe zum nachehelichen Unterhalt keine Anträge gestellt; das Gericht habe daher keine Veranlassung, eine allfällige Unterhaltsverpflichtung des Ehemanns zu prüfen, zumal die Ehefrau einer Erwerbstätigkeit nachgehe. Die Ehefrau habe diese Frage zwar nachträglich aufgeworfen, doch sei das Urteil in diesem Zeitpunkt bereits gefällt gewesen.
+b) Demgegenüber vermerkte das Gerichtspräsidium im Dispositiv seiner Massnahmeverfügung ausdrücklich, ein Entscheid über einen persönlichen Unterhalt für die Dauer des Scheidungsverfahrens bleibe vorbehalten für den Fall, dass die Ehefrau noch einen entsprechenden Antrag stellen sollte. Zur Begründung wurde ausgeführt, ein Verzicht einer unterhaltsberechtigten Person in einem eherechtlichen Verfahren könne nicht leichthin angenommen werden; er müsse ausdrücklich oder zumindest klar sein. Eine klare Verzichtserklärung sei von der Ehefrau bisher nicht abgegeben worden, so dass die Frage eines persönlichen Unterhalts im Massnahmeverfahren durchaus noch geprüft werden könne.
+2. Die Begründung für die Rückweisung der Angelegenheit an die Vorinstanz liegt im Grunde genommen schon in der vom Gerichtspräsidium getroffenen Massnahmeverfügung. Nachdem Art. 140 Abs. 2 ZGB eine richterliche Kontrolle von Scheidungskonventionen und damit faktisch auch eine entsprechende Fragepflicht festlegt[1], vorab hinsichtlich der Klarheit einer Scheidungsvereinbarung, was beinhaltet, dass die Scheidungskonvention sämtliche erforderlichen Regelungen enthalten muss[2], wäre es wenig sinnvoll, wenn den Richter in streitigen Scheidungsverfahren keinerlei entsprechende Pflichten treffen würden, die Interessen auch einer schwächeren Partei zu wahren[3]. Es wäre unverständlich, wenn der Richter die Parteien bei einer Scheidungskonvention auf die fehlende Regelung des nachehelichen Unterhalts hinweisen müsste, nicht aber im streitigen Verfahren. Auch wenn teils zumindest der Ansatz zu einer entsprechenden Prozesserklärung gefordert wird[4], indem eine Partei einen bestimmten Sachverhalt zumindest andeutungsweise beziehungsweise in rudimentärer Form behaupten müsse[5], ist es gerade Sinn und Zweck von Art. 140 ZGB, unvollständige und allenfalls unbillige Scheidungsurteile zu vermeiden, so dass selbst bei fehlenden Behauptungen eine Fragepflicht besteht.
+Obergericht, 10. Juli 2007, ZBR.2007.29
+[1] Sarbach, Die richterliche Aufklärungs- und Fragepflicht im schweizerischen Zivilprozessrecht, Diss. Bern 2003, S. 107; Sutter/Freiburghaus, Kommentar zum neuen Scheidungsrecht, Zürich 1999, Art. 140 ZGB N 80
+[2] Leuenberger/Schwenzer, in: FamKommentar Scheidung (Hrsg.: Schwenzer), Bern 2005, Art. 140 ZGB N 13; Sarbach, S. 107
+[3] Ebenso Sutter/Freiburghaus, Art. 140 ZGB N 6
+[4] Vgl. Frank/Sträuli/Messmer, Kommentar zur zürcherischen Zivilprozessordnung, 3.A., § 55 N 2
+[5] Frank, Kommentar zur zürcherischen Zivilprozessordnung, Ergänzungsband, Zürich 2000, § 55 N 2
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
