@@ -1,0 +1,49 @@
+---
+decision_id: "tg_obergericht_TVR_2010_Nr._9"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2010 Nr. 9"
+decided: "2007-08-31"
+published: "2010-12-07"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2010-nr-9"
+cites_law: ["switzerland/bund/acts/210/art-024.md", "switzerland/bund/acts/291/art-001.md", "switzerland/bund/acts/642.14/art-003.md", "switzerland/bund/acts/642.14/art-072.md"]
+---
+
+# TG Obergericht TVR 2010 Nr. 9
+
+## Regeste
+
+Steuerdomizil
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 07.12.2010 TVR 2010 Nr. 9
+Thurgovie Obergericht Rechenschaftsbericht 07.12.2010 TVR 2010 Nr. 9
+Turgovia Obergericht Rechenschaftsbericht 07.12.2010 TVR 2010 Nr. 9
+
+TVR 2010 Nr. 9
+Skip to main content
+Show navigation
+Steuerdomizil
+§ 7 StG
+,
+Art. 3 StHG
+Der einmal begründete Wohnsitz bleibt - auch im internationalen Verhältnis - grundsätzlich bis zum Erwerb eines neuen bestehen. Dass eine Wohnsitzverlegung (vorliegend ins Ausland) stattgefunden haben soll, ist vom Steuerpflichtigen im Rahmen seiner Mitwirkungspflicht darzulegen. Der blosse Hinweis des Steuerpflichtigen, er befinde sich auf hoher See und besuche Freunde auf allen Kontinenten, genügt hierzu nicht.
+X (geb. 1942) ist geschiedener AHV-Rentner und Eigentümer einer renovationsbedürftigen Liegenschaft in der Gemeinde C. Am 20. Mai 2005 meldete er sich beim Einwohneramt C ab und bezeichnet sich seither als „Weltenbummler“. Das Einwohneramt akzeptierte die Abmeldung von X nicht und verlangte von diesem eine Anmeldebestätigung des neuen Wohnsitzes sowie eine Aufenthaltsadresse im Ausland. X wurde weiterhin im Steuerregister geführt und mit Steuerdomizilentscheid vom 31. August 2007 stellte die Veranlagungsbehörde fest, X sei auch nach dem 20. Mai 2005 in C unbeschränkt steuerpflichtig. Eine dagegen erhobene Einsprache wurde abgewiesen. Auch die Steuerrekurskommission wies einen Rekurs von X ab, soweit sie darauf überhaupt eintrat. Gegen den ebenfalls abweisenden Entscheid des Verwaltungsgerichts vom 28. Januar 2009 erhob X Beschwerde beim Bundesgericht, welches mit Urteil vom 2C_203/2009 vom 13. November 2009 - unter Gutheissung des Rechtsmittels und Aufhebung des angefochtenen Entscheides wegen Verletzung des Anspruchs auf rechtliches Gehör - die Sache an das Verwaltungsgericht zurückwies. Mit Entscheid vom 10. Februar 2010 weist das Verwaltungsgericht die Beschwerde von X erneut ab.
+Aus den Erwägungen:
+2. Gemäss Art. 3 StHG sind natürliche Personen aufgrund persönlicher Zugehörigkeit steuerpflichtig, wenn sie ihren steuerrechtlichen Wohnsitz im Kanton haben oder wenn sie sich im Kanton (…) aufhalten (Abs. 1). Einen steuerrechtlichen Wohnsitz im Kanton hat eine Person, wenn sie sich hier mit der Absicht dauernden Verbleibens aufhält oder wenn ihr das Bundesrecht hier einen besonderen gesetzlichen Wohnsitz zuweist (Abs. 2). Das StG bestimmt, dass natürliche Personen unbeschränkt steuerpflichtig sind, wenn sie im Kanton ihren steuerrechtlichen Wohnsitz oder Aufenthalt haben (§ 7 Abs. 1). Steuerrechtlichen Wohnsitz hat, wer sich mit der Absicht dauernden Verbleibens hier aufhält oder nach dem Bundesrecht einen besonderen gesetzlichen Wohnsitz hat (§ 7 Abs. 2). Damit zeigt sich, dass § 7 StG dem Anpassungsauftrag von Art. 72 StHG entspricht.
+Klar nicht zur Anwendung gelangt das IPRG, geht es doch um den steuerrechtlichen Wohnsitz und nicht um den Wohnsitz im internationalen Verhältnis im Bereich des Privatrechts (Art. 1 IPRG).
+Ein Blick in die Literatur offenbart, dass die Frage, ob sich im internationalen Verhältnis der Tatbestand des Wegzugs (das heisst der Wegfall des Steuerdomizils) nach den gleichen Kriterien bemisst wie der Wegfall des zivilrechtlichen Wohnsitzes, umstritten ist: Vor allem in der neueren Lehre (Bauer-Balmelli/Omlin, in: Zweifel/Athanas [Hrsg.], Kommentar zum schweizerischen Steuerrecht, Band I/2a, Bundesgesetz über die direkte Bundessteuer, Art. 1 bis 82, 2. Aufl., Basel 2008, Art. 8 N. 23) wird die Auffassung vertreten, dass stets - insbesondere auch im internationalen Verhältnis - der faktische und nicht ein fiktiver Wohnsitz nach Art. 24 Abs. 1 ZGB massgeblich sei. Sachgerechtes Kriterium für die Bestimmung des Zeitpunkts der Aufgabe des schweizerischen (steuerrechtlichen) Wohnsitzes und damit der Beendigung der unbeschränkten Steuerpflicht könne einzig die Tatsache sein, ob eine Verlagerung des Mittelpunkts der persönlichen Lebensinteressen von der Schweiz ins Ausland stattgefunden habe. Dabei könne weder dem formellen Moment der Abmeldung am bisherigen Wohnort, noch der Hinterlegung von Ausweisschriften, noch der Registrierung am neuen ausländischen Aufenthaltsort eigenständige Bedeutung als Beweis zukommen; diese Umstände könnten vielmehr nur als Indizien dienen.
+Das Bundesgericht und vor allem die ältere Lehre sind demgegenüber der Auffassung, die Steuergesetzgebung könne die zivilrechtliche Fiktion gemäss Art. 24 Abs. 1 ZGB auch für das Steuerrecht als massgeblich erklären (allerdings nur im internationalen und nicht im interkantonalen Verhältnis). Der Bundesratsbeschluss über die Erhebung einer direkten Bundessteuer vom 9. Dezember 1940 (BdBSt) verwies noch ausdrücklich auf die entsprechenden Artikel des ZGB. Das Bundesgericht hat an der zum BdBSt entwickelten Rechtsprechung auch unter dem DBG festgehalten, obwohl das DBG keinen solchen ausdrücklichen Verweis auf das ZBG mehr enthält. Nach Ansicht des Bundesgerichts hat sich der Gehalt des Begriffes „steuerrechtlicher Wohnsitz“ deshalb nicht verändert (vgl. z. B. die Urteile 2A.388/1998 vom 3. Mai 2000, E. 5a, und 2A.443/2001 vom 16. Mai 2002, E. 6.2).Folgt man der Ansicht des Bundesgerichts, zeigt sich, dass die Beschwerde ohne weiteres abzuweisen ist. Der Beschwerdeführer hat bisher nicht behauptet, an einem bestimmten Ort im Ausland einen neuen Wohnsitz begründet zu haben. Aufgrund der Fiktion gemäss Art. 24 Abs. 1 ZGB befindet sich sein Wohnsitz und damit auch sein Steuerdomizil weiterhin in C.
+Folgt man dagegen jenem Teil der Lehre, welcher als massgeblich erachtet, ob der Steuerpflichtige den Mittelpunkt der persönlichen Lebensinteressen ins Ausland verschoben hat, erweist sich die Frage der Beweislast von zentraler Bedeutung, denn allein die Abmeldung reicht dafür klarerweise nicht aus. In der Rechtsprechung wird mit guten Gründen die Ansicht vertreten, die Beweislast für den Wegfall eines bestehenden Steuerdomizils liege beim Steuerpflichtigen (vgl. Urteil des Bundesgerichts 2C_175/2008 vom 22. August 2008, E. 3.2 und 4.1). Das entspricht der Praxis des Verwaltungsgerichts des Kantons Thurgau (vgl. TVR 2002 Nr. 21, E. 2b am Anfang). Dies ergibt sich aus dem allgemeinen Grundsatz, wonach die Steuerverwaltung die steuerbegründenden Tatsachen und der Steuerpflichtige die steuermindernden Tatsachen zu beweisen hat; um Letzteres geht es hier. Schliesslich handelt es sich auch um Momente persönlichkeitsbezogenen Charakters, die zu beweisen der Steuerbehörde naturgemäss nur schwer zugänglich sind und deren Ermittlung (mit phantasievollen Methoden, so der Beschwerdeführer) ausserdem die Privatsphäre unverhältnismässig tangieren würde (Leitsätze TG 84-88, VRG § 12 LS 16).
+Der Beschwerdeführer hat bisher in keiner Weise den Beweis dafür erbracht, dass sich der Mittelpunkt seiner persönlichen Lebensinteressen ins Ausland verschoben hätte. Er legt insbesondere nicht dar, wo sich der neue Mittelpunkt seiner Lebensinteressen befindet und bleibt somit den Beweis dafür schuldig, dass sich der Mittelpunkt seiner Lebensinteressen nicht mehr in C befindet, dies umso mehr, als ihn zweifellos noch erhebliche persönliche (Sohn) und wohl auch wirtschaftliche Interessen (Unternehmungen) mit C verbinden.
+Daran ändert auch der Umstand nichts, dass der Beschwerdeführer in seiner Replik geltend macht, ein Weltenbummler zu sein. In Bezug auf diesen Begriff kann auf die Auffassung, wie sie das Verwaltungsgericht des Kantons Luzern im Entscheid LGVE 1992, 261 ff., zum Ausdruck gebracht hat, verwiesen werden: „So hat beispielsweise ein Weltenbummler nicht die Absicht dauernden Verbleibens am gleichen Ort. Er behält daher, selbst wenn er sich längere Zeit von seinem Wohnsitz entfernt, diesen weiterhin bei“ (mit Hinweis auf Käser, Unterstellung und Beitragswesen in der obligatorischen AHV, Bern 1989, Rz 1.24, S. 17). Das Steuergericht des Kantons Basel hat hingegen in seinem Entscheid vom 6. Juli 2007 in Bezug auf den Begriff Weltenbummler eine andere Auffassung vertreten, die vom entsprechenden Verwaltungsgericht bestätigt worden ist. In jenem Fall hat der Betroffene jedoch immerhin mittels Logbucheinträgen und Kreditkartenbelegen nachgewiesen, ein Weltenbummler zu sein. Im vorliegenden Fall liegt jedoch kein irgendwie geeigneter Beweis für die beschwerdeführerische Behauptung vor. (…)
+Entscheid vom 10. Februar 2010
+Das Bundesgericht hat eine dagegen gerichtete Beschwerde in öffentlich-rechtlichen Angelegenheiten mit Urteil 2C_355/2010 vom 7. Dezember 2010 abgewiesen, soweit es darauf eintrat.
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
