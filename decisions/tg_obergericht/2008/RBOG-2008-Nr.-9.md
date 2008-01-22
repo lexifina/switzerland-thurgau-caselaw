@@ -1,0 +1,56 @@
+---
+decision_id: "tg_obergericht_RBOG_2008_Nr._9"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2008 Nr. 9"
+docket_2: "ZBR.2007.71"
+decided: "2008-01-22"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/1B08687C-9C52-938D-F19DE55666D8D5A6.html"
+cites_law: ["switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/220/art-064.md", "switzerland/bund/acts/220/art-074.md", "switzerland/bund/acts/220/art-084.md"]
+---
+
+# TG Obergericht RBOG 2008 Nr. 9
+
+## Regeste
+
+3. a) Allerdings ist das Obergericht der Ansicht, dass die Forderung der Arbeitnehmerin nicht zu schützen ist und die Arbeitnehmerin mit ihrer Forderung nach einer nochmaligen Zahlung rechtsmissbräuchlich handelte. 2 ZGB, welcher in jeder Instanz von Amtes wegen zu beachten ist[2], gewährt offenbarem Rechtsmissbrauch keinen Rechtsschutz. Das Verhalten der Arbeitnehmerin ist nicht nachvollziehbar; ihr Beharren auf Überweisung auf das Konto bei der Y Bank verdient keinen Rechtsschutz und ist ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 22.01.2008 RBOG 2008 Nr. 9 (ZBR.2007.71)
+Thurgovie Obergericht Rechenschaftsbericht 22.01.2008 RBOG 2008 Nr. 9 (ZBR.2007.71)
+Turgovia Obergericht Rechenschaftsbericht 22.01.2008 RBOG 2008 Nr. 9 (ZBR.2007.71)
+
+3. a) Allerdings ist das Obergericht der Ansicht, dass die Forderung der Arbeitnehmerin nicht zu schützen ist und die Arbeitnehmerin mit ihrer Forderung nach einer nochmaligen Zahlung rechtsmissbräuchlich handelte. 2 ZGB, welcher in jeder Instanz von Amtes wegen zu beachten ist[2], gewährt offenbarem Rechtsmissbrauch keinen Rechtsschutz. Das Verhalten der Arbeitnehmerin ist nicht nachvollziehbar; ihr Beharren auf Überweisung auf das Konto bei der Y Bank verdient keinen Rechtsschutz und ist ...
+
+RBOG 2008 Nr. 9
+RBOG 2008 Nr. 9
+Zahlung einer Schuld ohne befreiende Wirkung; Rechtsmissbrauch des Gläubigers
+(Art. 74 Abs. 2 Ziff. 1 und 84 Abs. 1 OR; Art. 2 Abs. 2 ZGB)
+1.     Zwischen den Parteien bestand ein Arbeitsvertrag, nach dessen Beendigung der Arbeitnehmerin noch ein Lohnanspruch zustand. In der Folge bezahlte die Arbeitgeberin einen Teil des ausstehenden Betrags. Den Rest beglich sie einige Zeit später durch eine Zahlung in Euro auf ein Konto der Arbeitnehmerin bei der X Bank in Deutschland. Die Arbeitnehmerin macht geltend, sämtliche Lohnzahlungen seien auf ein Konto bei der Y Bank in der Schweiz erfolgt. Die Zahlung auf das Konto in Deutschland habe daher nicht dem Arbeitsvertrag entsprochen, womit der Vertrag mit der Zahlung nicht erfüllt worden sei.
+2.     a)    Die Lohnforderung ist als Geldschuld gestützt auf Art. 74 Abs. 2 Ziff. 1 OR am Wohnsitz des Gläubigers zu erfüllen und nach Art. 84 Abs. 1 OR in gesetzlichen Zahlungsmitteln der geschuldeten Währung zu bezahlen. Weil Buchgeld kein gesetzliches Zahlungsmittel darstellt, hat der Gläubiger grundsätzlich keine Pflicht, eine bargeldlose Zahlung anzunehmen. Der Schuldner kann seine Schuldpflicht mit bargeldloser Zahlung daher grundsätzlich nur befreiend erfüllen, wenn ein (stillschweigendes) Einverständnis des Gläubigers vorliegt
+[1]
+.
+b)    Zwischen den Parteien bestand keine schriftliche Vereinbarung über die Zahlungsmodalität. Es ist aber unbestritten, dass zumindest eine konkludente Abrede darüber bestand, dass der Lohn bargeldlos zu überweisen sei; umstritten ist allerdings, ob die Überweisung nur auf das Konto der Arbeitnehmerin bei der Y Bank oder auch auf das Konto bei der X Bank erfolgen durfte.
+c)     Die Arbeitgeberin behauptete substantiiert weder eine Abrede noch Umstände, die sie zur Zahlung des Lohns auch auf das Konto der Arbeitnehmerin bei der X Bank ermächtigen würden. Demzufolge erfolgte die Zahlung auf das Konto bei der X Bank nicht mit befreiender Wirkung, da einerseits die Einwilligung der Arbeitnehmerin fehlte und andererseits die Überweisung nicht in Schweizer Franken erfolgte.
+3.     a)    Allerdings ist das Obergericht der Ansicht, dass die Forderung der Arbeitnehmerin nicht zu schützen ist und die Arbeitnehmerin mit ihrer Forderung nach einer nochmaligen Zahlung rechtsmissbräuchlich handelte.
+b)    Art. 2 Abs. 2 ZGB, welcher in jeder Instanz von Amtes wegen zu beachten ist
+[2]
+, gewährt offenbarem Rechtsmissbrauch keinen Rechtsschutz. Rechtsmissbräuchlich handelt unter anderem, wer eine Leistung fordert, welche sofort wieder zurückerstattet werden müsste
+[3]
+.
+c)     Würde die Arbeitgeberin verpflichtet, die geforderte Zahlung erneut zu erbringen, wäre die Arbeitnehmerin im Umfang der ersten Zahlung bereichert. Aufgrund der Umstände ist davon auszugehen, dass die Arbeitgeberin die Zahlung irrtümlich auf das falsche Konto der Arbeitnehmerin leistete: Unter dem Druck des vom Ehemann der Arbeitnehmerin eingereichten Gesuchs um Konkurseröffnung ohne vorgängige Betreibung erfolgte ein ernsthafter Erfüllungsversuch auf ein Konto, das entweder die Arbeitnehmerin oder deren Ehemann ausdrücklich angegeben hatte. Es bestehen keine Anhaltspunkte dafür, die Überweisung sei bewusst auf das Konto bei der X Bank erfolgt, um damit eine Benachteilung der Arbeitnehmerin zu bewirken. Insbesondere kann entgegen der Ansicht der Arbeitnehmerin aus der Tatsache, dass ein Verwaltungsrat der Arbeitgeberin mit ihr und ihrem Ehemann eng befreundet und sogar deren Trauzeuge gewesen sei, nicht abgeleitet werden, die Arbeitgeberin habe über den negativen Saldo auf dem Konto Bescheid gewusst; es ist auch unter engen Freunden höchst unüblich, sich über Kontostände oder Details der finanziellen Verhältnisse zu unterhalten. Zudem ist erwiesen, dass die Arbeitgeberin den Überweisungsauftrag nach dem Widerspruch der Arbeitnehmerin nicht mehr stoppen konnte, weil die Zahlung bereits an das Rechenzentrum weitergeleitet worden war.
+d)    Gestützt auf Art. 64 OR kann eine Rückerstattung nur insofern gefordert werden, als der Empfänger zur Zeit der Rückforderung noch bereichert ist. Die Bereicherung besteht in der Differenz zwischen dem jetzigen und demjenigen Vermögensstand, der ohne das bereichernde Ereignis vorläge. Die Vermögensdifferenz kann sich nicht nur aus einer Vergrösserung (lucrum emergens), sondern auch aus einer Nichtverminderung des Vermögens (damnum cessans) ergeben
+[4]
+Eine Bereicherung liegt daher auch vor, wenn die X Bank die Zahlung mit einer Forderung gegen die Arbeitnehmerin verrechnete, da sich in diesem Fall die Schuld der Arbeitnehmerin gegenüber der Bank verminderte und sich dadurch umgekehrt ihr Vermögen vergrösserte. Dass der Arbeitnehmerin durch die irrtümliche Zahlung im Übrigen ein Vermögensschaden entstand, ist nicht anzunehmen und wurde auch nicht substantiiert behauptet. Insbesondere ist sie nicht zu hören mit dem Einwand, es sei "sowieso eine Umschuldung vorgesehen" gewesen. Einerseits ist nicht erwiesen, dass die von der Berufungsbeklagten behauptete "Umschuldung" ohne die in Frage stehende Zahlung überhaupt durchgeführt worden wäre; andererseits ist davon auszugehen, dass die erhaltene Zahlung bei einer Refinanzierung ohne weiteres berücksichtigt worden wäre, so dass der Arbeitnehmerin dadurch kein Vermögensschaden entstanden sein konnte..
+e)     Zusammengefasst war die Arbeitnehmerin nicht berechtigt, von der Arbeitgeberin eine doppelte Zahlung zu verlangen. Das Verhalten der Arbeitnehmerin ist nicht nachvollziehbar; ihr Beharren auf Überweisung auf das Konto bei der Y Bank verdient keinen Rechtsschutz und ist als rechtsmissbräuchlich zu qualifizieren. Der einzige Fehler in der Erfüllungshandlung lag darin, dass zwar an eine Zahlstelle und Erfüllungsgehilfin der Arbeitnehmerin überwiesen wurde, aber nicht an die richtige und nicht in Franken. Die Arbeitgeberin tat alles, damit die Arbeitnehmerin über den bezahlten Betrag von ihrem Wohnsitz aus verfügen konnte, so wie wenn auf das Konto bei der Y Bank überwiesen worden wäre. Falls die Arbeitnehmerin an einer Zahlung auf das übliche Konto hätte beharren wollen, hätte sie zunächst die eingegangene Zahlung zurück überweisen müssen, wozu sie von der Arbeitgeberin auch aufgefordert worden war. Die Forderung der Arbeitnehmerin ist daher unbegründet.
+Obergericht, 22. Januar 2008, ZBR.2007.71
+[1]
+Weber, Berner Kommentar, Art. 84 OR N 157 ff.; Schraner, Zürcher Kommentar, Art. 74 OR N 92 ff.
+[2]
+Merz, Berner Kommentar, Art. 2 ZGB N 99; Honsell, Basler Kommentar, Art. 2 ZGB N 34; Baumann, Zürcher Kommentar, Art. 2 ZGB N 42
+[3]
+BGE 79 II 181; Merz, Art. 2 ZGB N 365 ff.; Honsell, Art. 2 ZGB N 40; Baumann, Art. 2 ZGB N 374 ff.
+[4]
+BGE 129 III 652
