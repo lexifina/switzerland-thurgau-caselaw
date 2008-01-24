@@ -1,0 +1,61 @@
+---
+decision_id: "tg_obergericht_RBOG_2008_Nr._24"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2008 Nr. 24"
+docket_2: "ZBR.2007.88"
+decided: "2008-01-24"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/5D3D013C-9F30-9336-9862519677F30AA1.html"
+cites_law: ["switzerland/bund/acts/210/art-715.md", "switzerland/bund/acts/210/art-933.md", "switzerland/bund/acts/291/art-102.md"]
+---
+
+# TG Obergericht RBOG 2008 Nr. 24
+
+## Regeste
+
+An der Kaufsache bestand ein nach deutschem Recht gültiger Eigentumsvorbehalt der Berufungsbeklagten, welcher jedoch vor der Eröffnung des Konkurses über die X AG nicht in das schweizerische Eigentumsvorbehaltsregister eingetragen wurde. 3 IPRG sei jedoch unglücklich und ungenau, hätte es doch "einem gutgläubigen Dritterwerber" heissen sollen; die Auslegung dieser Bestimmung lasse jedoch trotz der unglücklichen Formulierung keinen anderen Schluss zu. Im Übrigen ist festzuhalten, dass ein ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 24.01.2008 RBOG 2008 Nr. 24 (ZBR.2007.88)
+Thurgovie Obergericht Rechenschaftsbericht 24.01.2008 RBOG 2008 Nr. 24 (ZBR.2007.88)
+Turgovia Obergericht Rechenschaftsbericht 24.01.2008 RBOG 2008 Nr. 24 (ZBR.2007.88)
+
+An der Kaufsache bestand ein nach deutschem Recht gültiger Eigentumsvorbehalt der Berufungsbeklagten, welcher jedoch vor der Eröffnung des Konkurses über die X AG nicht in das schweizerische Eigentumsvorbehaltsregister eingetragen wurde. 3 IPRG sei jedoch unglücklich und ungenau, hätte es doch "einem gutgläubigen Dritterwerber" heissen sollen; die Auslegung dieser Bestimmung lasse jedoch trotz der unglücklichen Formulierung keinen anderen Schluss zu. Im Übrigen ist festzuhalten, dass ein ...
+
+RBOG 2008 Nr. 24
+RBOG 2008 Nr. 24
+Begriff des gutgläubigen Dritten gemäss Art. 102 Abs. 3 IPRG
+1.     Unbestritten ist, dass die Berufungsbeklagte (mit Sitz in Deutschland) der X AG (mit Sitz in der Schweiz) einen Wohnwagen lieferte, der noch nicht bezahlt ist. An der Kaufsache bestand ein nach deutschem Recht gültiger Eigentumsvorbehalt der Berufungsbeklagten, welcher jedoch vor der Eröffnung des Konkurses über die X AG nicht in das schweizerische Eigentumsvorbehaltsregister eingetragen wurde. Umstritten ist, ob die Berufungsbeklagte dennoch eine Aussonderung des Wohnwagens aus der Konkursmasse verlangen kann.
+2.     Gestützt auf Art. 715 ZGB ist ein Eigentumsvorbehalt an einer beweglichen Sache nur wirksam, wenn dieser im Eigentumsvorbehaltsregister am Wohnort des Erwerbers eingetragen wurde. Gelangt eine bewegliche Sache in die Schweiz und wurde an ihr im Ausland ein Eigentumsvorbehalt gültig begründet, der den Anforderungen des schweizerischen Rechts nicht genügt, so bleibt der Eigentumsvorbehalt in der Schweiz gemäss Art. 102 Abs. 2 IPRG noch während drei Monaten gültig. Nach Art. 102 Abs. 3 IPRG kann dem gutgläubigen Dritten der Bestand eines solchen Eigentumsvorbehalts indessen nicht entgegengehalten werden.
+3.     a)    Die Vorinstanz erwog, es sei offensichtlich, dass Art. 102 Abs. 3 IPRG eine Nachbildung von Art. 714 Abs. 2 i.V.m. Art. 933 ZGB darstelle, welche den gutgläubigen Erwerber schützten. Aufgrund der mangelnden positiven Rechtskraft des Registereintrags eines Eigentumsvorbehalts greife dieser Schutz auch, wenn ein gültiger Eintrag im Eigentumsvorbehaltsregister vorliege. Mit Art. 102 IPRG habe das Parlament offensichtlich eine analoge Regelung wie im ZGB erreichen wollen. Die Formulierung von Art. 102 Abs. 3 IPRG sei jedoch unglücklich und ungenau, hätte es doch "einem gutgläubigen Dritterwerber" heissen sollen; die Auslegung dieser Bestimmung lasse jedoch trotz der unglücklichen Formulierung keinen anderen Schluss zu. Wenn auch die Konkursgläubiger des Eigentumsvorbehaltsschuldners unter Art. 102 Abs. 3 IPRG fielen, würde der gestützt auf Art. 102 Abs. 2 IPRG während drei Monaten gültige Eigentumsvorbehalt einzig Wirkung zwischen den Vertragsparteien sowie im Verhältnis zu einem bösgläubigen Dritten erzielen, und zudem wären die Konkursgläubiger im innerstaatlichen Verhältnis schlechter gestellt als solche in einem internationalen Verhältnis; dies könne nicht Sinn und Zweck von Art. 102 IPRG sein.
+b)    Die Lehre geht einhellig davon aus, dass mit Art. 102 Abs. 3 IPRG nicht nur die Rechte eines Dritterwerbers, sondern auch diejenigen der Gläubiger des ursprünglichen Erwerbers geschützt sind
+[1]
+. Überzeugend ist vor allem die einlässliche Begründung Buchers, angesichts des klaren Wortlauts von Art. 102 Abs. 3 IPRG sei eine Auslegung in dem Sinn, dass nur der gutgläubige Dritterwerber in seinen Rechten zu schützen sei, nicht haltbar, um so mehr als ein solcher Schutz bereits aufgrund des geltenden Rechts mangels positiver Publizitätswirkung des Registereintrags bestehe
+[2]
+. Heini führt aus, der erst durch das Parlament angefügte Abs. 3 sage zunächst nichts, was nicht ohnehin gälte: Da lex rei sitae nunmehr das schweizerische Recht sei, sei der gute Glaube eines Dritterwerbers allenfalls ohne Rücksicht auf die Eintragung zu schützen. Im Unterschied zu einem rein nationalen Tatbestand, wo der Eigentumsvorbehalt den Pfändungspfandrechten der Gläubiger des Erwerbers vorgehe, könnten sich auch diese Gläubiger auf den guten Glauben berufen, denn ohne die Eintragung könnten sich diese nicht verlässlich über die Kreditwürdigkeit des Erwerbers orientieren
+[3]
+.
+c)     Der klare Wortlaut von Art. 102 Abs. 2 IPRG schützt alle Dritten in ihrem guten Glauben. Es ist entgegen der Ansicht der Vorinstanz nicht anzunehmen, dass der Gesetzgeber lediglich eine bestehende Regelung nochmals bekräftigen wollte, dabei aber fälschlicherweise den "Dritterwerber" generell als "Dritten" bezeichnete. Auch aus den Materialien lässt sich keine vom Wortlaut abweichende Absicht des Gesetzgebers entnehmen: Art. 102 Abs. 3 IPRG wurde von den eidgenössischen Räten ohne jegliche Diskussion ins Gesetz aufgenommen
+[4]
+, obwohl die endgültige Fassung vom Entwurf des Bundesrates, welcher einen weitergehenden Schutz angestrebt hatte
+[5]
+, abwich. Es ist nicht Aufgabe des Richters, den klaren Wortlaut einer Bestimmung zu hinterfragen, wenn nicht klare Anhaltspunkte dafür bestehen, der Gesetzgeber habe sich in der Wortwahl vergriffen
+[6]
+. Solche Indizien liegen aber nicht vor, weshalb davon auszugehen ist, dass die gutgläubigen Gläubiger in ihren Rechten zu schützen sind. Entgegen der Ansicht der Vorinstanz kann die Tatsache, dass mit der Regelung von Art. 102 Abs. 3 IPRG ausländische Verkäufer schlechter gestellt sind als inländische, nicht zu einem anderen Resultat führen; es wäre dem Gesetzgeber auch freigestanden, ausländische Eigentumsvorbehalte, welche den schweizerischen Vorschriften nicht entsprechen, ohne jegliche Schonfrist einfach dahinfallen zu lassen.
+d)    Der Ansicht der Berufungsbeklagten, die Berufungsklägerin sei als Konkursmasse der X AG gleichzustellen, weshalb sie sich nicht auf den guten Glauben berufen könne, ist nicht zu folgen. In einer Aussonderungsklage ist zwingend die Masse die beklagte Partei. Da diese die Interessen der Gläubiger vertritt, ist sie nicht als (bösgläubige) Vertragspartei zu betrachten. Dass die Gläubiger selber bösgläubig seien, wurde von der Berufungsbeklagten nicht substantiiert behauptet. Im Übrigen ist festzuhalten, dass ein allfälliger böser Glaube vor Konkurseröffnung bestanden haben müsste; die danach erlangte Kenntnis vom Eigentumsvorbehalt kann ohnehin nicht zur Bösgläubigkeit führen.
+Obergericht, 24. Januar 2008, ZBR.2007.88
+Auf eine dagegen erhobene Beschwerde trat das Bundesgericht am 3. Dezember 2008 nicht ein (5A_224/2008).
+[1]
+Heini, Zürcher Kommentar, Art. 102 IPRG N 15 f.; Fisch, Basler Kommentar, Art. 102 IPRG N 32; Siehr, Das internationale Privatrecht der Schweiz, Zürich 2002, S. 195 f.; Schwander, Einführung in das internationale Privatrecht, BT, St. Gallen/Lachen 1997, S. 191; Bucher, La réserve de propriété en droit international privé suisse, in: SJ 1990 S. 321
+[2]
+Bucher, S. 321
+[3]
+Heini, Art. 102 IPRG N 15 f.
+[4]
+Amtl. Bull. SR 1985 S. 155, Amtl. Bull. NR 1986 S. 1353
+[5]
+BBl 1983 I 397 f.
+[6]
+BGE 133 III 266 f., 125 III 61, 123 III 448
