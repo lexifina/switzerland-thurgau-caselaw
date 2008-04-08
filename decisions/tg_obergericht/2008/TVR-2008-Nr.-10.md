@@ -1,0 +1,40 @@
+---
+decision_id: "tg_obergericht_TVR_2008_Nr._10"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2008 Nr. 10"
+decided: "2008-04-08"
+published: "2008-06-04"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2008-nr-10"
+---
+
+# TG Obergericht TVR 2008 Nr. 10
+
+## Regeste
+
+Anforderungen an eine Beschwerdeeingabe
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 04.06.2008 TVR 2008 Nr. 10
+Thurgovie Obergericht Rechenschaftsbericht 04.06.2008 TVR 2008 Nr. 10
+Turgovia Obergericht Rechenschaftsbericht 04.06.2008 TVR 2008 Nr. 10
+
+TVR 2008 Nr. 10
+Skip to main content
+Show navigation
+Anforderungen an eine Beschwerdeeingabe
+§ 57 Abs. 1 VRG
+Eine per Fax übermittelte Beschwerde genügt den gesetzlichen Anforderungen nicht.
+A liess, vertreten durch seinen Treuhänder B, am 6. April 2008 beim DJS gegen eine Verfügung des Migrationsamtes Rekurs erheben. Mit Zwischenentscheid vom 8. April 2008 verpflichtete das DJS A einen Prozesskostenvorschuss zu bezahlen. Gegen diese Zwischenverfügung liess A, wiederum durch B vertreten, am 29. April 2008 Beschwerde erheben. Mit Schreiben vom 30. April 2008 teilte der Präsident des Verwaltungsgerichts dem Beschwerdeführer sowie dessen Vertreter mit, die berufsmässige Verbeiständung und Vertretung vor dem Verwaltungsgericht sei ausschliesslich den nach dem Anwaltsgesetz des Bundes zugelassenen Anwälten vorbehalten. Dem Beschwerdeführer wurde gleichzeitig eine Notfrist bis 8. Mai 2008 eingeräumt, um entweder eine eigenhändig unterzeichnete Beschwerde einzureichen oder eine solche durch eine berufsmässig zugelassene Person einreichen zu lassen, dies mit dem Hinweis, dass er bei unbenütztem Ablauf dieser Frist mit einem Nichteintretensentscheid rechnen müsse. Am 5. Mai 2008 liess B ein mit der Eingabe vom 29. April 2008 identisches aber mit As Unterschrift und Datum vom 5. Mai 2008 versehenes Schreiben per Fax an das Verwaltungsgericht übermitteln. In einem Begleitfax erklärte B, A befinde sich zurzeit in Deutschland (Rehabilitation), weshalb Beschwerde per Fax erhoben werde. Das Verwaltungsgericht tritt in der Folge auf die Beschwerde nicht ein.
+Aus den Erwägungen:
+1. Die Beschwerdeschrift ist innert 20 Tagen seit der Eröffnung des angefochtenen Entscheides unter Beilage oder genauer Bezeichnung desselben bei der Beschwerdeinstanz unterzeichnet und im Doppel einzureichen. Die Beschwerde muss einen Antrag und eine Begründung enthalten sowie die Beweismittel aufführen (§ 57 Abs. 1 VRG). Gemäss bundesgerichtlicher Rechtsprechung ist dabei nur die Originalunterschrift gültig. Eine per Fax übermittelte Beschwerdeschrift erfüllt dagegen die gesetzlichen Anforderungen nicht (BGE 121 II 252 E. 3 und 4; Pra 85 [1996] Nr. 147).
+2. a) Die von B eingereichte Beschwerdeschrift vom 29. April 2008 erfüllt die Anforderungen an eine gültige Beschwerde nicht, weil sie nicht persönlich oder durch einen im Anwaltsregister eingetragenen Anwalt erfolgte (§ 9 Abs. 3 VRG). Auch innerhalb der daraufhin angesetzten Nachfrist ging beim Verwaltungsgericht keine gesetzeskonforme, originalunterzeichnete Beschwerde ein. Eine postalische Eingabe wäre sicherlich möglich gewesen. Dass der in der Schweiz wohnhafte Beschwerdeführer sich angeblich im Ausland aufgehalten hat, worüber er im Übrigen keine näheren Angaben (Ort, Grund) macht, geschweige denn Belege einreicht, spielt daher keine Rolle.
+Entscheid vom 4. Juni 2008
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
