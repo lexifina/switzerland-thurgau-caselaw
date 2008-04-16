@@ -1,0 +1,43 @@
+---
+decision_id: "tg_obergericht_TVR_2008_Nr._24"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2008 Nr. 24"
+decided: "2008-04-16"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2008-nr-24"
+---
+
+# TG Obergericht TVR 2008 Nr. 24
+
+## Regeste
+
+Sondervorteil als Voraussetzung für die Beitragserhebung
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 16.04.2008 TVR 2008 Nr. 24
+Thurgovie Obergericht Rechenschaftsbericht 16.04.2008 TVR 2008 Nr. 24
+Turgovia Obergericht Rechenschaftsbericht 16.04.2008 TVR 2008 Nr. 24
+
+TVR 2008 Nr. 24
+Skip to main content
+Show navigation
+Sondervorteil als Voraussetzung für die Beitragserhebung
+§ 47 Abs. 2 aPBG
+,
+§ 52 Abs. 2 aPBG
+Ein beitragspflichtiger Sondervorteil entsteht dann nicht, wenn zwar die vorgelagerte Zufahrt wegen der dort erstellten Mehrfamilienhäuser verbessert wurde, die eigentliche Anliegerstrasse jedoch unverändert bleibt.
+Die Gemeinde Z plant, das Gebiet Au im Süden der Gemeinde zu erschliessen. Hierzu wurde ein Gestaltungsplan mit dazu gehörenden Sonderbauvorschriften, einem Planungsbericht sowie weiteren Spezialplänen erstellt. Der Gestaltungsplan sieht vor, den bereits bestehenden Auweg entlang der Bahngeleise zu verbreitern, ebenso die Verbreiterung des Wegs im Verlaufe der Kurve auf der Höhe der Parzelle Nr. 335. Weiter südlich soll der Auweg zudem verlängert werden, wobei er dann in die noch zu erstellende Stichstrasse, welche weiter südlich von der Mattstrasse her gezogen wird, einmündet. Das Teilstück des Auwegs ab etwa der Mitte der Parzellen Nr. 335 beziehungsweise Nr. 345 bis hinauf zum Ende der Parzellen Nr. 833 auf der einen und Nr. 846 auf der anderen Strassenseite wird – auch aus topographischen Gründen – unverändert belassen. Am Ende dieses unveränderten Abschnitts wird die Durchfahrt verboten, so dass die Parzellen Nrn. 337, 853 sowie 852 künftig über die neu zu erstellende Verlängerung des Auwegs erschlossen werden. In der Folge wurde das Strassenprojekt in Anwendung von § 21 StrWG aufgelegt. Dabei ist das Projekt aufgeteilt in die Teile «Auweg Süd» und «Auweg Nord». Für den Auweg Nord ist vorgesehen, dass die Parzelle Nr. 345 (Eigentümer A) zu 100%, die Parzelle Nr. 335 (gleiche Eigentümer) zu 25%, die Parzelle Nr. 810 (Eigentümer B), die Parzelle Nr. 346 (Eigentümer C), die Parzelle Nr. 833 (Eigentümer D) sowie Parzelle Nr. 336 (Eigentümer E) je zu 50% an den Kosten beteiligt werden. Die erhobene Einsprache wies die Gemeinde Z ab, ebenso das DBU den daraufhin erhobenen Rekurs. A, B, C, D und E gelangen mit Beschwerde an das Verwaltungsgericht, das gutheisst.
+Aus den Erwägungen:
+3. a) Baugebiete sind in der Regel im Rahmen eines Gestaltungsplans zu erschliessen und baureif zu machen (§ 37 PBG), der hier bereits rechtskräftig erlassen wurde. § 47 PBG schreibt vor, dass die Gemeinde Beiträge der Grundeigentümer für die Kosten der Erschliessung zu erheben hat. Die Bemessungsfaktoren für die Beiträge sind in einem (Gemeinde-)Reglement zu ordnen (§ 47 PBG). Die Frage der Höhe der geschuldeten Beiträge ist im vorliegenden Fall jedoch nur in zweiter Linie strittig, da die Beschwerdeführer ihre grundsätzliche Zahlungspflicht bestreiten. Die Grundvoraussetzungen zur Erhebung von Beiträgen ordnet das PBG (§ 52 bis 57 PBG; TVR 2005 Nr. 24, E. 2b).
+Erfahren Grundstücke durch den Bau, Ausbau oder die Korrektion von Erschliessungsanlagen einen besonderen Vorteil, sind die Eigentümer durch die Gemeinde zu Beiträgen heranzuziehen. Die Beiträge dürfen den Mehrwert des Grundstücks nicht übersteigen. Sie werden nach den für das Werk zu deckenden Kosten bemessen und auf die Eigentümer nach Massgabe des ihnen erwachsenen Vorteils verlegt (§ 52 Abs. 1 und 2 PBG). Der besondere Vorteil nach § 52 Abs. 1 PBG wird als Sondervorteil bezeichnet und muss wirtschaftlicher Art sein. Als solcher muss er realisierbar sein, das heisst, er muss in Geld ausgedrückt und in Geld umgesetzt werden können. Dass er auch effektiv realisiert wird, ist nicht erforderlich. Es genügt, wenn der Beitragsbelastete die Möglichkeit hat, durch geeignete Massnahmen den Vorteil zu nutzen (TVR 1998 Nr. 26). Für die Beurteilung des Sondervorteils ist demnach nicht nur die effektive, sondern eben die mögliche Nutzung massgebend, so dass die Zone und deren Zweck, in der sich die massgeblichen Parzellen befinden, eine wesentliche Rolle spielen. Bei einem Ausbau einer bereits bestehenden Erschliessungsanlage ist ein Sondervorteil dann zu bejahen, wenn die Erschliessung einzelner Grundstücke durch den Ausbau wesentlich verbessert wird. Im konkreten Fall bedeutet dies, dass ein Sondervorteil zu bejahen ist, wenn ein Grundstück rascher, bequemer oder sicherer erreicht werden kann, oder wenn die bauliche Nutzungsmöglichkeit des Grundstücks durch den Ausbau verbessert wird (Blumer, Abgaben für Erschliessungsanlagen nach dem Thurgauer Baugesetz, Zürich 1998, S. 68). Dabei ist ein objektiver Massstab anzuwenden und nicht auf subjektive aktuelle Bedürfnisse abzustellen (TVR 2003 Nr. 21, E. 2c).
+Unüberbaute Grundstücke werden in der Regel erst durch die Erschliessung baureif. Bei bebauten Grundstücken lässt es die Besitzstandsgarantie aber zu, die rechtmässig erstellten Bauten zu erneuern, umzubauen, zu erweitern oder in ihrem Zweck zu ändern, soweit dadurch der Widerspruch zum geltenden Recht nicht wesentlich verstärkt wird (§ 81 PBG). Damit kann eine möglicherweise mangelhaft erschlossene Liegenschaft ohne Ausbau der Erschliessung erweitert oder umgenutzt werden. Es kommt hinzu, dass der Eigentümer einer unüberbauten Parzelle seine Überbauung in weitgehend freier Weise auf die Erschliessung ausrichten kann. Ein Eigentümer einer bestehenden Liegenschaft hat den Ausbau der Erschliessung in der Regel so hinzunehmen. Das führt dazu, dass der Vorteil für die Liegenschaft bei überbauten Parzellen nicht gleich hoch sein kann, wie bei den anderen (unüberbauten) Grundstücken. Schliesslich ist der realisierbare Mehrwert, den eine bestehende Liegenschaft durch den Bau / Ausbau einer Erschliessung erfährt, in aller Regel bescheidener als bei unüberbauten Grundstücken (TVR 2004 Nr. 30, E. 2e/aa).
+b) Was die Beschwerdeführer A, B, C, D sowie E betrifft, so stellt sich die Situation für sie wie folgt dar: Der Auweg entlang der Parzellen Nrn. 335, 833, 346 und 345, der auch noch die Parzellen Nrn. 337, 853 und 852 erschlossen hat, war bisher eine für diese wenigen Liegenschaften genügende Erschliessungsstrasse. Dieser Abschnitt wird im Rahmen der Erschliessung des Au-quartiers nicht ausgebaut und verbleibt bei einer Breite von 3,5 Metern. Auch wenn mit der Vorinstanz davon auszugehen ist, dass hinsichtlich des Kostenverteilers ein Gestaltungsplan nur dann Verbindlichkeit erreichen kann, wenn darin auch die entsprechenden Kostenfolgen bereits geregelt sind, so ist nicht zu übersehen, dass selbst die Gemeinde Z davon ausgeht, die Parzelle Nr. 346 (Parzelle C) sei bereits vollständig erschlossen (vgl. Planungsbericht Gestaltungsplan). Tatsächlich ist aufgrund des Augenscheins sowie der Pläne für das Gericht nicht nachvollziehbar, inwiefern für diese Parzelle durch die Verbreiterung des Auwegs entlang der Parzelle Nr. 606 ein Sondervorteil entstehen soll. Zwar wird dort ein Teil der Zufahrt komfortabler gestaltet, doch wurde dieser Ausbau letztlich durch die Überbauung der Parzelle Nr. 606 notwendig, was durch die bereits erstellten Mehrfamilienhäuser einen entsprechenden Mehrverkehr mit sich bringt. Dieser Mehrverkehr sowie die praxisgemäss in aller Regel zu erwartenden Fahrzeuge, die künftig auf dem Auweg abgestellt werden (Besucherverkehr, Kurzparkieren über Mittag), heben einen allfälligen, allerdings für das Gericht schwer nachvollziehbaren Sondervorteil zweifelsohne wieder auf. Die Parzelle Nr. 335 ist davon insofern zusätzlich betroffen, als dort in der Nähe unwidersprochenermassen durch wendende Fahrzeuge Mehrimmissionen bestehen. Ein Sondervorteil und damit ein Mehrwert für die Parzellen Nrn. 346, 810, 833, 336, 345 und 335, die künftig ganz oder nach wie vor zum wesentlichen Teil über den unausgebauten Teil des Auwegs erschlossen werden, ist nicht ersichtlich, zumal eine blosse neue Verkehrsregelung (Einbahn) nicht zu einem kostenpflichtigen Mehrwert führt. Es rechtfertigt sich daher nicht, diese Parzellen, wenn teilweise auch nur zu 50% beziehungsweise zu 25%, in den Kostenteiler einzubeziehen. Für diese Parzellen ist daher der vorinstanzliche Entscheid aufzuheben und eine Kostenpflicht grundsätzlich zu verneinen.
+Entscheid vom 16. April 2008
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
