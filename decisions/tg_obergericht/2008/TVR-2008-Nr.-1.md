@@ -1,0 +1,56 @@
+---
+decision_id: "tg_obergericht_TVR_2008_Nr._1"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2008 Nr. 1"
+decided: "2008-05-21"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2008-nr-1"
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/142.20/art-004.md", "switzerland/bund/acts/142.20/art-007.md", "switzerland/bund/acts/142.20/art-017.md", "switzerland/bund/acts/142.31/art-060.md"]
+---
+
+# TG Obergericht TVR 2008 Nr. 1
+
+## Regeste
+
+Aufenthaltsbewilligung und Familiennachzug
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 21.05.2008 TVR 2008 Nr. 1
+Thurgovie Obergericht Rechenschaftsbericht 21.05.2008 TVR 2008 Nr. 1
+Turgovia Obergericht Rechenschaftsbericht 21.05.2008 TVR 2008 Nr. 1
+
+TVR 2008 Nr. 1
+Skip to main content
+Show navigation
+Aufenthaltsbewilligung und Familiennachzug
+Art. 4 ANAG
+,
+Art. 38 Abs. 1 BVO
+,
+Art. 8 Ziff. 1 EMRK
+1. Der vorläufig aufgenommene Ausländer, der im Besitze einer Aufenthaltsbewilligung ist, hat keinen Anspruch auf Familiennachzug, selbst wenn die Voraussetzungen nach BVO erfüllt sind (E. 4).
+2. Um sich erfolgreich auf Art. 8 EMRK berufen zu können, wird vorab ein gefestigter Aufenthalt vorausgesetzt. Fall eines Pakistani, der seit 1994 in der Schweiz ist und seine Frau und seinen 16-jährigen Sohn erst 12 Jahre später nachziehen will (E. 5).
+M, geb. 4. Oktober 1952, pakistanischer Staatsangehöriger, reiste 1994 in die Schweiz und reichte ein Asylgesuch ein. Im Rahmen eines Beschwerdeverfahrens gegen die Verweigerung des Asyls wurde das Bundesamt für Flüchtlinge angewiesen, M vorläufig aufzunehmen. Auf Antrag Ms hin erteilte ihm das Migrationsamt des Kantons Thurgau am 21. Oktober 2004 die Jahresaufenthaltsbewilligung. Am 30. November 2005 ersuchte M um Nachzug seiner Frau und einer seiner Söhne. Das Migrationsamt entsprach dem Gesuch nicht, da Nr. 1 32 die konkrete Gefahr einer fortgesetzten und/oder erheblichen Fürsorgeabhängigkeit bestehe. Ausserdem fehle es an einer angemessenen Wohnung. Der dagegen beim DJS erhobene Rekurs wurde am 4. Februar 2008 abgewiesen. Auch das Verwaltungsgericht weist ab.
+Aus den Erwägungen:
+2. (Ausführungen zum anwendbaren Recht)
+3. Das ANAG sieht keinen grundsätzlichen Anspruch des Ausländers auf Nachzug seiner Familienangehörigen vor. Vielmehr entscheidet die Behörde nach freiem Ermessen und unter Berücksichtigung der gesetzlichen Vorschriften und der Verträge mit dem Ausland über die Bewilligung von Aufenthalt oder Niederlassung (Art. 4 ANAG). Im Sinne einer Ausnahme hat nur der Ehegatte eines Schweizer Bürgers (Art. 7 Abs. 1 ANAG) sowie der Ehegatte eines in der Schweiz niedergelassenen Ausländers (Art. 17 Abs. 2 ANAG) einen gesetzlichen Anspruch auf Erteilung der Aufenthaltsbewilligung. Ledige Kinder unter 18 Jahren haben grundsätzlich Anspruch auf Einbezug in die Niederlassungsbewilligung ihrer Eltern (Art. 17 Abs. 2 ANAG).
+Der Beschwerdeführer besitzt seit 21. Oktober 2004 und somit auch im Zeitpunkt des Einreichens des Gesuchs um Nachzug seiner Familienangehörigen vom 30. November 2005, lediglich eine Aufenthaltsbewilligung. Folglich hat weder seine Ehefrau noch sein Sohn einen Anspruch aus dem ANAG auf Erteilung einer Aufenthalts- beziehungsweise Niederlassungsbewilligung.
+4. Somit richtet sich der Familiennachzug nach der BVO. Art 38 Abs. 1 BVO gibt den kantonalen Behörden die allgemeine Möglichkeit, nicht aber die Pflicht, zur Bewilligung des Familiennachzugs. Selbst wenn der Anforderungskatalog von Art. 39 Abs. 1 BVO erfüllt ist, besteht aber kein Anspruch auf Familiennachzug, vermag doch die BVO keinen über das Gesetz hinausgehenden Bewilligungsanspruch zu begründen (BGE 130 II 281 E. 2.2). Daher entscheidet die kantonale Behörde auch in den Fällen, in denen sich der Familiennachzug nach der BVO richtet, mit freiem Ermessen über die Bewilligung (vgl. Art. 4 ANAG).
+5. a) Der Beschwerdeführer beruft sich im Wesentlichen auf den in Art. 8 Ziff. 1 EMRK statuierten Schutz des Familienlebens und führt aus, dass dadurch das freie Ermessen der Behörde eingeschränkt werde und seine Familienangehörigen ebenfalls Anspruch auf Erteilung der Aufenthaltsbewilligung hätten.
+Gemäss der Praxis des Bundesgerichts kann sich ein Ausländer, der nahe Verwandte mit einem gefestigten Aufenthaltsrecht in der Schweiz hat, auf Art. 8 Ziff. 1 EMRK berufen, so den Schutz des gemeinsamen Familienlebens beanspruchen und dadurch selber die Aufenthaltsbewilligung für die Schweiz erlangen. Ein gefestigtes Aufenthaltsrecht des Ausländers in der Schweiz ist bei Vorliegen einer Niederlassungsbewilligung sowie dann gegeben, wenn die Aufenthaltsbewilligung auf einem festen Rechtsanspruch beruht (BGE 122 II 33 Nr. 1 1 E. 1e, 124 II 361 E. 1b, 126 II 377 E. 2b). Ausnahmsweise hat das Bundesgericht einen gefestigten Aufenthalt, unter besonderen Umständen, schon bei einer normalen Aufenthaltsbewilligung bejaht. Dabei ging es allerdings um einen Ausländer, der in Österreich und danach in der Schweiz aufgewachsen ist, zu seiner ursprünglichen Heimat praktisch keinerlei Verbindungen mehr unterhielt und sich über mehr als 20 Jahre in der Schweiz aufhielt (vgl. BGE 130 II 281 E. 3.3). Zusätzlich muss die zu schützende Familiengemeinschaft gelebt werden und die familiäre Beziehung intakt sein.
+Nicht bestritten ist vorliegend, dass der Beschwerdeführer beabsichtigt, in der Schweiz mit seiner Ehefrau und dem Sohn zusammen zu leben und eine familiäre Gemeinschaft zu bilden. Nachdem er im Dezember 2006 und Januar 2007 bereits zu Besuchszwecken in Pakistan weilte, können die familiären Beziehungen möglicherweise als intakt bezeichnet werden. Es bleibt also zu prüfen, ob der Beschwerdeführer einen Rechtsanspruch auf eine Aufenthaltsbewilligung beziehungsweise ein gefestigtes Aufenthaltsrecht hat.
+b) Der Beschwerdeführer ist nicht im Besitz einer Niederlassungsbewilligung. Er wurde aufgrund des Urteils der Schweizerischen Asylrekurskommission vom 17. Januar 2002 wegen einer schwerwiegenden persönlichen Notlage im Sinne von Art. 14a Abs. 1 ANAG vorläufig in der Schweiz aufgenommen. Mangels Flüchtlingseigenschaft wurde ihm die Gewährung von Asyl jedoch verweigert. Daher erlangte er auch keinen Anspruch auf eine Niederlassungsbewilligung nach fünfjähriger Anwesenheit gemäss Art. 60 Abs. 2 AsylG.
+Am 21. Oktober 2004 wurde dem Beschwerdeführer auf eigenes Ersuchen hin die Jahresaufenthaltsbewilligung gestützt auf Art. 13 lit. f BVO erteilt. Damit erlosch die vorläufige Aufnahme von Gesetzes wegen (Art. 14b Abs. 2 ANAG). (...) Diese Bewilligung erhielt der Beschwerdeführer jedoch nicht aufgrund eines gesetzlichen Anspruchs. Art. 38 Abs. 1 BVO erteilt den Kantonen lediglich die Befugnis, nicht aber die Pflicht zur Ausstellung von Jahresaufenthaltsbewilligungen (vgl. BGE 130 II 281 E. 2.2). Mit der Erteilung der Aufenthaltsbewilligung wurde auch kein neuer Anspruch des Beschwerdeführers auf ein Aufenthaltsrecht geschaffen.
+Der Beschwerdeführer reiste erst im Alter von 42 Jahren in die Schweiz ein; sein gesamtes früheres Leben verbrachte er in Pakistan, wo auch seine Familie nach wie vor lebt. Die Tatsache, dass der Beschwerdeführer zumindest im Dezember 2006 und Januar 2007 für Besuche nach Pakistan reiste, macht zudem deutlich, dass er immer noch Beziehungen zu seiner Heimat unterhält. Insbesondere aber leben seine nächsten Familienangehörigen noch dort und es wäre auch ihm nicht unzumutbar, dort zu leben. Dies führte selbst die Schweizerische Asylrekurskommission in ihrem Urteil sinngemäss aus. Vorliegend handelt es sich somit nicht um einen mit BGE 130 II 281 vergleichbaren oder gar übereinstimmenden Fall. Das einfache Aufenthaltsrecht des Beschwerdeführers ist daher auch nicht ausnahmsweise als gefestigter Aufenthalt zu qualifizieren. Nachdem der Beschwerdeführer weder einen rechtlichen Anspruch auf eine Aufenthaltsbewilligung hat, noch sein gegenwärtiger Aufenthalt im Sinne von BGE 130 II 281 ausnahmsweise als gefestigt zu bezeichnen ist, können Nr. 1 34 sich weder er noch seine Ehefrau beziehungsweise sein Sohn auf Art. 8 Ziff. 1 EMRK berufen. Folglich wird das Ermessen der Behörde in der Beurteilung des Gesuchs um die Bewilligung von Aufenthalt und Niederlassung nicht durch die EMRK beschränkt. Die zuständige kantonale Behörde entscheidet vielmehr nach freiem Ermessen (vgl. BGE 125 II 633 E. 2c).
+c) Selbst wenn der Beschwerdeführer einen rechtlichen Aufenthaltsanspruch hätte oder sein Aufenthalt in der Schweiz zumindest als gefestigt zu bezeichnen wäre, müsste in Bezug auf den Sohn, geboren 1990, darauf hingewiesen werden, dass dieser inzwischen volljährig ist und sich daher, um eine Aufenthaltsbewilligung zu erwirken, ohnehin nicht mehr auf den Schutz der Familie gemäss Art. 8 Ziff 1 EMRK berufen könnte (BGE 129 II 11 E. 2; 130 II 137 E. 2.1). Dass der Sohn im Zeitpunkt der Gesuchseinreichung noch nicht volljährig war, ist vorliegend nicht von Bedeutung. Denn eine ihm erteilte Aufenthaltsbewilligung wäre spätestens mit Eintritt der Volljährigkeit überprüft worden. Bei der Beurteilung eines Familiennachzugsgesuchs gestützt auf Art. 8 Ziff.1 EMRK ist gemäss Praxis des Bundesgerichts daher immer auf das jeweilige Alter der Kinder im Zeitpunkt des Entscheids abzustellen (BGE 120 Ib 257 E. 1d; 129 II 11 E. 2).
+Ausserdem wäre zu berücksichtigen, dass ein Ausländer, der selbständig den Entscheid getroffen hat, von seiner Familie getrennt zu leben, keinen Anspruch auf Bewilligung des Familiennachzugs aus Art. 8 Ziff. 1 EMRK ableiten könnte (BGE 124 II 366 E. 3a). Wie erwähnt, hat die Asylrekurskommission festgehalten, dass es dem Beschwerdeführer nicht unzumutbar wäre, weiterhin in Pakistan zu leben. (...) Ebenso ist nicht ersichtlich, weshalb er mit dem Familiennachzug knapp 10 Jahre zuwartete, bis seine Söhne beinahe volljährig waren. Es muss davon ausgegangen werden, dass er beziehungsweise seine Familienangehörigen dies freiwillig taten und das Getrenntleben somit freiwillig fortführten. Somit wäre der Familiennachzug selbst bei Anwendbarkeit von Art. 8 Ziff. 1 EMRK zumindest fraglich.
+6. a) Mit der Beschwerde ans Verwaltungsgericht können Rechtsverletzungen geltend gemacht werden (§ 56 Abs. 1 VRG). Dazu gehören etwa die Ermessensüberschreitung und der Ermessensmissbrauch (§ 56 Abs. 2 Ziff. 3 VRG). Die pflicht- und rechtmässige Ausübung des Ermessens stellt jedoch keinen Beschwerdegrund dar. (...) Im Rahmen des Rekursverfahrens hat das DJS die Angelegenheit mit voller Kognition geprüft und den Rekurs in der Folge abgewiesen; mithin den Entscheid des Migrationsamts bestätigt. Eine dadurch begangene Ermessensüberschreitung oder gar ein Ermessensmissbrauch ist vorliegend weder behauptet noch erkennbar. Unter den gegebenen Umständen, insbesondere unter Berücksichtigung der aktenkundigen mehrwöchigen Besuchsreise des Beschwerdeführers in seine Heimat, der Tatsache, dass das Familiennachzugsgesuch erst nach mehr als zehnjähriger Anwesenheit des Beschwerdeführers in der Schweiz gestellt wurde, des Alters des Sohnes sowie der Integrationsfrage, ist der Entscheid der Vorinstanz vielmehr als sachgerecht zu bezeichnen. (...)
+Entscheid vom 21. Mai 2008
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
