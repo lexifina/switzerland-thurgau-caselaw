@@ -1,0 +1,72 @@
+---
+decision_id: "tg_obergericht_RBOG_2008_Nr._32"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2008 Nr. 32"
+decided: "2008-05-27"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/5D3E24C5-C018-C68E-BCD2A39C983810A6.html"
+cites_law: ["switzerland/bund/acts/220/art-423.md", "switzerland/bund/acts/231.1/art-061.md", "switzerland/bund/acts/231.1/art-062.md"]
+---
+
+# TG Obergericht RBOG 2008 Nr. 32
+
+## Regeste
+
+bb) Rechtsbegehren B, mit dem auf Auskunft und Abrechnung bezüglich der vertraglichen und ausservertraglichen Verwertung des Spielfilms geklagt wurde, beruht auf dem Weltvertriebsvertrag, soweit es um die Verwertung während der Vertragsdauer geht; allfällige Pflichten danach gründen wiederum auf der Verletzung des Urheberrechts. e) Zusammengefasst ist die sachliche Zuständigkeit des Obergerichts nur in Bezug auf die klägerischen Rechtsbegehren G und E sowie teilweise auf Rechtsbegehren B – ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 27.05.2008 RBOG 2008 Nr. 32
+Thurgovie Obergericht Rechenschaftsbericht 27.05.2008 RBOG 2008 Nr. 32
+Turgovia Obergericht Rechenschaftsbericht 27.05.2008 RBOG 2008 Nr. 32
+
+bb) Rechtsbegehren B, mit dem auf Auskunft und Abrechnung bezüglich der vertraglichen und ausservertraglichen Verwertung des Spielfilms geklagt wurde, beruht auf dem Weltvertriebsvertrag, soweit es um die Verwertung während der Vertragsdauer geht; allfällige Pflichten danach gründen wiederum auf der Verletzung des Urheberrechts. e) Zusammengefasst ist die sachliche Zuständigkeit des Obergerichts nur in Bezug auf die klägerischen Rechtsbegehren G und E sowie teilweise auf Rechtsbegehren B – ...
+
+RBOG 2008 Nr. 32
+RBOG 2008 Nr. 32
+Urheberrechtliche Streitigkeit; Zuständigkeit des Obergerichts
+(§ 49 Abs. 1 Ziff. 1 lit. a ZPO)
+1.     Die Klägerin, eine Filmproduktionsgesellschaft, hatte mit der Beklagten, einer Lizenzvermarkterin, einen Weltvertriebsvertrag über die Verwertung eines von der Klägerin produzierten Spielfilms geschlossen. In Zusammenhang mit diesem Vertrag kam es zwischen den Parteien zum Streit. Die Klägerin verlangte von der Beklagten die Herausgabe der Originalfassung des Vertrags (Klagebegehren A), eine detaillierte Abrechnung über die durch die Verwertung des Films erzielten Einnahmen (Klagebegehren B), die Bezahlung des Netto-Produzentenanteils (Klagebegehren C und D) und die Bezahlung sämtlicher Einnahmen aus der ausservertraglichen Verwertung des Films (Klagebegehren E); ferner beantragte die Klägerin, der Beklagten eine von ihr nicht genehmigte Verwendung oder Verwertung des Films zu verbieten (Klagebegehren G).
+2.     a)    Gemäss § 49 Abs. 1 Ziff. 1 ZPO beurteilt das Obergericht als einzige kantonale Instanz Streitigkeiten betreffend Urheberrecht an Werken der Literatur und Kunst, betreffend Erfindungspatente, Muster und Modelle, Fabrik- und Handelsmarken, Geschäftsfirmen, Wettbewerbsbehinderungen nach Kartellrecht und weitere Zivilsachen, für welche das Bundesrecht die Beurteilung durch eine einzige kantonale Instanz vorschreibt, sofern nicht durch besondere Bestimmungen eine andere Zuständigkeit festgelegt ist.
+b)    Grundlage für Klagen aus Urheberrecht, welche direkt dem Obergericht unterbreitet werden können, bilden die Art. 61 f. URG
+[1]
+. Gestützt auf Art. 61 URG kann, wer ein rechtliches Interesse nachweist, gerichtlich feststellen lassen, ob ein Recht oder Rechtsverhältnis nach diesem Gesetz vorhanden ist oder fehlt. Wer in seinem Urheber- oder verwandten Schutzrecht verletzt oder gefährdet wird, kann vom Gericht nach Art. 62 Abs. 1 URG verlangen, eine drohende Verletzung zu verbieten, eine bestehende Verletzung zu beseitigen und die beklagte Partei zu verpflichten, Herkunft und Menge der in ihrem Besitz befindlichen Gegenstände, die widerrechtlich hergestellt oder in Verkehr gebracht worden sind, anzugeben und Adressaten sowie Ausmass einer Weitergabe an gewerbliche Abnehmer und Abnehmerinnen zu nennen. Gemäss Art. 62 Abs. 2 URG bleiben die Klagen nach dem Obligationenrecht auf Schadenersatz, auf Genugtuung sowie auf Herausgabe eines Gewinns entsprechend den Bestimmungen über die Geschäftsführung ohne Auftrag vorbehalten.
+c)     Vertragsklagen, die sich auf eine Nicht- oder Schlechterfüllung von Abtretungs-, Lizenz- oder Verlagsverträgen über Immaterialgüterrechte beziehen, sind demgegenüber nicht vor dem Obergericht, sondern vor den ordentlichen Zivilgerichten einzubringen
+[2]
+. Dies gilt selbst dann, wenn bei der Beurteilung der Vertragsklage vorfrage- oder einredeweise die Gültigkeit des den Vertragsgegenstand bildenden Schutzrechts abgeklärt werden muss
+[3]
+. Gemäss Art. 5 Abs. 1 lit. a der zukünftigen Schweizerischen Zivilprozessordnung sollen nicht nur Streitigkeiten im Zusammenhang mit geistigem Eigentum, sondern auch Streitigkeiten betreffend Nichtigkeit, Inhaberschaft, Lizenzierung, Übertragung und Verletzung solcher Rechte der Zuständigkeit einer einzigen kantonalen Instanz unterstellt werden
+[4]
+§ 49 Abs. 1 Ziff. 1 ZPO abzustellen.. Da die Schweizerische Zivilprozessordnung allerdings noch nicht in Kraft steht, ist im hier zu entscheidenden Fall allein auf
+d)    aa)   Urheberrechtlicher Natur sind nur die Anspruchsgrundlagen eines Teils der klägerischen Rechtsbegehren. Rechtsbegehren G, mit dem der Beklagten verboten werden soll, den Spielfilm zu verändern und zu verwerten, ist eine Klage im Sinn von Art. 62 Abs. 1 URG, da der Klägerin mit dem daran geltend gemachten Urheberrecht unter anderem das ausschliessliche Recht auf Vervielfältigung und Verbreitung des Films und die entsprechenden Abwehrrechte bei Verletzung dieser Rechte durch Dritte zustehen. Rechtsbegehren E, mit dem die Klägerin auf Herausgabe der Einnahmen der Beklagten aus der ausservertraglichen Verwertung des Spielfilms klagte, ist eine Klage im Sinn von Art. 62 Abs. 2 URG, gestützt auf die Verletzung des geltend gemachten Urheberrechts. Auch wenn sich die Schadenersatzklage im Bereich des Urheberrechts nicht von sonstigen Schadenersatzklagen unterscheidet und Art. 423 OR die Anspruchsgrundlage für die Gewinnherausgabe bildet
+[5]
+, ist die Zuständigkeit des Obergerichts zu bejahen, weil der Ursprung des Anspruchs die widerrechtliche Verletzung des Urheberrechts (beziehungsweise des verwandten Schutzrechts) ist.
+bb)   Rechtsbegehren B, mit dem auf Auskunft und Abrechnung bezüglich der vertraglichen und ausservertraglichen Verwertung des Spielfilms geklagt wurde, beruht auf dem Weltvertriebsvertrag, soweit es um die Verwertung während der Vertragsdauer geht; allfällige Pflichten danach gründen wiederum auf der Verletzung des Urheberrechts.
+cc)   Die anderen Rechtsbegehren (A, C und D) stützen sich hingegen ausschliesslich auf den Weltvertriebsvertrag. Es handelt sich um vertragliche Ansprüche, welche am ordentlichen erstinstanzlichen Gericht einzuklagen sind. Für eine Kompetenzattraktion durch das Obergericht besteht weder eine gesetzliche Grundlage noch eine sachliche oder prozessökonomische Notwendigkeit. Vielmehr lassen sich die Ansprüche ohne weiteres getrennt beurteilen; insbesondere besteht keine Gefahr widersprechender Urteile, da sich die vertraglichen und ausservertraglichen Ansprüche mit dem Zeitpunkt des Vertragsablaufs trennen lassen. Auch § 88 Abs. 1 ZPO, welcher die objektive Klagenhäufung zulässt, bildet keine Grundlage für eine Beurteilung der Vertragsforderungen durch das Obergericht, da eine einheitliche sachliche Zuständigkeit bezüglich der verschiedenen Ansprüche gerade eine Bedingung für eine solche objektive Klagenhäufung darstellt
+[6]
+. Die sachliche Zuständigkeit des Obergerichts ergibt sich auch nicht dadurch, dass die Beklagte die Zuständigkeit nicht bestritt, da die Einlassung in den Rechtsstreit
+[7]
+ihre Wirkung nur in örtlicher Hinsicht entfalten kann. Von der Möglichkeit, vor Eintritt der Rechtshängigkeit auch für die vertraglichen Ansprüche die Zuständigkeit des Obergerichts zu vereinbaren
+[8]
+, machten die Parteien sodann nicht Gebrauch.
+dd)   Die beiden selbständigen Rechtsbegehren der Beklagten (Rechtsbegehren C und E) beruhen nur auf dem Weltvertriebsvertrag. Dementsprechend fehlt auch diesbezüglich die sachliche Zuständigkeit des Obergerichts.
+e)     Zusammengefasst ist die sachliche Zuständigkeit des Obergerichts nur in Bezug auf die klägerischen Rechtsbegehren G und E sowie teilweise auf Rechtsbegehren B – soweit die ausservertragliche Verwertung betreffend – gegeben. Auf die übrigen klägerischen Rechtsbegehren und die Widerklage ist somit mangels sachlicher Zuständigkeit nicht einzutreten.
+Obergericht, 27. Mai 2008, Z1.2008.2
+Eine dagegen erhobene Beschwerde ist am Bundesgericht hängig (5A_56/2009).
+[1]
+Urheberrechtsgesetz, SR 231.1
+[2]
+§§ 45 ff. ZPO
+[3]
+David, in: Schweizerisches Immaterialgüter- und Wettbewerbsrecht (Hrsg.: von Büren/David), Der Rechtsschutz im Immaterialgüterrecht, 2.A., S. 17; Barrelet/Eg­loff, Das neue Urheberrecht, 3.A., Art. 64 N 5
+[4]
+BBl 2006 S. 7260
+[5]
+Barrelet/Egloff, Art. 62 URG N 16
+[6]
+RBOG 2005 Nr. 42
+[7]
+§ 121 ZPO
+[8]
+§ 49 Abs. 3 ZPO
