@@ -1,0 +1,56 @@
+---
+decision_id: "tg_obergericht_RBOG_2008_Nr._38"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2008 Nr. 38"
+decided: "2008-08-15"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2008-nr-38"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/210/art-028.md", "switzerland/bund/acts/210/art-028c.md", "switzerland/bund/acts/241/art-009.md"]
+---
+
+# TG Obergericht RBOG 2008 Nr. 38
+
+## Regeste
+
+Zulässigkeit eines Verbots, über ein hängiges Gerichtsverfahren zu berichten
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2001 RBOG 2008 Nr. 38
+Thurgovie Obergericht Rechenschaftsbericht 2001 RBOG 2008 Nr. 38
+Turgovia Obergericht Rechenschaftsbericht 2001 RBOG 2008 Nr. 38
+
+RBOG 2008 Nr. 38
+Skip to main content
+Show navigation
+Zulässigkeit eines Verbots, über ein hängiges Gerichtsverfahren zu berichten
+Art. 6 EMRK
+,
+Art. 2 f. UWG
+,
+Art. 9 UWG
+,
+Art. 14 UWG
+,
+Art. 28 c ZGB
+,
+§ 92 aZPO (TG)
+1. Die Rekurrenten, welche drei Apotheken betreiben, gaben ihren Kunden ein Rundschreiben ab, in dem unter dem Aspekt des Preises und der Sicherheit für die öffentlichen Apotheken (Stammapotheken) geworben und der Medikamentenbezug durch Versandapotheken als teurer sowie risikoreich bezeichnet wurde. Die Vorinstanz verbot ihnen auf Antrag der Rekursgegnerin, einer Versandapotheke, im Rahmen vorsorglicher Massnahmen nach UWG u.a., dieses Papier zu verbreiten oder Dritten zugänglich zu machen und über das hängige Gerichtsverfahren zu berichten, solange kein rechtskräftiger Entscheid vorliege. Der Rekursgegnerin setzte sie Frist zur Klage an.
+2. a) Die Vorinstanz erwog[1], das Öffentlichkeitsprinzip gemäss § 92 ZPO und Art. 6 EMRK spiele im Bereich von Entscheidungen, denen kein definitiver Charakter zukomme - insbesondere bei vorsorglichen Massnahmen - nicht. Es gehe nicht an, dass die Parteien im Stadium vorsorglicher Massnahmen, ohne dass die Kontrollmechanismen einer sachgerechten und ausgewogenen Berichterstattung bereits wirksam wären, ans Publikum gelangten und dadurch den Gang des Verfahrens indirekt beeinflussten.
+b) Dieses Verbot ist nicht haltbar. Ohne klare gesetzliche Grundlage kann den Parteien auch im Stadium vorsorglicher Massnahmen nicht verboten werden, an das Publikum zu gelangen. Ob das Öffentlichkeitsprinzip für das Massnahmeverfahren gilt, ist nicht entscheidend[2]. Die Vorinstanz schliesst vom (vermeintlich) fehlenden Öffentlichkeitsprinzip auf die fehlenden Kontrollmechanismen einer sachgerechten und ausgewogenen Berichterstattung und damit auf eine indirekte Beeinflussung des Verfahrens. Mit den Kontrollmechanismen können wohl nur die Vorschriften über die Gerichtsberichterstattung gemeint sein. Diese gelten aber nicht für die Parteien, sondern nur für die Gerichtsberichterstatter. Für diese und überhaupt für die Medien können indessen in diesem Verfahren keine Vorgaben gemacht werden.
+c) Das Verbot an die Parteien, über das Verfahren zu berichten, ist somit nach den gleichen Voraussetzungen – denjenigen gemäss Art. 28c ZGB – zu beurteilen wie das Verbot, das Rundschreiben weiter zu verbreiten. Dabei hat die Rekursgegnerin diesbezüglich die Sachverhaltsgrundlagen nicht genügend glaubhaft gemacht. Ferner kann auch ihrer rechtlichen Argumentation nicht gefolgt werden.
+aa) In der Gesuchsbegründung machte die Rekursgegnerin unter Hinweis auf BGE 126 III 307 geltend, an der Verbreitung unwahrer Tatsachen bestehe kein Informationsinteresse. Sodann argumentierte sie mit dem nicht öffentlichen Massnahmeverfahren, weshalb kein öffentliches Interesse an einer eigenmächtigen Berichterstattung durch die Gegenpartei bestehe. Nachdem die Gegenpartei bereits in ihrem Rundschreiben jegliche Objektivität habe vermissen lassen, sei mit an Sicherheit grenzender Wahrscheinlichkeit davon auszugehen, dass sie ohne superprovisorisches Verbot über dieses Gerichtsverfahren auf ihrer Webseite oder durch in ihren Geschäftslokalitäten aufgelegte Rundschreiben fortlaufend informieren werde. Eine derartige eigenmächtige und unkontrollierte Berichterstattung würde erneut grossen Schaden verursachen. Im Rekursverfahren argumentierte die Rekursgegnerin damit, die Rekurrenten würden für sich das Recht beanspruchen, die Öffentlichkeit über dieses Verfahren zu informieren. Angesichts dieses prozessualen Verhaltens sei eine Begehungsgefahr zu bejahen.
+bb) Aus dem Verfassen des unlauteren Rundschreibens kann nicht schon gefolgert werden, dass die Rekurrenten unlauter über das hängige Verfahren berichten würden.
+cc) Die rechtliche Argumentation überzeugt nur im Hinblick auf das Rundschreiben. Die Weiterverbreitung des Rundschreibens wurde den Rekurrenten aber von Anfang an mit dem Erlass der superprovisorischen Verfügung verboten. Mitteilungen oder Informationen der Rekurrenten über das hängige Verfahren können demgegenüber ohne weiteres ohne Verstoss gegen das UWG erfolgen. Es ist nicht einzusehen, inwiefern beispielsweise die Mitteilung, die Vorinstanz habe den Rekurrenten verboten, das Rundschreiben weiter zu verbreiten, weil die Aussagen im Rundschreiben insgesamt irreführend und damit unlauter seien, für sich wieder unlauter sein soll. Erst recht ist nicht ersichtlich, weshalb daraus der Rekursgegnerin ein Schaden entstehen könnte. Gleiches gilt für weitere Informationen, wie zum Beispiel, den Rekurrenten sei gerichtlich untersagt worden zu behaupten, Versandapotheken seien teurer als eine Stammapotheke, oder nur eine Stammapotheke biete den Patientinnen und Patienten volle Sicherheit. Solche Informationen würden der Rekursgegnerin eher nützen als schaden. Ebenso ist nicht nachvollziehbar, weshalb die Rekurrenten nicht über die Argumentationen der Parteien informieren dürfen. Die Rekurrenten müssen lediglich die Grundsätze des UWG, von Art. 28 ZGB und die übrige Rechtsordnung beachten.
+dd) Entgegen der Auffassung der Rekursgegnerin besteht durchaus ein Interesse der Öffentlichkeit am Thema "Preise und Sicherheit" bei Arzneimitteln sowie an entsprechenden Vergleichen zwischen "normalen" Apotheken und Versandapotheken. Insbesondere sind Preisvergleiche in hohem Mass geeignet, Markttransparenz zu schaffen, und damit unter funktionalen Gesichtspunkten begrüssenswert. Weil sie aber wegen ihrer intensiven, die Nachfrage lenkenden Wirkung überaus missbrauchsgefährdet sind, ist mit Blick auf den Tatbestand der Irreführung ein strenger Massstab anzulegen. Wer einen Preisvergleich veröffentlicht, hat alle erforderlichen Vorkehrungen zu treffen, um eine einwandfreie, Missverständnisse ausschliessende Aufklärung des Publikums über die Art der jeweiligen Vergleichsgrundlage sicherzustellen[3]. Darüber darf aber informiert und in der Öffentlichkeit diskutiert werden, zumal sehr unsicher ist, ob bei einem korrekten und differenzierten Preis- und Leistungsvergleich das Pendel tatsächlich zu Gunsten der "normalen" Apotheken ausschlägt. Schliesslich spricht die Schriftlichkeit des Massnahmeverfahrens und die damit verbundene Unmöglichkeit für die Medien, dank Teilnahme an Verhandlungen oder Akteneinsicht über die Verfahren zu berichten, gerade nicht dafür, den Parteien jegliche Berichterstattung zu verbieten. Information und Berichterstattung haben lediglich im Rahmen der einschlägigen Bestimmungen zu erfolgen.
+Obergericht, 15. August 2008, ZR.2008.37
+[1] Unter Hinweis auf Merz, Die Praxis zur thurgauischen Zivilprozessordnung, 2.A., § 92 N 1
+[2] Im Übrigen ist das Öffentlichkeitsprinzip nicht nur in § 92 ZPO und Art. 6 EMRK statuiert, sondern auch in Art. 30 BV. Unter diesem Aspekt muss man sich ohnehin fragen, ob ein rein schriftliches Verfahren unter vollständigem Ausschluss der Öffentlichkeit in Massnahmeverfahren, die, wie zum Beispiel im Immaterialgüterrecht, eine eminent wichtige Bedeutung haben und häufig den Streit präjudizieren, wenn nicht erledigen, verfassungskonform ist; vgl. Steinmann, in: Die Schweizerische Bundesverfassung [Hrsg.: Ehrenzeller/Mastronardi/Schweizer/Vallender], 2. A., Art. 30 N 28 ff.
+[3] Baudenbacher, Lauterkeitsrecht, Basel/Genf/München 2001, Art. 3 lit. e N 122 f.
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
