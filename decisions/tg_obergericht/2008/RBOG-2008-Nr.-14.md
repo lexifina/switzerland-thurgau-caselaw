@@ -1,0 +1,63 @@
+---
+decision_id: "tg_obergericht_RBOG_2008_Nr._14"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2008 Nr. 14"
+docket_2: "BR.2008.56"
+decided: "2008-08-15"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/5D3B9357-CFE2-9C79-B28AFFC8BAACEADB.html"
+cites_law: ["switzerland/bund/acts/220/art-1007.md", "switzerland/bund/acts/220/art-1050.md", "switzerland/bund/acts/220/art-1063.md", "switzerland/bund/acts/220/art-1069.md", "switzerland/bund/acts/220/art-1070.md", "switzerland/bund/acts/220/art-1071.md", "switzerland/bund/acts/220/art-1096.md", "switzerland/bund/acts/220/art-1099.md", "switzerland/bund/acts/220/art-993.md", "switzerland/bund/acts/281.1/art-182.md"]
+---
+
+# TG Obergericht RBOG 2008 Nr. 14
+
+## Regeste
+
+Eine übliche Formel des Eigenwechsels ist: "zahle ich gegen diesen (Eigen–)Wechsel an die Ordre von X die Summe von Fr. Dieser ist dem Wesen nach ohnehin ein Eigenwechsel[3]. Die Bezeichnung als "Prima-Wechsel" besagt nichts anderes, als dass es sich um die erste Ausfertigung eines Wechsels handelt[4]. Insofern ist nicht nachvollziehbar, worauf die Rekurrentin mit dem Hinweis zielt, die Gegenpartei habe es sich sehr leicht gemacht und aus den als "Prima" ausgestellten Wechseln einfach ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 15.08.2008 RBOG 2008 Nr. 14 (BR.2008.56)
+Thurgovie Obergericht Rechenschaftsbericht 15.08.2008 RBOG 2008 Nr. 14 (BR.2008.56)
+Turgovia Obergericht Rechenschaftsbericht 15.08.2008 RBOG 2008 Nr. 14 (BR.2008.56)
+
+Eine übliche Formel des Eigenwechsels ist: "zahle ich gegen diesen (Eigen–)Wechsel an die Ordre von X die Summe von Fr. Dieser ist dem Wesen nach ohnehin ein Eigenwechsel[3]. Die Bezeichnung als "Prima-Wechsel" besagt nichts anderes, als dass es sich um die erste Ausfertigung eines Wechsels handelt[4]. Insofern ist nicht nachvollziehbar, worauf die Rekurrentin mit dem Hinweis zielt, die Gegenpartei habe es sich sehr leicht gemacht und aus den als "Prima" ausgestellten Wechseln einfach ...
+
+RBOG 2008 Nr. 14
+RBOG 2008 Nr. 14
+Eigenwechsel und "Prima-Wechsel"; Vorlage nach Ablauf der Präsentationsfrist
+(Art. 1050 Abs. 1, 1096 ff. OR; Art. 182 SchKG)
+1.     Das Gericht bewilligt den Rechtsvorschlag gemäss Art. 182 SchKG, wenn durch Urkunden bewiesen wird, dass die Schuld an den Inhaber des Wechsels oder Checks bezahlt oder durch denselben nachgelassen oder gestundet ist (Ziff. 1), wenn die Fälschung des Titels glaubhaft gemacht wird (Ziff. 2), wenn eine aus dem Wechselrecht hervorgehende Einrede begründet erscheint (Ziff. 3), oder wenn eine andere nach Art. 1007 OR zulässige Einrede geltend gemacht wird, die glaubhaft erscheint; in diesem Fall muss jedoch die Forderungssumme in Geld oder Wertschriften hinterlegt oder eine gleichwertige Sicherheit geleistet werden (Ziff. 4).
+2.     a)    Völlig zu Recht qualifizierte die Vorinstanz die beiden den Betreibungen zugrunde liegenden Wechsel als Eigenwechsel im Sinn von Art. 1096 ff. OR. Dabei verspricht der Aussteller der Wechsel, dem Empfänger oder seinem Rechtsnachfolger zu einem gewissen Zeitpunkt einen Betrag zu bezahlen. Aussteller eines Eigenwechsels ist damit stets der Schuldner
+[1]
+. Er als Aussteller hat sich selbst zur bedingungslosen Zahlung einer bestimmten Geldsumme in einer bestimmten Währung in bar zu verpflichten. Eine übliche Formel des Eigenwechsels ist: "zahle ich gegen diesen (Eigen–)Wechsel an die Ordre von X die Summe von Fr. ..."
+[2]
+. Exakt diese Formulierung enthalten die von der Rekurrentin ausgestellten und unterzeichneten Wechsel. Es liegt auch kein Fall von Art. 993 Abs. 2 OR vor, bei welchem der gezogene Wechsel auf den Aussteller selbst gezogen wurde (sogenannt trassiert-eigener Wechsel). Dieser ist dem Wesen nach ohnehin ein Eigenwechsel
+[3]
+. Die Bezeichnung als "Prima-Wechsel" besagt nichts anderes, als dass es sich um die erste Ausfertigung eines Wechsels handelt
+[4]
+. Insofern ist nicht nachvollziehbar, worauf die Rekurrentin mit dem Hinweis zielt, die Gegenpartei habe es sich sehr leicht gemacht und aus den als "Prima" ausgestellten Wechseln einfach Eigenwechsel gemacht. Auch wenn die Duplikatsklausel vorab im Zusammenhang mit der Ausfertigung mehrerer Stücke eines Wechsels (Duplikate) im Sinn von Art. 1063 OR verwendet wird und Duplikate nur beim gezogenen Wechsel zulässig sind
+[5]
+, schadet die Bezeichnung der fraglichen Wechsel als "Prima-Wechsel" der Qualifizierung als Eigenwechsel nicht. Die Rekurrentin behauptete im Übrigen nie, es seien mehrere gleiche Ausfertigungen der Wechsel ausgestellt worden.
+b)    Weil beim Eigenwechsel der Aussteller zugleich Hauptschuldner ist und daher gemäss Art. 1099 Abs. 1 OR in der gleichen Weise haftet wie der Annehmer (Bezogene) beim gezogenen Wechsel, bleibt der Ausstellung des Eigenwechsels unabhängig von der Erhebung des Protests aus dem Wechsel verpflichtet, und es kann gegen ihn die Wechselbetreibung geführt werden, solange der wechselmässige Anspruch nicht verjährt ist
+[6]
+. Dieser Anspruch verjährt gemäss Art. 1069 Abs. 1 OR in drei Jahren ab Verfalltag. Bis zum Ablauf der Verjährungsfrist bleibt der Aussteller des Eigenwechsels beziehungsweise der Schuldner verpflichtet, auch wenn ihm der Wechsel erst nach Ablauf der Präsentationsfrist zur Zahlung vorgelegt wird. Dies ergibt sich aus Art. 1050 Abs. 1 OR, wonach der Inhaber mit der Versäumnis der Fristen für die Vorlegung eines Wechsels, der auf Sicht oder eine bestimmte Zeit nach Sicht lautet, für die Erhebung des Protestes mangels Annahme oder mangels Zahlung und für die Vorlegung zur Zahlung im Fall des Vermerks "ohne Kosten" seine Rechte gegenüber dem Annehmer nicht verliert. Dieser haftet weiterhin aus dem Wechsel, auch wenn die Fristen für Vorlegung und Protest versäumt wurden
+[7]
+. Der Schuldner bleibt somit bis zum Ablauf der dreijährigen Verjährungsfrist gemäss Art. 1069 Abs. 1 OR verpflichtet, auch wenn ihm der Wechsel erst nach Ablauf der Präsentationsfrist zur Zahlung vorgelegt wird.
+Die im Recht liegenden Wechsel waren am 15. Juni und 20. Juni 2005 verfallen. Die Zahlungsbefehle wurden am 11. Juni 2008, mithin innerhalb der dreijährigen Verjährungsfrist ausgestellt. Damit wurde gemäss Art. 1070 OR die Verjährung unterbrochen, und mit der Unterbrechung der Verjährung beginnt laut Art. 1071 Abs. 2 OR eine neue Verjährungsfrist von gleicher Dauer zu laufen. Zu Recht bewilligte daher die Vorinstanz die Rechtsvorschläge nicht.
+Obergericht, 15. August 2008, BR.2008.56
+[1]
+RBOG 2002 Nr. 9 S. 88
+[2]
+Frey, Basler Kommentar, Art. 1096 OR N 7
+[3]
+Vgl. Grüninger/Hunziker/Roth, Basler Kommentar, Art. 993 OR N 4
+[4]
+Vgl. Bernasconi, Basler Kommentar, Art. 1063 OR N 9
+[5]
+Bernasconi, Art. 1063 OR N 2 und 5
+[6]
+Frey, Art. 1099 OR N 1 f.
+[7]
+Bauer, Basler Kommentar, Art. 1050 OR N 7; BGE 124 III 121
