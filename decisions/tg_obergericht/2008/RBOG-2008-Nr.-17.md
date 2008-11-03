@@ -1,0 +1,66 @@
+---
+decision_id: "tg_obergericht_RBOG_2008_Nr._17"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2008 Nr. 17"
+docket_2: "BR.2008.59"
+decided: "2008-11-03"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/5D3C0A9D-C43E-2B51-9D5AF605C1E07367.html"
+cites_law: ["switzerland/bund/acts/220/art-029.md", "switzerland/bund/acts/220/art-030.md", "switzerland/bund/acts/220/art-031.md", "switzerland/bund/acts/281.1/art-082.md"]
+---
+
+# TG Obergericht RBOG 2008 Nr. 17
+
+## Regeste
+
+1. Beruht die Forderung auf einer durch öffentliche Urkunde festgestellten oder durch Unterschrift bekräftigten Schuldanerkennung, ist gestützt auf Art. Entscheidend ist, dass der Gläubiger der Schuldnerin mit einer "offiziellen Erklärung" vom 11. September 2006 "ab sofort, d.h. ab Dienstag, 12. September 2006, an der Wohnadresse offiziell ein Hausverbot" erteilte und erklärte, bei Zuwiderhandlung gegen dieses Hausverbot behalte er sich weitere rechtliche Schritte vor und werde die ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 03.11.2008 RBOG 2008 Nr. 17 (BR.2008.59)
+Thurgovie Obergericht Rechenschaftsbericht 03.11.2008 RBOG 2008 Nr. 17 (BR.2008.59)
+Turgovia Obergericht Rechenschaftsbericht 03.11.2008 RBOG 2008 Nr. 17 (BR.2008.59)
+
+1. Beruht die Forderung auf einer durch öffentliche Urkunde festgestellten oder durch Unterschrift bekräftigten Schuldanerkennung, ist gestützt auf Art. Entscheidend ist, dass der Gläubiger der Schuldnerin mit einer "offiziellen Erklärung" vom 11. September 2006 "ab sofort, d.h. ab Dienstag, 12. September 2006, an der Wohnadresse offiziell ein Hausverbot" erteilte und erklärte, bei Zuwiderhandlung gegen dieses Hausverbot behalte er sich weitere rechtliche Schritte vor und werde die ...
+
+RBOG 2008 Nr. 17
+RBOG 2008 Nr. 17
+Drohung bei der Unterzeichnung einer Schuldanerkennung
+(Art. 82 SchKG; Art. 29 f. OR)
+1.     Beruht die Forderung auf einer durch öffentliche Urkunde festgestellten oder durch Unterschrift bekräftigten Schuldanerkennung, ist gestützt auf Art. 82 Abs. 1 und 2 SchKG provisorische Rechtsöffnung zu erteilen, sofern der Betriebene nicht Einwendungen, welche die Schuldanerkennung entkräften, sofort glaubhaft macht. Glaubhaftmachen bedeutet weniger als beweisen, aber mehr als behaupten. Der Richter muss überwiegend geneigt sein, an die Wahrheit der vom Betriebenen geltend gemachten Umstände zu glauben. Es muss somit nur die Wahrscheinlichkeit bewiesen werden
+[1]
+.
+2.     Der Gläubiger legte eine Zusammenstellung vor, in welcher die Schuldnerin unterschriftlich bestätigte, sie habe die einzelnen Posten kontrolliert und sei mit dem Schlusssaldo einverstanden. Weiter erklärte sich die Schuldnerin einverstanden, den Betrag ab Januar 2008 in monatlichen Raten zu Fr. 200.00 zurückzubezahlen. Bei Nichteinhaltung sei der ganze Restbetrag sofort fällig. Die Schuldnerin machte geltend, die Vereinbarung sei unverbindlich, da sie "aufgrund Furchterregung und Nötigung" zustande gekommen sei.
+3.     a)    Ist ein Vertragsschliessender vom anderen oder von einem Dritten widerrechtlich durch Erregung gegründeter Furcht zur Eingehung eines Vertrags bestimmt worden, so ist der Vertrag für den Bedrohten unverbindlich
+[2]
+. Die Furcht ist für denjenigen eine begründete, der nach den Umständen annehmen muss, dass er oder eine ihm nahe verbundene Person an Leib und Leben, Ehre oder Vermögen mit einer nahen und erheblichen Gefahr bedroht sei
+[3]
+. Die Aufzählung der geschützten Rechtsgüter in Art. 30 Abs. 1 OR ist nicht abschliessend; in Betracht kommen auch Freiheit, Geheimsphäre oder andere persönliche Rechtsgüter
+[4]
+. Alles, was die freie Entscheidung zum Vertragsabschluss behindert, kann Gegenstand einer Drohung und begründeten Furcht werden
+[5]
+.
+b)    Die Schuldnerin zog Mitte 2005 zum Gläubiger in die Schweiz. Nach Angaben der Schuldnerin habe sich der Gläubiger im Januar 2006 entschlossen, die Beziehung zu beenden, und sie gebeten, die gemeinsame Unterkunft zu verlassen, sobald es ihr finanziell möglich sei. Damals habe sie auf Stundenbasis in einem Telemarketingbüro mit einer sehr kurzen Kündigungsfrist und einem geringen Einkommen gearbeitet; sie sei deshalb nicht in der Lage gewesen, die gemeinsame Liegenschaft zu verlassen. Erst ab Mai 2006 habe sie eine feste Anstellung mit einem 50%-Pensum in einem Architekturbüro erhalten. Um ihren Auszug zu beschleunigen, habe der Rekursgegner Psychoterror ausgeübt, besonders wenn er getrunken habe. Sie habe sich von Januar bis September 2006 in ein kleines Zimmer mit ungefähr 9 m
+2
+mit Abstellkammer-Ausbau zurückgezogen, das sie nicht einmal habe absperren dürfen. Diese Darstellung wird vom Rekursgegner bestritten. Seiner Auffassung nach habe sich die Rekurrentin "wie die Made im Speck" in der Liegenschaft ausgebreitet.
+c)     Wie sich das Verhältnis zwischen den Parteien genau gestaltete, kann offen bleiben. Entscheidend ist, dass der Gläubiger der Schuldnerin mit einer "offiziellen Erklärung" vom 11. September 2006 "ab sofort, d.h. ab Dienstag, 12. September 2006, an der Wohnadresse offiziell ein Hausverbot" erteilte und erklärte, bei Zuwiderhandlung gegen dieses Hausverbot behalte er sich weitere rechtliche Schritte vor und werde die Ausweisung auch polizeilich durchziehen. Exakt am 12. September 2006, mithin am Tag darauf, unterzeichnete die Schuldnerin die vom Gläubiger am 6. September 2006 aufgesetzte Schuldanerkennung, was der Gläubiger selber bestätigte. Der Zusammenhang zwischen dem Hausverbot und der geltend gemachten Forderung ergibt sich unmittelbar aus dem Text der "offiziellen Erklärung". Aus der zeitlichen Abfolge ist zu schliessen, dass die Rekurrentin die in der Zusammenstellung vom 6. September 2006 aufgeführte Forderung zunächst nicht akzeptierte, der Rekursgegner deshalb mit seiner "offiziellen Erklärung" Druck aufsetzte und so schliesslich sein Ziel erreichte. Es wurde zumindest glaubhaft gemacht, dass die Gefahr für die Rekurrentin ernsthaft war, sprach der Rekursgegner doch das Hausverbot per sofort aus und drohte mit polizeilicher Ausweisung. Entgegen der Auffassung der Vorinstanz ist nicht anzunehmen, dass die fast 60-jährige Schuldnerin, welche erst seit einem Jahr in der Schweiz war und sich in einer gewissen Abhängigkeit vom Gläubiger befand, davon ausging, es handle sich nur um eine leere Drohung. Die Drohung war zudem widerrechtlich, da es dem Gläubiger selbst dann nicht zustand, der Schuldnerin per sofort das Recht zu entziehen, in seinem Haus zu wohnen, wenn sie tatsächlich in Zahlungsverzug gewesen wäre
+[6]
+. Mit dem Schreiben vom 13. November 2006 wurde auch eine rechtzeitige Anfechtung des Vertrags innerhalb der einjährigen Anfechtungsfrist
+[7]
+glaubhaft gemacht, weshalb die provisorische Rechtsöffnung in dem vom Gläubiger beantragten Umfang nicht zu bewilligen ist.
+Obergericht, 3. November 2008, BR.2008.59
+[1]
+Staehelin, Basler Kommentar, Art. 82 SchKG N 87
+[2]
+Art. 29 Abs. 1 OR
+[3]
+Art. 30 Abs. 1 OR
+[4]
+Schwenzer, Basler Kommentar, Art. 30 OR N 2
+[5]
+Schmidlin, Berner Kommentar, Art. 29/30 OR N 22
+[6]
+Vgl. 257d OR
+[7]
+Art. 31 OR
