@@ -1,0 +1,92 @@
+---
+decision_id: "tg_obergericht_RBOG_2008_Nr._25"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2008 Nr. 25"
+docket_2: "SBR.2008.29"
+decided: "2008-11-20"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/5D3D2D80-EADB-9C28-C26288BCCB2C2FB0.html"
+cites_law: ["switzerland/bund/acts/210/art-163.md", "switzerland/bund/acts/311.0/art-034.md"]
+---
+
+# TG Obergericht RBOG 2008 Nr. 25
+
+## Regeste
+
+1. Bei der Bemessung der Höhe des Tagessatzes stellte die Vorinstanz auf die Angaben der Berufungsklägerin ab, wonach letztere ein Einkommen von jährlich Fr. Auch sei nicht anzunehmen, dass die Berufungsklägerin ihr doch eher geringes Vermögen zur Bestreitung ihres Lebensunterhalts anzehre. 2. Diese Bemessungsweise der Vorinstanz wird den finanziellen Verhältnissen der Berufungsklägerin nicht gerecht.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 20.11.2008 RBOG 2008 Nr. 25 (SBR.2008.29)
+Thurgovie Obergericht Rechenschaftsbericht 20.11.2008 RBOG 2008 Nr. 25 (SBR.2008.29)
+Turgovia Obergericht Rechenschaftsbericht 20.11.2008 RBOG 2008 Nr. 25 (SBR.2008.29)
+
+1. Bei der Bemessung der Höhe des Tagessatzes stellte die Vorinstanz auf die Angaben der Berufungsklägerin ab, wonach letztere ein Einkommen von jährlich Fr. Auch sei nicht anzunehmen, dass die Berufungsklägerin ihr doch eher geringes Vermögen zur Bestreitung ihres Lebensunterhalts anzehre. 2. Diese Bemessungsweise der Vorinstanz wird den finanziellen Verhältnissen der Berufungsklägerin nicht gerecht.
+
+RBOG 2008 Nr. 25
+RBOG 2008 Nr. 25
+Höhe des Tagessatzes; Berücksichtigung des Einkommens des Ehegatten - zwei Anwendungsfälle
+(Art. 34 StGB)
+A.    Allgemeines
+1.     Die Bemessung der Tagessatzhöhe beruht auf dem Nettoeinkommensprinzip. Nach diesem Grundsatz ist in der Regel vom Nettoeinkommen auszugehen, das der Täter durchschnittlich an einem Tag hat oder haben könnte. Korrekturen im unteren und oberen Bereich der Anwendungsbreite sind möglich
+[1]
+. Ausgangspunkt für die Bemessung bildet mithin das dem Täter durchschnittlich an einem Tag zufliessende Einkommen, ganz gleich, aus welcher Quelle die Einkünfte stammen. Massgebend ist die tatsächliche wirtschaftliche Leistungsfähigkeit. Vom Einkommen abzuziehen sind die laufenden Steuern, die Beiträge an die obligatorische Kranken- und Unfallversicherung sowie die notwendigen Berufsauslagen oder bei Selbständigerwerbenden die branchenüblichen Geschäftsunkosten. Innerhalb der Grenzen des Rechtsmissbrauchs sind bei den ermittelten Einkünften nur der Überschuss der Einnahmen über die damit verbundenen Aufwendungen zu berücksichtigen. Bleiben die Einkünfte hinter den Beträgen zurück, die der Täter in zumutbarer Weise erzielen könnte, oder auf die er – zum Beispiel nach Art. 164 oder 165 ZGB – Anspruch hätte, so ist von einem potentiellen Einkommen auszugehen
+[2]
+.
+2.     Auch der gemäss Art. 163 ZGB zwischen den Ehegatten geschuldete Familienunterhaltsbeitrag kann Einkommen darstellen. Dabei ist unerheblich, ob dieser Beitrag als Sachleistung (Zurverfügungstellen der Familienwohnung), als Dienstleistung (Besorgen des Haushalts
+[3]
+) oder als Geldunterhalt (Betrag zur freien Verfügung oder Taschengeld
+[4]
+) erbracht wird. Daher wird einem nicht erwerbstätigen Ehegatten der ihm vom anderen Ehegatten tatsächlich zufliessende Unterhaltsbeitrag grundsätzlich als Einkommen aufgerechnet
+[5]
+. Entscheidend ist der dem Täter seitens des Ehepartners tatsächlich zufliessende Betrag. Daher kann zur Bestimmung der Höhe des Tagessatzes bei doppelverdienenden Ehegatten weder auf Regelunterhaltssätze noch Tabellen oder Ähnliches abgestellt werden
+[6]
+. Das schliesst aber eine aus Praktikabilitätsgründen erforderliche Bildung von Faustregeln für solche Fälle nicht aus. So können beispielsweise einem verheirateten, nicht erwerbstätigen Täter ohne Kinder 40% oder mit Kindern 25% des Nettoeinkommens des verdienenden Ehegatten als Einkommen angerechnet werden. Dieser Ansatz ist zu reduzieren, soweit der Täter selbst Einkünfte erzielt
+[7]
+. Bei Tätern mit geringem Arbeitseinkommen kann unter Umständen auch ein wesentlich höheres Einkommen des Ehe- oder Lebenspartners berücksichtigt werden. Allerdings muss eine "Gesamthaftung" des Familieneinkommens vermieden werden
+[8]
+. Um eine Mithaftung des Ehegatten, der selbst nicht straffällig wurde, zu vermeiden, ist für die Anwendung dieser Berechnungsart erforderlich, dass die Ehegatten ihre beiden Einkommen vollständig zur Deckung des gemeinsamen Lebensbedarfs verwenden. Ist letzteres nicht der Fall, muss vom Gesamteinkommen zunächst eine Sparquote abgezogen werden.
+3.     Das Nettoeinkommen ist um die Unterhalts- und Unterstützungsbeiträge zu reduzieren, soweit der Verurteilte den entsprechenden Zahlungspflichten tatsächlich nachkommt. Anderweitige finanzielle Lasten können nur im Rahmen der persönlichen Verhältnisse berücksichtigt werden. Schulden und Abzahlungs- oder Leasingverpflichtungen sowie Hypothekarzinsen oder Wohnkosten überhaupt können in der Regel nicht in Abzug gebracht werden. Dasselbe gilt für Schuldverbindlichkeiten, die mittelbare oder unmittelbare Folge der Tat sind. Leistet der Täter bereits vor dem Urteil Schadenersatz an die geschädigte Person, ist diesem Umstand im Rahmen von Reue und Schadenswiedergutmachung bei der Anzahl der Tagessätze und bei der Prognosestellung für den bedingten Vollzug der Geldstrafe Rechnung zu tragen. Aussergewöhnliche finanzielle Belastungen dagegen können reduzierend berücksichtigt werden, wenn sie einen situations- oder schicksalsbedingt höheren Finanzbedarf darstellen
+[9]
+.
+Obergericht, 20. November 2008, SBR.2008.29
+B.    Fall 1 (geringes Einkommen):
+1.     Eine besonders einfach zu handhabende Berechnungsweise besteht darin, bei arbeitsteiligen Ehen das hälftige Nettoeinkommen beider Ehegatten der Einkommensfestsetzung zugrunde zu legen
+[10]
+. Um eine Mithaftung des Ehegatten, der selbst nicht straffällig wurde, zu vermeiden, ist für die Anwendung dieser Berechnungsart aber erforderlich, dass die Ehegatten ihre beiden Einkommen vollständig zur Deckung des gemeinsamen Lebensbedarfs verwenden. Diese Berechnungsart erscheint hier als angemessen, zumal bei den in Frage stehenden Einkommen von Fr. 2'500.00 und Fr. 4'000.00 davon ausgegangen werden kann, dass diese Mittel zur Deckung des Familienbedarfs vollständig verbraucht werden und dem Berufungsbeklagten damit die Hälfte des Familieneinkommens zukommt
+[11]
+. Daraus ergibt sich hier für die Berechnung des Tagessatzes ein relevantes Monatsnettoeinkommen von Fr. 3'250.00, was der Hälfte des Familieneinkommens von Fr. 6'500.00 netto pro Monat, bestehend aus dem Monatsnettoeinkommen des Berufungsbeklagten von Fr. 2'500.00 und demjenigen seiner Ehegattin von Fr. 4'000.00, entspricht.
+2.     Vom so erhaltenen Nettoeinkommen von Fr. 3'250.00 ist der Pauschalabzug von 25% für Krankenkassenprämien und Steuern vorzunehmen, womit sich als Berechnungsgrundlage für den Tagessatz ein Nettoeinkommen von rund Fr. 2'400.00 ergibt. Geteilt durch 30 Tage folgt daraus ein Tagessatz von Fr. 80.00.
+Obergericht, 6. März 2008, SBR.2007.41
+C.    Fall 2 (Arbeit der Ehefrau im Betrieb des Ehemanns):
+1.     Bei der Bemessung der Höhe des Tagessatzes stellte die Vorinstanz auf die Angaben der Berufungsklägerin ab, wonach letztere ein Einkommen von jährlich Fr. 80'000.00 und monatlich Fr. 6'666.00 erziele. Ferner erwog die Vorinstanz, das Vermögen des Ehemanns der Berufungsklägerin dürfe für die Bemessung der Tagessatzhöhe nicht herangezogen werden. Auch sei nicht anzunehmen, dass die Berufungsklägerin ihr doch eher geringes Vermögen zur Bestreitung ihres Lebensunterhalts anzehre. Schliesslich bestünden keine Anzeichen dafür, dass neben ihrem Vermögen ein viel zu niedriges Einkommen im Raum stünde oder ein ersichtlich hoher Lebensaufwand mit einem auffällig tiefen Einkommen kontrastiere.
+2.     Diese Bemessungsweise der Vorinstanz wird den finanziellen Verhältnissen der Berufungsklägerin nicht gerecht. Einerseits ist zu berücksichtigen, dass die Berufungsklägerin zu 100% im Unternehmen ihres Ehemanns arbeitet. Letztlich bestimmt somit das Unternehmen oder ihr Ehemann ihren Lohn. Die Situation stellt sich schon aus diesem Grund anders dar, als wenn die Berufungsklägerin bei einem Dritten arbeiten würde. Zwar bestehen konkret keine Anzeichen dafür, der ausbezahlte Lohn der Berufungsklägerin sei im Vergleich zu ihrer Tätigkeit unangemessen tief. Immerhin gab sie aber an, sie und ihr Ehemann hätten sich keine Gratifikation ausbezahlt, obwohl das ohne weiteres möglich gewesen wäre. Andererseits ist zu beachten, dass die Eheleute im Jahr 2005 ein Einkommen von Fr. 266'700.00 und im Jahr 2006 ein solches von Fr. 354'300.00 versteuerten. Auch die Berufungsklägerin selbst bestritt nicht, dass ihr Ehemann und sie zusammen ein Einkommen von rund Fr. 350'000.00 erzielen. Das steuerbare Vermögen der Eheleute betrug 2005 Fr. 7,4 Mio. und 2006 Fr. 6,6 Mio. Ferner gab die Berufungsklägerin an, neben ihrem Arbeitspensum von 100% erledige sie den Haushalt allein und betreue das Kind. Wenn sie arbeite, sei das Kind in einer Tagesstätte. Unter diesen Umständen hat die Berufungsklägerin neben ihrem Lohn, für den sie eine adäquate Gegenleistung im Unternehmen ihres Ehemanns erbringt, Anspruch auf Leistungen gestützt auf Art. 163 ff. ZGB. Dieser Anspruch ist gestützt auf das eheliche Einkommen und Vermögen zu schätzen. Da die Ehegatten über erhebliches Vermögen verfügen, ist davon auszugehen, dass sie nicht das gesamte Einkommen für ihren Lebensunterhalt verbrauchen, sondern eine Sparquote bilden. Diese ist ermessensweise auf Fr. 100'000.00 pro Jahr festzusetzen. Den Eheleuten steht mithin nach Abzug der Sparquote ein Gesamteinkommen von Fr. 250'000.00 zur Verfügung. Davon abzuziehen ist das Einkommen der Berufungsklägerin von Fr. 80'000.00. Ihrem Ehemann ist somit ein Einkommen von rund Fr. 170'000.00 anzurechnen. Davon hat oder hätte er seiner Ehefrau rund einen Viertel oder rund Fr. 42'500.00 als Betrag zur freien Verfügung abzugeben. Dieser Betrag ist zum angegebenen Einkommen der Berufungsklägerin von Fr. 80'000.00 hinzuzurechnen. Von diesem der Berufungsklägerin anzurechnenden Einkommen von schätzungsweise Fr. 122'500.00 sind 30% für Krankenkasse und Steuern pauschal und von diesem Zwischenbetrag wiederum 15% als Unterstützungsbeitrag für das Kind abzuziehen. Daraus resultiert ein Tagessatz in der Höhe von Fr. 200.00
+[12]
+.
+3.     Eine andere Möglichkeit bestünde darin, nur vom angegebenen Einkommen der Berufungsklägerin von Fr. 80'000.00 pro Jahr und Fr. 6'666.00 pro Monat auszugehen. Weil die Berufungsklägerin neben ihrer 100%igen Tätigkeit allein den Haushalt besorgt und das gemeinsame Kind betreut, wäre es im Gegenzug aber nicht gerechtfertigt, den vollen Pauschalabzug von 30% für Krankenkasse und Steuern sowie 15% für das Kind zu berücksichtigen. Vielmehr wäre davon auszugehen, dass der Ehemann unter diesen Umständen und angesichts seines beträchtlich höheren Einkommens diese Kosten zum grössten Teil selbst trägt oder zu tragen hätte. Deshalb würde sich in diesem besonderen Fall lediglich ein Abzug von rund 10% rechtfertigen. Das ergäbe ein satzbestimmendes Einkommen von Fr. 5'999.99 beziehungsweise ebenfalls einen Tagessatz von Fr. 200.00.
+Obergericht, 20. November 2008, SBR.2008.29
+[1]
+BGE 134 IV 67 f.
+[2]
+BGE 134 IV 68 f.
+[3]
+Wobei sich bei der Haushaltsarbeit insbesondere Probleme bei der Bemessung ihres Werts ergeben werden.
+[4]
+Vgl. zum Taschengeld Hausheer/Reusser/Geiser, Berner Kommentar, Art. 163 ZGB N 10
+[5]
+Dolge, Basler Kommentar, Art. 34 StGB N 57
+[6]
+Vgl. BGHSt. 27, 212 ff.; Schäfer, Praxis der Strafzumessung, München 1990, S. 25 f.
+[7]
+Dolge, Art. 34 StGB N 57
+[8]
+Tröndle/Fischer, Strafgesetzbuch und Nebengesetze, 53.A., § 40 DStGB N 9
+[9]
+BGE 134 IV 70 f.
+[10]
+Schäfer, S. 26
+[11]
+Mit anderen Worten erhält der Berufungsbeklagte von seiner Ehefrau einen Unterhaltsbeitrag von rund 19% ihres Monatseinkommens (Fr. 750.00 von Fr. 4'000.00).
+[12]
+Fr. 10'200.00 pro Monat abzüglich 30% = Fr. 7'140.00 abzüglich 15% = Fr. 6'069.00 geteilt durch 30 = Fr. 202.30
