@@ -1,0 +1,89 @@
+---
+decision_id: "tg_obergericht_RBOG_2009_Nr._4"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2009 Nr. 4"
+docket_2: "ZBO.2008.10"
+decided: "2009-02-19"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/87978E7D-0551-214B-8C8BBB3FF240B12B.html"
+cites_law: ["switzerland/bund/acts/210/art-604.md", "switzerland/bund/acts/210/art-626.md", "switzerland/bund/acts/210/art-630.md"]
+---
+
+# TG Obergericht RBOG 2009 Nr. 4
+
+## Regeste
+
+250'000.00 erstens tatsächlich flossen, dass zweitens die Zahlungen zugunsten der Berufungskläger (als deren Beiträge zur Sanierung der AG) erfolgten, und dass drittens diesen Zahlungen keine Gegenleistungen der Berufungskläger gegenüberstanden. Zu Beginn des Rechtsstreits hätten die Berufungskläger nicht wissen können, dass hinter der Klage der Berufungsbeklagten auch die Absicht gestanden habe, die Berufungskläger mit einem Ausgleichungsbegehren von je Fr. Angesichts des prozessualen ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 19.02.2009 RBOG 2009 Nr. 4 (ZBO.2008.10)
+Thurgovie Obergericht Rechenschaftsbericht 19.02.2009 RBOG 2009 Nr. 4 (ZBO.2008.10)
+Turgovia Obergericht Rechenschaftsbericht 19.02.2009 RBOG 2009 Nr. 4 (ZBO.2008.10)
+
+250'000.00 erstens tatsächlich flossen, dass zweitens die Zahlungen zugunsten der Berufungskläger (als deren Beiträge zur Sanierung der AG) erfolgten, und dass drittens diesen Zahlungen keine Gegenleistungen der Berufungskläger gegenüberstanden. Zu Beginn des Rechtsstreits hätten die Berufungskläger nicht wissen können, dass hinter der Klage der Berufungsbeklagten auch die Absicht gestanden habe, die Berufungskläger mit einem Ausgleichungsbegehren von je Fr. Angesichts des prozessualen ...
+
+RBOG 2009 Nr. 4
+RBOG 2009 Nr. 4
+Ausgleichungspflicht von Zahlungen, welche der Erblasser im Namen der Erben direkt an eine Aktiengesellschaft leistete; Formulierung des Rechtsbegehrens
+(Art. 626, 630 Abs. 1 ZGB)
+1.     Was der Erblasser seinen Nachkommen als Heiratsgut, Ausstattung oder durch Vermögensabtretung, Schulderlass und dergleichen zugewendet hat, steht, sofern der Erblasser nicht ausdrücklich das Gegenteil verfügt, gemäss Art. 626 Abs. 2 ZGB unter der Ausgleichungspflicht. Das Bundesgericht und ein erheblicher Teil der Lehre betonen als entscheidendes Kriterium den objektiven Ausstattungscharakter der Zuwendungen, welche Existenzgründungen oder der Existenzsicherung oder –verbesserung dienen (Versorgungsausgleichung)
+[1]
+. Anderer Auffassung zufolge liegt Art. 626 Abs. 2 ZGB die Idee einer Schenkungsausgleichung zugrunde
+[2]
+. Eitel vertritt die Auffassung, dass nicht nur bedeutenden Liegenschaftszuwendungen
+[3]
+, sondern allen grösseren Zuwendungen schlechthin eine Art Ausstattungscharakter innewohne, womit die Unterscheidung zwischen Versorgungs- und Schenkungsausgleichung obsolet werde
+[4]
+. Die Ausgleichung erfolgt gemäss Art. 630 Abs. 1 ZGB nach dem Wert der Zuwendungen zur Zeit des Erbgangs, oder, wenn die Sache vorher veräussert worden ist, nach dem dafür erzielten Erlös. Hat ein Erbe eine Geldsumme zugewendet erhalten, ist er nach dem Nominalwertprinzip für die zugewendete Summe ausgleichungspflichtig
+[5]
+.
+2.     a)    Folgender Sachverhalt ist erstellt: Die beiden Gläubigerbanken der sanierungsbedürftigen AG verlangten, dass das Aktienkapital von 1 Mio. Franken – gehalten je zur Hälfte vom Erblasser und dessen Bruder – abgeschrieben, und dass nochmals 1 Mio. Franken in die Gesellschaft eingebracht werde. Die Million sollten vier Personen, darunter auch die Berufungskläger, die Söhne des Erblassers, zu gleichen Teilen aufbringen; diese vier sollten neu die operative Leitung des Unternehmens übernehmen. Weil die Berufungskläger, beides jungverheiratete Familienväter, nicht in der Lage waren, die je Fr. 250'000.00 aufzubringen, weil also die beiden Söhne das Geschäft nicht mit einer Verschuldung übernehmen sollten, erhöhte der Erblasser die Hypothek von Fr. 147'000.00 auf Fr. 650'000.00 und stellte seinen beiden Söhnen die je benötigten Fr. 250'000.00 zur Verfügung. Nicht geklärt ist, wie die Transaktion genau vor sich gegangen ist, und ob die vier neuen "Aktionäre" formell tatsächlich Aktionäre geworden sind. Dies spielt aber entgegen der Auffassung der Berufungskläger, welche ausdrücklich bestreiten, Aktien gezeichnet und liberiert zu haben, keine Rolle für die Qualifikation der geflossenen Geldbeträge als Zuwendungen im Sinn von Art. 626 Abs. 2 ZGB. Entscheidend und genügend ist, dass zweimal je Fr. 250'000.00 erstens tatsächlich flossen, dass zweitens die Zahlungen zugunsten der Berufungskläger (als deren Beiträge zur Sanierung der AG) erfolgten, und dass drittens diesen Zahlungen keine Gegenleistungen der Berufungskläger gegenüberstanden. Insbesondere ist erstellt, dass die Zahlungen, auch wenn sie nicht durch die Hände oder über Konten der Söhne liefen, zugunsten der beiden Söhne in die AG flossen. Für die Berufungskläger war klar, dass sie zusammen mit zwei anderen Personen für ihren Vater und Onkel entsprechend der Vorgabe der Banken die Leitung des Unternehmens übernehmen und eigenes Geld einschiessen sollten und mussten, aber auch wollten.
+b)    Der hier zu beurteilende ist nicht mit dem BGE 71 II 81 zu Grunde liegenden Fall, den die Berufungskläger zitierten, vergleichbar. Dort hatte der Erblasser für den Ehemann seiner Tochter eine Bürgschaft und zufolge dieser Bürgschaft eine Zahlung geleistet. Das Bundesgericht hielt zu Recht fest, dadurch habe eine Leistung des Vaters an die Bank beziehungsweise durch Zahlung der Schuld des Schwiegersohns eine mittelbare Zuwendung an diesen stattgefunden. Hier machte der Erblasser indessen Zuwendungen an seine beiden direkten Nachkommen. Ob diese Zuwendungen über die Bank direkt in die AG flossen, hat keinen Einfluss auf die Qualifikation als ausgleichungspflichtige Zuwendung. Entscheidend ist nur, dass die Berufungskläger je Fr. 250'000.00 in das Unternehmen einschiessen mussten, und dass ihr Vater diese Beträge für sie und in ihrem Interesse bezahlte und damit eine ihnen obliegende Verpflichtung für sie erfüllte. Dass die Söhne nicht Aktionäre wurden, haben sie selbst zu vertreten. Das ändert jedenfalls nichts am Charakter der Zuwendungen. Die Zuwendungen weisen eindeutig Versorgungscharakter auf. Die Berufungskläger waren jungverheiratete Familienväter und nicht in der Lage, die von ihnen verlangten je Fr. 250'000.00 in das Unternehmen einzuschiessen.
+c)     Gestützt auf diesen Sachverhalt ist von ausgleichungspflichtigen Zuwendungen des Vaters an seine beiden Söhne auszugehen. Das haben auch die Söhne selber so verstanden, wie sich aus ihren Aussagen ergibt. Die Berufungskläger versuchen im Nachhinein vergeblich, diese Zuwendungen in eine blosse Transaktion des Vaters in das Unternehmen ohne Bezug zu den Söhnen umzudeuten. Diskutieren könnte man höchstens darüber, ob es sich um ein Darlehen, eine Schenkung oder einen Erbvorbezug handelte. Ein Darlehen wurde von den Berufungsklägern aber bereits 1993 bestritten und auch von der Berufungsbeklagten nicht behauptet. Ob eine Schenkung oder ein Erbvorbezug vorliegt, spielt unter dem Gesichtspunkt der Ausgleichung keine Rolle. Die Berufungskläger sind somit gegenüber ihrer Schwester, welche die Ausgleichung verlangt, für Zuwendungen von je Fr. 250'000.00 ausgleichungspflichtig, weil der Erblasser nicht ausdrücklich das Gegenteil anordnete
+[6]
+. Dass die Berufungskläger zumindest bis 1993 dieser Meinung waren, ergibt sich aus dem Schreiben ihres damaligen Anwalts vom 17. September 1993, der festhielt, bei den beiden Beträgen von je Fr. 250'000.00 handle es sich nicht um Darlehen, sondern um Erbvorbezüge. In diesem Sinn darf dieses Anwaltsschreiben gewürdigt werden. Es ist nicht vorstellbar, dass der Rechtsvertreter diese Aussage ohne entsprechende Instruktion der Berufungskläger machte. Wären die beiden Söhne damals der Meinung gewesen, sie hätten keine Zuwendungen erhalten, hätten sie das auch so kommunizieren lassen. Es handelt sich bei der Aussage des Anwalts zwar nicht um eine förmliche Anerkennung oder rechtsgestaltende Erklärung, dass eine Ausgleichungspflicht in diesem Umfang besteht. Insofern ist die Auffassung der Berufungskläger zutreffend. Aber es ist ein klarer Beleg dafür, dass die Berufungskläger auch 14 Jahre nach der umstrittenen Transaktion der Auffassung waren, sie hätten vom Vater als Erbvorbezug je Fr. 250'000.00 erhalten, mithin Geld und nicht etwas anderes.
+3.     a)    Gegenstand der Zuwendung war Geld (je Fr. 250'000.00). Damit ist nach dem Nominalwertprinzip die zugewendete Summe auszugleichen. Weder ist mangels gegenteiliger Abmachung Zins geschuldet noch ist die Geldsumme der Teuerung anzupassen
+[7]
+. Ferner spielt es keine Rolle, wofür der Zuwendungsempfänger das Geld verwendete. Damit ist dem Einwand der Berufungskläger der Boden entzogen, die Ausgleichung entfalle gestützt auf Art. 630 ZGB, weil sie zufolge des Konkurses der AG Nonvaleurs zugewendet erhalten hätten. Dies wäre nur der Fall, wenn der Erblasser seinen beiden Söhnen statt je Fr. 250'000.00 Aktien der AG übertragen hätte. Dass dies der Fall gewesen wäre, behaupten aber auch die Berufungskläger selbst nicht.
+b)    Dass die empfangenen und ausgleichungspflichtigen Zuwendungen mit dem Konkurs über die AG verloren gingen, ist für die Betroffenen zwar bitter, ändert aber an der Ausgleichungspflicht nichts. Das ist die Folge des Verwendungszwecks der Zuwendungen und der Verwirklichung des Risikos, das mit dem Einsatz des Geldes in das Familienunternehmen verbunden war. Es hätte auch anders kommen können, wovon insbesondere der Erblasser gemäss den Aussagen der Berufungskläger überzeugt war. In diesem Zusammenhang ist schliesslich auch der Einwand der Berufungskläger unbehelflich, sie hätten keine freie Verfügungsgewalt über die Verwendung der Fr. 250'000.00 gehabt. Erstens waren sie mit der Transaktion einverstanden. Zweitens ist es häufig so, dass der Erblasser einem Erben eine ausgleichungspflichtige Zuwendung für einen bestimmten Zweck macht, sei es für die Finanzierung einer Liegenschaft, eines Geschäfts, der Ausbildung oder einer Weiterbildung.
+4.     Die Berufungskläger wollen nur einen Viertel des Erbvorbezugs als Aktivum in das zu teilende Nachlassvermögen aufnehmen. Sie begründen dies damit, es bestehe keine Ausgleichungspflicht der Ausgleichungspflichtigen sich selber gegenüber. Alle Berufungskläger hätten vor Vorinstanz jede Ausgleichungspflicht bestritten. Diese Auffassung ist zutreffend. Das Ausgleichungsrecht ist dispositiver Natur. Jeder Miterbe kann frei entscheiden, ob er einen allfälligen Ausgleichungsanspruch geltend machen will oder nicht. Das führt allerdings dazu, dass der jeweilige anteilsmässige Ausgleichungsanspruch im Nachlass nur demjenigen Erben zusteht, der den Ausgleich verlangt. Bei der Berechnung der Erbanteile führt dies zu keinen Schwierigkeiten.
+5.     a)    Die Berufungskläger machten in prozessualer Hinsicht geltend, der Ausgleichungsanspruch sei grundsätzlich mit einer Leistungsklage geltend zu machen. Die Berufungsbeklagte habe indessen kein selbstständiges Ausgleichungsbegehren gestellt, sondern lediglich generell die Feststellung der Nachlässe und deren Teilung verlangt. Das Ausgleichungsbegehren müsse von Anfang an selbstständig formuliert sein, damit die beklagte Partei bei Beginn der Rechtshängigkeit wisse, worauf sie sich bei der Klage einlasse. Werde nur generell die Feststellung oder Teilung des Nachlasses verlangt, bedeute das für eine beklagte Partei noch nicht viel. Zu Beginn des Rechtsstreits hätten die Berufungskläger nicht wissen können, dass hinter der Klage der Berufungsbeklagten auch die Absicht gestanden habe, die Berufungskläger mit einem Ausgleichungsbegehren von je Fr. 250'000.00 zu konfrontieren.
+b)    Dieser Auffassung kann nicht zugestimmt werden: Erstens liess das Bundesgericht ein allgemein auf Feststellung (und Teilung) des Nachlasses gerichtetes Rechtsbegehren genügen, wenn und soweit die dafür erforderlichen Angaben in der Klagebegründung nachgeliefert werden
+[8]
+. Zweitens wird die prozessuale Geltendmachung der Ausgleichung zwar als Ausgleichungsklage bezeichnet, und sie erfolgt grundsätzlich im Rahmen der Erbteilungsklage. Das Ausgleichungsbegehren ist aber Bestandteil der Teilungsklage selbst. Erbrechtliche Ausgleichungsansprüche haben nicht selbstständige Bedeutung. Sie betreffen nur ein Element der Berechnung der Erbteile und stellen eine die Erbteilung vorbereitende Feststellung dar. Ausgleichungsrecht ist, was sich aus seiner systematischen Stellung ergibt, Erbteilungsrecht
+[9]
+. Auch wenn der Ausgleichungsanspruch in aller Regel im Rahmen des Erbteilungsprozesses mittels eigenem Rechtsbegehren geltend gemacht wird
+[10]
+, ist dies somit nicht zwingend notwendig. Drittens ist das abstrakte Rechtsbegehren, es sei – nach Feststellung des Nachlasses und des klägerischen Erbteils – der Nachlass zu teilen, zulässig, wenn der Kläger aus zureichenden Gründen keine konkreten Anträge stellen kann
+[11]
+. Die Berufungskläger machten aber weder vor Vorinstanz noch in der Berufungseingabe geltend, die Berufungsbeklagte hätte ihr Rechtsbegehren auf Feststellung und Teilung des Nachlasses ohne weiteres konkretisieren können und müssen. Selbst wenn die Auffassung der Berufungskläger daher zutreffen sollte, erfolgte der erst in der Berufungsreplik erhobene Einwand gestützt auf § 230 Abs. 1 ZPO verspätet. Angesichts des prozessualen Verhaltens der Berufungskläger durften die Vorinstanz und das Obergericht ohne weiteres davon ausgehen, auch die Berufungskläger gingen von zureichenden Gründen für die Stellung des abstrakten Rechtsbegehrens aus. Unter diesem Gesichtspunkt widerspricht das prozessuale Verhalten der Berufungskläger auch dem Gebot des Handelns nach Treu und Glauben und verdiente, selbst wenn der Einwand begründet wäre, keinen Schutz
+[12]
+.
+Obergericht, 19. Februar 2009, ZBO.2008.10
+Eine dagegen erhobene Beschwerde wies das Bundesgericht am 1. Februar 2010 ab, soweit es darauf eintrat (5A_610/2009).
+[1]
+BGE 131 III 55, 116 II 675, 76 II 196; Forni/Piatti, Basler Kommentar, Art. 626 ZGB N 14; Eitel, Berner Kommentar, Art. 626 ZGB N 78 ff.
+[2]
+Eitel, Art. 626 ZGB N 82 ff.
+[3]
+Entsprechend BGE 116 II 675
+[4]
+Eitel, Art. 626 ZGB N 92
+[5]
+Forni/Piatti, Art. 630 ZGB N 4; Eitel, Art. 630 ZGB N 32
+[6]
+Art. 626 Abs. 2 ZGB; Eitel, Art. 626 ZGB N 154
+[7]
+Forni/Piatti, Art. 630 ZGB N 4
+[8]
+BGE 101 II 45
+[9]
+Eitel, Vorbem. vor Art. 626 ff. ZGB N 29 f.; Seeberger, Die richterliche Erbteilung, Freiburg 1992, S. 245; BGE 123 III 50 ff.
+[10]
+Burckhardt Bertossa, in: Praxiskommentar Erbrecht (Hrsg.: Abt/Weibel), Basel 2007, Art. 626 ZGB N 35
+[11]
+Weibel, in: Praxiskommentar Erbrecht (Hrsg.: Abt/Weibel), Basel 2007, Art. 604 ZGB N 31
+[12]
+Vgl. Merz, Die Praxis zur thurgauischen Zivilprozessordung, 2.A., § 230 N 6
