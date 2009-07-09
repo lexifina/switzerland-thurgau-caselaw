@@ -1,0 +1,38 @@
+---
+decision_id: "tg_obergericht_RBOG_2009_Nr._24"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2009 Nr. 24"
+docket_2: "ZBO.2009.2"
+decided: "2009-07-09"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/879E47DE-A4AD-DD72-C59450912C8145CA.html"
+---
+
+# TG Obergericht RBOG 2009 Nr. 24
+
+## Regeste
+
+1. Die Berufungsklägerin erlitt bei einem Verkehrsunfall ein Schleudertrauma der Halswirbelsäule. X an der bundesgerichtlichen Schleudertrauma-Praxis[1] geübte Kritik begründet keine Befangenheit. Schliesslich ist nicht zu verkennen, dass der Bereich der auf Schleudertraumata gestützten Ansprüche heikel ist, dass darüber sehr kontrovers diskutiert wird und dass unbestrittenermassen ein beträchtliches Missbrauchspotential gegeben ist.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 09.07.2009 RBOG 2009 Nr. 24 (ZBO.2009.2)
+Thurgovie Obergericht Rechenschaftsbericht 09.07.2009 RBOG 2009 Nr. 24 (ZBO.2009.2)
+Turgovia Obergericht Rechenschaftsbericht 09.07.2009 RBOG 2009 Nr. 24 (ZBO.2009.2)
+
+1. Die Berufungsklägerin erlitt bei einem Verkehrsunfall ein Schleudertrauma der Halswirbelsäule. X an der bundesgerichtlichen Schleudertrauma-Praxis[1] geübte Kritik begründet keine Befangenheit. Schliesslich ist nicht zu verkennen, dass der Bereich der auf Schleudertraumata gestützten Ansprüche heikel ist, dass darüber sehr kontrovers diskutiert wird und dass unbestrittenermassen ein beträchtliches Missbrauchspotential gegeben ist.
+
+RBOG 2009 Nr. 24
+RBOG 2009 Nr. 24
+Befangenheit eines Gutachters wegen Kritik
+an den Gerichten
+(§ 52 ZPO)
+1.     Die Berufungsklägerin erlitt bei einem Verkehrsunfall ein Schleudertrauma der Halswirbelsäule. Im von ihr darauf angestrengten Schadenersatzprozess holte das Bezirksgericht ein medizinisches Gutachten ein.
+2.     Die Berufungsklägerin ist der Ansicht, das Gutachten sei unverwertbar, da der daran beteiligte Gutachter Dr.med. X befangen gewesen sei. Darin kann ihr nicht gefolgt werden. Die von Dr.med. X an der bundesgerichtlichen Schleudertrauma-Praxis
+[1]
+geübte Kritik begründet keine Befangenheit. Diese Kritik erfolgte in einem Aufsatz in einer Fachzeitschrift. Die Kritik ist zwar teilweise durchaus massiv, ja teils polemisch, und sie mag dadurch auch gewisse Anhaltspunkte über die Haltung des Verfassers zum Problembereich Schleudertrauma geben. Eine Befangenheit ist aber bereits aus grundsätzlichen Überlegungen zu verneinen. Fachleute dürfen sich gestützt auf die Meinungsäusserungsfreiheit pointiert mit der Gerichtspraxis auseinandersetzen. Mehr noch: Dies ist sogar erwünscht, weil Kritik sowohl der Forschung als auch einer gedeihlichen Rechtsentwicklung durchaus zuträglich ist oder zumindest sein kann. Dazu kommt, dass ein sich allgemein pointiert äussernder Fachmann trotz seiner kritischen Haltung durchaus oder gerade deswegen korrekte Gutachten erstellen kann; entsprechende Professionalität darf bei einem solchen Gutachter vorausgesetzt werden. Schliesslich ist nicht zu verkennen, dass der Bereich der auf Schleudertraumata gestützten Ansprüche heikel ist, dass darüber sehr kontrovers diskutiert wird und dass unbestrittenermassen ein beträchtliches Missbrauchspotential gegeben ist. Umgekehrt muss ein in diesem Sinn kritischer Gutachter selbstverständlich damit rechnen, dass seine Arbeit genauer überprüft wird als vielleicht bei anderen Gutachtern.
+Obergericht, 9. Juli 2009, ZBO.2009.2
+Auf eine dagegen erhobene Beschwerde trat das Bundesgericht am 3. Februar 2010 nicht ein (4A_14/2010).
+[1]
+BGE 134 V 109 ff.
