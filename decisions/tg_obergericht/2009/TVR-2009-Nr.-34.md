@@ -1,0 +1,53 @@
+---
+decision_id: "tg_obergericht_TVR_2009_Nr._34"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2009 Nr. 34"
+decided: "2009-10-07"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2009-nr-34"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/210/art-604.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# TG Obergericht TVR 2009 Nr. 34
+
+## Regeste
+
+Unentgeltliche Rechtspflege
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2009 TVR 2009 Nr. 34
+Thurgovie Obergericht Rechenschaftsbericht 2009 TVR 2009 Nr. 34
+Turgovia Obergericht Rechenschaftsbericht 2009 TVR 2009 Nr. 34
+
+TVR 2009 Nr. 34
+Skip to main content
+Show navigation
+Unentgeltliche Rechtspflege
+Art. 61 ATSG
+,
+Art. 29 Abs. 3 BV
+,
+§ 81 Abs. 1 VRG
+Die unentgeltliche Prozessführung (IV-Verfahren) ist hier unter anderem mangels Mittellosigkeit zu verweigern. Die Mittellosigkeit wird verneint, weil der Gesuchsteller Mitglied einer Erbengemeinschaft ist und eine Liegenschaft Bestandteil der Erbmasse bildet. Der anrechenbare Wert der Liegenschaft ist – wie bei der Prüfung des Anspruches auf Ergänzungsleistungen – aufgrund des Mittels zwischen Steuerwert und Gebäudeversicherungswert zu berechnen. Ein Vermögensfreibetrag von Fr. 32’000.– («Notgroschen») ist unter Berücksichtigung der persönlichen Verhältnisse vorliegend als ausreichend anzusehen.
+Am 14. Mai 2009 erliess die IV-Stelle eine Verfügung, mit welcher A ab 1. Juli 2003 eine halbe Rente der IV zugesprochen wurde. Diese Rente wurde bis 31. Oktober 2004 befristet. Gegen diese Verfügung erhob A Beschwerde beim Versicherungsgericht, mit dem Gesuch um Gewährung der unentgeltlichen Prozessführung. Das Versicherungsgericht weist dieses Gesuch mit Zwischenentscheid vom 7. Oktober 2009 ab.
+Aus den Erwägungen:
+2.
+2.1 Über das Gesuch um unentgeltliche Rechtspflege ist im vorliegenden Fall vorab durch verfahrensleitenden Zwischenentscheid zu befinden.
+2.2 (Kostenpflichtigkeit des IV-Verfahrens: Art. 69 Abs. 1bis IVG; allgemeine rechtliche Grundlagen für die unentgeltliche Prozessführung: Art. 61 ATSG i.V. mit § 81 Abs. 1 VRG, Art. 29 Abs. 3 BV).
+2.3 (Feststellung, dass der Beschwerdeführer seiner Mitwirkungspflicht nicht nachgekommen und seine Mittellosigkeit somit nicht in rechtsgenüglichem Masse ausgewiesen ist).
+2.4 Selbst wenn die dem Versicherungsgericht eingereichten – jedoch nicht mehr aktuellen – Unterlagen der Beurteilung zugrunde gelegt würden, müsste das Gesuch aufgrund der Vermögenslage des Beschwerdeführers abgewiesen werden.
+2.4.1 Die prozessuale Bedürftigkeit beurteilt sich nach der gesamten wirtschaftlichen Situation des Rechtsuchenden im Zeitpunkt der Einreichung des Gesuchs. Dazu gehören einerseits sämtliche finanziellen Verpflichtungen, andererseits die Einkommens- und Vermögensverhältnisse (BGE 120 Ia 179 E. 3a, 124 I 1 E. 2a, Urteil des Bundesgerichts 9C_234/2008 vom 4. August 2008, E. 4.1). Hat der Gesuchsteller Vermögen, kann ihm zugemutet werden, dieses zur Finanzierung des Prozesses zu verwenden, soweit es einen angemessenen Vermögensfreibetrag, den sogenannten «Notgroschen», übersteigt. Bei dessen Festsetzung ist nach der Rechtsprechung den Verhältnissen des konkreten Falles, wie namentlich Alter und Gesundheit des Gesuchstellers, Rechnung zu tragen. Das Bundesgericht und das EVG haben in verschiedenen Fällen Vermögensfreibeträge zwischen Fr. 13'000.– und Fr. 40'000.– zuerkannt (vgl. die Zusammenstellung im Urteil des EVG I 362/05 vom 9. August 2005, E. 5.3, vgl. auch Urteil des Bundesgerichts 9C_874/2008 vom 11. Februar 2009, E. 2.2.2). Bei der Feststellung des Vermögens ist selbst eine unverteilte Erbschaft zu berücksichtigen (BGE 119 Ia 11 E. 5a), soweit daraus innert nützlicher Frist flüssige Mittel erhältlich gemacht werden können oder diese mit einem Kredit belehnt werden kann (vgl. Urteile des Bundesgerichts 5A_294/2008 vom 18. August 2008, E. 3.4.1, und 4D_41/2009 vom 14. Mai 2009, E. 3).
+2.4.2 (Gegenüberstellung der Einnahmen und Ausgaben des Beschwerdeführers)
+Damit ist – zumindest im gegenwärtigen Zeitpunkt – von einem relativ hohen Fehlbetrag von rund Fr. 1‘900.– pro Monat auszugehen.
+2.4.3 Der Beschwerdeführer ist jedoch Mitglied einer Erbengemeinschaft, in deren (Gesamt-)Eigentum eine Liegenschaft an der B-Strasse in U steht. Dem Beschwerdeführer steht 1/12-Anteil an diesem Objekt zu. Gemäss Steuerveranlagung vom 29. Oktober 2008 für das Jahr 2007 beläuft sich der (Steuer-)Wert dieses 1/12-Anteils auf Fr. 53‘353.–. Belastet ist die Liegenschaft (ebenfalls wieder zu einem 1/12-Anteil) mit einer Hypothekarschuld von Fr. 38‘535.–. Aufgrund dessen errechnete die Steuerverwaltung ein Reinvermögen für das Jahr 2007 von Fr. 14‘818.–. Die dort eingesetzten Beträge für den Wert der Liegenschaft und die Hypothekarschulden entsprechen in etwa den in der Aufstellung vom 29. März 2007 deklarierten Werten, welche vom Beschwerdeführer mit seiner Eingabe vom 18. Juli 2009 eingereicht wurde. Notorischerweise entspricht der Steuerwert jedoch bei weitem nicht dem effektiven Verkehrswert einer Liegenschaft. Das Bundesgericht bzw. das EVG erachtete eine Methode, bei welcher das Mittel zwischen dem Steuerwert und dem Gebäudeversicherungswert herangezogen wurde, als sachgerecht (vgl. Urteil des Bundesgerichts 8C_849/2008 vom 16. Juni 2009, E. 6.3.4, mit weiteren Hinweisen).
+Der Gebäudeversicherungswert der Liegenschaft an der B-Strasse lässt sich den Akten nicht entnehmen. Ausgehend von der Steuerveranlagung für das Jahr 2007 ist von einem Steuerwert von rund Fr. 640‘000.– auszugehen. Wie sich dem Urteil des Bundesgerichts 8C_849/2008 vom 16. Juni 2009, E. 6.3.5, entnehmen lässt, wurde dort der massgebliche Verkehrswert – als Mittelwert zwischen Gebäudeversicherungswert und Steuerwert – um etwa einen Drittel höher geschätzt, als der deklarierte Steuerwert. Im vorliegenden Fall ergäbe dies einen massgeblichen Wert für den 1/12-Anteil des Beschwerdeführers an der Liegenschaft von über Fr. 71‘000.–. Abzüglich des auf ihn fallenden «Schulden-Anteils» von Fr. 38‘535.– führt dies zu einem Vermögensfreibetrag von über Fr. 32‘000.–. Auch wenn dieser Vermögensanteil gegenwärtig in der Erbengemeinschaft eingebunden ist, steht dem Beschwerdeführer jederzeit das Recht zu, die Teilung der Erbschaft zu verlangen, nötigenfalls mittels Teilungsklage (vgl. Art. 604 ZGB). Angesichts seines Erbanteils wäre es dem Beschwerdeführer auch ohne weiteres zumutbar, ein kurzfristiges Darlehen aufzunehmen (vgl. Urteil des Bundesgerichts 4D_41/2009 vom 14. Mai 2009, E. 3 und 5). Zu berücksichtigen sind ausserdem die persönlichen Verhältnisse des Beschwerdeführers. Nachdem ihm seine bisherige Tätigkeit als Maler aus gesundheitlichen Gründen nicht mehr zumutbar ist, absolvierte er erfolgreich eine von der IV finanzierte Umschulung zum technischen Kaufmann. Im Rahmen der Begutachtung durch Dr. D vom 30. November 2006 wurde eine immerhin 80%ige Arbeitsfähigkeit für eine behinderungsangepasste, leichte/ wechselbelastende Tätigkeit ermittelt. Die Frage, inwiefern er aus gesundheitlichen Gründen in der Lage ist, eine behinderungsangepassten Tätigkeit – so insbesondere im kaufmännischen Bereich – noch auszuüben, bildet Gegenstand des separat geführten Verfahrens XY. Eine Wiedereingliederung in den Arbeitsprozess des erst 44-jährigen, umgeschulten Beschwerdeführers innert nützlicher Frist erscheint damit als durchaus möglich. Mit seinem Erbschaftsanteil im Wert von über Fr. 32‘000.– vermag der Beschwerdeführer zumindest für ein Jahr seinen monatlichen Fehlbetrag (E. 2.4.2 vorstehend) auszugleichen, ohne dass das gesamte Vermögen aufgebraucht wird.
+2.4.4 Unter den gegebenen Umständen erweist sich die Tragung der Verfahrenskosten für das vorliegende Beschwerdeverfahren von voraussichtlich Fr. 700.– durch den Beschwerdeführer aufgrund des ihm anzurechnenden Vermögens, trotz des relativ erheblichen aktuellen Fehlbetrages von ca. Fr. 1‘900.–, als durchaus zumutbar. Das Gesuch um unentgeltliche Rechtspflege ist mangels Mittellosigkeit auch aus diesem Grunde abzuweisen.
+Entscheid vom 7. Oktover 2009
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
