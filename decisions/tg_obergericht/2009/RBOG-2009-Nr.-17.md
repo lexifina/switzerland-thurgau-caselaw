@@ -1,0 +1,62 @@
+---
+decision_id: "tg_obergericht_RBOG_2009_Nr._17"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2009 Nr. 17"
+docket_2: "BS.2009.15"
+decided: "2009-10-19"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/879BD950-91D9-1E99-AEE95F5179A55322.html"
+cites_law: ["switzerland/bund/acts/210/art-163.md", "switzerland/bund/acts/281.1/art-093.md"]
+---
+
+# TG Obergericht RBOG 2009 Nr. 17
+
+## Regeste
+
+b) Da die Lebenspartnerin des Beschwerdeführers momentan kein Erwerbseinkommen erzielt, ermittelte das Betreibungsamt den Notbedarf des Beschwerdeführers zu Recht aufgrund der Bemessungsgrundlagen für eine Einzelperson. Da die Höhe des anzurechnenden Grundbetrags nicht Gegenstand des Beschwerdeverfahrens bildet, ist nicht weiter zu prüfen, ob der dem Beschwerdeführer angerechnete Betrag von Fr. Es hat aber im betreibungsrechtlichen Existenzminimum des Beschwerdeführers auch keine ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 19.10.2009 RBOG 2009 Nr. 17 (BS.2009.15)
+Thurgovie Obergericht Rechenschaftsbericht 19.10.2009 RBOG 2009 Nr. 17 (BS.2009.15)
+Turgovia Obergericht Rechenschaftsbericht 19.10.2009 RBOG 2009 Nr. 17 (BS.2009.15)
+
+b) Da die Lebenspartnerin des Beschwerdeführers momentan kein Erwerbseinkommen erzielt, ermittelte das Betreibungsamt den Notbedarf des Beschwerdeführers zu Recht aufgrund der Bemessungsgrundlagen für eine Einzelperson. Da die Höhe des anzurechnenden Grundbetrags nicht Gegenstand des Beschwerdeverfahrens bildet, ist nicht weiter zu prüfen, ob der dem Beschwerdeführer angerechnete Betrag von Fr. Es hat aber im betreibungsrechtlichen Existenzminimum des Beschwerdeführers auch keine ...
+
+RBOG 2009 Nr. 17
+RBOG 2009 Nr. 17
+Existenzminimum des Schuldners, der für seine bedürftige Konkubinatspartnerin sorgt
+(Art. 93 Abs. 1 SchKG)
+1.     Der Beschwerdeführer brachte vor, seine Lebenspartnerin sei vor dreieinhalb Jahren schwer erkrankt und könne seitdem nicht arbeiten. Das Sozialamt habe eine Unterstützung abgelehnt mit der Begründung, der Beschwerdeführer müsse für sie aufkommen. Es sei daher der gesamte Mietzins im Existenzminimum zu belassen. Er habe, obwohl er für seine Lebenspartnerin aufkomme, bei der Existenzminimumsberechnung nicht auf eine Erhöhung des Grundbedarfs gepocht, welcher sich im Streitfall sicherlich erhöhen werde.
+2.     a)    Gemäss Art. 93 Abs. 1 SchKG kann das Erwerbseinkommen des Schuldners soweit gepfändet werden, als es nach dem Ermessen des Betreibungsbeamten für den Schuldner und seine Familie nicht unbedingt notwendig ist. Im Fall einer Lohnpfändung eines Ehegatten sind zunächst die Nettoeinkommen beider Ehegatten und ihr gemeinsames Existenzminimum zu bestimmen und das ermittelte Existenzminimum im Verhältnis der Nettoeinkommen auf die Ehegatten aufzuteilen. Die pfändbare Quote des Einkommens des betriebenen Ehegatten ergibt sich alsdann durch Abzug seines Anteils am Existenzminimum von seinem massgeblichen Nettoeinkommen
+[1]
+. Das Konkubinatsverhältnis, aus dem Kinder hervorgegangen sind, ist unter dem Gesichtspunkt der Notbedarfsermittlung im Wesentlichen gleich zu behandeln wie ein eheliches Familienverhältnis
+[2]
+Im Kanton Thurgau wurden für die Berechnung des betreibungsrechtlichen Notbedarfs die Richtlinien für die Berechnung des betreibungsrechtlichen Existenzminimums der Konferenz der Betreibungs- und Konkursbeamten der Schweiz vom 24. November 2000 übernommen. Hingegen ist bei einem Konkubinatsverhältnis ohne gemeinsame Kinder anders vorzugehen: Der Beitrag, der zu Lasten des Lebenspartners an die Kosten des gemeinsamen Haushalts berücksichtigt wird, darf die Hälfte der Kosten nicht übersteigen, da sich sonst die Gläubiger aus dem Gut einer anderen Person befriedigen könnten, ohne dass der Schuldner dieser gegenüber gestützt auf Art. 163 Abs. 1 ZGB einen Anspruch auf Unterhalt hat
+[3]
+. Im Kanton Thurgau wurden für die Berechnung des betreibungsrechtlichen Notbedarfs die Richtlinien für die Berechnung des betreibungsrechtlichen Existenzminimums der Konferenz der Betreibungs- und Konkursbeamten der Schweiz vom 24. November 2000 übernommen
+[4]
+. Nach der Praxis hiezu wird bei beidseitig verdienenden, kinderlosen Konkubinatspaaren dem Schuldner im Minimum der hälftige Grundbetrag belassen
+[5]
+gewisse vom Grundbetrag zu deckende Auslagen möglicherweise von der im gleichen Haushalt lebenden Person mitgetragen werden, weshalb der Grundbetrag zu reduzieren ist
+[6]
+. Zudem vermindern sich durch das Zusammenleben mehrerer Personen auch die dem Einzelnen anfallenden Wohnkosten, da die Wohnung für zwei Personen zwar mehr kostet als angemessener Wohnraum für eine Einzelperson, der Mietzins aber nicht das Doppelte beträgt
+[7]
+.. Wo aber der andere Konkubinatspartner kein (eigentliches) Einkommen erzielt, ist das Existenzminimum des Schuldners aufgrund einer Einzelrechnung zu ermitteln. Allerdings ist zu berücksichtigen, dass bei Wohngemeinschaften
+b)    Da die Lebenspartnerin des Beschwerdeführers momentan kein Erwerbseinkommen erzielt, ermittelte das Betreibungsamt den Notbedarf des Beschwerdeführers zu Recht aufgrund der Bemessungsgrundlagen für eine Einzelperson. Da die Höhe des anzurechnenden Grundbetrags nicht Gegenstand des Beschwerdeverfahrens bildet, ist nicht weiter zu prüfen, ob der dem Beschwerdeführer angerechnete Betrag von Fr. 1'100.00 aufgrund der bei einer Wohngemeinschaft bestehenden Kosteneinsparung zu reduzieren ist. Es hat aber im betreibungsrechtlichen Existenzminimum des Beschwerdeführers auch keine weitergehende Berücksichtigung der Kosten seiner Lebenspartnerin zu erfolgen. Ist die Partnerin des Schuldners aus gesundheitlichen Gründen erwerbsunfähig, so haben für die Erwerbseinbusse grundsätzlich die Sozialversicherungen einzustehen. Solange die Abklärungen für den Anspruch auf Sozialversicherungsleistungen laufen, ist die Vorleistungspflicht grundsätzlich von den Sozialhilfebehörden zu übernehmen und nicht dem der Lohnpfändung unterliegenden Konkubinatspartner aufzuerlegen: Im Gegensatz zu den Sozialhilfebehörden können die Pfändungsgläubiger, zu deren Nachteil ein Unterstützungsbeitrag im Existenzminimum des Schuldners aufgenommen würde, bei Ausrichtung rückwirkender Sozialversicherungsleistungen an die Konkubinatspartnerin keine (Verrechnungs-)Ansprüche mehr stellen. Auch haben die Gläubiger, anders als die Sozialhilfebehörden, keine Möglichkeit, vermögende Verwandte zur Unterstützung der Konkubinatspartnerin anzuhalten.
+Obergericht, 19. Oktober 2009, BS.2009.15
+[1]
+BGE 114 III 15 f.
+[2]
+BGE 130 III 767, 106 III 16 f.
+[3]
+BGE 130 III 767, 128 III 159, 109 III 102
+[4]
+RBOG 2001 S. 13
+[5]
+BGE 132 III 485 f., 130 III 767
+[6]
+BGE vom 5. Oktober 2007, 9C_160/2007, Erw. 3.3.3; BGE vom 7. November 2006, 7B.116/2006, Erw. 3.1 f.
+[7]
+Vgl. BGE 132 III 486
