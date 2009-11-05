@@ -1,0 +1,79 @@
+---
+decision_id: "tg_obergericht_RBOG_2009_Nr._5"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2009 Nr. 5"
+docket_2: "ZBR.2009.48"
+decided: "2009-11-05"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/8797EDC0-91A4-A2EA-AE6A661EFBE525C6.html"
+cites_law: ["switzerland/bund/acts/220/art-253a.md", "switzerland/bund/acts/220/art-272.md"]
+---
+
+# TG Obergericht RBOG 2009 Nr. 5
+
+## Regeste
+
+2. a) Der Begriff des Geschäftsraums ist weder im OR noch in der Verordnung des Bundesrates über die Miete und Pacht von Wohn- und Geschäftsräumen[2] definiert. Auch der Umstand, dass auf einem Teil des Areals von der Berufungsklägerin als Mieterin (Büro-)Container platziert wurden, vermag die Mietsache "Stellfläche" nicht zu einem Geschäftsraum zu machen. 4. Somit stellt die Mietsache keinen Geschäftsraum dar, und es kann die Erstreckung des gültig gekündigten Mietverhältnisses nicht in ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 05.11.2009 RBOG 2009 Nr. 5 (ZBR.2009.48)
+Thurgovie Obergericht Rechenschaftsbericht 05.11.2009 RBOG 2009 Nr. 5 (ZBR.2009.48)
+Turgovia Obergericht Rechenschaftsbericht 05.11.2009 RBOG 2009 Nr. 5 (ZBR.2009.48)
+
+2. a) Der Begriff des Geschäftsraums ist weder im OR noch in der Verordnung des Bundesrates über die Miete und Pacht von Wohn- und Geschäftsräumen[2] definiert. Auch der Umstand, dass auf einem Teil des Areals von der Berufungsklägerin als Mieterin (Büro-)Container platziert wurden, vermag die Mietsache "Stellfläche" nicht zu einem Geschäftsraum zu machen. 4. Somit stellt die Mietsache keinen Geschäftsraum dar, und es kann die Erstreckung des gültig gekündigten Mietverhältnisses nicht in ...
+
+RBOG 2009 Nr. 5
+RBOG 2009 Nr. 5
+Eine Abstellfläche ist kein Geschäftsraum
+(Art. 253a OR)
+1.     Die Berufungsklägerin verlangt eine Erstreckung des gekündigten Mietvertrags. Damit eine Erstreckung aber überhaupt geprüft werden kann, wird vorausgesetzt, dass es sich bei der Mietsache um Geschäftsräume handelt
+[1]
+.
+2.     a)    Der Begriff des Geschäftsraums ist weder im OR noch in der Verordnung des Bundesrates über die Miete und Pacht von Wohn- und Geschäftsräumen
+[2]
+definiert. Grundsätzlich kann daher davon ausgegangen werden, dass das Mietrecht hinsichtlich des Be­griffselements "Raum" von der allgemein üblichen Bedeutung nicht abweicht
+[3]
+. Diese Feststellung ist indessen mit Blick auf die Rechtsprechung des Bundesgerichts insofern zu relativieren, als den Elementen der Definition gemäss allgemeinem Sprachgebrauch eher gedankliche Vorbildfunktion als begrifflicher Charakter zukommen soll
+[4]
+.
+b)    Beim (Geschäfts-)Raum muss es sich daher prinzipiell einmal um einen auf Dauer angelegten, horizontal und vertikal abgeschlossenen Bereich
+[5]
+beziehungsweise um ein mehr oder weniger geschlossenes Gebäude handeln
+[6]
+. Eine dauerhafte Verbindung mit dem Boden ist nicht notwendig, weshalb auch eine Baracke oder ein Container Geschäftsräume darstellen können
+[7]
+. Aus diesem Grund sind auch etwa Marronihäuschen oder Kioske Geschäftsräume. Dass diese Konstruktionen in der Regel auf einer Seite offen sind oder wenigstens grosse Öffnungen aufweisen und insofern keinen völlig abgeschlossenen Bereich darstellen, vermag an der Qualifikation nichts zu ändern. Auch atypische Anlagen in Bezug auf die Abgeschlossenheit des umgrenzten Raums wie etwa Autowaschanlagen scheiden als Geschäftsräume nicht schon deshalb aus, weil sie dem üblichen Mass an Abgeschlossenheit nicht entsprechen. Die Raumeigenschaft kann nicht verneint werden, wenn es um bauliche Anlagen dreidimensionaler Ausdehnung geht, in denen sich im Rahmen der von der Mieterseite ausgeübten Geschäftstätigkeit Personen aufhalten
+[8]
+. Aus diesen Überlegungen heraus können Lagerplätze keine Geschäftsräume sein, da es bei ihnen an jeglichen wie auch immer gearteten Bauten fehlt. Das muss auch gelten, wenn sich auf ihnen (bewegliche oder dauerhaft mit dem Boden verbundene) Umkleide- oder Hygieneeinrichtungen für das Personal befinden. Eine andere Sicht der Dinge vertreten und aufgrund der Raumqualität einer Toilette oder Umkleidekabine die ganze Lagerstätte zum Geschäftsraum zu erheben, hiesse das Pferd beim Schwanz aufzuzäumen
+[9]
+.
+3.     a)    Gemäss Vertrag, der übrigens unstrittig von der Berufungsklägerin und Mieterin aufgesetzt wurde, ist davon die Rede, dass diese Verkehrsflächen sowie Werkplatz- und Abstellflächen für das Abstellen und Nutzen von Betriebsinventar, Fahrhabe, Sattelaufliegern, Bürocontainern und anderem Inventar mietet. Vom Gebäude, das auf den eingereichten Fotografien zu sehen ist und in welchem sich Sachen der Berufungsklägerin befinden, ist im Vertrag nur ganz am Rand die Rede. Seine Lage ergibt sich aber aus dem in den Vertrag eingearbeiteten Plan, und daraus ist auch ersichtlich, dass in diesem Gebäude im Zeitpunkt des Vertragsabschlusses ein PW-Anhänger, ein Bulldozer und zwei Zugmaschinen der Berufungsklägerin untergebracht waren.
+b)    Keiner ausführlichen Begründung bedarf, dass beim unüberbauten Teil des Mietareals mangels irgend einer Baute von vornherein nicht von einem Geschäftsraum ausgegangen werden kann. Vielmehr stehen die dort abgestellten 17 Sattelauflieger, der Stapel Holz, der Stapel Betonplatten sowie die zehn Bürocontainer im Freien. Auch der Umstand, dass auf einem Teil des Areals von der Berufungsklägerin als Mieterin (Büro-)Container platziert wurden, vermag die Mietsache "Stellfläche" nicht zu einem Geschäftsraum zu machen.
+c)     Grundsätzlich als Geschäftsraum gelten könnte das Gebäude: Auch wenn es auf einer Seite offen ist und insofern einen atypischen Raum darstellt, so könnten sich in seinem Inneren durchaus Personen zur Ausübung einer Geschäftstätigkeit aufhalten, zumal das Gebäude auf der offenen Seite wenigstens teilweise mittels eines Rolltors geschlossen werden kann. Mit dieser Feststellung ist für die Berufungsklägerin allerdings nichts gewonnen: Ausschlaggebend ist, dass sie nicht den Raum des Gebäudes mietete, sondern gemäss dem von ihr aufgesetzten Vertrag innerhalb der Baute ausdrücklich nur Flächen zum Abstellen von Sachen. Dass im Gebäude - und nicht nur in den ausserhalb abgestellten Containern - über die Vereinbarung der Parteien gemäss Mietvertrag hinaus gearbeitet würde, machte die Berufungsklägerin nicht geltend und scheint mit Blick auf die dort abgestellten Gefährte auch gänzlich unwahrscheinlich. Damit ist die gegebene Situation der Miete eines Tiefgaragenplatzes vergleichbar, und auch diese gilt nach Auffassung des Bundesgerichts nicht als Miete eines (Geschäfts-)Raums
+[10]
+. Insofern ist schliesslich auch bedeutungslos, dass das Gebäude über Installationen wie Licht und dergleichen mehr verfügt, und genauso wenig ist die vertragliche Regelung über den Strombezug durch die Berufungsklägerin von Relevanz.
+4.     Somit stellt die Mietsache keinen Geschäftsraum dar, und es kann die Erstreckung des gültig gekündigten Mietverhältnisses nicht in Betracht gezogen werden.
+Obergericht, 5. November 2009, ZBR.2009.48
+Eine dagegen erhobene Beschwerde ist am Bundesgericht hängig (4A_9/2010).
+[1]
+Art. 272 OR steht im Abschnitt über den Kündigungsschutz bei der Miete von Wohn- und Geschäftsräumen.
+[2]
+VMWG (SR 221.213.11)
+[3]
+Higi, Zürcher Kommentar, Art. 253a-253b OR N 22 i.V.m. N 8
+[4]
+BGE 124 III 111
+[5]
+Higi, Art. 253a-253b OR N 22
+[6]
+Lachat/Stoll/Brunner, Mietrecht für die Praxis, 8.A., N 4/4.3.1
+[7]
+Higi, Art. 253a-253b OR N 22 i.V.m. N 11
+[8]
+BGE 124 III 110 f.
+[9]
+Higi, Art. 253a-253b OR N 24
+[10]
+BGE 110 II 51
