@@ -1,0 +1,51 @@
+---
+decision_id: "tg_obergericht_RBOG_2009_Nr._12"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2009 Nr. 12"
+docket_2: "ZBR.2009.32"
+decided: "2009-11-12"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/879AB611-AE01-BB38-F2C0E6E7AB789173.html"
+cites_law: ["switzerland/bund/acts/220/art-184.md", "switzerland/bund/acts/241/art-008.md"]
+---
+
+# TG Obergericht RBOG 2009 Nr. 12
+
+## Regeste
+
+Unter "Besondere Abmachungen" fin-det sich der Hinweis "Eintauschfahrzeug: Der 911 Carrera (W...2) wird vorbehältlich Werkstatttest für einen Wert von CHF 48'000.00 eingetauscht. "4 Eintauschfahrzeug: Der Lieferant des Eintauschwagens (Käufer) übernimmt die volle Gewähr für Sach- und Rechtsmängel. Werden bei der Übergabe Mängel am Eintauschfahrzeug festgestellt, ist der Verkäufer nicht mehr verpflichtet, das Eintauschfahrzeug an Zahlung zu nehmen.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 12.11.2009 RBOG 2009 Nr. 12 (ZBR.2009.32)
+Thurgovie Obergericht Rechenschaftsbericht 12.11.2009 RBOG 2009 Nr. 12 (ZBR.2009.32)
+Turgovia Obergericht Rechenschaftsbericht 12.11.2009 RBOG 2009 Nr. 12 (ZBR.2009.32)
+
+Unter "Besondere Abmachungen" fin-det sich der Hinweis "Eintauschfahrzeug: Der 911 Carrera (W...2) wird vorbehältlich Werkstatttest für einen Wert von CHF 48'000.00 eingetauscht. "4 Eintauschfahrzeug: Der Lieferant des Eintauschwagens (Käufer) übernimmt die volle Gewähr für Sach- und Rechtsmängel. Werden bei der Übergabe Mängel am Eintauschfahrzeug festgestellt, ist der Verkäufer nicht mehr verpflichtet, das Eintauschfahrzeug an Zahlung zu nehmen.
+
+RBOG 2009 Nr. 12
+RBOG 2009 Nr. 12
+Auslegung einer Allgemeinen Geschäftsbedingung, wonach der Vertrag über den Kauf eines Neuwagens gültig bleibt, auch wenn der Verkäufer gestützt auf einen vorbehaltenen Werkstatttest den für das Eintauschfahrzeug vereinbarten Wert nicht anrechnen muss; Ungewöhnlichkeitsregel, Inhaltskontrolle
+(Art. 8 UWG; Art. 184 ff. OR)
+1.     Die Parteien schlossen einen "Kaufvertrag Occasion" ab. Darin wurde zunächst das Kaufobjekt, ein "Porsche 911 Carrera" mit der Chassis-Nummer W...0, beschrieben und dafür ein Netto-Kauf­preis von Fr. 89'800.00 festgehalten. Unter der Rubrik "Zahlungskonditionen" wurde der Vermerk "durch Gegenverrechnung mit Ihrer Fahrzeuglieferung" angebracht. Unter "Besondere Abmachungen" fin­det sich der Hinweis "Eintauschfahrzeug: Der 911 Carrera (W...2) wird vorbehältlich Werkstatttest für einen Wert von CHF 48'000.00 eingetauscht." Darunter wurde ausgeführt: "Sämtliche besondere Abmachungen unterliegen den Gewährleistungsbestimmungen unter Ziff. 4 der nachfolgenden Vertragsbedingungen; Zusicherungen und Abmachungen, die in diesem Vertrag nicht enthalten sind, haben nur Gültigkeit, wenn sie gegenseitig schriftlich bestätigt sind. Die rückseitigen Vertragsbedingungen sind integrierter Bestandteil des Vertrages." S. 3 des Vertrags enthält in 11 Ziffern Allgemeine Vertragsbestimmungen, unter anderem die für diesen Streitfall erheblichen Ziff. 4 und 7:
+"4 Eintauschfahrzeug: Der Lieferant des Eintauschwagens (Käufer) übernimmt die volle Gewähr für Sach- und Rechtsmängel. Er garantiert insbesondere, dass alle Angaben über den Eintauschwagen richtig sind und am Eintauschwagen keine Ansprüche von Drittpersonen (z.B. Leasingfirmen) bestehen, sondern dieser sein rechtsgültiges Eigentum darstellt. Er übernimmt Gewähr dafür, dass das Eintauschfahrzeug garan­tiert unfallfrei und mechanisch in Ordnung ist und der Kilometerstand der effektiven Fahrleistung des Wagens entspricht. Der Käufer über­nimmt bis zum Zeitpunkt der Übergabe des Eintauschwagens an die Verkäufer die Haftung für Untergang, Beschädigung oder Wertvermin­derung. Das Eintauschfahrzeug wird nur an Zahlungsstatt erworben, wenn sich die Zusicherungen des Käufers anlässlich der Prüfung bei Übergabe als richtig herausgestellt haben. Werden bei der Übergabe Mängel am Eintauschfahrzeug festgestellt, ist der Verkäufer nicht mehr verpflichtet, das Eintauschfahrzeug an Zahlung zu nehmen. Der Vertrag über das gekaufte Fahrzeug bleibt dabei trotzdem gültig und der Kauf­preis ist diesfalls vollständig durch Zahlung zu tilgen. Bei fehlendem Zubehör ist die Verkaufsfirma berechtigt, dieses gegen eine zusätzliche Umtriebsentschädigung von Fr. 200.00 auf Kosten des Kunden zu be­schaffen.
+(...)
+7 Annahmeverzug / Rücktritt vom Kaufvertrag: Befindet sich der Käufer nach dem Verstreichenlassen des vereinbarten Ablieferungs­termins automatisch oder nach erfolgter schriftlicher Mahnung mit der Übernahme des Kaufgegenstandes in Verzug oder tritt er vom Vertrag zurück, so kann die Verkaufsfirma nach unbenütztem Ablauf einer fünftägigen Nachfrist Erfüllung nebst Schadenersatz verlangen, schrift­lich den Verzicht auf die nachträgliche Leistung erklären oder vom Ver­trag zurücktreten, bei den letzten beiden Fällen je unter gleichzeitiger freier Verfügung über das Fahrzeug und dem Recht auf 15 % des Ver­kaufspreises als Konventionalstrafe. Die Geltendmachung weiteren Schadenersatzes ist ausdrücklich vorbehalten."
+2.     a)    Die Geltung vorformulierter Allgemeiner Vertragsbedingungen wird durch die Ungewöhnlichkeitsregel eingeschränkt. Danach sind von der global erklärten Zustimmung zu Allgemeinen Vertragsbedingungen alle ungewöhnlichen Klauseln ausgenommen, auf deren Vorhandensein die schwächere oder weniger geschäftserfahrene Partei nicht gesondert aufmerksam gemacht wurde. Der Verfasser von Allgemeinen Geschäftsbedingungen muss nach dem Vertrauensgrundsatz davon ausgehen, dass ein unerfahrener Vertragspartner ungewöhnlichen Klauseln nicht zustimmt. Die Ungewöhnlichkeit beurteilt sich aus der Sicht des Zustimmenden im Zeitpunkt des Vertragsabschlusses. Die Beurteilung erfolgt bezogen auf den Einzelfall. Die fragliche Klausel muss zu einer wesentlichen Änderung des Vertragscharakters führen oder in erheblichem Mass aus dem gesetzlichen Rahmen des Vertragstypus fallen. Je stärker eine Klausel die Rechtsstellung des Vertragspartners beeinträchtigt, desto eher ist sie als ungewöhnlich zu qualifizieren
+[1]
+. Das dispositive Recht wahrt in der Regel die Interessen der Parteien ausgewogen, weshalb die Partei, die davon abweichen will, dies mit hinreichender Deutlichkeit zum Ausdruck bringen muss
+[2]
+.
+b)    Die konkrete Regelung, dass der Kaufvertrag gültig bleiben soll und der Käufer den neuen Porsche für Fr. 89'800.00 übernehmen muss, auch wenn der Verkäufer gestützt auf den vorbehaltenen Werkstatttest nicht den vereinbarten Wert für das Eintauschfahrzeug an den Kaufpreis anrechnen will, ist ungewöhnlich. Im Grunde genommen handelt es sich bei Autokäufen, bei denen das bisherige Auto eingetauscht wird, im Ergebnis um ein kombiniertes Kauf- und Tauschgeschäft, bei welchem der bar zu bezahlende Kaufpreis jedenfalls für den Käufer - und in der Regel für den Verkäufer erkennbar - vom Anrechnungswert für das Eintauschfahrzeug abhängig ist. Wenn in den Allgemeinen Vertragsbedingungen diese beiden zusammengehörigen und voneinander abhängigen Teile getrennt wer­den und der Verkaufspreis als absoluter Betrag definiert wird, während hingegen der Wert des Tauschmittels offen bleiben soll, liegt eine objektive Ungewöhnlichkeit vor. Dies gilt erst recht, wenn der Verkäufer das Eintauschfahrzeug nach dem Werkstatttest mangels Einigung über den Anrechnungswert nicht mehr an Zahlung nehmen muss, der Vertrag über das gekaufte Fahrzeug dabei trotzdem gültig bleibt und der Kaufpreis diesfalls vollständig durch Zahlung zu tilgen ist, wie dies in Ziff. 4 der Allgemeinen Vertragsbedingungen festgehalten wurde.
+c)     Im Kaufvertrag zwischen den Parteien wurde nicht genügend auf diese ungewöhnliche Regel hingewiesen: In Bezug auf das Eintauschfahrzeug erfolgte auf S. 1 des Vertrags lediglich der Hinweis, sämtliche besonderen Abmachungen unterlägen den Gewährleistungsbestimmungen von Ziff. 4 der Allgemeinen Vertragsbestimmungen. Dass das Kaufobjekt auch übernommen werden musste, wenn die Verkäuferin den vereinbarten Preis für das Eintauschfahrzeug nach dem Werkstatttest nicht mehr gelten lassen wolle, ist nicht erwähnt. In den Allgemeinen Vertragsbestimmungen befindet sich sodann der ent­scheidende Satz "Der Vertrag über das gekaufte Fahrzeug bleibt dabei trotzdem gültig, und der Kaufpreis ist diesfalls vollständig durch Zahlung zu tilgen" in der Mitte eines kleingedruckten Abschnitts und ist in keiner Weise hervorgehoben.
+d)    Somit ist Ziff. 4 der Allgemeinen Vertragsbestimmungen nicht anwendbar, weshalb die Klage der Verkäuferin auch aus diesem Grund abzuweisen ist. Im Übrigen ist mit der Vorinstanz davon auszugehen, dass auch bei genügend klarem Hinweis auf die umstrittene Vertragsbestimmung deren Anwendung aufgrund einer Inhaltskontrolle
+[3]
+zu versagen wäre. Die Regelung, wonach die Verkäuferin die Übernahme eines Eintauschfahrzeugs wegen angeblicher Mängel verweigern oder den Eintauschpreis wesentlich mindern, gleichzeitig aber den vollen Kaufpreis verlangen und bei Rücktritt des Käufers vom Vertrag sodann von diesem eine Konventionalstrafe in Höhe von 15% des Kaufpreises verlangen kann, erweist sich tatsächlich als stossend. Die Verkäuferin hätte es so in der Hand, zunächst einen Käufer mit einem hohen Eintauschpreis anzulocken, nachträglich, unter dem Vorwand von irgendwelchen Mängeln, welche bei Gebrauchtwagen häufig vorkommen, den Preis wesentlich zu drücken und gleichzeitig dem Käufer mit der Konventionalstrafe den Rücktritt vom Vertrag wesentlich zu erschweren und ihn damit an einen einseitig nachträglich zugunsten des Verkäufers abgeänderten Vertrag zu binden.
+Obergericht, 12. November 2009, ZBR.2009.32
+[1]
+BGE 135 III 7, 119 II 446
+[2]
+BGE 122 III 121, 115 II 268
+[3]
+Vgl. Koller, Einmal mehr: das Bundesgericht und seine verdeckte AGB-Inhaltskontrolle, in: AJP 2008 S. 943 ff.
