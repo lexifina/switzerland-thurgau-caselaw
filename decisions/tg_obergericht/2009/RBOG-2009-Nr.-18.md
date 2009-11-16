@@ -1,0 +1,55 @@
+---
+decision_id: "tg_obergericht_RBOG_2009_Nr._18"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2009 Nr. 18"
+docket_2: "BS.2009.20"
+decided: "2009-11-16"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/879C0E43-FA22-AEDD-899ABEAD332C2621.html"
+cites_law: ["switzerland/bund/acts/281.1/art-133.md", "switzerland/bund/acts/281.1/art-141.md", "switzerland/bund/acts/281.42/art-073.md", "switzerland/bund/acts/281.42/art-078a.md"]
+---
+
+# TG Obergericht RBOG 2009 Nr. 18
+
+## Regeste
+
+1. a) Der Beschwerdeführer und X waren die einzigen Mitglieder einer Stockwerkeigentümergemeinschaft. X erhob Klage auf Ausschluss des Beschwerdeführers aus der Stockwerkeigentümergemeinschaft. Die Gleichstellung der Stockwerkeigentümergemeinschaft, die den Ausschluss eines Stockwerkeigentümers und damit die Verwertung von dessen Stockwerkeigentumsanteil verlangt, mit dem betreibenden Gläubiger hat zur Folge, dass das Deckungsprinzip gerade nicht vo-raussetzt, dass auch die eigene Forderung ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 16.11.2009 RBOG 2009 Nr. 18 (BS.2009.20)
+Thurgovie Obergericht Rechenschaftsbericht 16.11.2009 RBOG 2009 Nr. 18 (BS.2009.20)
+Turgovia Obergericht Rechenschaftsbericht 16.11.2009 RBOG 2009 Nr. 18 (BS.2009.20)
+
+1. a) Der Beschwerdeführer und X waren die einzigen Mitglieder einer Stockwerkeigentümergemeinschaft. X erhob Klage auf Ausschluss des Beschwerdeführers aus der Stockwerkeigentümergemeinschaft. Die Gleichstellung der Stockwerkeigentümergemeinschaft, die den Ausschluss eines Stockwerkeigentümers und damit die Verwertung von dessen Stockwerkeigentumsanteil verlangt, mit dem betreibenden Gläubiger hat zur Folge, dass das Deckungsprinzip gerade nicht vo-raussetzt, dass auch die eigene Forderung ...
+
+RBOG 2009 Nr. 18
+RBOG 2009 Nr. 18
+Die Forderung der Stockwerkeigentümergemeinschaft gegen den ausgeschlossenen Stockwerkeigentümer ist bei der Festsetzung des Mindestzuschlagspreises nicht zu berücksichtigen
+(Art. 78a Abs. 3 VZG; Art. 133 ff. SchKG)
+1.     a)    Der Beschwerdeführer und X waren die einzigen Mitglieder einer Stockwerkeigentümergemeinschaft. X erhob Klage auf Ausschluss des Beschwerdeführers aus der Stockwerkeigentümergemeinschaft. Sämtliche Instanzen schützten die Klage
+[1]
+und verpflichteten den Beschwerdeführer, seine Anteile zu veräussern, unter Anordnung der öffentlichen Versteigerung der Anteile, falls er seiner Verpflichtung innert Frist nicht nachkommen sollte. In der Folge wurde die Versteigerung gerichtlich angeordnet. Die Vorinstanz wies das Betreibungsamt im Rahmen einer Beschwerde gegen die Steigerungsbedingungen an, den Zuschlagspreis auf Fr. 463'167.00 festzulegen.
+b)    Der Beschwerdeführer verlangte mit Beschwerde, das Betreibungsamt sei anzuweisen, den Zuschlagspreis auf Fr. 562'062.40 festzusetzen und die Versteigerung auszusetzen, bis über den im Lastenverzeichnis aufgenommenen Anspruch der Stockwerkeigentümergemeinschaft von Fr. 98'895.40 entschieden worden sei. Das Gerichtspräsidium habe zutreffend ausgeführt, dass Art. 78a Abs. 3 VZG überflüssig wäre, wenn für einen Zuschlag nicht sämtliche Pfandrechte gedeckt sein müssten. Nicht nachvollzogen werden könne aber, weshalb es gemäss Vorinstanz sinnvoll erscheine, die Stockwerkeigentümergemeinschaft wie einen betreibenden Gläubiger zu betrachten und von daher nur die Deckung der vorgehenden Pfandschulden zu verlangen. Es gehe weder um ein Pfandverwertungsverfahren noch habe ein Pfandgläubiger die Betreibung eingeleitet, so dass die Stockwerkeigentümergemeinschaft auch nicht wie ein betreibender Gläubiger zu betrachten und daher auch nicht nur die Deckung der vorgehenden Pfandschulden zu verlangen sei. Ein erheblicher Nachteil des Stockwerkeigentümers liege bereits darin, dass ein Überschuss gemäss Art. 78a Abs. 3 VZG nicht gefordert sei. Gerade die Stockwerkeigentümergemeinschaft dürfte ein erhebliches Interesse an der Deckung ihrer Pfandforderung haben, denn sonst würde sie nicht parallel auf deren Verbleib im Lastenverzeichnis klagen. Falls die Stockwerkeigentümergemeinschaft mit ihrer Klage durchdringe, sei die Berücksichtigung des Pfandbetrags von Fr. 98'895.40 beim Zuschlagspreis auch im Interesse des Beschwerdeführers. Deshalb dürfe keine Versteigerung durchgeführt werden, solange nicht rechtskräftig über die im Lastenverzeichnis aufgenommene Forderung von Fr. 98'895.40 entschieden sei.
+2.     Umstritten ist einzig, ob auch die an dritter Pfandstelle im Lastenverzeichnis aufgenommene Forderung der Stockwerkeigentümergemeinschaft über Fr. 98'895.40 bei der Bestimmung des Mindestzuschlagspreises zu berücksichtigen ist. Wäre dies der Fall, wäre mit der Versteigerung zuzuwarten, bis über die beim Bezirksgericht anhängig gemachte Klage betreffend Bereinigung des Lastenverzeichnisses entschieden ist.
+a)    Massgeblich ist Art. 78a Abs. 3 VZG, wonach der Zuschlag zu einem den Betrag der Pfandforderungen erreichenden Preis erteilt werden kann, auch wenn kein Überschuss erzielt wird.
+b)    Sowohl die Vorinstanz als auch der Beschwerdeführer sind sich zunächst und zutreffend einig, dass diese gesetzliche Regelung primär die Pfandrechte der Gläubiger schützen wolle, die vom Ausschlussverfahren der Stockwerkeigentümer grundsätzlich nicht betroffen seien.
+c)     Im Weiteren ist für die Auslegung von Art. 78a Abs. 3 VZG auch Art. 78a Abs. 5 VZG von Bedeutung, welche Bestimmung auf Art. 73 bis 73i VZG verweist, die mit Ausnahme von Art. 73e Abs. 3 entsprechend anwendbar seien. Bei der Anwendung von Art. 73 ff. VZG (Verwertung eines Miteigentumsanteils) und Art. 133 ff. SchKG (Verwertung von Grundstücken) ist zu berücksichtigen, dass diese Bestimmungen auf das Verhältnis zwischen Schuldner und Gläubiger zugeschnitten sind. Ihre Anwendung auf die öffentliche Versteigerung des Anteils eines ausgeschlossenen Stockwerkeigentümers kann daher bisweilen eine Anpassung an diesen Sachverhalt erfordern oder gar ausgeschlossen sein
+[2]
+. Vor diesem Hintergrund ist es zutreffend, wenn die Vorinstanz die Interessenlage der Stockwerkeigentümergemeinschaft mitberücksichtigte und die Gemeinschaft wie einen betreibenden Gläubiger betrachtete, der die Verwertung verlangt. Die Gleichstellung der Stockwerkeigentümergemeinschaft, die den Ausschluss eines Stockwerkeigentümers und damit die Verwertung von dessen Stockwerkeigentumsanteil verlangt, mit dem betreibenden Gläubiger hat zur Folge, dass das Deckungsprinzip gerade nicht vo­raussetzt, dass auch die eigene Forderung der Stockwerkeigentümergemeinschaft bei der Bemessung des Mindestpreises zu berücksichtigen ist. Der Ausschluss liegt ja einzig im Interesse der Stockwerkeigentümergemeinschaft, die sich allenfalls die fehlende Deckung durch das Grundpfand gefallen lassen muss, um das Ziel des Ausschlusses zu erreichen.
+d)    Die Regelung von Art. 78a Abs. 3 VZG kann dazu führen, dass der aus der Stockwerkeigentumsgemeinschaft Ausgeschlossene im Fall, dass sich kein Käufer finden lässt, weiterhin Eigentümer des Anteils bleibt, was aus Sicht der verbleibenden Stockwerkeigentümer nicht zu befriedigen vermag, aber mit Blick auf die Interessen der Pfandgläubiger und den klaren gesetzlichen Wortlaut hinzunehmen ist. In diesem Fall bleibt der Stockwerkeigentumsgemeinschaft nur, die Verwertung des betreffenden Anteils zu einem späteren Zeitpunkt erneut zu beantragen
+[3]
+. Lässt man die Pfandforderung der Stockwerkeigentümergemeinschaft bei der Berechnung des Minimalpreises ausser Betracht, so ist den Interessen der übrigen Pfandgläubiger und der Stockwerkeigentümergemeinschaft angemessen Rechnung getragen. Die Vorinstanz hat den Zuschlagspreis daher zu Recht mit Fr. 463'167.00 festgesetzt. Bei diesem Ergebnis ist ein Aufschub der Versteigerung nicht angezeigt
+[4]
+.
+Obergericht, 16. November 2009, BS.2009.20
+[1]
+BGE vom 23. Oktober 2008, 5A_577/2008; vgl.
+RBOG 2008 Nr. 6
+[2]
+Strittmatter, Ausschluss aus Rechtsgemeinschaften, Diss. Zürich 2002, S. 103
+[3]
+Strittmatter, S. 104
+[4]
+Walder, SchKG, 17.A., Art. 141 SchKG N 1
