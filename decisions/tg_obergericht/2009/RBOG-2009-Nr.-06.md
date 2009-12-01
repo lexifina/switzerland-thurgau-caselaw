@@ -1,0 +1,40 @@
+---
+decision_id: "tg_obergericht_RBOG_2009_Nr._06"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2009 Nr. 06"
+decided: "2009-12-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2009-nr-6"
+cites_law: ["switzerland/bund/acts/220/art-330a.md"]
+---
+
+# TG Obergericht RBOG 2009 Nr. 06
+
+## Regeste
+
+Begehren um Ausstellung eines Arbeitszeugnisses
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 1995 RBOG 2009 Nr. 06
+Thurgovie Obergericht Rechenschaftsbericht 1995 RBOG 2009 Nr. 06
+Turgovia Obergericht Rechenschaftsbericht 1995 RBOG 2009 Nr. 06
+
+RBOG 2009 Nr. 06
+Skip to main content
+Show navigation
+Begehren um Ausstellung eines Arbeitszeugnisses
+Art. 330a OR
+1. Das Bezirksgericht verpflichtete die Arbeitgeberin, einem ehemaligen Arbeitnehmer ein wahrheitsgemässes und uncodiertes Arbeitszeugnis auszustellen. Die Arbeitgeberin verlangte im Berufungsverfahren, das Obergericht habe festzulegen, "wie weit das Arbeitszeugnis gehen müsse".
+2. Die Antwort auf die gestellte Frage ergibt sich in allgemeiner Hinsicht allerdings bereits aus dem angefochtenen Urteil, mit welchem angeordnet wurde, dass das Zeugnis wahrheitsgemäss und uncodiert sein müsse; ausserdem wurde in der Urteilsbegründung festgehalten, dass ein Arbeitszeugnis den Grundsätzen von Wahrheit und Klarheit zu entsprechen habe und sowohl wohlwollend als auch charakteristisch-individuell formuliert sein müsse. Konkretere Angaben können nicht gemacht werden: Zum einen ist die Leistung des Arbeitnehmers nicht Gegenstand dieses Verfahrens, da mangelhafte Leistungen nicht zu einer einseitigen Lohnreduktion berechtigen. Zum anderen ist es ganz grundsätzlich auch nicht Sache von Gerichten, für Arbeitgeber Arbeitszeugnisse zu formulieren, und sei dies auch nur in den Grundzügen. Entsprechend ist dieser Berufungsantrag abzuweisen.
+3. Zwar entschied das Obergericht auch einmal, dass in Fällen, in denen der Arbeitnehmer die blosse Ausstellung eines Zeugnisses verlange und der Arbeitgeber in der Klageantwort keinen Zeugnistext einreiche, der Arbeitnehmer in seiner Replik einen Textentwurf vorzulegen habe, andernfalls auf die Klage nicht eingetreten werde. Dieser Rechtsprechung lag die Überlegung zugrunde, dass die blosse Verpflichtung zur Ausstellung eines Arbeitszeugnisses nicht (oder wenigstens nicht sinnvoll) vollstreckbar sei. Indessen ist sich die Lehre und die weit überwiegende Rechtsprechung einig, dass es der Arbeitnehmer beim blossen Begehren um Ausstellung eines Zeugnisses bewenden lassen kann[1]. Im Anschluss daran lässt auch das Obergericht blosse Erfüllungsklagen zu. Immerhin scheint es für den Arbeitnehmer aber sinnvoll zu sein, zusammen mit der Klage auf Ausstellung eines Zeugnisses zugleich einen Vorschlag für den Zeugnistext zu formulieren, andernfalls er unter Umständen zu einer weiteren Klage (Berichtigungsklage) gezwungen sein könnte.
+Obergericht, 1. Dezember 2009, ZBO.2009.17
+Auf eine dagegen erhobene Beschwerde trat das Bundesgericht am 23. Februar 2010 nicht ein (4A_85/2010).
+[1] Rehbinder, Berner Kommentar, Art. 330a OR N 20; Staehelin, Zürcher Kommentar, Art. 330a OR N 20 ff.; Janssen, Die Zeugnispflicht des Arbeitgebers, Diss. Zürich 1995, S. 157 f.; BGE 129 III 180; ZR 100, 2001, Nr. 78; JAR 1991 S. 216; BJM 1968 S. 128 f.; abweichend ZR 99, 2000, Nr. 37 (kritisch dazu Streiff/von Kaenel, Arbeitsvertrag, 6.A., Art. 330a OR N 5)
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
