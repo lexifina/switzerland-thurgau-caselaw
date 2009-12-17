@@ -1,0 +1,43 @@
+---
+decision_id: "tg_obergericht_RBOG_2009_Nr._26"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2009 Nr. 26"
+decided: "2009-12-17"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2009-nr-26"
+---
+
+# TG Obergericht RBOG 2009 Nr. 26
+
+## Regeste
+
+Fristeinhaltung bei Leistung eines Kostenvorschusses mittels Online-Banking
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 11.12.2006 RBOG 2009 Nr. 26
+Thurgovie Obergericht Rechenschaftsbericht 11.12.2006 RBOG 2009 Nr. 26
+Turgovia Obergericht Rechenschaftsbericht 11.12.2006 RBOG 2009 Nr. 26
+
+RBOG 2009 Nr. 26
+Skip to main content
+Show navigation
+Fristeinhaltung bei Leistung eines Kostenvorschusses mittels Online-Banking
+§ 68 aZPO (TG)
+1. Die Berufungskläger wurden unter Hinweis auf die Säumnisfolgen aufgefordert, bis 9. November 2009 die Berufungsanträge zu stellen, allfällige Noven geltend zu machen und den Kostenvorschuss zu bezahlen. Nachdem der Kostenvorschuss gemäss den Abklärungen des Obergerichts erst am 10. November 2009 geleistet worden war, wurden die Berufungskläger aufgefordert, die rechtzeitige Leistung nachzuweisen. Daraufhin reichten die Berufungskläger eine Bestätigung ihrer Hausbank ein, dass die Zahlung am 9. November 2009 um 17.32 Uhr im E-Banking erfasst worden sei.
+2. Rechtzeitig geleistet ist ein Kostenvorschuss im bargeldlosen Zahlungsverkehr, wenn der Überweisungsauftrag an die Post am letzten Tag der Frist erteilt wurde. Nimmt eine Partei den Dienst einer Bank in Anspruch, um ihrer Zahlungsverpflichtung nachzukommen, gilt das Bankinstitut als ihre Hilfsperson. Es genügt demnach nicht, wenn der Schuldner der Bank innert Frist den Zahlungsauftrag erteilt und sogar allenfalls noch als Ausführungsdatum spätestens den letzten Tag der Frist angibt; massgebend für die Fristwahrung ist vielmehr, dass die Bank die Vergütung effektiv spätestens am letzten Tag der Frist vornimmt, also die elektronischen Daten noch vor Ablauf des angesetzten Zeitraums der Post übergeben werden[1].
+3. Erwiesen ist, dass der per E-Banking übermittelte Zahlungsauftrag der Berufungskläger durch ihre Hausbank am 9. November 2009 und damit am letzten Tag der Frist um 17.32 Uhr erfasst wurde. Nicht erbracht wurde aber der Beweis, dass die Bank ihrerseits der Post den Zahlungsauftrag noch am selben Tag erteilte. Somit kann auf die Berufung von vornherein nicht eingetreten werden.
+4. a) Abgesehen davon ergibt sich aus den Angaben der Bank auf ihrer Internetseite über die Annahmeschlusszeiten beim Online-Banking ohnehin, dass Annahmeschluss für Überweisungsaufträge um 14.00 Uhr des Ausführungstags ist. Um 17.32 Uhr des 9. Novembers 2009 konnte demnach kein Auftrag mehr übermittelt werden, der durch die Bank noch am gleichen Tag ausgeführt worden wäre. Selbst wenn die Berufungskläger beim Online-Banking als Ausführungstag noch den 9. November 2009 eingegeben hätten, wären sie bei der Übermittlung des Auftrags mittels eines grün unterlegten Hinweises automatisch darauf aufmerksam gemacht worden, dass der Auftrag nur unter Einhaltung der Annahmeschlusszeit (rechtzeitig) ausgeführt werden kann. Üblicherweise wird ein Auftrag in Fällen, in denen er nach der Annahmeschlusszeit eingeht, am folgenden Tag ausgeführt. Damit stimmt überein, dass gemäss den Unterlagen des Obergerichts die Leistung des Kostenvorschusses am 10. November 2009 erfolgte[2].
+b) Es kommt hinzu, dass etwa gemäss den Angaben der X–Bank Änderungen an oder Löschungen von online erteilten Bankaufträgen noch bis 24.00 Uhr am Tag vor der Ausführung vorgenommen werden können, und bei der Y-Bank heisst es, Zahlungsaufträge könnten per E-Banking noch bis zum ersten Verbuchungslauf nach Erreichen des Valutatags geändert oder gelöscht werden; bei der Hausbank der Berufungskläger sind im Internet soweit ersichtlich keine diesbezüglichen Informationen erhältlich. Es dürfte aber auch bei dieser Bank gelten, dass der Auftrag der Berufungskläger noch bis mindestens 24.00 Uhr am 9. November 2009 hätte geändert werden können, nachdem der Auftrag zufolge fehlender Einhaltung der Annahmeschlusszeit erst am 10. November 2009 ausgeführt werden konnte. Dies aber schliesst gleichzeitig aus, dass die Bank den Zahlungsauftrag an die Post schon am 9. November 2009 übermittelte.
+c) Schliesslich vermag die Berufungskläger auch der Hinweis nicht zu entlasten, dass die Überweisung "systembedingt" erst am 10. November 2009 habe ausgeführt werden können: Wer sich des Online-Bankings bedient, hat die dort geltenden Bedingungen bezüglich Annahmezeiten zu kennen, und tut er dies nicht, hat er die Nachteile zu tragen. Derjenige, der einen verlangten Kostenvorschuss am letzten Tag der Frist durch Bareinzahlung am Postschalter begleichen möchte, kann die Verantwortung auch nicht auf das "System" abwälzen, wenn er in Unkenntnis der Öffnungszeiten die Poststelle erst nach Geschäftsschluss aufsucht.
+Obergericht, 17. Dezember 2009, ZBR.2009.70
+Auf eine dagegen erhobene Beschwerde trat das Bundesgericht mit Urteil vom 8. Februar 2010 nicht ein (4D_20/2010).
+[1] RBOG 1993 Nr. 16; Baudepartement des Kantons St. Gallen, Juristische Mitteilungen 2004/III, Nr. 31 S. 30 ff.
+[2] Zu den Annahmeschlusszeiten auch Koller/Rey, Haftungsrisiken beim elektronischen Rechtsverkehr mit Gerichten, in: Jusletter vom 11. Dezember 2006, S. 9 (http://jusletter.weblaw.ch)
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
