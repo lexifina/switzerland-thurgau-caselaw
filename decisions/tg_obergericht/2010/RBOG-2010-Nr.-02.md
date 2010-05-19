@@ -1,0 +1,47 @@
+---
+decision_id: "tg_obergericht_RBOG_2010_Nr._02"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2010 Nr. 02"
+decided: "2010-05-19"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2010-nr-2"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/281.1/art-097.md", "switzerland/bund/acts/281.1/art-112.md", "switzerland/bund/acts/281.42/art-009.md"]
+---
+
+# TG Obergericht RBOG 2010 Nr. 02
+
+## Regeste
+
+Keine unentgeltliche Prozessführung für Kosten der neuen Schätzung im Hinblick auf die Grundstücksverwertung
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2010 RBOG 2010 Nr. 02
+Thurgovie Obergericht Rechenschaftsbericht 2010 RBOG 2010 Nr. 02
+Turgovia Obergericht Rechenschaftsbericht 2010 RBOG 2010 Nr. 02
+
+RBOG 2010 Nr. 02
+Skip to main content
+Show navigation
+Keine unentgeltliche Prozessführung für Kosten der neuen Schätzung im Hinblick auf die Grundstücksverwertung
+Art. 29 Abs. 3 BV
+,
+Art. 9 Abs. 2 VZG
+1. Gemäss Art. 29 Abs. 3 BV hat jede Person, die nicht über die erforderlichen Mittel verfügt, und deren Rechtsbegehren nicht als aussichtslos erscheint, Anspruch auf unentgeltliche Prozessführung. Wenn für ein Verfahren die unentgeltliche Prozessführung zu gewähren ist, so umfasst die Befreiungswirkung die Vorschüsse für sämtliche prozessualen Handlungen[1]. Nach dem Sinn und Zweck der unentgeltlichen Prozessführung muss das Gemeinwesen den Privaten nur unterstützen, wenn diesem ansonsten der Verlust eines Rechts oder ein als unzulässig erachteter Eingriff in seine Rechte droht[2].
+2. Jeder Betroffene hat das Recht, die im Hinblick auf die Verwertung eines gepfändeten Grundstücks vorgenommene Schätzung in Frage zu stellen und im Sinn von Art. 9 Abs. 2 VZG eine neue Schätzung durch Sachverständige zu verlangen. Dieses Recht steht auch dem Schuldner zu, welcher den vom Betreibungsamt ermittelten mutmasslichen Verkehrswert als zu hoch erachtet, denn der Schuldner hat - wie der Gläubiger - grundsätzlich ein rechtlich geschütztes Interesse an der ordnungsgemässen Abwicklung des Zwangsvollstreckungsverfahrens[3]. Im Verwertungsverfahren kommt der Schätzung allerdings nur untergeordnete Funktion zu; ihre Hauptfunktionen im Pfändungsverfahren (Bestimmung des Deckungsumfangs[4], damit nicht mehr als nötig mit Beschlag belegt wird, und Orientierung des Gläubigers über das voraussichtliche Ergebnis der Verwertung[5]) entfallen hier weitgehend[6]. Die Schätzung des zu versteigernden Grundstücks gibt den Interessenten lediglich einen Anhaltspunkt über das vertretbare Angebot, ohne etwas über den an der Versteigerung tatsächlich erzielbaren Erlös auszusagen[7]. Der Beschwerdeführerin als Schuldnerin im Verwertungsverfahren droht nicht der Verlust eines Rechts, wenn sie das Gemeinwesen nicht durch unentgeltliche Prozessführung bei der Neuschätzung des zu versteigernden Grundstücks unterstützt. Die Schuldnerin hat daher für die Neuschätzung des zu versteigernden Grundstücks durch Sachverständige gemäss Art. 9 Abs. 2 VZG keinen Anspruch auf Befreiung von der Kostenvorschusspflicht durch Gewährung der unentgeltlichen Prozessführung[8].
+Obergericht, 19. Mai 2010, BS.2010.7
+[1] BGE 135 I 104
+[2] BGE 135 I 104, 134 I 13 ff., 130 I 182
+[3] BGE 129 III 598
+[4] Art. 97 Abs. 2 SchKG
+[5] Art. 112 Abs. 1 SchKG
+[6] BGE 101 III 34
+[7] BGE 134 III 43, 129 III 597
+[8] BGE 135 I 104
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
