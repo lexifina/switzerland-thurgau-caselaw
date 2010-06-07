@@ -1,0 +1,76 @@
+---
+decision_id: "tg_obergericht_RBOG_2010_Nr._19"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2010 Nr. 19"
+docket_2: "BS.2010.6"
+decided: "2010-06-07"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/7A029DB1-BE12-0A5E-FDA94BB3E7A43C37.html"
+cites_law: ["switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-064.md", "switzerland/bund/acts/281.1/art-065.md"]
+---
+
+# TG Obergericht RBOG 2010 Nr. 19
+
+## Regeste
+
+b) Grundsätzlich ist die mangel- oder fehlerhafte Zustellung des Zahlungsbefehls anfechtbar[5]. Die Beschwerdefrist und die Frist für die Erhebung des Rechtsvorschlags beginnen in einem solchen Fall mit der tatsächlichen Kenntnisnahme oder aber im Zeitpunkt, in dem der Schuldner auf andere Weise vom Zahlungsbefehl, namentlich von dessen Inhalt, Kenntnis erhält, zu laufen. Zum anderen durfte die Aushändigung nicht auf der Post, sondern hätte im Geschäftslokal der Beschwerdeführerin erfolgen ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 07.06.2010 RBOG 2010 Nr. 19 (BS.2010.6)
+Thurgovie Obergericht Rechenschaftsbericht 07.06.2010 RBOG 2010 Nr. 19 (BS.2010.6)
+Turgovia Obergericht Rechenschaftsbericht 07.06.2010 RBOG 2010 Nr. 19 (BS.2010.6)
+
+b) Grundsätzlich ist die mangel- oder fehlerhafte Zustellung des Zahlungsbefehls anfechtbar[5]. Die Beschwerdefrist und die Frist für die Erhebung des Rechtsvorschlags beginnen in einem solchen Fall mit der tatsächlichen Kenntnisnahme oder aber im Zeitpunkt, in dem der Schuldner auf andere Weise vom Zahlungsbefehl, namentlich von dessen Inhalt, Kenntnis erhält, zu laufen. Zum anderen durfte die Aushändigung nicht auf der Post, sondern hätte im Geschäftslokal der Beschwerdeführerin erfolgen ...
+
+RBOG 2010 Nr. 19
+RBOG 2010 Nr. 19
+Mangelhafte Zustellung des Zahlungsbefehls an eine Aktiengesellschaft
+(Art. 65 SchKG)
+1.     Der X AG wurde am 15. Januar 2010 der Zahlungsbefehl und im März 2010 die Konkursandrohung zugestellt. Am 2. Februar 2010 verfügte das Betreibungsamt, die X AG habe nach Ablauf der zehntägigen Frist und damit verspätet Rechtsvorschlag erhoben. Die X AG reichte am 17. März 2010 Beschwerde ein und beantragte die Feststellung, die Zustellung des Zahlungsbefehls und damit auch die Konkursandrohung seien nichtig. Die Vorinstanz trat auf die Beschwerde nicht ein: Die Frist für die Anfechtung des Zahlungsbefehls sei längst abgelaufen.
+2.     a)    Ist die Betreibung gegen eine Aktiengesellschaft gerichtet, hat die Zustellung des Zahlungsbefehls an ein Mitglied der Verwaltung, einen Direktor oder Prokuristen zu erfolgen. Werden diese Personen in ihrem Geschäftslokal nicht angetroffen, kann der Zahlungsbefehl auch einem anderen Beamten oder Angestellten übergeben werden
+[1]
+. Diese Ersatzzustellung ist jedoch nur zulässig, wenn zuvor erfolglos versucht wurde, die Betreibungsurkunde einer der hauptsächlich zur Entgegennahme berechtigten Person auszuhändigen, und zwar an dem Ort, wo diese ihre Tätigkeit für das Unternehmen ausübt. Grundsätzlich sind Betreibungsurkunden im Geschäftslokal der betriebenen Gesellschaft zuzustellen, sofern ein solches besteht. Das Geschäftslokal muss nicht unbedingt mit dem Sitz einer Gesellschaft identisch sein; es befindet sich dort, wo sich der Geschäftsbetrieb abwickelt, wo folglich der Vertreter der Gesellschaft seine Geschäfte auszuüben pflegt. Die Zustellung kann, wenn der Vertreter im Geschäftslokal nicht anzutreffen ist oder kein Geschäftslokal existiert, auch in seiner Wohnung oder an seinem Arbeitsort erfolgen, und dort alsdann auch an seine Hausgenossen, das heisst beispielsweise an die Ehefrau des Geschäftsführers oder an seine dortigen Angestellten
+[2]
+. Wird keine dieser Personen angetroffen, kann die Betreibungsurkunde einem im gleichen Betrieb tätigen Angestellten ausgehändigt werden
+[3]
+. In den Briefkasten oder in das Postfach des Schuldners darf ein Zahlungsbefehl nie gelegt werden. Bei Schwierigkeiten in der Zustellung ist nötigenfalls die Hilfe der Polizei in Anspruch zu nehmen
+[4]
+.
+b)    Grundsätzlich ist die mangel- oder fehlerhafte Zustellung des Zahlungsbefehls anfechtbar
+[5]
+. Die Beschwerdefrist und die Frist für die Erhebung des Rechtsvorschlags beginnen in einem solchen Fall mit der tatsächlichen Kenntnisnahme oder aber im Zeitpunkt, in dem der Schuldner auf andere Weise vom Zahlungsbefehl, namentlich von dessen Inhalt, Kenntnis erhält, zu laufen. Nichtig ist die fehlerhafte Zustellung des Zahlungsbefehls, wenn der Schuldner davon überhaupt nichts erfährt. Eine solche Zustellung vermag demgemäss zu keinem Zeitpunkt irgendwelche Wirkungen zu entfalten. Wirkungslos ist z.B. eine Ersatzzustellung, wenn der Schuldner nicht über den Zahlungsbefehl orientiert wird, wenn letzterer ihm somit nicht ausgehändigt wird und er auch nicht auf andere Weise davon Kenntnis erhält
+[6]
+. Der Einwand der Nichtigkeit kann einerseits jederzeit erhoben und der Mangel andererseits nicht durch nachträglich eintretende Umstände geheilt werden
+[7]
+; ausserdem stellen die Aufsichtsbehörden die Nichtigkeit einer Verfügung beziehungsweise Amtshandlung von Amtes wegen fest
+[8]
+.
+Eine nichtige Zustellung ist somit stets zu wiederholen. Für eine bloss anfechtbare, aber nicht nichtige Zustellung gilt dies nur, wenn ein Rechtsschutzinteresse des Schuldners vorliegt. Verschafft ihm die erneute und nun korrekte Zustellung des Zahlungsbefehls keine zusätzlichen Erkenntnisse über die angehobene Betreibung, und waren seine Rechte trotz der mangelhaften Zustellung gewahrt, fehlt ein solches Rechtsschutzinteresse. Entscheidend ist somit, ob der Schuldner trotz mangelhafter Zustellung in der Lage war zu entscheiden, ob er Rechtsvorschlag erheben wolle. Ist dies nicht der Fall, muss die Zustellung als nichtig bezeichnet und wiederholt werden.
+c)     aa)   Die X AG hat ihren Sitz gemäss Eintrag im Handelsregister des Kantons Thurgau in A. Als Zustelladresse gibt sie B an. Y ist ihr Geschäftsführer und Mitglied des Verwaltungsrats. Der Zahlungsbefehl wurde gemäss Zustellungsbescheinigung Z ausgehändigt. Z ist der Sohn von Y. Er ist 13 Jahre alt. Nach unbestritten gebliebenen Angaben der Beschwerdeführerin wurde ihm der Zahlungsbefehl von der Post übergeben, als Z für seinen auslandabwesenden Vater das Postfach geleert habe.
+bb)   Die Übergabe des Zahlungsbefehls war somit in zweifacher Hinsicht fehlerhaft: Zum einen wurde der Zahlungsbefehl nicht einer der in Art. 65 Abs. 1 Ziff. 2 oder Abs. 2 SchKG erwähnten Personen ausgehändigt: Bei Z handelt es sich offensichtlich nicht um eine Person, die in einem gewissen Mass für die Beschwerdeführerin verantwortlich ist, oder um einen ihrer Angestellten. Zum anderen durfte die Aushändigung nicht auf der Post, sondern hätte im Geschäftslokal der Beschwerdeführerin erfolgen sollen.
+Trotzdem ist die Zustellung nicht nichtig. In seiner für die Beschwerdeführerin verfassten Beschwerdeschrift an die Vorinstanz wies Y darauf hin, sein Sohn habe den Zahlungsbefehl am 15. Januar 2010 entgegengenommen, unterzeichnet und zu Hause auf einen Tisch gelegt. Vom 19. bis 25. Januar 2010 sei Y geschäftlich im Ausland gewesen. Erst am Montag, dem 26. Januar 2010, sei ihm rein zufällig "der rote Zettel irgendwie aufgefallen". Gemäss Verfügung des Betreibungsamts vom 2. Februar 2010 erhob er noch am selben Tag, am 26. Januar 2010, welcher indessen ein Dienstag war, Rechtsvorschlag; auf dem Zahlungsbefehl gab er jedoch den 25. Januar 2010 an. Wie es sich damit verhält, braucht nicht geprüft zu werden, da es für die Einhaltung der Frist belanglos ist. Die Frist für die Erhebung des Rechtsvorschlags begann nämlich zufolge der fehlerhaften Zustellung nicht schon tags nach Aushändigung
+[9]
+des Zahlungsbefehls an den Sohn Z, d.h. am 16. Januar 2010, sondern erst nach Kenntnisnahme durch Y, d.h. am 25. oder 26. Januar 2010, zu laufen. Dieser erhob sofort und damit rechtzeitig Rechtsvorschlag.
+cc)   Das Betreibungsamt kam folglich in seiner Verfügung vom 2. Februar 2010 zu Unrecht zum Schluss, die Schuldnerin habe verspätet, d.h. nach Ablauf der zehntägigen Frist, Rechtsvorschlag erhoben.
+dd)   Die Verfügung des Betreibungsamts vom 2. Februar 2010 war korrekt mit einer Rechtsmittelbelehrung versehen. Die Beschwerdeführerin hätte innert zehn Tagen die Möglichkeit gehabt, sich gegen diesen Entscheid zu verwahren. Sie tat dies unbestrittenermassen nicht; er ist somit rechtskräftig. Darauf im Rahmen der Anfechtung der Konkursandrohung zurückzukommen, besteht keine Möglichkeit. Die Beschwerdeführerin hätte sich innert der ihr angesetzten Frist gegen die Auffassung des Betreibungsamts, es sei verspätet Rechtsvorschlag erhoben worden, zur Wehr setzen müssen; hierauf im weiteren Verlauf des Verfahrens zurückzukommen, geht nicht an. Demgemäss muss die Beschwerde abgewiesen werden.
+Obergericht, 7. Juni 2010, BS.2010.6
+[1]
+Art. 65 Abs. 2 SchKG
+[2]
+Angst, Basler Kommentar, Art. 65 SchKG N 9
+[3]
+Angst, Art. 65 SchKG N 10
+[4]
+BGE 117 III 7, 116 III 8
+[5]
+Angst, Art. 64 SchKG N 23
+[6]
+Angst, Art. 64 SchKG N 23; Amonn/Walther, Grundriss des Schuldbetreibungs- und Konkursrechts, 8.A., § 6 N 37 f.
+[7]
+Vgl. Cometta, Basler Kommentar, Art. 22 SchKG N 20
+[8]
+Art. 22 Abs. 1 Satz 2 SchKG
+[9]
+Vgl. Art. 31 Abs. 1 SchKG
