@@ -1,0 +1,45 @@
+---
+decision_id: "tg_obergericht_TVR_2010_Nr._22"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2010 Nr. 22"
+decided: "2010-08-11"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2010-nr-22"
+cites_law: ["switzerland/bund/acts/210/art-328.md", "switzerland/bund/acts/830.1/art-025.md", "switzerland/bund/acts/830.11/art-005.md", "switzerland/bund/acts/831.30/art-010.md", "switzerland/bund/acts/831.30/art-011.md", "switzerland/bund/acts/831.301/art-012.md"]
+---
+
+# TG Obergericht TVR 2010 Nr. 22
+
+## Regeste
+
+Vorliegen einer grossen Härte
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 11.08.2010 TVR 2010 Nr. 22
+Thurgovie Obergericht Rechenschaftsbericht 11.08.2010 TVR 2010 Nr. 22
+Turgovia Obergericht Rechenschaftsbericht 11.08.2010 TVR 2010 Nr. 22
+
+TVR 2010 Nr. 22
+Skip to main content
+Show navigation
+Vorliegen einer grossen Härte
+Art. 25 Abs. 1 ATSG
+,
+Art. 5 Abs. 1 ATSV
+Berechnung der grossen Härte: anerkannte Ausgaben und anrechenbare Einnahmen.
+Die im Kanton Zürich wohnhafte M wurde mit Entscheid des Versicherungsgerichts vom 18. Februar 2009 rechtskräftig verpflichtet, zuviel bezogene Leistungen in der Höhe von Fr. 58'069.-- der Invalidenversicherung zurückzubezahlen. Der Rückforderungsentscheid ist in Rechtskraft erwachsen. M stellte in der Folge beim zuständigen Amt für AHV und IV ein Erlassgesuch, das auch auf Einsprache hin - mangels Vorliegen einer grossen Härte - abgewiesen wurde. Die dagegen erhobene Beschwerde weist das Versicherungsgericht ebenfalls ab.
+Aus den Erwägungen:
+2.3
+2.3.1 Eine grosse Härte im Sinne von Art. 25 Abs. 1 ATSG liegt gemäss Art. 5 Abs. 1 ATSV vor, wenn die vom ELG anerkannten Ausgaben und die zusätzlichen Ausgaben nach Abs. 4 die nach ELG anrechenbaren Einnahmen übersteigen. Bei der Berechnung der anerkannten Ausgaben nach Abs. 1 werden bei zuhause lebenden Personen folgende Positionen angerechnet: Als Mietzins der jeweilige Höchstbetrag nach Art. 10 Abs. 1 lit. b ELG; als Pauschalbetrag für die obligatorische Krankenpflegeversicherung die höchste Prämie für die jeweilige Personenkategorie nach der jeweils gültigen Verordnung des EDI über die kantonalen und regionalen Durchschnittsprämien der Krankenpflegeversicherung für die Berechnung der Ergänzungsleistungen (Art. 5 Abs. 2 lit. a und c ATSV). Als zusätzliche Ausgabe werden bei Alleinstehenden Fr. 8'000.-- sowie bei rentenberechtigten Waisen und bei Kindern, die einen Anspruch auf Kinderrente der AHV oder IV begründen, Fr. 4'000.-- pro Kind (Art. 5 Abs. 3 lit. a und c ATSV) angerechnet.
+2.3.2 Demnach kann die Beschwerdeführerin für das Jahr 2009 für sich selbst als Lebensbedarf den Betrag von Fr. 18'720.-- sowie für ihre Tochter den Betrag von Fr. 9'980.-- als Ausgabe anrechnen lassen (Art. 10 Abs. 1 lit. a Ziff. 1 und 3 ELG). Hinzu kommen die Krankenkassenprämien, die nach Art. 5 Abs. 2 lit. c ATSV zu berechnen sind. Der Betrag beläuft sich hier gemäss der Verordnung des EDI über die Durchschnittsprämien 2009 der Krankenpflegeversicherung für die Berechnung der Ergänzungsleistungen vom 31. Oktober 2008 für die Beschwerdeführerin auf Fr. 5'028.-- und für ihre Tochter auf Fr. 1'052.-- (massgebend sind die höchsten, für den Kanton Genf gültigen Ansätze). Als Mietzins kann sich die Beschwerdeführerin sodann den Betrag von Fr. 15'000.-- anrechnen lassen. Ebenso zu berücksichtigen sind die Hypothekarzinsen (Art. 10 Abs. 3 lit. b ELG) in der Höhe von Fr. 9'445.-- sowie die Kosten für den Gebäudeunterhalt, wobei hier praxisgemäss auf die kantonalen Steuerrichtlinien abgestellt wird. Für den Kanton Zürich sind dies gemäss der Wegleitung zur Steuererklärung 2009 der Steuerverwaltung des Kantons Zürich (S. 17 Ziffer 6.3) 20% des Eigenmietwertes. Letzterer beträgt gemäss dem in der Steuerveranlagung deklarierten Eigenmietwert Fr. 11'400.--. Gemäss § 21 des Steuergesetzes des Kantons Zürich vom 8. Juni 1997 (ZH StG), sind die Erträge aus unbeweglichem Vermögen und insbesondere der Mietwert von Liegenschaften oder Liegenschaftsteilen, die dem Steuerpflichtigen aufgrund von Eigentum oder eines unentgeltlichen Nut­zungsrechtes für den Ei­gengebrauch zur Verfügung stehen, steuerbar (Abs. 1 lit. b). Zur Förderung von Eigentumsbildung und Selbstvorsorge ist der Eigenmietwert auf maximal 70% des Marktwertes festzulegen (§ 21 Abs. 2 lit. a ZH StG). Der nach den Grundsätzen der Gesetzgebung über die direkte kanto­nale Steuer festgesetzte Mietwert im Sinne von Art. 12 Abs. 1 ELV ent­spricht dem­nach klar dem nach § 21 ZH StG aufgrund der ortsüblichen Verhältnisse sowie der tatsächlichen Nutzung festgelegten Mietwert. Der für die Einkommenssteuer nach § 21 Abs. 2 lit. a ZH StG gewährte Abzug von 30% dient nach der ausdrücklich im Gesetz formu­lierten Zielsetzung der Förderung der Eigentumsbildung und Selbstvorsorge. Die Ergänzungsleistungen bezwecken demgegenüber die angemessene Deckung des Existenzbedarfes. Bedürftigen Rentnern der AHV und der IV soll ein regelmässiges Mindesteinkommen gesichert werden (ZAK 1991 S. 137). Die dem steuerlichen Abzug von § 21 Abs. 2 lit. a ZH StG zu Grunde liegende Zielsetzung der Förderung der Eigentumsbildung sowie der Selbstvorsorge entspricht somit klar nicht der Zielsetzung des ELG, denn es kann und darf nicht Sinn der Ergän­zungsleistungen sein, EL-Ansprecher mit selbstgenutztem Grundeigentum gegenüber solchen ohne Grundeigentum zu bevorzugen. Aus Gründen der Rechtsgleichheit verbietet es sich daher, den für die Einkom­mens­steuer massgebenden Abzug von 30% in die EL-Berech­nung und somit auch in die Berechnungen zur Ermittlung der grossen Härte zu übernehmen. Demzufolge ist für die Berechnung von dem durch die Steuerbehörden festgesetzten Mietwert vor Abzug des Freibetrages von 30% auszugehen. Somit beträgt der massgebende Eigenmietwert Fr. 16'286.-- (11'400 : 0,7). Der zulässige Abzug für den Gebäudeunterhalt beträgt demnach die bereits erwähnten Fr. 3'257.-- (20% von Fr. 16'286.--). Sodann sind noch die Zuschläge laut Art. 5 Abs. 4 ATSV hinzuzurechnen, insgesamt Fr. 12'000.--. Zählt man all diese Beträge zusammen, so erhält man anrechenbare Ausgaben von Fr. 74'382.--.
+2.3.3 Dem sind die anrechenbaren Einnahmen gegenüberzustellen. Dies sind nach Art. 11 ELG zwei Drittel der Erwerbseinkünfte, soweit sie bei Personen mit rentenberechtigten Waisen oder mit Kindern, die einen Anspruch auf Kinderrente der AHV oder IV begründen, Fr. 1'500.-- übersteigen; Einkünfte aus beweglichem und unbeweglichem Vermögen; ein Fünfzehntel des Reinvermögens, soweit es bei alleinstehenden Personen Fr. 25'000.-- übersteigt; Renten der AHV und der IV; Familienzulagen; familienrechtliche Unterhaltsbeiträge (Art. 11 Abs. 1 lit. a, b, c, d, f und h ELG).
+2.3.4 Den Steuerunterlagen der Beschwerdeführerin kann entnommen werden, dass sie im Jahre 2009 einen Nettolohn von Fr. 83'677.-- erzielte. Hiervon abzuziehen sind die Kinderzulagen in der Höhe von Fr. 2'700.-- sowie die Gewinnungskosten gemäss der Steuerrechnung von insgesamt Fr. 6'100.-- (Abonnement für den öffentlichen Verkehr von Fr. 2'200.--, Abzug für das Fahrrad von Fr. 700.-- sowie Mehrkosten für auswärtige Verpflegung von Fr. 3'200.--). Ebenso abzuziehen ist der nicht zu berücksichtigende Betrag von Fr. 1'500.--. Dies ergibt ein anrechenbares Erwerbseinkommen zu 100% von Fr. 73'377.--. Hiervon sind jedoch gemäss der Bestimmung von Art. 11 Abs. 1 lit. a ELG nur zwei Drittel zu berücksichtigen, was den Betrag von Fr. 48'918.-- ergibt. Den Steuerunterlagen kann zudem entnommen werden, dass die Beschwerdeführerin Fr. 19'152.-- an IV-Renten sowie Fr. 879.-- an PK-Rente erhält. Weiter zu berücksichtigen sind der Wertschriftenertrag von Fr. 30.--, die Kinderunterhaltsbeiträge von Fr. 10'832.-- sowie die Prämienverbilligung von Fr. 1'224.--. Vollumfänglich anzurechnen sind sodann die Kinderzulagen von Fr. 2'700.-- sowie der Eigenmietwert, wie vorne dargelegt, von Fr. 16'286.--. Rechnet man diese Beträge zusammen, ergibt dies ein Gesamttotal an anrechenbaren Einnahmen von Fr. 100'015.--. Es ist offensichtlich, dass dieser Betrag die anrechenbaren Einnahmen von Fr. 74'382.-- bei weitem übersteigt. Nachdem der offenbar behinderte Sohn lediglich einen Unterstützunganspruch nach Art. 328 ZGB hätte und diese Unterstützung gegenüber der Beschwerdeführerin wegen ihrer Einkommens- und Vermögensverhältnisse gestützt auf BGE 132 III 97 und die Richtlinien für die Bemessung der Sozialhilfe der SKOS F. 4 nicht zwangsweise durchgesetzt werden könnte, besteht keine Veranlassung, einen Betrag als anrechenbare Ausgabe zu berücksichtigen. Dies gilt umso mehr, als die Beschwerdeführerin gar nicht konkret darlegt, welche Unterstützungsleistungen in welcher Höhe sie überhaupt erbringt. Somit ergibt sich letztlich, dass bei der Beschwerdeführerin auch keine grosse Härte vorliegt, nachdem bereits festgestellt wurde, dass bei ihr nicht von Gutgläubigkeit gesprochen werden kann.
+Entscheid vom 11. August 2010
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
