@@ -1,0 +1,54 @@
+---
+decision_id: "tg_obergericht_RBOG_2010_Nr._18"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2010 Nr. 18"
+decided: "2010-09-13"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2010-nr-18"
+cites_law: ["switzerland/bund/acts/220/art-102.md", "switzerland/bund/acts/220/art-107.md", "switzerland/bund/acts/221.214.1/art-018.md", "switzerland/bund/acts/221.214.1/art-037.md", "switzerland/bund/acts/281.1/art-080.md", "switzerland/bund/acts/281.1/art-082.md"]
+---
+
+# TG Obergericht RBOG 2010 Nr. 18
+
+## Regeste
+
+Beim Konsumkredit ist im Fall des Zahlungsverzugs des Kreditnehmers trotz anderslautender Allgemeiner Vertragsbedingungen ein ausdrücklicher Vertragsrücktritt der Kreditgeberin für die Fälligkeit der Restschuld notwendig
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2009 RBOG 2010 Nr. 18
+Thurgovie Obergericht Rechenschaftsbericht 2009 RBOG 2010 Nr. 18
+Turgovia Obergericht Rechenschaftsbericht 2009 RBOG 2010 Nr. 18
+
+RBOG 2010 Nr. 18
+Skip to main content
+Show navigation
+Beim Konsumkredit ist im Fall des Zahlungsverzugs des Kreditnehmers trotz anderslautender Allgemeiner Vertragsbedingungen ein ausdrücklicher Vertragsrücktritt der Kreditgeberin für die Fälligkeit der Restschuld notwendig
+Art. 18 KKG
+,
+Art. 102 OR
+,
+Art. 107 OR
+,
+Art. 82 SchKG
+1. Die in Betreibung gesetzte Forderung muss zum Zeitpunkt der Einleitung der Betreibung fällig gewesen sein. Verfrühte Betreibungen beeinträchtigen die Stellung des Schuldners sowie der Mitgläubiger. Die Fälligkeit muss vom Richter von Amtes wegen überprüft werden[1].
+2. a) Der "Vertrag Konto mit Kreditlimite", auf den sich die Rekursgegnerin (Kreditgeberin) stützt, untersteht unbestrittenermassen dem Bundesgesetz über den Konsumkredit[2]. Gemäss Art. 18 Abs. 1 KKG kann die Kreditgeberin vom Vertrag zurücktreten, wenn Teilzahlungen ausstehend sind, die mindestens 10% des Nettobetrags des Kredits beziehungsweise des Barzahlungspreises ausmachen. Die Rekursgegnerin belegte mit dem Kontoauszug und dem Ratenverzeichnis, dass die Voraussetzungen für einen Vertragsrücktritt gemäss Art. 18 Abs. 1 KKG gegeben sind. Dass die Rekursgegnerin wegen Zahlungsverzugs vom Vertrag zurückgetreten sei, behauptete sie aber nicht; sie führte lediglich aus, die Rekurrentin sei mit den Zahlungen in Rückstand geraten und habe nach erfolglosen Mahnungen betrieben werden müssen. Sie ist offenbar der Auffassung, ein Vertragsrücktritt sei nicht notwendig, denn sie machte geltend, gemäss Ziff. 16 der Allgemeinen Vertragsbedingungen[3] habe die Rekurrentin anerkannt, dass die gesamte Restschuld zur Zahlung fällig werde, sofern sie mit der Bezahlung von mindestens 10% des Nettobetrags des Kredits im Verzug sei. Da gestützt auf Art. 37 KKG von den Bestimmungen des KKG nicht zu Ungunsten der Konsumentin oder des Konsumenten abgewichen werden kann, ist zu prüfen, ob Art. 18 Abs. 1 KKG einen ausdrücklichen Vertragsrücktritt verlangt.
+b) Nach Art. 102 OR kommt der Schuldner, der seinen Verpflichtungen nicht fristgerecht nachkommt, in Verzug. Leistet er auch nach Ansetzung einer angemessenen Nachfrist nicht, so hat der Gläubiger gestützt auf Art. 107 OR die Wahl, weiterhin am Vertrag festzuhalten und auf dessen Erfüllung zu klagen oder vom Vertrag zurückzutreten. Das KKG ändert grundsätzlich an diesem System nichts. Da es der Gesetzgeber als stossend erachtete, wenn ein Kreditgeber auch vom Vertrag zurücktreten könnte, wenn der Kreditnehmer nur mit einem geringen Teil seiner Leistung im Rückstand ist, beschränkt Art. 18 Abs. 1 KKG die Rücktrittsmöglichkeit des Kreditgebers auf den Fall, dass Teilzahlungen ausstehend sind, die mindestens 10% des Nettobetrags des Kredits beziehungsweise des Barzahlungspreises ausmachen[4]. Die Wahlrechte gemäss Art. 107 Abs. 2 OR sind Gestaltungsrechte, deren Ausübung durch einseitige, rechtsgeschäftliche Willenserklärung erfolgt[5]. Da diese einseitig rechtsgestaltend in das bestehende Vertragsverhältnis eingreift, setzt sie bei beiden Parteien Handlungsfähigkeit voraus. Die Mitteilung des Verzichts kann in beliebiger Form erfolgen; sie muss gegenüber dem Schuldner jedoch in eindeutiger Weise zum Ausdruck bringen, dass der Gläubiger seine Leistung endgültig nicht mehr beansprucht[6].
+c) Da Art. 18 Abs. 1 KKG im Vergleich zu Art. 107 Abs. 2 OR eine Besserstellung des Konsumenten bezweckte, ist davon auszugehen, dass die Anforderungen, welche Art. 18 Abs. 1 KKG an die Rücktrittserklärung des Kreditgebers stellt, mindestens ebenso streng sein müssen wie diejenigen in Art. 107 Abs. 2 OR. Auch hier ist daher zu fordern, dass der Kreditgeber gegenüber dem Kreditnehmer in eindeutiger Weise kundtut, dass er vom Vertrag zurücktreten will. Im Gegensatz zu Art. 107 OR, welcher dispositives Recht darstellt und daher von den Vertragspartnern abgeändert werden kann[7], ist die Abänderungsmöglichkeit von Art. 18 Abs. 1 KKG insofern beschränkt, als von den Bestimmungen des KKG gestützt auf Art. 37 KKG nicht zu Ungunsten des Konsumenten abgewichen werden darf. Eine solche Abweichung zu dessen Ungunsten liegt aber vor, wenn in Ziff. 16 AVB geregelt wird, dass die gesamte Vertragsschuld automatisch bei einem Zahlungsrückstand von mindestens 10% der Kreditlimite fällig wird und die Rekursgegnerin keine Rücktrittserklärung aussprechen muss. Da Ziff. 16 AVB keine von Art. 18 Abs. 1 KKG abweichende Wirkung entfalten kann, musste die Rekursgegnerin ausdrücklich vom Vertrag zurücktreten, bevor sie von der Rekurrentin die gesamte Restschuld einfordern konnte.
+d) Ob die Einleitung der Betreibung selber als Rücktritt zu werten wäre, ist hier nicht zu prüfen, denn auch in diesem Fall wäre die betriebene Forderung bei Einleitung der Betreibung nicht fällig gewesen. Für die gesamte Restschuld kann somit keine Rechtsöffnung erteilt werden. Die Rekursgegnerin führte im Rechtsöffnungsgesuch aus, die Rekurrentin habe zum Zeitpunkt der Betreibungsanhebung einen Zahlungsrückstand von "mehr als 10% der gewählten Kreditlimite" aufgewiesen. Da dieser Betrag allerdings nicht klar bezeichnet wurde und in den Rechtsschriften auch keine Berechnung der ausstehenden Beträge erfolgte, kann auch für bereits fällige Teilbeträge keine Rechtsöffnung erteilt werden[8].
+Obergericht, 13. September 2010, BR.2010.64
+[1] Staehelin, Basler Kommentar, Art. 82 SchKG N 77, Art. 80 SchKG N 39; Stücheli, Die Rechtsöffnung, Diss. Zürich 2000, S. 202
+[2] KKG, SR 221.214.1
+[3] Nachfolgend AVB
+[4] Giger, Berner Kommentar, Der Konsumkredit, N 190; vgl. BBl 1999 S. 3180
+[5] Weber, Berner Kommentar, Art. 107 OR N 112
+[6] Wiegand, Basler Kommentar, Art. 107 OR N 14
+[7] Wiegand, Art. 107 OR N 22
+[8] Vgl. RBOG 2009 Nr. 15
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
