@@ -1,0 +1,52 @@
+---
+decision_id: "tg_obergericht_RBOG_2010_Nr._04"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2010 Nr. 04"
+decided: "2010-09-30"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2010-nr-4"
+cites_law: ["switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/220/art-032.md"]
+---
+
+# TG Obergericht RBOG 2010 Nr. 04
+
+## Regeste
+
+Beweislastverteilung, wenn der Beklagte seine Passivlegitimation mit Hinweis auf seine Stellung als blosser Stellvertreter bestreitet
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2010 RBOG 2010 Nr. 04
+Thurgovie Obergericht Rechenschaftsbericht 2010 RBOG 2010 Nr. 04
+Turgovia Obergericht Rechenschaftsbericht 2010 RBOG 2010 Nr. 04
+
+RBOG 2010 Nr. 04
+Skip to main content
+Show navigation
+Beweislastverteilung, wenn der Beklagte seine Passivlegitimation mit Hinweis auf seine Stellung als blosser Stellvertreter bestreitet
+Art. 32 OR
+,
+Art. 8 ZGB
+1. Der Berufungskläger lieferte und montierte für den Neubau eines Einfamilienhauses Fenster und Türen. Die für den Hausbau erforderlichen Architektur- und Planungsarbeiten besorgte die Berufungsbeklagte.
+2. Nachdem ein Teil des Werklohns unbezahlt geblieben war, klagte der Berufungskläger gegen die Berufungsbeklagte. Diese macht geltend, sie habe lediglich als Stellvertreterin der Bauherrschaft gehandelt.
+3. a) Ob die Berufungsbeklagte im Namen der Bauherrschaft handelte (Kundgabe des Vertretungsverhältnisses), ist offen geblieben.
+aa) Die Kundgabe kann nach Art. 32 Abs. 1 OR ausdrücklich erfolgen, indem der Vertreter typische Wendungen wie beispielsweise "in Vertretung für" oder "namens" benutzt[1]. Eine ausdrückliche Kundgabe eines Vertretungsverhältnisses durch die Berufungsbeklagte ist hier aber entgegen ihren Behauptungen nicht erstellt.
+bb) Ferner kann die Kundgabe i.S. von Art. 32 Abs. 2 OR auch stillschweigend erfolgen, wenn deren Auslegung nach Vertrauensprinzip ergibt, dass der Dritte aus den Umständen auf ein Vertretungsverhältnis schliessen musste[2]. Das ist bei der Vergabe von Bauarbeiten durch einen Architekten – das heisst beim Abschluss von Werkverträgen – insbesondere der Fall, wenn dem Unternehmer bekannt oder erkennbar war, dass der Architekt in seiner eigentlichen Funktion als Architekt und damit im Bereich Planung und Bauleitung und nicht etwa als Generalunternehmer tätig ist, da ersteres ein Indiz für ein Handeln in fremdem, letzteres ein Indiz für ein Handeln in eigenem Namen darstellt[3]. Ob dem Berufungskläger erkennbar war, in welcher Funktion die Berufungsbeklagte handelte, kann nicht mehr festgestellt werden. Die Erkennbarkeit hängt nämlich in entscheidender Weise davon ab, ob der Unternehmer zum Zeitpunkt des Vertragsschlusses über die Innenbeziehung zwischen dem Architekten und dem Bauherrn Kenntnis hatte[4], und dieser Nachweis gelingt der Berufungsbeklagten nicht.
+b) Die rechtlichen Nachteile aus der Tatsache, dass sich der Sachverhalt nicht aufklären lässt, hat die Berufungsbeklagte zu tragen. Für den Fall, dass der Beklagte wie hier behauptet, er habe den Vertrag als Vertreter eines Dritten geschlossen, ist die Frage der Beweislastverteilung zwar umstritten[5]: Nach der Mehrheitsmeinung[6] trägt der Beklagte die Beweislast, nach der Minderheitsmeinung[7] der Kläger. Die Minderheitsmeinung ist aber abzulehnen; sie gründet nämlich insbesondere darauf, dass es eine Vermutung gebe, wonach der Architekt im Normalfall als Vertreter des Bauherrn handle[8]. Dies trifft indessen gerade nicht zu; vielmehr ist es im Rechtsverkehr als Normalfall anzusehen, dass jede Partei für sich selbst, das heisst in eigenem Namen handelt[9]. Auch wenn in der heutigen Zeit Vertretungsverhältnisse durchaus häufig sind, dient es nämlich der Rechtssicherheit und dem Rechtsfrieden, wenn nach wie vor darauf abgestellt wird, dass im Regelfall jeder in eigenem Namen handelt. Dies gilt umso mehr, als jeder Stellvertreter mit wenigen Worten klarstellen kann, dass ein Vertretungsverhältnis vorliegt.
+Obergericht, 30. September 2010, ZBR.2010.37
+[1] Zäch, Berner Kommentar, Art. 32 OR N 43 f.
+[2] Zäch, Art. 32 OR N 45
+[3] Schwager, Der Architekt als Vertreter des Bauherrn, in: BR 1980 S. 21; Schwager, Die Vollmacht des Architekten, in: Das Architektenrecht (Hrsg.: Gauch/Tercier), 3.A., S. 257. Der Generalunternehmer ist demgegenüber nicht ermächtigt, den Bauherrn zu vertreten, BGE 97 II 68 ff.
+[4] Schwager, S. 258
+[5] Kummer, Berner Kommentar, Art. 8 ZGB N 225 ff.; Zäch, Art. 32 OR N 185 f.; BGE vom 20. August 2004, 4C.154/2004, Erw. 2.2.2
+[6] Kummer, Art. 8 ZGB N 229 ff.; Oser/Schönenberger, Zürcher Kommentar, Art. 32 OR N 12
+[7] Zäch, Art. 32 OR N 183, 185 f.; Guldener, Beweiswürdigung und Beweislast nach schweizerischem Zivilprozessrecht, Zürich 1955, S. 43
+[8] Zäch, Art. 32 OR N 183, 185 f.
+[9] Vgl. Zäch, Art. 32 OR N 186. Daran ändert auch nichts, dass ein Handeln des Architekten in seiner eigentlichen Funktion als Architekt (Planung, Bauleitung) ein Indiz für ein Handeln in fremdem Namen bildet.
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
