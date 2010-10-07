@@ -1,0 +1,52 @@
+---
+decision_id: "tg_obergericht_RBOG_2010_Nr._09"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2010 Nr. 09"
+decided: "2010-10-07"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2010-nr-9"
+cites_law: ["switzerland/bund/acts/210/art-007.md", "switzerland/bund/acts/210/art-215.md", "switzerland/bund/acts/210/art-219.md", "switzerland/bund/acts/210/art-246.md", "switzerland/bund/acts/210/art-604.md", "switzerland/bund/acts/220/art-127.md"]
+---
+
+# TG Obergericht RBOG 2010 Nr. 09
+
+## Regeste
+
+Verjährung einer güterrechtlichen Beteiligungsforderung
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2010 RBOG 2010 Nr. 09
+Thurgovie Obergericht Rechenschaftsbericht 2010 RBOG 2010 Nr. 09
+Turgovia Obergericht Rechenschaftsbericht 2010 RBOG 2010 Nr. 09
+
+RBOG 2010 Nr. 09
+Skip to main content
+Show navigation
+Verjährung einer güterrechtlichen Beteiligungsforderung
+Art. 127 OR
+,
+Art. 215 ZGB
+1. Am 22. April 1993 schlossen die Eheleute, die unter dem ordentlichen Güterstand der Errungenschaftsbeteiligung lebten, einen Ehevertrag; darin vereinbarten sie, dass bei Auflösung der Ehe durch Tod des einen Ehegatten die Gesamtsumme beider Vorschläge ganz dem überlebenden Ehegatten zustehen solle. Als Eigengut wurden neben den Gegenständen zum persönlichen Gebrauch Erbschaftswerte in der Höhe von Fr. 20'000.00 auf Seiten des Ehemanns und von Fr. 30'000.00 auf Seiten der Ehefrau aufgeführt. Am 11. Juli 1994 starb der Ehemann. Seine Erben sind die Ehefrau mit einem Erbteil von einer Hälfte des Nachlasses und drei Kinder (darunter auch der Berufungskläger) mit Erbteilen von je einem Sechstel. Hauptbestandteil des Nachlasses ist eine Liegenschaft; hinzu kommen die unbewerteten Gegenstände des persönlichen Gebrauchs sowie Erbschaftswerte des Ehemanns in der Höhe von Fr. 20'000.00. Bis heute wurden weder eine güterrechtliche Auseinandersetzung noch eine Erbteilung durchgeführt. Am 18. Februar 2009 klagten die Ehefrau und zwei der Kinder gegen den Berufungskläger auf Feststellung des Nachlasses und der daran bestehenden gesetzlichen Erbteile sowie auf Zuweisung der festgestellten Erbteile an die Parteien.
+2. Die Nachlassaktiven sind mit einer güterrechtlichen Beteiligungsforderung der Ehefrau in der Höhe des Werts der Liegenschaft belastet. Soweit der Berufungskläger dagegen geltend macht, die Beteiligungsforderung i.S. von Art. 215 ZGB sei verjährt, kann ihm nicht gefolgt werden, da der Anspruch der Ehefrau gar nicht verjähren konnte.
+a) Bei der Verjährung ist zwischen der Beteiligungsforderung und dem Anspruch auf Vornahme der güterrechtlichen Auseinandersetzung zu unterscheiden. Die Beteiligungsforderung entsteht mit der Auflösung des Güterstands[1] und wird mit dem Abschluss der güterrechtlichen Auseinandersetzung fällig; sie verjährt ab diesem Zeitpunkt innerhalb der ordentlichen Verjährungsfrist von zehn Jahren[2]. Der Anspruch auf Vornahme der güterrechtlichen Auseinandersetzung wird demgegenüber mit der Auflösung des Güterstands fällig und ist unverjährbar; dies hat zur Folge, dass auch die Beteiligungsforderung nicht verjähren kann, solange die güterrechtliche Auseinandersetzung nicht durchgeführt wird[3].
+b) Die Frage, ob der Anspruch auf Durchführung der güterrechtlichen Auseinandersetzung und damit indirekt auch die Beteiligungsforderung verjährt, regelt das Gesetz nicht; zudem wurde diese Frage - soweit ersichtlich - bisher weder in Rechtsprechung noch Lehre weitergehend thematisiert[4]. Einzig Hausheer/Reusser/Geiser[5] äussern sich kurz dazu und vertreten die Auffassung, sowohl der Anspruch auf güterrechtliche Auseinandersetzung als auch die Beteiligungsforderung verjährten innert einer Frist von zehn Jahren, wobei die Verjährung des Anspruchs auf güterrechtliche Auseinandersetzung auch die Beteiligungsforderung dahinfallen lasse[6]. Dieser Auffassung kann jedoch nicht gefolgt werden; sie würde nämlich dazu führen, dass bei der Auflösung des Güterstands durch den Tod des einen Ehegatten der überlebende Ehegatte innert zehn Jahren seit dem Tod die güterrechtliche Auseinandersetzung abschliessen oder zumindest die Verjährung unterbrechen müsste. Zudem widerspricht sie Art. 219 Abs. 3 ZGB. Diese Bestimmung würde illusorisch, wenn die güterrechtliche Auseinandersetzung innert zehn Jahren verlangt werden müsste, da der Anspruch des überlebenden Ehegatten auf Einräumung des Eigentums an der Wohnung grundsätzlich nicht vor Abschluss der güterrechtlichen Auseinandersetzung untergeht[7].
+c) Ob man beim Anspruch auf güterrechtliche Auseinandersetzung von einem Gestaltungsrecht sprechen will, welches nach allgemeiner Auffassung nicht verjähren kann[8], muss offen bleiben. Entscheidend ist, dass die güterrechtliche Auseinandersetzung in der Regel eine Vorstufe der Erbteilung darstellt, da ohne güterrechtliche Auseinandersetzung der Nachlass gar nicht bestimmt werden kann. Hinsichtlich der Form der Teilung gelten zudem sinngemäss die Bestimmungen über die Erbteilung, so dass die güter- und die erbrechtliche Teilung nicht getrennt durchgeführt werden müssen. Mit anderen Worten ist es nicht erforderlich, zwischen güter- und erbrechtlicher Auseinandersetzung zu unterschieden, da die güterrechtliche Auseinandersetzung in die erbrechtliche integriert werden kann. So bestimmt beispielsweise Art. 246 ZGB für das Gütergemeinschaftsrecht ausdrücklich, die Bestimmungen über die Durchführung der Erbteilung würden sinngemäss für die Teilung des Gesamtguts gelten[9]. Die einheitliche Behandlung von güter- und erbrechtlicher Auseinandersetzung entspricht zudem auch einer praktischen Notwendigkeit: Häufig stellen die Ergebnisse beider Auseinandersetzungen einen Kompromiss dar, der einer Beurteilung, ob ein vereinbarter Anspruch güter– oder erbrechtlicher Natur ist, nicht zugänglich ist; so gilt dies insbesondere im Fall, dass für den Erbteil und die Beteiligungsforderung insgesamt ein Pauschalbetrag vereinbart wird[10]. Eine derart einheitliche Behandlung gebietet aber auch, dass Art. 604 Abs. 1 ZGB, wonach jeder Miterbe zu beliebiger Zeit die Teilung der Erbschaft verlangen kann, soweit er nicht durch Vertrag oder Gesetz zur Gemeinschaft verpflichtet ist, analog auf den Anspruch des überlebenden Ehegatten auf Vornahme der güterrechtlichen Auseinandersetzung anwendbar ist. Eine Befristung des Anspruchs auf die güterrechtliche Auseinandersetzung verträgt sich nicht mit der engen Verzahnung zwischen güterrechtlicher Auseinandersetzung und Erbteilung.
+Obergericht, 7. Oktober 2010, ZBO.2010.8
+[1] Das bedeutet, dass sich die zuvor bestehende Anwartschaft auf eine Beteiligung gemäss Art. 215 ZGB zu einer Forderung auf eine Beteiligung wandelt.
+[2] Art. 127 OR i.V.m. Art. 7 ZGB
+[3] Vgl. Hausheer/Reusser/Geiser, Berner Kommentar, Art. 215 ZGB N 26
+[4] Der vom Berufungskläger zitierte BGE 66 II 234 ff. ist nicht einschlägig, da sich dieser Entscheid auf kantonales Ehegüterrecht bezieht.
+[5] Art. 215 ZGB N 26
+[6] Hausheer/Reusser/Geiser, Art. 215 ZGB N 26
+[7] Hausheer/Reusser/Geiser, Art. 219 ZGB N 67
+[8] Berti, Zürcher Kommentar, Art. 127 OR N 27
+[9] Näf-Hofmann, Schweizerisches Ehe– und Erbrecht, Zürich 1998, N 991 und 2144 ff.; Hausheer/Reusser/Geiser, Art. 215 ZGB N 21
+[10] Näf-Hofmann, N 2147
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
