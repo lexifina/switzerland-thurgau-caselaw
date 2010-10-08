@@ -1,0 +1,43 @@
+---
+decision_id: "tg_obergericht_RBOG_2010_Nr._15"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2010 Nr. 15"
+decided: "2010-10-08"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2010-nr-15"
+cites_law: ["switzerland/bund/acts/220/art-102.md", "switzerland/bund/acts/220/art-104.md", "switzerland/bund/acts/220/art-105.md", "switzerland/bund/acts/281.1/art-080.md"]
+---
+
+# TG Obergericht RBOG 2010 Nr. 15
+
+## Regeste
+
+Beginn der Verzinsung von familienrechtlichen Unterhaltsbeiträgen; Praxisänderung zu RBOG 1995 Nr. 8
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 03.12.2009 RBOG 2010 Nr. 15
+Thurgovie Obergericht Rechenschaftsbericht 03.12.2009 RBOG 2010 Nr. 15
+Turgovia Obergericht Rechenschaftsbericht 03.12.2009 RBOG 2010 Nr. 15
+
+Beginn der Verzinsung von familienrechtlichen Unterhaltsbeiträgen; Praxisänderung zu RBOG 1995 Nr. 8
+
+RBOG 2010 Nr. 15
+Skip to main content
+Show navigation
+Beginn der Verzinsung von familienrechtlichen Unterhaltsbeiträgen; Praxisänderung zu RBOG 1995 Nr. 8
+Art. 102 OR
+,
+Art. 80 SchKG
+1. Die Vorinstanz gewährte die definitive Rechtsöffnung für Verzugszinsen von Kinderunterhaltsbeiträgen erst ab dem Datum der Ausstellung des Zahlungsbefehls. Mit Rekurs verlangte die Rekursgegnerin, der Schuldner habe ihr Verzugszins ab dem jeweiligen Verfallstag zu bezahlen.
+2. a) Ist eine Verbindlichkeit fällig, wird der Schuldner gemäss Art. 102 Abs. 1 OR durch Mahnung des Gläubigers in Verzug gesetzt. Wurde für die Erfüllung ein bestimmter Verfalltag verabredet, oder ergibt sich ein solcher infolge einer vorbehaltenen und gehörig vorgenommenen Kündigung, kommt der Schuldner gestützt auf Art. 102 Abs. 2 OR schon mit Ablauf dieses Tags in Verzug. Ist der Schuldner mit der Zahlung einer Geldschuld in Verzug, hat er nach Art. 104 Abs. 1 OR Verzugszinse von 5% zu bezahlen, selbst wenn die vertragsmässigen Zinse weniger betragen. Gemäss Art. 105 Abs. 1 OR hat ein Schuldner, der mit der Zahlung von Zinsen, mit der Entrichtung von Renten oder mit der Zahlung einer geschenkten Summe im Verzug ist, erst vom Tag der Anhebung der Betreibung oder der gerichtlichen Klage an Verzugszinse zu bezahlen.
+b) Laut dem Scheidungsurteil hat der Rekurrent für seine Söhne ab dem vollendeten 10. Altersjahr bis zum Abschluss einer angemessenen Ausbildung der Kinder monatlich im Voraus jeweils auf den Ersten eines Monats Unterhaltsbeiträge zu bezahlen. Da mit dem Hinweis, der Rekurrent habe "jeweils auf den Ersten eines Monats" zu bezahlen, ein Verfalltag gemäss Art. 102 Abs. 2 OR festgesetzt wurde, kam der Rekurrent, welcher die Unterhaltsbeiträge nicht bezahlte, nach Ablauf dieses Tags jeweils ohne Mahnung in Verzug, und er hat gestützt auf Art. 104 Abs. 1 OR ab dem jeweiligen Fälligkeitsdatum Verzugszins zu bezahlen. Gemäss bundesgerichtlicher Rechtsprechung ist Art. 105 Abs. 1 OR auf Unterhaltsbeiträge nicht anzuwenden: Renten im Sinn von Art. 105 Abs. 1 OR seien nur Beträge, welche an die Stelle des Kapitals träten, nicht allgemein periodische Leistungen, wie familienrechtliche Unterhaltsbeiträge, welche in der Regel aus dem Arbeitseinkommen des Pflichtigen bezahlt würden[1]. Da in diesem Verfahren Rechtsöffnung für Unterhaltsbeiträge im Zeitraum von August 2008 bis Juni 2010 verlangt wurde, ist ein Verzugszins von 5% auf dem Gesamtbetrag seit 1. Juli 2009 (mittlerer Verfall) zu bezahlen. Auch dafür ist die definitive Rechtsöffnung zu erteilen.
+Obergericht, 8. Oktober 2010, BR.2010.77
+[1] BGE vom 3. Dezember 2009, 6B_509/2009, Erw. 2.3; a.M. Weber, Berner Kommentar, Art. 105 OR N 17
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
