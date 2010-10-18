@@ -1,0 +1,46 @@
+---
+decision_id: "tg_obergericht_TVR_2011_Nr._34"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2011 Nr. 34"
+decided: "2010-10-18"
+published: "2011-07-22"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2011-nr-34"
+cites_law: ["switzerland/bund/acts/836.2/art-002.md", "switzerland/bund/acts/836.2/art-008.md", "switzerland/bund/acts/836.2/art-009.md"]
+---
+
+# TG Obergericht TVR 2011 Nr. 34
+
+## Regeste
+
+Sozialabzüge; Berechnung der finanziellen Unterstützung getrennt lebender Eltern für ihr mündiges, in Ausbildung stehendes Kind
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 22.07.2011 TVR 2011 Nr. 34
+Thurgovie Obergericht Rechenschaftsbericht 22.07.2011 TVR 2011 Nr. 34
+Turgovia Obergericht Rechenschaftsbericht 22.07.2011 TVR 2011 Nr. 34
+
+TVR 2011 Nr. 34
+Skip to main content
+Show navigation
+Sozialabzüge; Berechnung der finanziellen Unterstützung getrennt lebender Eltern für ihr mündiges, in Ausbildung stehendes Kind
+§ 36 Abs. 2 Ziff. 1 StG
+,
+§ 36 Abs. 3 StG
+Bei der Berechnung der Höhe der finanziellen Unterstützung getrennt lebender Eltern für ihr mündiges, in Ausbildung stehendes Kind ist von den tatsächlich gelebten Verhältnissen auszugehen. Von den gesamten Lebenshaltungskosten des Kindes sind vorerst die Ausbildungszulage und ein angemessener Anteil des Kindeseinkommens (vorliegend Fr. 500.-- pro Monat zur eigenen Verfügung belassen) abzuziehen. Erst auf der Basis dieses Betrages ist zu ermitteln, wer von den Eltern finanziell überwiegend für den Unterhalt des Kindes aufkommt.
+Die Rekurrentin M wohnt mit ihrem mündigen Sohn D, geboren am 30. Januar 1990, im gemeinsamen Haushalt. In der Steuererklärung für das Jahr 2009 machte sie für ihren Sohn den Kinderabzug in Höhe von Fr. 8'000.-- geltend. Die Veranlagungsbehörde verweigerte demgegenüber im Veranlagungsentscheid vom 18. Oktober 2010 den entsprechenden Abzug. Eine dagegen erhobene Einsprache wurde mit Entscheid vom 25. Januar 2011 abgewiesen. Die Steuerrekurskommission heisst den gegen den Einspracheentscheid erhobenen Rekurs gut.
+Aus den Erwägungen:
+3. Gemäss § 36 Abs. 2 Ziff. 1 StG kann für nicht selbständig besteuerte, für in Ausbildung stehende oder erwerbsunfähige Kinder, für deren Unterhalt der Steuerpflichtige aufkommt, je Kind Fr. 7'000.-- vom Reineinkommen abgezogen werden; der Abzug erhöht sich für jedes in Ausbildung stehende Kind nach Vollendung des 16. Alterjahres auf Fr. 8'000.--.
+3.1 Bei der Beurteilung, ob ein Kinderabzug vorgenommen werden darf oder nicht, ist gemäss § 36 Abs. 3 StG auf die Verhältnisse am Ende der Steuerperiode oder der Steuerpflicht abzustellen. Es gilt somit das Stichtagsprinzip, welches aber nur die qualitativen Voraussetzungen für den Sozialabzug betrifft. Soweit quantitative Voraussetzungen in Frage stehen, sind die Verhältnisse in der Bemessungsperiode massgebend. Dabei ist von den tatsächlich gelebten Verhältnissen auszugehen. Nur in jenen Fällen, in denen ein Kind (aufgrund genügend hoher eigener Einkünfte) gar nicht auf die Unterstützung durch die Eltern angewiesen ist, besteht kein Anspruch auf einen Kinderabzug, selbst wenn die Eltern tatsächlich immer noch für den notwendigen Unterhalt ihres Kindes aufkommen (StRE Nr. 38/2011).
+3.2 (…) Bei der Zusprechung des Kinderabzuges bei getrennt lebenden Eltern ist darauf abzustellen, welcher Elternteil zur Hauptsache für den finanziellen Unterhalt aufkommt. Von diesem Grundsatz ist auch im hier zu beurteilenden Fall auszugehen. Sollte sich jedoch die Differenz zwischen den beidseitigen finanziellen Unterstützungsleistungen als nur geringfügig erweisen, so ist der Kinderabzug demjenigen Elternteil zuzusprechen, der überwiegend für die Betreuung und Pflege des Kindes aufkommt. Dies ergibt sich aus dem Umstand, dass sich nicht aller Aufwand im Zusammenhang mit der Betreuung und Pflege beziffern lässt. Darauf hat auch schon das Verwaltungsgericht hingewiesen (…).
+3.3 Gemäss Angaben in der Steuererklärung für das Jahr 2009 absolvierte der Sohn D eine Lehre. (…) Es ist von Lebenshaltungskosten in Höhe von knapp Fr. 2'100.-- pro Monat auszugehen. Davon ist vorab die Ausbildungszulage von Fr. 250.-- abzuziehen. Die Familienzulagen werden gemäss Art. 2 FamZG ausgerichtet, um die finanzielle Belastung von Kindern auszugleichen. Sie sind denn auch für deren Lebensunterhalt einzusetzen. Es rechtfertigt sich nicht, die Ausbildungszulage im vorliegenden Zusammenhang als Unterhaltsbeitrag vom Kindesvater zu qualifizieren; daran ändert nichts, dass sie vom Kindesvater bezogen wurde, er die Zulage zudem aufgrund von § 19 StG zu versteuern hatte, sie aber nicht (mehr) vom steuerbaren Einkommen in Abzug bringen konnte, weil es sich (bei einem mündigen Kind) um eine Leistung in Erfüllung familienrechtlicher Verpflichtung im Sinn von § 34 Abs. 1 Ziff. 5 StG handelt. Die Ausbildungszulage steht unweigerlich dem in Ausbildung stehenden Kind zu. In die zivilrechtliche Unterhaltsberechnung fliesst sie nicht ein (vgl. Gloor/Spycher, in: Honsell/Vogt/Geiser [Hrsg.], Basler Kommentar, Zivilgesetzbuch I, 3. Aufl., Basel 2006, N. 8 zu Art. 125). Auch sozialversicherungsrechtlich wird nach Art. 8 FamZG zwischen Familienzulagen und Unterhaltsbeiträgen unterschieden. Schliesslich wäre auch steuerlich nicht von einem Unterhaltsbeitrag der Mutter auszugehen, wenn sie (aufgrund etwa von Art. 9 FamZG) die Familienzulage beziehen würde. Die Ausbildungszulage wird nicht deshalb zu einem Unterhaltsbeitrag, weil sie die beziehende Person zu versteuern hat. Der Kindsvater steuert an die Lebenshaltungskosten von D somit nicht Fr. 900.-- pro Monat sondern nur Fr. 650.-- pro Monat bei.
+Das durchschnittliche Einkommen von D im Jahr 2009 beträgt unbestrittenermassen rund Fr. 1'000.-- pro Monat. Entgegen der Meinung der Vorinstanz ist jedoch nicht der gesamte Lehrlingslohn von D an dessen Lebenshaltungskosten anzurechnen. Ein solches Vorgehen würde den tatsächlichen Verhältnissen offenkundig widersprechen. Das Verwaltungsgericht St. Gallen entschied denn auch, dass einem volljährigen Kind in Ausbildung jährlich ein Betrag von Fr. 6'000.-- zur freien Verfügung zu belassen sei (Urteil des Verwaltungsgerichts St. Gallen vom 9. Mai 2007, E. 2.4). Dies muss zwar nicht generell gelten, erscheint jedoch im hier zu beurteilenden Fall ebenfalls sachgerecht. Wird nun aber davon ausgegangen, dass D im Jahr 2009 (nur) Fr. 500.-- pro Monat an seine Lebenshaltungskosten beizutragen hatte, übersteigen die Unterhaltsaufwendungen der Rekurrentin diejenigen des Kindsvaters. Dementsprechend ist der Rekurrentin der Kinderabzug zuzusprechen. (…)
+Entscheid der Steuerrekurskommission vom 22. Juli 2011
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
