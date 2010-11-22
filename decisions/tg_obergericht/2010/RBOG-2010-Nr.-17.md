@@ -1,0 +1,77 @@
+---
+decision_id: "tg_obergericht_RBOG_2010_Nr._17"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2010 Nr. 17"
+docket_2: "BR.2010.82"
+decided: "2010-11-22"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/7A01E587-CFB5-1424-E1EB0A62A76EF5EB.html"
+cites_law: ["switzerland/bund/acts/220/art-552.md", "switzerland/bund/acts/220/art-553.md", "switzerland/bund/acts/220/art-556.md", "switzerland/bund/acts/220/art-568.md", "switzerland/bund/acts/281.1/art-039.md", "switzerland/bund/acts/281.1/art-080.md"]
+---
+
+# TG Obergericht RBOG 2010 Nr. 17
+
+## Regeste
+
+Der Eintragung kommt bei der kaufmännischen Kollektivgesellschaft aber nur deklaratorische Bedeutung zu[1]. Konstitutiv ist demgegenüber der Handelsregistereintrag für Kollektivgesellschaften, die kein nach kaufmännischer Art geführtes Gewerbe führen[2]. Das bedeutet, dass die nicht kaufmännische Kollektivgesellschaft nicht parteifähig ist, solange sie nicht im Handelsregister eingetragen ist[3]. In der Tat ist im Handelregister nur die "BA", nicht aber eine "AB" eingetragen; die Rekursgegner...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 22.11.2010 RBOG 2010 Nr. 17 (BR.2010.82)
+Thurgovie Obergericht Rechenschaftsbericht 22.11.2010 RBOG 2010 Nr. 17 (BR.2010.82)
+Turgovia Obergericht Rechenschaftsbericht 22.11.2010 RBOG 2010 Nr. 17 (BR.2010.82)
+
+Der Eintragung kommt bei der kaufmännischen Kollektivgesellschaft aber nur deklaratorische Bedeutung zu[1]. Konstitutiv ist demgegenüber der Handelsregistereintrag für Kollektivgesellschaften, die kein nach kaufmännischer Art geführtes Gewerbe führen[2]. Das bedeutet, dass die nicht kaufmännische Kollektivgesellschaft nicht parteifähig ist, solange sie nicht im Handelsregister eingetragen ist[3]. In der Tat ist im Handelregister nur die "BA", nicht aber eine "AB" eingetragen; die Rekursgegner...
+
+RBOG 2010 Nr. 17
+RBOG 2010 Nr. 17
+Subsidiäre persönliche Haftung und Betreibung des Kollektivgesellschafters für eine Schuld der Gesellschaft; erfolglose Betreibung der Kollektivgesellschaft
+(Art. 552, 568 Abs. 3 OR; Art. 80 SchKG)
+1.     Die Vorinstanz erteilte den Rekursgegnern gegen X (Rekurrent) definitive Rechtsöffnung. Sie stützte sich dabei auf das Urteil des Bezirksgerichts in Sachen Rekursgegner gegen "AB Architekten Ingenieure, bestehend aus den Gesellschaftern X + Y", mit welchem die Kollektivgesellschaft verpflichtet worden war, den Rekursgegnern den in Betreibung gesetzten Betrag zu bezahlen.
+2.     a)    Der Rekurrent machte geltend, eine Kollektivgesellschaft "AB Architekten Ingenieure, bestehend aus den Gesellschaftern X + Y", habe in der Schweiz nie bestanden. In der Schweiz existiere bereits seit 2006 eine Kollektivgesellschaft unter der Firmenbezeichnung "BA Architekten Ingenieure X + Y"; "AB" gebe es nur in Deutschland. Im Bereich der Architekturdienstleistungen bildeten die beiden beteiligten X und Y lediglich einen Zusammenschluss im Sinn einer Unkostengemeinschaft, d.h. einer Bürogemeinschaft. Eine Kollektivgesellschaft hätten sie nicht gebildet.
+b)    Gemäss Art. 552 Abs. 2 OR haben die Gesellschafter die Kollektivgesellschaft in das Handelsregister eintragen zu lassen. Der Eintragung kommt bei der kaufmännischen Kollektivgesellschaft aber nur deklaratorische Bedeutung zu
+[1]
+. Konstitutiv ist demgegenüber der Handelsregistereintrag für Kollektivgesellschaften, die kein nach kaufmännischer Art geführtes Gewerbe führen
+[2]
+. Das bedeutet, dass die nicht kaufmännische Kollektivgesellschaft nicht parteifähig ist, solange sie nicht im Handelsregister eingetragen ist
+[3]
+. In der Tat ist im Handelregister nur die "BA", nicht aber eine "AB" eingetragen; die Rekursgegner anerkennen, dass die "AB" auch früher nicht eingetragen war. Daraus kann der Rekurrent aber jedenfalls im Zusammenhang mit dem Rechtsöffnungstitel nichts für sich ableiten, denn die "AB" erklärte ausdrücklich, die beklagtische Partei – d.h. die "AB" – werde in der Schweiz durch X geführt. Es geht nicht an, dass der Gesellschafter im nachfolgenden Vollstreckungsverfahren die gegenteilige Position einnimmt.
+c)     Zudem ist die Frage der Existenz und der Passivlegitimation der "AB" als abgeurteilte Sache (res iudicata) zu qualifizieren. Mit dem Urteil des Bezirksgerichts, dem Rechtsöffnungstitel, wurde rechtskräftig entschieden, dass es sich bei der "AB" erstens um eine Kollektivgesellschaft (und nicht etwa um eine einfache Gesellschaft) und zweitens um eine Kollektivgesellschaft gemäss Art. 552 OR und nicht um eine solche gemäss Art. 553 OR handelt. Dazu ist anzumerken, dass die "BA" laut Handelsregister nicht nur Architekturleistungen anbietet, sondern auch Liegenschaftenverwaltung, Immobilienhandel und Wettbewerbsberatung, womit eine Qualifizierung als freier Beruf nicht in Frage kommt. Damit liegt die Vermutung nahe, dass dies auch bei der "AB" der Fall war und ist. Abgesehen davon verfügt der Richter in Bezug auf die Qualifikation nach Art. 552 oder Art. 553 OR über ein Ermessen
+[4]
+. Wenn sich – wie im damaligen Prozess zwischen den Rekursgegnern und der "AB" – im Zusammenhang mit der Beurteilung von Forderungen gegen eine Gesellschaft die Frage der Aktiv- oder Passivlegitimation der Gesellschaft stellt, hat das in der Sache zuständige Gericht auch die Frage nach der Rechtsform der Gesellschaft zu beantworten. Die Antwort kann sich nicht einzig aus dem fehlenden Handelsregistereintrag ergeben, da dieser nicht in jedem Fall konstitutiv ist. Entscheidend ist, dass rechtskräftig richterlich darüber entschieden worden ist, wie die vom Rekurrenten ausgeübte Tätigkeit handelsrechtlich zu qualifizieren ist, und dass entsprechend dieser Qualifikation die "AB" gestützt auf die einschlägigen Prozessakten, insbesondere den mit den Rekursgegnern eingegangenen Vertrag, den zugesprochenen Betrag schuldet.
+3.     a)    Gemäss Art. 568 Abs. 1 OR haften die Gesellschafter für alle Verbindlichkeiten der Gesellschaft solidarisch und mit ihrem ganzen Vermögen. Der einzelne Gesellschafter kann jedoch gemäss Art. 568 Abs. 3 OR erst persönlich belangt werden, wenn er selbst in Konkurs geraten oder die Gesellschaft aufgelöst oder erfolglos betrieben worden ist. Ein Urteil gegen die Kollektivgesellschaft berechtigt zur definitiven Rechtsöffnung gegen die Gesellschafter
+[5]
+.
+b)    Die Vorinstanz bejahte die erfolglose Betreibung der Kollektivgesellschaft ("AB") zu Recht damit, diese habe gar nicht betrieben werden können, weil sie nicht im Handelsregister eingetragen sei. Die Haftung der Gesellschafter nach Art. 568 OR ist zwar grundsätzlich nur eine sekundäre, während primär das Gesellschaftsvermögen haftet
+[6]
+; es handelt sich um eine Ausfallshaftung
+[7]
+. Weil aber die Gesellschafter gesetzlich verpflichtet sind, den Bestand der Kollektivgesellschaft im Handelsregister eintragen zu lassen
+[8]
+, ist gerechtfertigt, dass sich die beklagten Gesellschafter nicht auf den Bestand einer Kollektivgesellschaft und auf die Subsidiarität ihrer persönlichen Haftung berufen können, wenn sie die Eintragung nicht ordnungsgemäss vornehmen lassen
+[9]
+. Der Gläubiger hat zwar die Möglichkeit, gegen eintragungspflichtige Schuldner oder Schuldner, welche die Eintragungspflicht bestreiten, die zwangsweise Eintragung zu erwirken. Eine allfällige Betreibung kann allerdings bis zur Abklärung der Eintragungspflicht nicht fortgesetzt werden, sofern der Schuldner überhaupt nur auf Konkurs betrieben werden kann, wie dies bei der Kollektivgesellschaft der Fall ist
+[10]
+. Es ginge zu weit, vom Gesellschaftsgläubiger zu verlangen, dass er auf dem Verwaltungsrechtsweg mit all seinen Beschwerdemöglichkeiten die Eintragung erzwingen müsste, um die Gesellschaft betreiben zu können. Ausserdem kann die Gesellschaft, wenn deren Eintragungspflicht im Betreibungsverfahren verneint wird, als solche überhaupt nicht betrieben werden, wie die Vorinstanz zutreffend feststellte. Dieser Fall einer nicht möglichen beziehungsweise nicht fortsetzbaren Betreibung ist als erfolglose Betreibung zu qualifizieren und hat die subsidiäre Haftung des Gesellschafters zur Folge. Die diesen Überlegungen zugrunde liegende Situation ist durch die Akten ausgewiesen, weshalb die Rechtsöffnung gegen den Rekurrenten zu erteilen ist.
+Obergericht, 22. November 2010, BR.2010.82
+[1]
+Baudenbacher, Basler Kommentar, Art. 552 OR N 40
+[2]
+Art. 553 OR; Baudenbacher, Art. 553 OR N 2
+[3]
+Amonn/Walther, Grundriss des Schuldbetreibungs- und Konkursrechts, 8.A., § 8 N 4; Stücheli, Die Rechtsöffnung, Diss. Zürich 2000, S. 66
+[4]
+Vgl. BGE 130 III 707 ff. = Pra 94, 2005, Nr. 75
+[5]
+Staehelin, Basler Kommentar, Art. 80 SchKG N 32
+[6]
+Handschin/Chou, Zürcher Kommentar, Art. 568-569 OR N 11
+[7]
+Handschin/Chou, Art. 568-569 OR N 16
+[8]
+Art. 552 Abs. 2 i.V.m. Art. 556 OR
+[9]
+Vgl. Handschin/Chou, Art. 568-569 OR N 34
+[10]
+Acocella, Basler Kommentar, Art. 39 SchKG N 9
