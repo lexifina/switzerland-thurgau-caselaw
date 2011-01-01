@@ -1,0 +1,48 @@
+---
+decision_id: "tg_obergericht_RBOG_2011_Nr._18"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2011 Nr. 18"
+decided: "2011-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2011-nr-18"
+cites_law: ["switzerland/bund/acts/281.1/art-197.md", "switzerland/bund/acts/832.10/art-065.md"]
+---
+
+# TG Obergericht RBOG 2011 Nr. 18
+
+## Regeste
+
+Die nach der Konkurseröffnung ausbezahlte Prämienverbilligung gehört in die Konkursmasse
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 18
+Thurgovie Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 18
+Turgovia Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 18
+
+RBOG 2011 Nr. 18
+Skip to main content
+Show navigation
+Die nach der Konkurseröffnung ausbezahlte Prämienverbilligung gehört in die Konkursmasse
+Art. 197 Abs. 2 SchKG
+1. Die Krankenkassenkontrollstelle teilte dem Beschwerdeführer nach der Konkurseröffnung mit, dass ihm für das Jahr 2011 Prämienverbilligungen in der Höhe von Fr. 1'680.00 ausbezahlt würden.
+2. a) Umstritten ist einzig, ob der Anteil der individuellen Prämienverbilligung gemäss Krankenversicherungsgesetz[1], welcher auf die Zeit nach der Konkurseröffnung entfällt, zur Konkursmasse zu ziehen ist.
+b) aa) Gemäss Art. 197 Abs. 1 SchKG bildet sämtliches pfändbare Vermögen, das dem Schuldner zur Zeit der Konkurseröffnung gehört, eine einzige Masse (Konkursmasse), die zur gemeinsamen Befriedigung der Gläubiger dient. Vermögen, das dem Schuldner vor Schluss des Konkursverfahrens anfällt, gehört nach Art. 197 Abs. 2 SchKG ebenfalls zur Konkursmasse.
+bb) Mit der Formulierung von Art. 197 Abs. 2 SchKG bringt das Gesetz zum Ausdruck, dass nicht jeder Vermögenszuwachs des Schuldners während des Konkursverfahrens in die Konkursmasse fällt[2]. Der Ausdruck, dass jemandem ein Vermögenswert "anfalle", bezeichnet einen Vermögenserwerb, der nicht auf die persönliche Tätigkeit des Erwerbers zurückzuführen ist. Was der Schuldner während der Dauer des Konkursverfahrens durch seine persönliche Tätigkeit erwirbt, fällt nicht in die Masse. Dagegen gehört dazu alles (Netto-)Vermögen, das während dieser Zeit auf anderem Weg, etwa durch Erbgang, Schenkung, Lotterietreffer, in seinen Besitz gelangt[3]. Dem Schuldner nicht "angefallen", sondern durch seine persönliche Tätigkeit erworben ist nicht nur sein Arbeitslohn, sondern auch jedes andere von ihm erzielte Erwerbseinkommen, wie beispielsweise der Handelsgewinn[4]. Die Regeln über das Erwerbseinkommen gelten auch für das Einkommen, das dem Schuldner als Ersatz für entgangenes Erwerbseinkommen ausgerichtet wird. Ersatz für Arbeitserwerb stellen zum Beispiel Renten und Kapitalabfindungen der beruflichen Vorsorge sowie Versicherungs- oder Schadenersatzleistungen für Verdienstausfall zufolge Körperverletzung, Gesundheitsstörung, Invalidität oder Militärdienst dar[5].
+c) aa) Anspruch auf Prämienverbilligung haben nach Art. 65 Abs. 1 KVG Versicherte in bescheidenen wirtschaftlichen Verhältnissen. Im Kanton Thurgau werden an erwachsene Personen Prämienverbilligungen ausgerichtet, sofern gemäss der provisorischen vorjährigen Steuerrechnung die einfache Steuer den Steuerbetrag von Fr. 800.00 nicht übersteigt[6]. Der Anspruch auf Prämienverbilligung hängt somit weder von einer persönlichen Tätigkeit des Versicherten ab, noch ist die Prämienverbilligung ein Ersatzeinkommen, das den Ausfall eines Vermögenserwerbs ausgleichen soll.
+bb) Der Versicherte ist in der Verwendung der Prämienverbilligung völlig frei und nicht ausdrücklich verpflichtet, diese zur Bezahlung der Krankenkassenprämien zu verwenden. Entsprechend ist dieser Fall mit dem vom Bundesgericht in BGE 118 III 43 ff. beurteilten zu vergleichen, in welchem sich der Schuldner ein halbes Jahr nach Konkurseröffnung seine Guthaben bei der Pensionskasse ausbezahlen liess, um eine selbstständige Erwerbstätigkeit aufzunehmen. Obwohl dieses Geld für den Aufbau einer privaten Altersvorsorge oder als Betriebskapital für seine selbstständige berufliche Tätigkeit dienen sollte, erachtete das Bundesgericht dieses Kapital als im Sinn von Art. 197 Abs. 2 SchKG angefallen[7]. Gleiches muss für Prämienverbilligungen gelten, welche der Schuldner nach Eröffnung des Konkurses ausbezahlt erhält.
+Obergericht, 1. Abteilung, 18. Oktober 2011, BS.2011.10
+[1] KVG, SR 832.10
+[2] Handschin/Hunkeler, Basler Kommentar, Art. 197 SchKG N 84
+[3] BGE 72 III 85
+[4] BGE 72 III 86
+[5] Handschin/Hunkeler, Art. 197 SchKG N 87; vgl. Fritzsche/Walder, SchKG, Bd. II, 3.A., § 41 N 11
+[6] § 6 Abs. 1 i.V.m. § 6a KVV TG, RB 832.10
+[7] BGE 118 III 45
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
