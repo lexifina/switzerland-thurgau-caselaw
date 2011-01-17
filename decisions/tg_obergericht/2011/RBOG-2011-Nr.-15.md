@@ -1,0 +1,61 @@
+---
+decision_id: "tg_obergericht_RBOG_2011_Nr._15"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2011 Nr. 15"
+decided: "2011-01-17"
+published: "2011-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2011-nr-15"
+cites_law: ["switzerland/bund/acts/220/art-706.md", "switzerland/bund/acts/220/art-706a.md", "switzerland/bund/acts/220/art-710.md", "switzerland/bund/acts/220/art-717.md", "switzerland/bund/acts/281.1/art-046.md", "switzerland/bund/acts/281.1/art-064.md", "switzerland/bund/acts/281.1/art-065.md"]
+---
+
+# TG Obergericht RBOG 2011 Nr. 15
+
+## Regeste
+
+Die Zustellung des Zahlungsbefehls an einen abgewählten Verwaltungsrat einer AG ist nichtig
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 15
+Thurgovie Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 15
+Turgovia Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 15
+
+RBOG 2011 Nr. 15
+Skip to main content
+Show navigation
+Die Zustellung des Zahlungsbefehls an einen abgewählten Verwaltungsrat einer AG ist nichtig
+Art. 706 OR
+,
+Art. 706a OR
+,
+Art. 65 SchKG
+1. a) Am 29. Juni 2010 wurden Y und der Beschwerdegegner durch die Generalversammlung der Beschwerdeführerin, einer Aktiengesellschaft, als Verwaltungsräte abgewählt. Der Beschwerdegegner hob kurz vorher für ausstehende Honorar- und andere Forderungen die Betreibung gegen die Beschwerdeführerin an. Der Zahlungsbefehl wurde am 1. Juli 2010 Y zugestellt. Daraufhin reichten der Beschwerdegegner und Y das Vorstandsbegehren für die Klage auf Anfechtung des Generalversammlungsbeschlusses ein, zogen es indessen sechs Wochen später zurück. Anschliessend erhielt die Beschwerdeführerin davon Kenntnis, dass ihr der Konkurs angedroht worden war.
+b) Die Beschwerdeführerin verlangte vor Vorinstanz Feststellung der Nichtigkeit der Konkursandrohung und des Zahlungsbefehls, eventuell Wiederherstellung der Frist zur Erhebung des Rechtsvorschlags. Die Vorinstanz wies die Beschwerde ab. Y sei am 1. Juli 2010 noch amtierender Verwaltungsrat der Beschwerdeführerin und daher zur Entgegennahme des Zahlungsbefehls berechtigt gewesen. Als Folge seiner Treuepflicht nach Art. 717 OR sei er verpflichtet gewesen, die Interessen der Gesellschaft zu wahren. Wenn er diese Pflicht durch die Nichterhebung des Rechtsvorschlags verletzt habe, müsse dem im Rahmen einer Verantwortlichkeitsklage nachgegangen werden.
+2. a) Die Beschwerdeführerin wandte sich mit denselben Rechtsbegehren an das Obergericht. Der Zahlungsbefehl sei einem nicht mehr vertretungsberechtigten Verwaltungsrat, welcher Kenntnis von seiner Abberufung gehabt habe, zugestellt worden. Zufolge der fehlerhaften Zustellung sei der Zahlungsbefehl nicht in die Hände der Beschwerdeführerin gelangt und sei folglich nichtig. Weder der Beschwerdegegner noch Y hätten im Interesse der Gesellschaft gehandelt. Die Beschwerdeführerin sei unverschuldet davon abgehalten worden, fristgerecht Rechtsvorschlag zu erheben.
+b) Der Beschwerdegegner machte geltend, Y habe den Zahlungsbefehl entgegennehmen dürfen, weil im fraglichen Zeitpunkt noch kein neuer Verwaltungsrat gültig bestellt worden sei.
+3. a) Die im Handelsregister eingetragenen juristischen Personen und Gesellschaften sind an ihrem Sitz zu betreiben[1]. Die Zustellung der Betreibungsurkunden erfolgt an den Vertreter der juristischen Person beziehungsweise Gesellschaft. Als solcher gilt für eine Aktiengesellschaft jedes Mitglied der Verwaltung oder des Vorstands sowie jeder Direktor oder Prokurist[2]. Eine fehlerhafte Zustellung des Zahlungsbefehls ist grundsätzlich nichtig. Erhält der Betriebene jedoch trotz fehlerhafter Zustellung vom Inhalt des Zahlungsbefehls Kenntnis, entfaltet dieser seine Wirkung, d.h. im Zeitpunkt der Kenntnisnahme beziehungsweise tags danach beginnt die Frist zur Erhebung des Rechtsvorschlags zu laufen. Dies ist z.B. der Fall, wenn der Zahlungsbefehl trotz fehlerhafter Zustellung in die Hände des Schuldners gelangt oder dieser nachfolgende Betreibungshandlungen, aus denen sich der Inhalt des Zahlungsbefehls ergibt, widerspruchslos hinnimmt[3].
+b) Y und der Beschwerdegegner waren bis zu ihrer Nichtwiederwahl vom 29. Juni 2010 Verwaltungsräte der Beschwerdeführerin. Nach Art. 15 der Statuten der Beschwerdeführerin beträgt die Amtsdauer eines Verwaltungsrats ein Jahr, gerechnet von ordentlicher Generalversammlung zu ordentlicher Generalversammlung. Gewählt wird er durch die Generalversammlung.
+c) Der Verwaltungsrat und jeder Aktionär können Beschlüsse der Generalversammlung, die gegen das Gesetz oder die Statuten verstossen, beim Richter mit Klage gegen die Gesellschaft anfechten[4]. Das Anfechtungsrecht erlischt, wenn die Klage nicht spätestens zwei Monate nach der Generalversammlung angehoben wird[5]. Ein Generalversammlungsbeschluss ist zwar sofort wirksam, befindet sich aber wegen der Möglichkeit zur Anfechtung bis zum Tag des Ablaufs der zweimonatigen Anfechtungsfrist in einem "resolutiven Schwebezustand". Wird die Anfechtungsklage eingereicht, dauert dieser Zustand an[6]. Die Anfechtungsklage ist eine Gestaltungsklage, deren Wirkung erst mit dem Urteil eintritt, das die Klage schützt und den Generalversammlungsbeschluss rückwirkend aufhebt[7]. Sie ist folglich kein Rechtsmittel gegen den Generalversammlungsbeschluss mit Suspensivwirkung. Ein Generalversammlungsbeschluss wird vielmehr sofort wirksam und kann dementsprechend grundsätzlich auch während der zweimonatigen Anfechtungsfrist und nach Einreichung einer Anfechtungsklage vom Verwaltungsrat vollzogen werden, sofern der Kläger mit der Klageeinreichung keine vorsorglichen Massnahmen beantragt, beispielsweise Einspruch gegen die anstehende Eintragung im Handelsregister gemäss Art. 162 HRegV erhebt[8]. Mit anderen Worten muss der Verwaltungsrat, obwohl die Anfechtungsklage keine direkte Suspensivwirkung hat, doch ernstlich mit der Möglichkeit rechnen, dass die Klage in einem späteren Zeitpunkt rechtskräftig gutgeheissen und der Beschluss rückwirkend aufgehoben wird. Er kann daher, sofern eine höhere Wahrscheinlichkeit für die Gutheissung der Anfechtungsklage als für ihre Abweisung spricht, zum Schluss kommen, dass er die Wirksamkeit des Beschlusses suspendiert und möglichst rasch einen weniger leicht anfechtbaren, alternativen Beschluss zur Abstimmung bringt[9].
+d) Unbestritten ist, dass der Zahlungsbefehl Y als Verwaltungsrat und damit als Vertreter der Beschwerdeführerin zugestellt wurde. Dies geschah am 1. Juli 2010. Anlässlich der Generalversammlung vom 29. Juni 2010 war Y aber nicht mehr zum Verwaltungsrat gewählt worden. Dieser Beschluss wurde trotz Anfechtung sofort wirksam. Mit der Generalversammlung vom 29. Juni 2010 endete folglich – zumindest vorläufig, d.h. allenfalls unter Vorbehalt des Ausgangs der Anfechtungsklage – das Amtsjahr von Y sowie des ebenfalls nicht mehr gewählten Beschwerdegegners.
+Y war somit am 1. Juli 2010 nicht mehr befugt, den Zahlungsbefehl entgegenzunehmen; die Zustellung erfolgte an eine nicht zur Vertretung berechtigte Person und war demgemäss nichtig. Dass die Beschwerdeführerin auf irgendeine andere Weise als durch korrekte Aushändigung des Zahlungsbefehls von der Betreibung Kenntnis erhalten hätte, macht der Beschwerdegegner nicht geltend und geht aus den Akten nicht hervor. Sie wurde darüber erst orientiert, als sie die Konkursandrohung erhielt. Zehn Tage später verwahrte sie sich gegen die Zustellung. Es kann somit keine Rede davon sein, dass sie den Inhalt des Zahlungsbefehls widerspruchslos hinnahm; das Gegenteil ist der Fall.
+Wurde der Beschwerdeführerin der Zahlungsbefehl nicht korrekt zugestellt und erhielt sie von dessen Inhalt auch nicht auf andere Weise als durch gültige Aushändigung Kenntnis, konnte er keine Wirkungen entfalten. Daran ändert nichts, dass am 1. Juli 2010 Y noch als Verwaltungsrat im Handelsregister eingetragen war: Die Eintragung im Handelsregister hat lediglich deklaratorische Wirkung[10]. Abgesehen davon können sich nur gutgläubige Dritte auf den Handelsregistereintrag berufen; gutgläubig waren aber im massgebenden Zeitpunkt weder der Beschwerdegegner noch Y. Beide wurden gleichentags, als der Generalversammlungsbeschluss gefällt wurde, d.h. noch am 29. Juni 2010, per E-Mail über ihre Abwahl informiert. In ihrem Auftrag ersuchte ihr Rechtsvertreter sodann am 30. Juni 2010 um eine Handelsregistersperre im Sinn von Art. 162 HRegV.
+4. Die Beschwerde ist somit zu schützen, und es wird festgestellt, dass die Zustellung des Zahlungsbefehls nichtig ist.
+Obergericht, 1. Abteilung, 17. Januar 2011, BS.2010.17
+[1] Art. 46 Abs. 2 SchKG
+[2] Art. 65 Abs. 1 Ziff. 2 SchKG
+[3] Angst, Basler Kommentar, Art. 64 SchKG N 23
+[4] Art. 706 Abs. 1 OR
+[5] Art. 706a Abs. 1 OR
+[6] Böckli, Schweizer Aktienrecht, 4.A., § 16 N 128
+[7] Druey, Gesellschafts- und Handelsrecht, 10.A., § 12 N 66
+[8] Meier, Die Aktiengesellschaft, 3.A., S. 233; Bauen/Bernet, Schweizerische Aktiengesellschaft, Zürich 2007, S. 153 N 441
+[9] Böckli, § 16 N 128
+[10] Wernli, Basler Kommentar, Art. 710 OR N 8
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
