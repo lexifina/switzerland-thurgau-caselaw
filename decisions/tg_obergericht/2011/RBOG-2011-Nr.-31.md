@@ -1,0 +1,63 @@
+---
+decision_id: "tg_obergericht_RBOG_2011_Nr._31"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2011 Nr. 31"
+decided: "2011-03-31"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2011-nr-31"
+cites_law: ["switzerland/bund/acts/173.110/art-023.md", "switzerland/bund/acts/210/art-004.md", "switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/741.01/art-058.md", "switzerland/bund/acts/741.01/art-065.md"]
+---
+
+# TG Obergericht RBOG 2011 Nr. 31
+
+## Regeste
+
+Die Anforderungen an die adäquate Kausalität sind im (Motorfahrzeug-)Haftpflichtrecht weniger hoch als im Sozialversicherungsrecht
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 31
+Thurgovie Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 31
+Turgovia Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 31
+
+RBOG 2011 Nr. 31
+Skip to main content
+Show navigation
+Die Anforderungen an die adäquate Kausalität sind im (Motorfahrzeug-)Haftpflichtrecht weniger hoch als im Sozialversicherungsrecht
+Art. 58 SVG
+,
+Art. 65 SVG
+1. Bei der Berufungsklägerin traten 12 bis 24 Stunden nach einem Verkehrsunfall Nacken-, Schulter- und Kopfschmerzen auf. Weil die Schmerzen nicht nachliessen, suchte sie ihren Hausarzt auf. Dieser überwies die Berufungsklägerin zur Beurteilung wegen nicht abklingender Nackenbeschwerden an einen Rheumatologen, der ein zerviko-spondylogenes Syndrom infolge HWS-Distorsion durch Beschleunigungstrauma feststellte. Es erfolgten weitere Abklärungen durch verschiedene Fachärzte; diese schätzten die Einschränkung für Haushaltsarbeiten schliesslich auf rund 50%. Trotz der Beschwerden blieb die Berufungsklägerin seit dem Unfall stets erwerbstätig und arbeitet heute vollzeitig als Produktmanagerin.
+2. a) Die Berufungsklägerin bringt vor, die Erwägungen der Vorinstanz zur Adäquanz seien falsch, weil diese mit der Arbeitsfähigkeitsfrage vermengt worden sei und zu Unrecht sozialversicherungs- statt haftpflichtrechtliche Kriterien angewandt worden seien; ganz abgesehen davon habe die Vorinstanz die Adäquanz im Grunde genommen gar nicht beurteilt, weil sie diese mit der natürlichen Kausalität verwechselt habe.
+b) aa) Ob zwischen der Ursache und dem Schadenseintritt ein adäquater Kausalzusammenhang besteht, ist eine Wertungsgesichtspunkten unterliegende Rechtsfrage[1]. Ein Ereignis hat als adäquate Ursache eines Erfolgs zu gelten, wenn es nach dem gewöhnlichen Lauf der Dinge und nach der allgemeinen Lebenserfahrung an sich geeignet ist, einen Erfolg von der Art des eingetretenen herbei zu führen, der Eintritt des Erfolgs also durch das Ereignis allgemein als begünstigt erscheint. Rechtspolitischer Zweck der Adäquanz ist sowohl im Sozialversicherungs– als auch im Haftpflichtrecht eine Begrenzung der Haftung. Es handelt sich um eine Generalklausel, die im Einzelfall durch das Gericht gemäss Art. 4 ZGB nach Recht und Billigkeit konkretisiert werden muss. Die Beantwortung der Adäquanzfrage beruht somit auf einem Werturteil. Es muss entschieden werden, ob eine unfallbedingte Störung billigerweise noch dem Schädiger oder Haftpflichtigen zugerechnet werden darf[2]. Oder anders ausgedrückt, unter Berücksichtigung der deutschen Normzwecktheorie, auf welche das Bundesgericht in BGE 123 III 113 hinwies, geht es letztlich darum, die Risikosphären der Beteiligten nach Massgabe des Normzwecks beziehungsweise des Schutzzwecks dieser Normen gegeneinander abzugrenzen[3]. Die Objektivierung und Normativierung mittels des Kriteriums der Adäquanz führt dazu, dass der Kausalzusammenhang auf dem Weg der nachträglichen oder retrospektiven Prognose im Sinn eines Werturteils beurteilt wird. Auch wenn die Adäquanztheorie wegen ihres generellen Charakters sowie der Betonung des (retrospektiven) richterlichen Ermessens nicht immer zu befriedigen vermag, so hat sie sich doch in der schweizerischen Lehre und Rechtsprechung durchgehend etabliert[4].
+bb) Ein an sich gegebener adäquater Kausalzusammenhang kann durch hinzutretende weitere Ursachen (höhere Gewalt, grobes Selbstverschulden, grobes Drittverschulden) unterbrochen oder zerstört werden[5]. Ein Schaden kann zudem auf mehrere Ursachen zurückzuführen sein. Sofern nicht eine für den Schaden adäquate Ursache einen solchen Grad der Kausalität erreicht, dass sie den Kausalzusammenhang zwischen den übrigen Ursachen und dem Schaden unterbricht, besteht Konkurrenz von adäquat kausalen Ursachen[6].
+cc) Vielleicht fassbarer als die positive Umschreibung der Adäquanz ist die negative: Die Adäquanz ist nicht gegeben, wenn der Erfolg nur durch das Hinzutreten ganz aussergewöhnlicher und ausserhalb des normalen Geschehens liegender Umstände möglich war. Mit anderen Worten: Das Fehlen des angemessenen Zusammenhangs wird gekennzeichnet durch eine Drittursache, welche sich zwischen die ursprüngliche und den Erfolg schiebt, welche als die den Erfolg allein bestimmende Ursache erscheint und so den Rechtszusammenhang zwischen der ersten Ursache und dem Schaden gleichsam unterbricht[7]. Oder anders ausgedrückt: Der adäquate Kausalzusammenhang ist nicht gegeben, wenn ein Verhalten ungeeignet ist, zum fraglichen Ergebnis zu führen[8]. Gemäss der Rechtsprechung des Bundesgerichts gilt bei Zweifel über die Adäquanz sogar die strenge Regel, wonach die Adäquanz zwischen einem fraglichen Ereignis und dem Schaden nur verneint werden kann, wenn die Mitwirkung dieses Ereignisses nach dem gewöhnlichen Lauf der Dinge und der Erfahrung des Lebens höchst unwahrscheinlich ist[9].
+dd) Wohl ist die Umschreibung der Adäquanz im Haftpflicht– wie im Sozialversicherungsrecht dieselbe, doch muss, da es sich um eine konkretisierungsbedürftige Generalklausel handelt, auch die unterschiedliche rechtspolitische Zielsetzung der beiden Rechtsgebiete berücksichtigt werden. Die Abgrenzung adäquater Unfallfolgen von inadäquaten ist deshalb in beiden Rechtsgebieten unterschiedlich[10]. Insbesondere spielt die Schwere des Unfalls für die Frage der Adäquanz im Haftpflichtrecht keine Rolle[11].
+c) aa) Aus der konstanten Rechtsprechung des Bundesgerichts zur unterschiedlichen Abgrenzung der adäquaten von den inadäquaten Unfallfolgen im Haftpflicht- und Sozialversicherungsrecht folgt, dass die sozialversicherungsrechtliche Schleudertraumapraxis mit besonderer Adäquanzprüfung im Haftpflichtrecht keine Anwendung finden kann. Im Haftpflichtrecht haben die Unfallursache, die Schwere des Unfalls und die Schwere der unfallbedingten Beeinträchtigung nicht die gleiche Bedeutung wie im Sozialversicherungsrecht. Das hat eine seiner Begründungen darin, dass in der Sozialversicherung die Allgemeinheit Risikofolgen Einzelner übernehmen soll, während im Haftpflichtrecht die Risikosphäre eingegrenzt ist. Es soll dafür gesorgt werden, dass Risikofolgen über die Prämien der Haftpflichtversicherung letztlich von denjenigen getragen werden, welche sich dem entsprechenden Risiko aussetzen. Wird in Betracht gezogen, dass ein Schleudertrauma eine typische Folge eines Unfalls im Strassenverkehr – insbesondere eines Auffahrunfalls – ist, rechtfertigt sich eine besondere Adäquanzprüfung, die faktisch dazu führt, dass ausser bei schweren Verkehrsunfällen nur noch selten die obligatorische Haftpflichtversicherung in Anspruch genommen werden kann, die von der rechtspolitischen Zielsetzung her auch für solche Fälle vorgesehen ist, nicht. Zu beachten gilt es weiter, dass die zivilrechtliche Praxis selbst bei weitgehender Preisgabe der steuernden oder begrenzenden Funktion des Adäquanzbegriffs im Gegensatz zum Sozialversicherungsrecht nach Art. 43 f. OR immer die Möglichkeit zu einem differenzierten Schadensausgleich hat, wenn die Haftungsvoraussetzungen im Grundsatz bejaht werden, während es im Sozialversicherungsrecht in der Regel um die Alternative des Alles-oder-nichts geht[12]. In BGE 123 III 110 ff., in dem es um Kopf– und Nackenschmerzen, Pfeifen und Rauschen in beiden Ohren, Konzentrationsschwäche, ängstlich depressiven Zustand, mithin um einen für ein erlittenes Schleudertrauma der Halswirbelsäule typischen Gesundheitszustand und deren Folgen ging, hielt das Bundesgericht ausdrücklich fest, die Vorinstanz habe die Adäquanzprüfung bundesrechtskonform unter Ausserachtlassung der dafür im Sozialversicherungsrecht geltenden Kriterien vornehmen dürfen, so dass offen bleiben könne, ob die Adäquanz in Anwendung dieser Kriterien zu verneinen gewesen wäre.
+bb) Der Auffassung der Berufungsbeklagten, die unterschiedliche Handhabung der Adäquanz im Haftpflicht- und im Sozialversicherungsrecht rechtfertige sich nicht, kann nicht gefolgt werden. Zunächst ist es nicht Sache eines kantonalen Gerichts, eine jahrelange und erst vor drei Jahren ausdrücklich bestätigte Praxis des Bundesgerichts in Frage zu stellen und weiterzuentwickeln. Diese Feststellung gilt erst recht, als sich aus BGE 136 V 280 ergibt, dass sich für die Urteilsfindung zwar die beiden sozialrechtlichen Abteilungen, nicht aber auch die zivilrechtliche Abteilung zusammentaten und insofern nicht der geringste Anhaltspunkt dafür besteht, das besagte Urteil könnte Einfluss auf die Rechtsprechung zum Haftpflichtrecht haben[13]. Sodann überzeugt die in BGE 134 V 119 bestätigte Auffassung des Bundesgerichts mit Hinweis auf die obigen Erwägungen, wogegen die von der Berufungsbeklagten (und Vito Roberto, auf den sie sich beruft) mit Hinweis auf BGE 136 V 279 angeführten Argumente für eine Übernahme der sozialversicherungsrechtlichen Rechtsprechung ins Haftpflichtrecht nicht aufzukommen vermögen. Der Schluss Robertos, das Sozialversicherungsrecht müsse in Fällen, in denen die Kausalität unsicher sei, eher einstehen als das Haftpflichtrecht, weil sonst dem Haftpflichtigen eine grössere Sozialverantwortung auferlegt werde als dem Sozialversicherungsträger[14], kann gerade nicht geteilt werden. Losgelöst von Interessen der Haftpflichtversicherer gewertet ist das Gegenteil zutreffend: Es ist nur richtig, dass in einem Fall, in welchem sich zwei Individuen verbunden sind, weil das eine das andere in haftungsbegründender Weise schädigte, der Ausgleich über das Haftpflichtrecht erfolgt und nicht über das Sozialversicherungsrecht beziehungsweise die Gesellschaft, welchem Ausgleich sich alle Mitglieder einzig kraft ihres Daseins unterziehen müssen. Die Verpflichtung des Schädigers gegenüber dem Geschädigten ist eine gänzlich andere als diejenige der Gesellschaft gegenüber ihren Mitgliedern; soweit die sozialversicherungsrechtliche Leistungsfestsetzung nicht auf tatsächlichen Gegebenheiten, sondern auf der Basis einer idealisierten Welt[15] vorgenommen wird, kann sie für das Haftpflichtrecht nicht nutzbar gemacht werden. Das Haftpflichtrecht findet den angemessenen Ausgleich der widerstreitenden Interessen durch die Flexibilität, die ihm die Art. 43 und 44 OR bieten[16].
+cc) Somit ist im hier zu beurteilenden Fall, in welchem zum Unfall ein natürlich kausales Schleudertrauma-Beschwerdebild mit Einschränkungen in der Haushaltsarbeit als Folge gegeben ist und keine Umstände ersichtlich sind, die für eine Inadäquanz sprechen würden, der adäquate Kausalzusammenhang zu bejahen.
+3. Die Berufung ist begründet, und die Streitsache wird zur konkreten Berechnung des Haushaltsschadens an die Vorinstanz zurückgewiesen.
+Obergericht, 2. Abteilung, 31. März 2011, ZBR.2010.84
+[1] BGE 132 III 718
+[2] BGE 123 III 112
+[3] Widmer, in: Schaden - Haftung - Versicherung (Hrsg.: Münch/Geiser), Basel 1999, N 2.53
+[4] Schnyder, Basler Kommentar, Art. 41 OR N 16 f.
+[5] Schnyder, Art. 41 OR N 20
+[6] Schnyder, Art. 41 OR N 22
+[7] Keller, Haftpflicht im Privatrecht, Bd. I, 5.A., S. 68 f.
+[8] Brehm, Berner Kommentar, Art. 41 OR N 134
+[9] BGE vom 31. Oktober 2003, 5C.125/2003, Erw. 4.3; Brehm, Art. 41 OR N 135, erachtet die Anwendung einer solchen Regel ("im Zweifel zugunsten des Geschädigten") allerdings als fraglich.
+[10] BGE 134 V 119, 127 V 102 f., 123 III 113 f., 123 V 103 f.
+[11] BGE vom 27. Februar 2007, 4C.402/2006, Erw. 4.1; BGE vom 22. Dezember 2004, 4C.327/2004, Erw. 4.2
+[12] BGE 123 III 114 und 123 V 104
+[13] Vgl. Art. 23 BGG
+[14] Roberto, Haftpflichtrechtliche Auswirkung von BGE 136 V 279, in: HAVE 2011 S. 75
+[15] In dem Sinn, als angenommen wird, dass für alle, die einer bezahlten Arbeit nachgehen können, auch ausreichende Beschäftigungsmöglichkeiten bestehen und jede Leistungsfähigkeit auch verwertet werden kann.
+[16] Zum Ganzen überzeugend Pribnow, Schadensausgleich nach Schleudertrauma in der nicht perfekten Welt, in: HAVE 2011 S. 70
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
