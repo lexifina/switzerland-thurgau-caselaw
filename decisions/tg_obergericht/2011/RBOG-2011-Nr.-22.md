@@ -1,0 +1,69 @@
+---
+decision_id: "tg_obergericht_RBOG_2011_Nr._22"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2011 Nr. 22"
+docket_2: "SW.2011.101"
+decided: "2011-06-06"
+published: "2011-08-04"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/79FB8F02-CD93-0249-8A072CD9802D87BE.html"
+cites_law: ["switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-092.md", "switzerland/bund/acts/312.0/art-318.md"]
+---
+
+# TG Obergericht RBOG 2011 Nr. 22
+
+## Regeste
+
+1. Die Staatsanwaltschaft kündigte dem Beschwerdeführer und in Kopie seinem amtlichen Verteidiger am 6. Juni 2011 den bevorstehenden Abschluss der Strafuntersuchung an und eröffnete eine Frist von 10 Tagen zur Stellung von Beweisanträgen. Dem hat die Staatsanwaltschaft bei der Fristansetzung und bei Gesuchen um Verlängerung Rechnung zu tragen[3]. Diese Grundsätze beachtete die Staatsanwaltschaft, als sie dem Beschwerdeführer in ihrer Verfügung vom 6. Juni 2011 eine zehntägige Frist zur ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 04.08.2011 RBOG 2011 Nr. 22 (SW.2011.101)
+Thurgovie Obergericht Rechenschaftsbericht 04.08.2011 RBOG 2011 Nr. 22 (SW.2011.101)
+Turgovia Obergericht Rechenschaftsbericht 04.08.2011 RBOG 2011 Nr. 22 (SW.2011.101)
+
+1. Die Staatsanwaltschaft kündigte dem Beschwerdeführer und in Kopie seinem amtlichen Verteidiger am 6. Juni 2011 den bevorstehenden Abschluss der Strafuntersuchung an und eröffnete eine Frist von 10 Tagen zur Stellung von Beweisanträgen. Dem hat die Staatsanwaltschaft bei der Fristansetzung und bei Gesuchen um Verlängerung Rechnung zu tragen[3]. Diese Grundsätze beachtete die Staatsanwaltschaft, als sie dem Beschwerdeführer in ihrer Verfügung vom 6. Juni 2011 eine zehntägige Frist zur ...
+
+RBOG 2011 Nr. 22
+RBOG 2011 Nr. 22
+Bei zeitlicher Dringlichkeit genügt eine Standardbegründung für eine Fristerstreckung nicht
+(Art. 92 i.V.m. Art. 318 Abs. 1 StPO)
+1.     Die Staatsanwaltschaft kündigte dem Beschwerdeführer und in Kopie seinem amtlichen Verteidiger am 6. Juni 2011 den bevorstehenden Abschluss der Strafuntersuchung an und eröffnete eine Frist von 10 Tagen zur Stellung von Beweisanträgen. Am 17. Juni 2011 ersuchte der amtliche Verteidiger um Fristerstreckung von 20 Tagen bis zum 7. Juli 2011, weil es ihm infolge Wahrung anderer, nicht erstreckbarer Fristen und Termine sowie zahlreicher Gerichtsverhandlungen noch nicht möglich gewesen sei, sich der Pendenz anzunehmen. Die Staatsanwaltschaft wies das Fristerstreckungsgesuch ab.
+2.     Der Beschwerdeführer machte geltend, bei der in Art. 318 StPO erwähnten Frist zur Stellung von Beweisanträgen handle es sich um eine von den Behörden angesetzte Frist, die auf ein begründetes Gesuch hin erstreckt werden könne
+[1]
+. Dass das Gesuch nicht begründet worden sei, werde in der angefochtenen Verfügung nicht behauptet. Im Gegenteil werde ausdrücklich festgestellt, dass die Begründung nicht in Frage gestellt und richtig sei. Das Gesuch sei auch rechtzeitig eingereicht worden
+[2]
+. Die angefochtene Verfügung mache zuletzt geltend, die Erledigung des Vorverfahrens gehe einer Erstreckung der Frist zur Stellung von Beweisanträgen vor. Diese Argumentation stelle das Erledigungsprinzip über den Anspruch des Beschwerdeführers auf rechtliches Gehör, was offensichtlich völlig unverhältnismässig und auch nicht zulässig sei.
+a)    Mit der Schlussverfügung gemäss Art. 318 Abs. 1 StPO wird den Parteien nochmals Gelegenheit gegeben, Beweisanträge zu stellen. Dazu ist ihnen eine angemessene Frist anzusetzen. Art. 318 StPO legt keine Frist zur Stellung von Beweisanträgen fest. Es handelt sich daher nicht um eine gesetzliche, sondern um eine richterliche Frist, die auf Gesuch im Sinn von Art. 92 StPO verlängert werden kann. Die Frist muss den Besonderheiten des entsprechenden Falls Rechnung tragen. In einem umfangreichen Straffall dürfte es kaum möglich sein, innert einer kurzen, nicht verlängerbaren Frist Mitwirkungs- und Verteidigungsrechte sinnvoll wahrzunehmen. Dem hat die Staatsanwaltschaft bei der Fristansetzung und bei Gesuchen um Verlängerung Rechnung zu tragen
+[3]
+. Diese Grundsätze beachtete die Staatsanwaltschaft, als sie dem Beschwerdeführer in ihrer Verfügung vom 6. Juni 2011 eine zehntägige Frist zur Stellung von Beweisanträgen stellte: Einerseits beanstandeten der Beschwerdeführer und sein Verteidiger (wiederholt) den Verstoss gegen das Beschleunigungsgebot im Sinn von Art. 5 StPO. Andererseits hätten im vorangegangenen Zeitraum längstens Beweisergänzungsanträge gestellt werden können. Schliesslich verneinte das Bundesgericht in seinem Entscheid vom 7. Juni 2011
+[4]
+eine Verletzung des Beschleunigungsgebots nicht zuletzt deshalb, weil es auf die Zusicherung der Staatsanwaltschaft abstellte, sie werde bis Ende Juni 2011 Anklage erheben.
+b)    Gemäss Art. 92 StPO können die Behörden auf Gesuch hin die von ihnen angesetzten Fristen erstrecken. Das Gesuch muss vor Ablauf der Frist gestellt werden und hinreichend begründet sein. Auch wenn Art. 92 StPO an keine besonderen Voraussetzungen gebunden ist, bedeutet dies nicht, dass die Behörden erlassene verfahrensleitende Verfügungen ohne weiteres abändern dürfen. Vorausgesetzt ist aufgrund des Beschleunigungsgebots vielmehr ein zureichender Grund, welcher ein Zurückkommen auf die ursprüngliche Anordnung rechtfertigt
+[5]
+. Bei der materiellen Prüfung eines Fristerstreckungsgesuchs steht der zuständigen Behörde ein weites Ermessen zu. Dies kann zwar nicht bedeuten, dass eine Fristerstreckung beliebig verweigert werden darf. Werden ernsthafte Gründe geltend gemacht und sprechen keine überwiegenden Interessen gegen eine Fristverlängerung, ist das Gesuch gutzuheissen. Genügen allerdings die geltend gemachten Gründe den gesetzlichen Anforderungen nicht, ist das Gesuch abzuweisen, und es bleibt bei der ursprünglichen Fristansetzung
+[6]
+.
+Bei Gesuchen mit der Standardbegründung wie etwa Arbeitsüberlastung, Auslandaufenthalt oder Krankheit liegt grundsätzlich ein nachvollziehbarer Grund für eine Fristerstreckung vor. Das gilt jedenfalls, wenn die Strafsache nicht besonders dringlich ist
+[7]
+. Der Beschwerdeführer und sein amtlicher Verteidiger durften aber in diesem Verfahren, in welchem sie wiederholt die Verletzung des Beschleunigungsgebots rügten, nicht darauf vertrauen, es werde dem am letzten Tag der angesetzten Frist gestellten Fristerstreckungsgesuch, das lediglich eine Standardbegründung enthielt, entsprochen. Angesichts der zeitlichen Dringlichkeit der Strafsache, die allen Beteiligten bekannt war, hätte der Beschwerdeführer beziehungsweise sein amtlicher Verteidiger konkret darlegen müssen, dass und weshalb ihm die Einhaltung der ursprünglich angesetzten Frist nicht möglich sei. Da er sich aber lediglich mit einer Standardbegründung begnügte, kann er nicht im Nachhinein bei Abweisung des Fristerstreckungsgesuchs eine Verletzung des rechtlichen Gehörs geltend machen. Das gilt umso mehr, als seit dem Entscheid des Bundesgerichts vom 7. Juni 2011 hinreichend deutlich war, dass nicht ohne weiteres mit einer Fristerstreckung gerechnet werden konnte. Mithin trug der amtliche Verteidiger, der sein Gesuch im letzten Moment ohne konkrete Begründung stellte, das Risiko der Abweisung des Gesuchs
+[8]
+. Zu Recht wies daher die Staatsanwaltschaft das Fristerstreckungsgesuch ab.
+Obergericht, 2. Abteilung, 4. August 2011, SW.2011.101
+[1]
+Art. 92 StPO
+[2]
+Art. 91 StPO
+[3]
+Steiner, Basler Kommentar, Art. 318 StPO N 7
+[4]
+1B_217/2011
+[5]
+Riedo, Basler Kommentar, Art. 92 StPO N 10
+[6]
+Riedo, Art. 92 StPO N 29 und 32
+[7]
+Riedo, Art. 92 StPO N 24
+[8]
+Riedo, Art. 92 StPO N 33
