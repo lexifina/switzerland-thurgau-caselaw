@@ -1,0 +1,46 @@
+---
+decision_id: "tg_obergericht_RBOG_2011_Nr._21"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2011 Nr. 21"
+decided: "2011-06-09"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2011-nr-21"
+cites_law: ["switzerland/bund/acts/312.0/art-076.md", "switzerland/bund/acts/312.0/art-111.md", "switzerland/bund/acts/312.0/art-143.md", "switzerland/bund/acts/312.0/art-158.md", "switzerland/bund/acts/312.0/art-306.md"]
+---
+
+# TG Obergericht RBOG 2011 Nr. 21
+
+## Regeste
+
+Telefonische Abklärungen beim Tatverdächtigen verletzen die Dokumentationspflicht
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 21
+Thurgovie Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 21
+Turgovia Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 21
+
+RBOG 2011 Nr. 21
+Skip to main content
+Show navigation
+Telefonische Abklärungen beim Tatverdächtigen verletzen die Dokumentationspflicht
+Art. 76 ff. StPO
+,
+Art. 111 Abs. 1 StPO
+,
+Art. 143 Abs. 1 StPO
+,
+Art. 158 Abs. 1 StPO
+1. Die polizeilichen Ermittlungen beschränkten sich auf Erkundigungen im Internet, Abklärungen über den Standort der Server und ein Telefonat mit dem Beschuldigten. In der Folge verfügte die Staatsanwaltschaft die Nichtanhandnahme einer Strafuntersuchung.
+2. Die Art. 76 ff. StPO statuieren allgemein die Dokumentationspflicht und gelten mangels ausdrücklichen Vorbehalts auch für das polizeiliche Ermittlungsverfahren[1]. Wenn davon im selbstständigen polizeilichen Ermittlungsverfahren und bei Bagatellfällen in einer ersten Phase abgewichen wird, mag dies im Einzelfall hin und wieder angehen. Aber selbst dann hält Art. 306 Abs. 3 StPO ausdrücklich fest, dass sich die Polizei bei ihrer Tätigkeit, worunter mitunter auch die Befragung tatverdächtiger Personen fällt[2], nach den Vorschriften über die Strafuntersuchung zu richten hat. Wer einer Straftat verdächtigt wird, gilt gemäss Art. 111 Abs. 1 StPO als beschuldigte Person. Als solche ist sie laut Art. 143 Abs. 1 und 158 Abs. 1 StPO zu Beginn der Einvernahme umfassend über ihre Rechte, namentlich das Recht zur Aussage- und Mitwirkungsverweigerung, und ihre Pflichten zu belehren sowie über den Gegenstand des Strafverfahrens und die Eigenschaft, in der sie einvernommen wird, zu informieren. Einvernahmen ohne diese Hinweise sind nach Art. 158 Abs. 2 StPO nicht verwertbar. Telefonische Abklärungen bei potentiellen Tätern sind daher unzulässig. Dies war unter der Herrschaft der StPO TG nicht anders.
+Bevor aber der Beschuldigte nicht wenigstens einmal strafprozesskonform befragt worden ist und eine allfällige strafrechtliche Mitverantwortung von ihm nicht zweifelsfrei ausgeschlossen werden kann, darf das Verfahren gegen ihn nicht erledigt werden.
+Obergericht, 2. Abteilung, 9. Juni 2011, SW.2011.63
+[1] Rhyner, in: Polizeiliche Ermittlung (Hrsg.: Albertini/Fehr/Voser), Zürich/Basel/Genf 2008, S. 108, 113; Näpfli, Basler Kommentar, Art. 76 StPO N 8
+[2] Art. 306 Abs. 2 lit. b StPO
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
