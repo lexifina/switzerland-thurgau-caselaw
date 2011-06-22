@@ -1,0 +1,47 @@
+---
+decision_id: "tg_obergericht_TVR_2012_Nr._19"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2012 Nr. 19"
+decided: "2011-06-22"
+published: "2012-02-08"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2012-nr-19"
+---
+
+# TG Obergericht TVR 2012 Nr. 19
+
+## Regeste
+
+Gewichtung des Preises
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 08.02.2012 TVR 2012 Nr. 19
+Thurgovie Obergericht Rechenschaftsbericht 08.02.2012 TVR 2012 Nr. 19
+Turgovia Obergericht Rechenschaftsbericht 08.02.2012 TVR 2012 Nr. 19
+
+TVR 2012 Nr. 19
+Skip to main content
+Show navigation
+Gewichtung des Preises
+§ 42 Abs. 1 VöB
+Die Gewichtung des Preises im vorliegenden Fall mit lediglich 30% bei einer wohl anspruchsvollen, nicht aber hochkomplexen Arbeit ist nicht gerechtfertigt.
+Für den Sachverhalt wird vorweg auf TVR 2012 Nr. 18 (Entscheid vom 22. Juni 2011) verwiesen. Nach der Rückweisung an die Politische Gemeinde R zur Neuvergabe hielt diese mit Beschluss vom 26. September 2011 an ihrem bisherigen Entscheid fest und erteilte den Zuschlag für die zu vergebenden Planungs- und Bauleitungsarbeiten wiederum an die INGE. Gegen diesen Entscheid erhob die F AG erneut Beschwerde. Das Verwaltungsgericht heisst diese gut und erteilt der zweitplatzierten F AG den Zuschlag.
+Aus den Erwägungen:
+3.
+3.1 Das Verwaltungsgericht hatte im Entscheid vom 22. Juni 2011 ausgeführt, es sei nicht ersichtlich, inwiefern sich die Gewichtung des Preises mit lediglich 30% gegenüber einer Gewichtung der Schlüsselpersonen mit insgesamt 50% rechtfertige. In diesem Verfahren begründet die Beschwerdegegnerin ihr Vorgehen mit der Tatsache, dass es sich bei der NLK um ein komplexes Bauvorhaben handle. Die zu vergebenden Aufträge seien in verschiedene Lose aufgeteilt worden, um so möglichst viele Anbieter berücksichtigen zu können. Der reibungslose Ablauf werde demnach durch qualifiziertes Schlüsselpersonal garantiert.
+3.2 Für das Verwaltungsgericht ist die Begründung der Beschwerdegegnerin höchstens teilweise nachvollziehbar. Begründet wird die Komplexität des Projekts mit der Aufteilung in verschiedene Lose und dem dadurch erhöhten Koordinationsbedarf. Die Herstellung dieser Koordination ist aber nicht unbedingt Sache des Projektleiters der einzelnen Lose, sondern vor allem des Gesamtbau-/Gesamtprojektleiters. Er muss dafür sorgen, dass die einzelnen von der Beschwerdegegnerin vergebenen Arbeiten untereinander richtig koordiniert werden. Vorliegend geht es aber nur um die Vergabe eines einzelnen Loses bzw. um die Erfüllung der darin beschriebenen Aufgaben. Dass hierzu im Rahmen einer Gesamtprojektierung grundsätzlich erfahrenes Personal Vorteile bringt, lässt sich nicht bestreiten. Fragwürdig und für das Verwaltungsgericht nach wie vor nicht nachvollziehbar ist aber die (zu) hohe Gewichtung des Kriteriums der Schlüsselpersonen im Rahmen der Vergabe. Jedes Ingenieurbüro, das Ingenieurarbeiten in der Art der ausgeschriebenen anbietet, ist fachlich in der Lage, das ausgeschriebene Projekt durchzuführen. Mit dem erhöhten Koordinationsbedarf kann daher die Komplexität und damit die Zulässigkeit der Überbetonung der Qualifikation der Schlüsselpersonen nicht begründet werden (vgl. hierzu auch unten E. 6.2).
+4. und 5 (…)
+6.
+6.1 Das Verwaltungsgericht hat im Entscheid vom 22. Juni 2011 auf die Problematik der relativ tiefen Gewichtung des Preises hingewiesen, ohne sich jedoch hierzu näher zu äussern. Der Grund für die Zurückhaltung lag letztlich darin, dass unklar war, ob die hohe Gewichtung hinsichtlich der Qualifikation der Schlüsselpersonen gerechtfertigt war oder nicht. Es wurde oben unter E. 3.2 ausgeführt, dass das Verwaltungsgericht diese Gewichtung nicht für gerechtfertigt hält. Das Bundesgericht hat bei der Gewichtung des Zuschlagskriteriums „Preis“ einen Wert von 20% selbst für komplexe Beschaffungen als grundsätzlich an der untersten Grenze des Zulässigen liegend qualifiziert (BGE 129 I 313 E. 9.2). Eine zu niedrige Gewichtung des Preises bzw. der Investitionskosten verletzt den Grundsatz der Zuschlagserteilung an das wirtschaftlich günstigste Angebot und steht auch im Widerspruch zur Zielsetzung, die öffentlichen Mittel möglichst wirtschaftlich einzusetzen (Galli/Moser/Lang/Clerc, a.a.O., N. 527). Bei der Festlegung der Gewichtung der Kriterien kommt dem Auftraggeber zwar ein grosses Ermessen zu, das zu überprüfen dem Verwaltungsgericht nur im Rahmen seiner Überprüfungsbefugnis erlaubt ist. Das Verwaltungsgericht hat in TVR 2006 Nr. 26 mit Bezug auf die Projektierung einer Mehrzweckhalle festgestellt, die Gewichtung des Preises mit 45% sei als relativ tief anzusehen.
+6.2 Die Beschwerdegegnerin führt aus, sowohl im Kanton als auch in der Politischen Gemeinde R sei es üblich, den Preis sehr tief zu bewerten, um dem vorherrschenden Preisdumping der Ingenieure entgegenzuhalten.
+Bereits der Ausdruck „wirtschaftlich günstigstes Angebot“ bringt zum Ausdruck, dass nicht unbedingt das preislich niedrigste das wirtschaftlich günstigste ist. Es kann aber nicht sein, dass Auftraggeber prohibitiv versuchen, einen - vom Submissionsrecht gewollten - Konkurrenzkampf auf der Ebene des Preises zu unterbinden, indem ein nicht übermässig anspruchsvoller Auftrag als komplex bezeichnet und dadurch dem Preis lediglich 30% Gewicht gegeben wird. Solches Vorgehen ist zweifelsfrei nicht im Sinne des Submissionsrechts (vgl. hierzu auch BGE 129 I 313 ff. = Pra 93/2004 Nr. 64). Es ist weder Sache des Kantons, noch die Angelegenheit anderer öffentlich-rechtlicher Auftraggeber, die dem Submissionsrecht unterstehen, den grundsätzlich gewollten Konkurrenzkampf unter den Anbietern zu unterbinden. Die Gewichtung des Preises im vorliegenden Fall mit lediglich 30% bei einer wohl anspruchsvollen, nicht aber hochkomplexen Arbeit ist nicht gerechtfertigt. Noch einmal sei betont, dass die von der Beschwerdegegnerin behauptete Komplexität im von ihr selbst geschaffenen Koordinationsproblem liegt und nicht in der eigentlich ausgeschriebenen Arbeit. In diesem Zusammenhang weist die Beschwerdeführerin denn auch zu Recht darauf hin, dass sie durch die ihr in einem Vorprojekt übertragenen Arbeiten bereits Vorkenntnisse besitzt, was für sie die Arbeit als noch weniger komplex erscheinen lässt. Der Koordinationsbedarf beschlägt jedenfalls vor allem die Beschwerdegegnerin selbst, nicht aber die von der Beschwerdeführerin auszuführende Arbeit.
+Eine sehr tiefe Gewichtung des Preises ist nur dann angezeigt, wenn es zum Beispiel um Tunnelbauten geht, die sehr komplex sind und bei denen nur wenige Fachpersonen über das nötige Know-how verfügen. Die hier zu vergebenden Arbeiten - und das bestreitet auch die Beschwerdegegnerin nicht - können von einer Vielzahl von Ingenieurbüros im Kanton Thurgau und auch in der Umgebung der Politischen Gemeinde R geleistet werden. Die Gewichtung des Preises mit lediglich 30% ist daher rechtswidrig und kommt einer Ermessensunterschreitung gleich. Die gestellte Aufgabe lässt sich in ihrer Komplexität wahrscheinlich nicht einmal mit der Erstellung des Mehrzweckgebäudes vergleichen, wie sie in TVR 2006 Nr. 26 zu beurteilen war. Dort wurde eine Gewichtung des Preises mit 45% als gerade noch tolerierbare untere Gewichtung bezeichnet. Vorliegend muss ebenfalls eine Gewichtung des Preises von mindestens 40% bis 50% resultieren. Nimmt man die Bewertungstabelle der Beschwerdegegnerin zur Hand und wendet man die soeben skizzierten Grundsätze an, so ergibt sich Folgendes: Wenn man den Gewichtungsfaktor des Preises auf 45% erhöht (genügen würden sogar lediglich 40%), so resultiert ohne weiteres, dass die Beschwerdeführerin die höchste Punktzahl erreicht und den Zuschlag hätte erhalten müssen. Wie dabei die übrigen Gewichtungen zu kürzen wären, kann offen bleiben. Die Beschwerde ist daher auch aus diesem Grund gutzuheissen.
+Entscheid vom 8. Februar 2012
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
