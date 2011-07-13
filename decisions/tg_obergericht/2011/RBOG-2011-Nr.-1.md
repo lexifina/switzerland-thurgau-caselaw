@@ -1,0 +1,52 @@
+---
+decision_id: "tg_obergericht_RBOG_2011_Nr._1"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2011 Nr. 1"
+decided: "2011-07-13"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2011-nr-1"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/272/art-053.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-327.md"]
+---
+
+# TG Obergericht RBOG 2011 Nr. 1
+
+## Regeste
+
+Verletzung des rechtlichen Gehörs; keine Heilung im Beschwerdeverfahren
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2010 RBOG 2011 Nr. 1
+Thurgovie Obergericht Rechenschaftsbericht 2010 RBOG 2011 Nr. 1
+Turgovia Obergericht Rechenschaftsbericht 2010 RBOG 2011 Nr. 1
+
+RBOG 2011 Nr. 1
+Skip to main content
+Show navigation
+Verletzung des rechtlichen Gehörs; keine Heilung im Beschwerdeverfahren
+Art. 29 Abs. 2 BV
+,
+Art. 53 ZPO
+,
+Art. 319 ff. ZPO
+1. a) Der Einzelrichter erteilte in einer Betreibung gegen den Beschwerdeführer provisorische Rechtsöffnung. Dieser erhob Beschwerde und machte geltend, nach seiner Stellungnahme hätten die Beschwerdegegner der Vorinstanz weitere Unterlagen zugestellt, wo­rauf sich das Gericht abgestützt habe, ohne diese zuvor dem Beschwerdeführer zur Kenntnis zu bringen. Damit sei sein rechtliches Gehör verletzt worden.
+b) Die Vorinstanz übermittelte dem Obergericht die Akten mit dem Hinweis, die unaufgefordert eingereichte Stellungnahme der Beschwerdegegner sei versehentlich in die Entscheidbegründung eingeflossen, ohne dass sie dem Beschwerdeführer zur Stellungnahme unterbreitet worden sei. Das Dokument sei dem Vertreter des Beschwerdeführers jedoch vom Gegenanwalt als Anwaltskopie zugestellt worden.
+2. a) Die Vorinstanz stellte dem Beschwerdeführer die von den Beschwerdegegnern eingereichten Akten nicht zur Stellungnahme zu. Trotzdem nahm sie im Entscheid ausdrücklich Bezug auf jene Eingabe und stützte ihren Entscheid unter anderem auch auf die Bestätigung des Bauleiters, welche als neues Aktenstück eingereicht worden war. Sie erwog ferner, in Bezug auf diese Bestätigung seien keine Einwendungen seitens des Gesuchsgegners vorgebracht worden.
+b) Art. 29 Abs. 2 BV verleiht der Verfahrenspartei den Anspruch, in alle für den Entscheid wesentlichen Akten Einsicht zu nehmen und sich dazu zu äussern[1]. Dies bedeutet, dass ein Gericht jede bei ihm eingereichte Stellungnahme den Beteiligten zur Kenntnis zu bringen hat[2]. Dieser Grundsatz gilt auch im Rechtsöffnungsverfahren[3]. Da die Vorinstanz dem Beschwerdeführer vor der Fällung des Entscheids weder die Stellungnahme der Gegenpartei noch die neuen Akten zukommen liess und er daher keine Gelegenheit erhielt, sich dazu noch zu äussern, wurde sein rechtliches Gehör verletzt. Daran ändert nichts, dass in der Eingabe erwähnt war, eine Kopie sei als Anwaltskopie auch dem Rechtsvertreter des Beschwerdeführers zugestellt worden, wie dies die Vorinstanz in ihrer Stellungnahme anmerkte: Dies entband die Vorinstanz nicht von der ihr gestützt auf Art. 29 Abs. 2 BV obliegenden Pflicht, neue Eingaben und Akten der anderen Partei zuzustellen, zumal ein Beleg für die tatsächliche Zustellung einer Anwaltskopie (zwangsläufig) fehlt.
+3. a) Eine nicht besonders schwerwiegende Verletzung des rechtlichen Gehörs kann ausnahmsweise als geheilt gelten, wenn die betroffene Person die Möglichkeit erhält, sich vor einer Rechtsmittelinstanz zu äussern, die sowohl den Sachverhalt als auch die Rechtslage frei überprüfen kann[4].
+b) Entscheide im Rechtsöffnungsverfahren sind gemäss Art. 309 lit. b Ziff. 3 ZPO nicht berufungsfähig und können nur mit Beschwerde angefochten werden. Die Beschwerde ist nach Art. 320 ZPO lediglich im Hinblick auf Rügen bezüglich unrichtiger Rechtsanwendung[5] ein vollkommenes Rechtsmittel; in tatsächlicher Hinsicht ist die Kognition auf die Prüfung offensichtlich unrichtiger Feststellung des Sachverhalts beschränkt[6]. Da es sich insofern bei der Beschwerde nicht um ein vollkommenes Rechtsmittel handelt, ist die Heilung einer Verletzung des rechtlichen Gehörs im Beschwerdeverfahren nicht möglich. Der angefochtene Entscheid ist folglich aufzuheben, und die Sache ist gestützt auf Art. 327 Abs. 3 lit. a ZPO an die Vorinstanz zurückzuweisen[7].
+Obergericht, 1. Abteilung, 13. Juli 2011, BR.2011.38
+[1] BGE 129 I 88
+[2] BGE 133 I 99 f.
+[3] BGE vom 22. Januar 2008, 5A_151/2007, Erw. 3.2
+[4] BGE 133 I 204, 127 V 437 f.
+[5] Art. 320 lit. a ZPO
+[6] Art. 320 lit. b ZPO
+[7] Freiburghaus/Afheldt, in: Kommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Hasenböhler/Leuenberger), Zürich 2010, Art. 327 N 11
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
