@@ -1,0 +1,58 @@
+---
+decision_id: "tg_obergericht_RBOG_2011_Nr._14"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2011 Nr. 14"
+decided: "2011-07-13"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2011-nr-14"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/210/art-291.md", "switzerland/bund/acts/272/art-308.md", "switzerland/bund/acts/272/art-309.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-335.md", "switzerland/bund/acts/272/art-341.md", "switzerland/bund/acts/281.1/art-083.md"]
+---
+
+# TG Obergericht RBOG 2011 Nr. 14
+
+## Regeste
+
+Die Schuldneranweisung ist kein Entscheid des Vollstreckungsgerichts im Sinn von Art. 309 lit. a ZPO
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 14
+Thurgovie Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 14
+Turgovia Obergericht Rechenschaftsbericht 2011 RBOG 2011 Nr. 14
+
+Die Schuldneranweisung ist kein Entscheid des Vollstreckungsgerichts im Sinn von Art. 309 lit. a ZPO
+
+RBOG 2011 Nr. 14
+Skip to main content
+Show navigation
+Die Schuldneranweisung ist kein Entscheid des Vollstreckungsgerichts im Sinn von Art. 309 lit. a ZPO
+Art. 291 ZGB
+,
+Art. 309 lit. a ZPO
+1. Nach Art. 309 ZPO ist die Berufung unzulässig gegen Entscheide des Vollstreckungsgerichts[1] und in verschiedenen Angelegenheiten des SchKG[2]. Diese sind gemäss Art. 319 lit. a ZPO mit Beschwerde anfechtbar. Sinn und Zweck von Art. 309 ZPO ist es, das Rechtsmittelverfahren gegen Entscheide der ersten kantonalen Instanz in den aufgeführten Fällen der Vollstreckung und des SchKG zu beschleunigen[3]. Den Vollstreckungsverfahren gehen häufig Erkenntnisverfahren voraus, in welchen sämtliche Tat- und Rechtsfragen bereits umfassend beurteilt wurden. Ebenfalls kein vollkommenes Rechtsmittel ist nötig, wenn in einem nachfolgenden Verfahren noch sämtliche Einreden und Einwendungen einem mit voller Kognition entscheidenden Gericht vorgetragen werden können, wie dies etwa einem Schuldner im Rahmen einer Aberkennungsklage[4] möglich ist, wenn dem Gläubiger vorgängig provisorische Rechtsöffnung[5] erteilt wurde. In derartigen Fällen wäre ein vollkommenes Rechtsmittel aus prozessökonomischen Gründen nicht verhältnismässig und würde dem Grundsatz der Verfahrensbeschleunigung[6] zuwiderlaufen[7].
+2. a) Wenn die Eltern die Sorge für das Kind vernachlässigen, kann der Richter ihre Schuldner gestützt auf Art. 291 ZGB anweisen, die Zahlungen ganz oder zum Teil an den gesetzlichen Vertreter des Kindes zu leisten. Die Schuldneranweisung, welche das Bundesgericht als "privilegierte Zwangsvollstreckungsmassnahme sui generis" bezeichnet[8], wird in Art. 309 ZPO nicht ausdrücklich erwähnt. Es wäre denkbar, sie als "Entscheid des Vollstreckungsgerichts" im Sinn von Art. 309 lit. a ZPO zu betrachten und gegen einen Entscheid über die Anordnung der Schuldneranweisung die Berufung nicht zuzulassen.
+b) Dagegen spricht aber zunächst, dass Art. 309 ZPO als Ausnahmekatalog eine Abweichung von der Regel der grundsätzlichen Zulässigkeit der Berufung darstellt, weshalb Art. 309 ZPO restriktiv zu interpretieren ist. Die Liste der Ausnahmen in Art. 309 ZPO ist abschliessend; eine Ausweitung des Ausnahmekatalogs im Sinn einer analogen Anwendung von Art. 309 ZPO ist daher nicht möglich, zumal dies eine Einschränkung des Rechtsschutzes bedeuten würde[9].
+c) Weiter ist die Prüfungsbefugnis des Vollstreckungsgerichts nicht identisch mit derjenigen bei der Anordnung einer Schuldneranweisung: Bei der Realvollstreckung im Sinn von Art. 335 ff. ZPO hat der Richter nach Art. 341 Abs. 1 ZPO einerseits von Amtes wegen zu prüfen, ob ein Entscheid vollstreckbar ist; andererseits kann die unterlegene Partei gemäss Art. 341 Abs. 3 ZPO materiell einwenden, seit Eröffnung des Entscheids seien Tatsachen eingetreten, welche der Vollstreckung entgegenstünden, wie insbesondere Tilgung, Stundung, Verjährung oder Verwirkung der geschuldeten Leistung. Die Schuldneranweisung kann nur angeordnet werden, wenn der Unterhaltsbetrag wiederholt nicht oder unpünktlich bezahlt wurde und zu befürchten ist, dies werde auch künftig wieder geschehen[10]. Im Verfahren betreffend die Anordnung einer Schuldneranweisung ist somit nicht nur zu prüfen, ob in einem vollstreckbaren Urteil oder in einem Vertrag Kinderunterhaltsbeiträge festgelegt wurden[11], sondern auch, ob der Unterhaltsschuldner die Sorge für das Kind vernachlässigt habe.
+d) Die Frage der Vernachlässigung unterhaltsrechtlicher Pflichten bildete nicht Gegenstand des Verfahrens zur Festsetzung der Unterhaltsbeiträge; das Gesetz sieht auch kein nachträgliches Verfahren vor, in welchem diese Frage noch einmal zu prüfen wäre. Würde die Schuldneranweisung unter die Ausnahmen von Art. 309 ZPO fallen, so hätte dies zur Folge, dass nur eine Instanz die entscheidende Frage, ob eine Vernachlässigung unterhaltsrechtlicher Pflichten vorliegt, vollumfänglich prüfen könnte; hinsichtlich der Sachverhaltsfeststellung gälte im Beschwerdeverfahren eine beschränkte Kognition, denn mit der Beschwerde kann nur die offensichtlich unrichtige Feststellung des Sachverhalts gerügt werden[12]. Die Schuldneranweisung hat einen schweren Eingriff in die Stellung des Unterhaltsschuldners gegenüber seinen eigenen Schuldnern zur Folge[13]. Daher ist eine Einschränkung des Rechtsschutzes, welche die (analoge) Anwendung von Art. 309 ZPO mit sich brächte, nicht zu verantworten. Ein Entscheid über die Anordnung der Schuldneranweisung ist folglich gestützt auf Art. 308 Abs. 1 ZPO mit Berufung anfechtbar, sofern der Streitwert mindestens Fr. 10'000.00 beträgt[14].
+Obergericht, 1. Abteilung, 13. Juli 2011, ZBR.2011.56
+[1] Art. 309 lit. a ZPO
+[2] Art. 309 lit. b ZPO
+[3] Blickenstorfer, in: Schweizerische Zivilprozessordnung (Hrsg.: Brunner/Gasser/ Schwander), Zürich/St. Gallen 2011, Art. 309 N 6
+[4] Art. 83 Abs. 2 SchKG
+[5] Art. 82 f. SchKG
+[6] Art. 29 Abs. 1 BV
+[7] Reetz/Theiler, in: Kommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Hasen­böh­ler/Leu­en­berger), Zürich 2010, Art. 309 N 4
+[8] BGE 137 III 193, 134 III 668
+[9] Reetz/Theiler, Art. 309 ZPO N 9; vgl. Spühler, Basler Kommentar, Art. 309 ZPO N 1; Seiler, Die Berufung nach der Schweizerischen Zivilprozessordnung, Diss. Basel 2011, N 307 (der den Grundsatz der restriktiven Auslegung von Ausnahmen ablehnt, aber eine analoge Erweiterung des Ausnahmekatalogs von Art. 309 ZPO gestützt auf den "taxativen Charakter dieser Bestimmung" ebenfalls als unzulässig erachtet).
+[10] Hegnauer, Berner Kommentar, Art. 291 ZGB N 9
+[11] Hegnauer, Art. 291 ZGB N 8
+[12] Art. 320 lit. b ZPO
+[13] Vgl. Breitschmid, Basler Kommentar, Art. 291 ZGB N 2
+[14] Art. 308 Abs. 2 ZPO
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
