@@ -1,0 +1,44 @@
+---
+decision_id: "tg_obergericht_TVR_2012_Nr._40"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2012 Nr. 40"
+decided: "2011-09-20"
+published: "2012-07-02"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2012-nr-40"
+---
+
+# TG Obergericht TVR 2012 Nr. 40
+
+## Regeste
+
+Abzugsfähigkeit von Liegenschaftenunterhaltskosten bei Eigentümerwechsel
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 02.07.2012 TVR 2012 Nr. 40
+Thurgovie Obergericht Rechenschaftsbericht 02.07.2012 TVR 2012 Nr. 40
+Turgovia Obergericht Rechenschaftsbericht 02.07.2012 TVR 2012 Nr. 40
+
+TVR 2012 Nr. 40
+Skip to main content
+Show navigation
+Abzugsfähigkeit von Liegenschaftenunterhaltskosten bei Eigentümerwechsel
+§ 34 Abs. 1 Ziff. 1 StG
+Ausserordentliche und in der Regel einmalige Unterhaltskosten, welche nicht für eine bestimmte Zeitperiode geschuldet sind, können bei einem Eigentümerwechsel in Anwendung der allgemeinen Grundsätze von derjenigen Person von den steuerbaren Einkünften abgezogen werden, welche hinsichtlich des Vermögenswertes sowie des Mietwertes steuerpflichtig ist. Bei periodischen, ordentlicherweise anfallenden Unterhaltskosten, welche für eine bestimmte Zeitperiode geschuldet sind, steht dem Verkäufer ein pro rata temporis Abzug zu, sofern ein Teil der Ausgaben einer Zeitperiode zuzuordnen ist, in welchem der Verkäufer noch Eigentümer der Liegenschaft war.
+Die Rekurrenten verkauften per 1. April 2010 ihre Liegenschaft in D. In der Steuererklärung 2010 deklarierten sie für diese Unterhaltskosten in Höhe von Fr. 6'042.00. Die Veranlagungsbehörde liess demgegenüber im Veranlagungsentscheid vom 20. September 2011 nur Unterhaltskosten von Fr. 2'827.00 zum Abzug zu. Zur Begründung führte sie an, die betreffenden Unterhaltskosten seien nach dem Verkaufszeitpunkt der Liegenschaft in Rechnung gestellt worden. Eine dagegen erhobene Einsprache wurde mit Entscheid vom 18. Oktober 2011 abgewiesen. Die Steuerrekurskommission heisst den gegen den Einspracheentscheid erhobenen Rekurs teilweise gut.
+Aus den Erwägungen:
+4.3 (…) Um eine Steuerumgehung auszuschliessen, drängt sich für eine sachgerechte Lösung eine Unterteilung der Unterhaltskosten in zwei verschiedene Kategorien auf. Die erste Kategorie beinhaltet ausserordentliche und in der Regel einmalige Unterhaltskosten, welche nicht für eine bestimmte Zeitperiode geschuldet sind. Die zweite Kategorie beinhaltet periodische, ordentlicherweise anfallende Unterhaltskosten, welche einem bestimmten Zeitraum zugeordnet werden können bzw. für eine bestimmte Zeitperiode geschuldet sind.
+4.3.1 Bei der ersten Kategorie der Unterhaltskosten kann der Eigentümer - zumindest in gewissem Masse - darüber verfügen, ob und wann die Kosten anfallen. Diese ausserordentlichen Unterhaltskosten betreffen nicht einen bestimmten Zeitraum, sondern sind meist einmalige Ausgaben oder unregelmässig anfallende Kosten. Der Vorinstanz ist bezüglich dieser Kategorie von Kosten zuzustimmen, dass die Gefahr der Steuerumgehung besteht, wenn solche Kosten nach Eigentumsübergang zum Abzug zugelassen würden. Dies ist insbesondere der Fall, wenn eine Liegenschaft mit Verlust verkauft wird und daher kein Grundstückgewinn resultiert. Durch die Bezahlung von Unterhaltskosten (bzw. durch das Inaussichtstellen von Unterhaltsarbeiten) könnte unter Umständen ein höherer Erlös erzielt werden, ohne dass eine Grundstückgewinnsteuer geschuldet wäre und die Unterhaltskosten könnten vollumfänglich vom Einkommen abgezogen werden. Bezüglich dieser Unterhaltskosten ist daher in Anwendung der allgemeinen Grundsätze diejenige Person zum Abzug berechtigt, welche hinsichtlich des Vermögenswertes sowie des (Eigen-)Mietwertes steuerpflichtig ist und damit derjenige Eigentümer, der zum Zeitpunkt der Rechnungsstellung oder Bezahlung Eigentümer, Nutzniesser bzw. Wohnrechtsberechtigter ist. Schliesslich fliesst der Nutzen aus diesen Unterhaltsaufwendungen in der Regel auch ausschliesslich dem (neuen) Eigentümer zu. (…)
+4.3.2 Hingegen kann der Steuerpflichtige in der Regel nicht - bzw. allenfalls nur in sehr beschränktem Masse - entscheiden, wann er die periodisch anfallenden oder ordentlichen Kosten bezahlen will, so etwa bei der Gebäudeversicherung, bei Kaminfegerkosten etc. Beim Abzug von Unterhaltskosten kann der Steuerpflichtige jedes Jahr wählen, ob er die tatsächlichen Kosten oder einen Pauschalabzug geltend machen will (§ 9 Abs. 1 StV). Die Pauschale wird auf den bis zum Eigentumsübergang erzielten Erträgen berechnet, d.h. es wird nur der (Eigen-)Mietwert bis zum Verkauf der Liegenschaft berücksichtigt. Da für die periodischen bzw. ordentlichen Kosten die Gefahr einer Steuerumgehung nicht besteht, ist nicht ersichtlich, warum demjenigen Steuerpflichtigen, der sich für den Pauschalabzug entscheidet, eine pro rata temporis Lösung zugestanden wird, nicht jedoch demjenigen, der die tatsächlichen Kosten geltend machen will und die Abrechnung erst nach Eigentumsübergang erhält. Denn für den Fall des Pauschalabzugs werden dem Steuerpflichtigen die Abzüge gewährt, unabhängig davon, wann Rechnungen gestellt oder Zahlungen geleistet werden. Es erscheint daher sachgerecht, dem Verkäufer einer Liegenschaft bei dieser zweiten Kategorie von Unterhaltskosten, welche ordentlich anfallen und eine bestimmte Abrechnungsperiode betreffen, einen pro rata temporis Abzug zu gewähren, sofern die Ausgaben bzw. ein Teil davon einer Zeitperiode zugeordnet sind, in welchem der Verkäufer noch Eigentümer ist.
+(…)
+4.4.1 Beim Ersatz der Duschtrennwand handelt es sich um eine ausserordentliche, einmalige Unterhaltsarbeit. (…) Sowohl die Ausführung der Arbeiten am 28. April 2010 als auch die Rechnungsstellung vom 11. Mai 2010 erfolgten nach Eigentumsübergang. Die Rekurrenten waren weder zum Zeitpunkt der Ausführung noch der Rechnungsstellung Eigentümer, weshalb die Vorinstanz ihnen den Abzug für den Ersatz der Duschtrennwand zu Recht verweigerte.
+4.4.2 (…) Der Beitrag in den Erneuerungsfonds der Stockwerkeigentümergemeinschaft betrifft den Zeitraum 1. Juni 2009 bis 31. Mai 2010. (…) Die Kosten betreffen damit einen Zeitraum, in welchem die Rekurrenten noch Eigentümer der Liegenschaft waren. Sodann ist davon auszugehen, dass die Rekurrenten nicht entscheiden können, wann die alljährliche Abrechnung durch die Stockwerkeigentümergemeinschaft erfolgt bzw. wann die Abrechnungsperiode endet. Diese periodisch anfallenden Kosten sind daher der zweiten Kategorie von Unterhaltskosten zuzuordnen. Entsprechend sind den Rekurrenten die anteiligen Kosten für den Zeitraum Juni 2009 bis März 2010 zum Abzug zuzulassen (…). Im Mehrbetrag ist der Abzug zu verweigern, da die Kosten für April und Mai 2010 einen Zeitraum betreffen, in welchem die Rekurrenten nicht mehr Eigentümer waren. (…) Für den Zeitraum nach Eigentumsübergang wären die Kosten vom neuen Eigentümer in Abzug zu bringen, sofern er diese Kosten tatsächlich bezahlt hat. Umgekehrt sind hingegen Kosten, welche eine bestimmte Zeitperiode betreffen und im Voraus bezahlt worden sind, ebenfalls nur für denjenigen Zeitraum abziehbar, in welchem der Verkäufer noch Eigentümer der Liegenschaft war (z.B. wenn die Gebäudeversicherung im Voraus bezahlt wird). Damit wird eine Gleichstellung mit demjenigen Steuerpflichtigen erreicht, der die Unterhaltskosten pauschal geltend macht, da der Pauschalabzug auf den Mieteinnahmen bis zum Verkaufszeitpunkt berechnet wird.
+Entscheid der Steuerrekurskommission vom 2. Juli 2012
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
