@@ -1,0 +1,62 @@
+---
+decision_id: "tg_obergericht_RBOG_2011_Nr._24"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2011 Nr. 24"
+docket_2: "SW.2011.128"
+decided: "2011-09-29"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/79FBD6DF-BEAC-2F7D-354BF990E7934967.html"
+cites_law: ["switzerland/bund/acts/101/art-032.md", "switzerland/bund/acts/312.0/art-134.md"]
+---
+
+# TG Obergericht RBOG 2011 Nr. 24
+
+## Regeste
+
+Es mag sein, dass die vom amtlichen Verteidiger verlangten Fristerstreckungen nicht im Interesse des Beschwerdeführers lagen, auch wenn aufgrund der zahlreichen Beschwerden - es geht um 13 an der Zahl - in Sachen des Beschwerdeführers, die in den letzten neun Monaten vom Obergericht zu behandeln waren, mindestens gewisse Anhaltspunkte vorhanden sind, es gehe dem Beschwerdeführer selbst um die Verzögerung des Verfahrens. Selbst wenn aber davon ausgegangen wird, die verlangten ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 29.09.2011 RBOG 2011 Nr. 24 (SW.2011.128)
+Thurgovie Obergericht Rechenschaftsbericht 29.09.2011 RBOG 2011 Nr. 24 (SW.2011.128)
+Turgovia Obergericht Rechenschaftsbericht 29.09.2011 RBOG 2011 Nr. 24 (SW.2011.128)
+
+Es mag sein, dass die vom amtlichen Verteidiger verlangten Fristerstreckungen nicht im Interesse des Beschwerdeführers lagen, auch wenn aufgrund der zahlreichen Beschwerden - es geht um 13 an der Zahl - in Sachen des Beschwerdeführers, die in den letzten neun Monaten vom Obergericht zu behandeln waren, mindestens gewisse Anhaltspunkte vorhanden sind, es gehe dem Beschwerdeführer selbst um die Verzögerung des Verfahrens. Selbst wenn aber davon ausgegangen wird, die verlangten ...
+
+RBOG 2011 Nr. 24
+RBOG 2011 Nr. 24
+Voraussetzungen für den Wechsel des amtlichen Verteidigers
+(Art. 134 Abs. 2 StPO)
+1.     a)    Ist das Vertrauensverhältnis zwischen der beschuldigten Person und ihrer amtlichen Verteidigung erheblich gestört oder eine wirksame Verteidigung aus anderen Gründen nicht mehr gewährleistet, so überträgt die Verfahrensleitung die amtliche Verteidigung gemäss Art. 134 Abs. 2 StPO einer anderen Person.
+b)    Sind die entsprechenden Voraussetzungen gegeben, so bildet die Bestellung einer amtlichen Verteidigung als solche zwar notwendige Voraussetzung einer hinreichenden Verteidigung, genügt aber für sich allein noch nicht. Damit das Recht auf Verteidigung durch einen Beistand nicht blosse Leerformel bleibt, ist es erforderlich, dass die Interessen der beschuldigten Person im Verfahren effektiv wahrgenommen werden. Dies gilt sowohl nach Art. 32 Abs. 2 Satz 2 BV als auch nach Art. 6 Ziff. 3 lit. c EMRK. Die EMRK geht nicht nur von einer theoretischen Garantie, sondern von der konkreten Gewährleistung der Verteidigungsrechte während des gesamten Verfahrens aus. Die beschuldigte Person hat mit anderen Worten in jedem Fall Anspruch auf eine sachkundige, engagierte und effektive Verteidigung
+[1]
+. Anwendungsfall einer nicht wirksamen Verteidigung und damit Grund für einen Verteidigerwechsel ist nach dem Wortlaut von Art. 134 Abs. 2 StPO zunächst eine erhebliche Störung des Vertrauensverhältnisses zwischen der beschuldigten Person und ihrer Verteidigung. Während nach der bisherigen Rechtsprechung des Bundesgerichts eine solche Störung nicht ohne weiteres einen Wechsel der amtlichen Verteidigung zu rechtfertigen vermochte, trägt die Regelung von Art. 134 Abs. 2 StPO dem Umstand Rechnung, dass eine engagierte und wirksame Verteidigung nicht nur bei objektiver Pflichtverletzung der Verteidigung, sondern bereits bei erheblich gestörtem Vertrauensverhältnis beeinträchtigt sein kann. Hingegen genügt umgekehrt eine rein subjektiv geprägte Beurteilung der beschuldigten Person nach wie vor nicht; vielmehr müssen konkrete Anhaltspunkte für die erhebliche Störung des Vertrauensverhältnisses glaubhaft gemacht sein
+[2]
+. Keine relevante Störung des Vertrauensverhältnisses liegt etwa vor, wenn die Verteidigung eine problematische, aber von der beschuldigten Person gewünschte und verlangte Verteidigungsstrategie nicht übernimmt, oder wenn sie von der beschuldigten Person verlangte Ergänzungsfragen nicht stellt, weil sie diese für überflüssig, kontraproduktiv, unanständig oder unnötig diffamierend erachtet, oder wenn sie nicht bedingungslos glaubt, was die beschuldigte Person zu den ihr gemachten Vorwürfen sagt und das nicht ungefiltert gegenüber den Behörden vertritt
+[3]
+. Aus anderen Gründen als wegen eines gestörten Vertrauensverhältnisses kann der Anspruch auf wirksame Verteidigung etwa verletzt sein, wenn es die Verteidigung an der erforderlichen Sorgfalt bei der Vorbereitung von Einvernahmen oder anderen Prozesshandlungen fehlen lässt, wenn die Verteidigung an den wichtigsten Zeugeneinvernahmen nicht teilnimmt, soweit diese voraussichtlich ein massgebliches Beweismittel bilden werden, oder wenn es die Verteidigung während mehrerer Monate unterlässt, die beschuldigte Person in der Haftanstalt zu besuchen. Umgekehrt besteht keine Pflicht der Verteidigung zur Teilnahme an allen Untersuchungshandlungen, sofern sie die Notwendigkeit der Teilnahme zuvor abklärte und mit sachlichen Gründen verneinte
+[4]
+. Ineffektiv ist eine Verteidigung auch nicht bereits, wenn sie nicht alles tut, was die beschuldigte Person verlangt, denn sie ist nicht ihr unkritisches Sprachrohr und riskiert als amtliche Verteidigung, dass ihr Honorar gekürzt wird mit der Begründung, es sei zu grosser Aufwand betrieben worden. Die Verteidigung muss deshalb das Mandat mit der nötigen Sorgfalt ausüben und die Notwendigkeit prozessualer Vorkehren sachgerecht und kritisch abwägen. Deshalb muss die Verteidigung auch die Möglichkeit haben, Ansinnen der beschuldigten Person abzulehnen
+[5]
+. Zu bedenken ist schliesslich, dass bei zu grosszügiger Zulassung eines Verteidigerwechsels Prozessverzögerungen und Mehrkosten drohen
+[6]
+.
+2.     a)    Der Beschwerdeführer bringt zunächst vor, sein amtlicher Verteidiger sei seit einem halben Jahr untätig und unwillig, mit ihm zusammenzuarbeiten, was die wiederholt verlangten Fristerstreckungen, die nicht in seinem Interesse gewesen seien, aufzeigen würden.
+Es mag sein, dass die vom amtlichen Verteidiger verlangten Fristerstreckungen nicht im Interesse des Beschwerdeführers lagen, auch wenn aufgrund der zahlreichen Beschwerden - es geht um 13 an der Zahl - in Sachen des Beschwerdeführers, die in den letzten neun Monaten vom Obergericht zu behandeln waren, mindestens gewisse Anhaltspunkte vorhanden sind, es gehe dem Beschwerdeführer selbst um die Verzögerung des Verfahrens. Selbst wenn aber davon ausgegangen wird, die verlangten Fristerstreckungen hätten nicht im Interesse des Beschwerdeführers gelegen, ist zu berücksichtigen, dass der Beschwerdeführer nicht der einzige Mandant seines Verteidigers ist und deshalb keinen Anspruch hat, dieser müsse zu seinen Gunsten andere Mandate in den Hintergrund schieben. Andere beschuldigte Mandanten des Verteidigers haben genauso Anspruch auf dessen Tätigwerden, und da kann es bei Kollision mehrerer Fristen durchaus vorkommen, dass um Erstreckung einer der Fristen nachgesucht werden muss. Mit fehlendem Engagement hat dies nichts zu tun.
+b)    Sodann rügt der Beschwerdeführer, sein Verteidiger habe nicht an allen Einvernahmen teilgenommen, wobei selbst eine durchgehende Teilnahme nichts darüber aussagen würde, dass die Tätigkeit sachgemäss sei.
+Eine Pflicht des Verteidigers, an allen Einvernahmen teilzunehmen, besteht nicht, vorausgesetzt, der Verteidiger klärte die Notwendigkeit der Teilnahme vorgängig ab und verneinte sie mit sachlichen Gründen. Dass sein Verteidiger diese Abklärungen unterlassen hätte, behauptete der Beschwerdeführer nicht.
+Obergericht, 2. Abteilung, 29. September 2011, SW.2011.128
+Das Bundesgericht trat auf eine dagegen erhobene Beschwerde am 14. März 2012 nicht ein (1B_645/2011).
+[1]
+Lieber, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/ Hansjakob/Lieber), Zürich 2010, Art. 134 N 13
+[2]
+Lieber, Art. 134 StPO N 19; Ruckstuhl, Basler Kommentar, Art. 134 StPO N 8; Haefelin, Die amtliche Verteidigung im schweizerischen Strafprozess, Diss. Zürich 2010, S. 286 f.
+[3]
+Ruckstuhl, Art. 134 StPO N 8
+[4]
+Lieber, Art. 134 StPO N 21 f.
+[5]
+Ruckstuhl, Art. 134 StPO N 12
+[6]
+Haefelin, S. 286
