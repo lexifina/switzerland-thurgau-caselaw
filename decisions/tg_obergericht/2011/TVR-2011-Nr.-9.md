@@ -1,0 +1,46 @@
+---
+decision_id: "tg_obergericht_TVR_2011_Nr._9"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2011 Nr. 9"
+decided: "2011-11-09"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2011-nr-9"
+cites_law: ["switzerland/bund/acts/700/art-025.md", "switzerland/bund/acts/700/art-025a.md"]
+---
+
+# TG Obergericht TVR 2011 Nr. 9
+
+## Regeste
+
+Rechtsmittelberechtigung im Vollstreckungsverfahren
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 09.11.2011 TVR 2011 Nr. 9
+Thurgovie Obergericht Rechenschaftsbericht 09.11.2011 TVR 2011 Nr. 9
+Turgovia Obergericht Rechenschaftsbericht 09.11.2011 TVR 2011 Nr. 9
+
+TVR 2011 Nr. 9
+Skip to main content
+Show navigation
+Rechtsmittelberechtigung im Vollstreckungsverfahren
+§ 44 Ziff. 1 VRG
+,
+§ 75 Abs. 2 VRG
+Die Legitimation zur Rechtsmittelerhebung im Vollstreckungsverfahren setzt eine Teilnahme am Verfahren, in dem ein Bauprojekt materiell beurteilt wurde, voraus.
+F ist Miteigentümerin der Parzelle Nr. 287 in O. Südöstlich dieser Parzelle, in etwa 50 m Abstand, befindet sich die Parzelle Nr. 247. Am 18. Dezember 2007 gelangte F an die Gemeinde O und bemängelte eine auf der Parzelle Nr. 247 errichtete „Pferdestall-Anlage“. Die Gemeinde O werde gebeten, die Rechtmässigkeit dieser Anlage abzuklären. Die Gemeinde O antwortete am 22. Dezember 2007, die Rechtmässigkeit der erwähnten Bauten und Anlagen werde geprüft und falls erforderlich ein Baubewilligungsverfahren angeordnet. In der Folge wurde vom 22. Oktober 2010 bis 10. November 2010 ein Baugesuch aufgelegt. Während der Einsprachefrist gingen jedoch keine Einsprachen ein. Die Gemeinde O eröffnete sodann den kommunalen Baubewilligungsentscheid, der mit einem Vollstreckungsentscheid verbunden war. Darin wird festgestellt, dass gemäss dem Entscheid des ARP eine Ausnahmebewilligung für die nicht zonenkonformen Bauten und Anlagen nicht erteilt werde. Der Beibehaltung des ungesetzlichen Zustandes stünden jedoch keine schwerwiegenden öffentlichen Interessen entgegen, weshalb auf einen Abbruch verzichtet werden könne. Den gegen diesen Entscheid erhobenen Rekurs zog F zunächst zurück, focht in der Folge den Abschreibungsentscheid des DBU beim Verwaltungsgericht an. Dieses weist die Beschwerde ab.
+Aus den Erwägungen:
+2.3 (Feststellung, dass das Kriterium der räumlichen Nähe der beschwerdeführerischen Liegenschaft zum streitbetroffenen Objekt nicht gegeben ist und die Beschwerdeführerin nicht intensiver betroffen ist als die Allgemeinheit [§ 44 Ziff. 1 VRG])
+2.4 Selbst wenn man aber noch das quantitative Kriterium bei der Beschwerdeführerin als gegeben betrachten und damit ihre allgemeine Legitimation bejahen würde, so bedeutete dies nicht, dass ihr Parteistellung im Baubewilligungs- und Vollstreckungsverfahren zukommen würde.
+2.4.1 Mit ihren Eingaben vom 18. Dezember 2007 sowie vom 23. Juli 2008 hat die Beschwerdeführerin auf einen (aus ihrer Sicht vorhandenen) Missstand hingewiesen. Ein Baubewilligungsverfahren war bis zu jenem Zeitpunkt nicht eingeleitet worden. Die Gemeinde O hat daher korrekterweise ihre Eingabe als Anzeige im Sinne von § 74 f. VRG entgegengenommen. § 75 Abs. 2 VRG hält ausdrücklich fest, dass derjenige, der eine Anzeige erstattet, damit nicht am Verfahren beteiligt ist. Aufgrund dieser klaren gesetzlichen Bestimmung konnte die Beschwerdeführerin nicht ohne weiteres davon ausgehen, in einem nachträglichen Baubewilligungsverfahren automatisch wieder am Verfahren beteiligt zu werden. Dessen war sich die Beschwerdeführerin auch bewusst, da sie gemäss unwidersprochen gebliebener Aussage der Vorinstanz in einem parallelen Verfahren rechtzeitig Einsprache erhoben hatte, um formelle Fehler zu vermeiden. Durch ihre Mitteilungen (Anzeigen) hatte die Beschwerdeführerin das Anzeigeziel erreicht, nämlich dass der Eigentümer der Parzelle Nr. 247 ein nachträgliches Baugesuch einreichen musste und dieses vom ARP und der Gemeinde O geprüft wurde. Zweifelsfrei hätte sie, um formell am Baubewilligungsverfahren teilzunehmen, in den beiden öffentlichen Auflagen Einsprache erheben müssen (in diesem Verfahren wäre dann auch ihre Rechtsmittelberechtigung mit Bezug auf das Verfahren geprüft worden).
+2.4.2 Laut Art. 25 Abs. 1 RPG haben die Kantone die Zuständigkeiten und Verfahren zu ordnen. Erfordert die Errichtung oder die Änderung einer Baute oder Anlage Verfügungen mehrerer Behörden, so ist eine Behörde zu bezeichnen, die für ausreichende Koordination sorgt (Art. 25a Abs. 1 RPG). Die Verfügungen dürfen keine Widersprüche enthalten (Art. 25a Abs. 3 RPG). Auf kantonaler Ebene regelt das PGB die Zuständigkeiten. Laut § 5 Abs. 4 PGB führt die Gemeindebehörde das Baubewilligungsverfahren durch und handhabt die Baupolizei. Der Entscheid ist direkt mit Rekurs an das Departement anfechtbar. Bedarf die Realisierung einer Baute oder einer Anlage neben der Baubewilligung weiterer Bewilligungen oder Zustimmungen kantonaler Behörden, haben die Gemeindebehörden das Baugesuch vor dem Beginn der öffentlichen Auflage dem Amt für Raumplanung einzureichen. Das Amt für Raumplanung koordiniert die kantonalen Stellungnahmen oder Entscheide und übermittelt diese der Gemeinde. Die Gemeindebehörde entscheidet über das Baugesuch nach Vorliegen weiterer erforderlicher Stellungnahmen oder Entscheide. Sie eröffnet dem Gesuchsteller den Entscheid über die Baubewilligung zusammen mit den weiteren erforderlichen Stellungnahmen oder Entscheiden (§ 19 PBV).
+2.4.3 Die Gemeinde O hat, angeregt durch die Anzeige der Beschwerdeführerin, ein nachträgliches Baubewilligungsverfahren durchgeführt. Kann der Mangel nicht durch eine nachträgliche Bewilligung behoben werden, hat die Gemeindebehörde dem Grundeigentümer oder Bauherrn eine angemessene Frist zur Beseitigung oder Anpassung der widerrechtlich erstellten Bauten und Anlagen anzusetzen und die Ersatzvornahme im Sinne von § 86 VRG anzudrohen. Weder im PBG noch in anderen gesetzlichen Vorschriften finden sich Bestimmungen darüber, ob im Vollstreckungsverfahren einem Dritten Parteirechte mit Bezug auf einen Entscheid über die Wiederherstellung einzuräumen sind. Ein Ermessen, ob die Gemeindebehörde tätig werden soll oder nicht, besteht nicht. Können Bauten und Anlagen aufgrund materieller Rechtswidrigkeit auch nachträglich nicht bewilligt werden, folgt daraus jedoch noch nicht notwendigerweise, dass sie abgebrochen werden müssen. Vielmehr sind, wie bei jedem Verwaltungsakt, die allgemeinen verfassungs- und verwaltungsrechtlichen Prinzipien zu berücksichtigen, insbesondere die Grundsätze der Verhältnismässigkeit und des Schutzes des guten Glaubens (vgl. Urteil des Bundesgerichts 1C_136/2010 vom 17. Mai 2010, E. 4.2; Fritzsche/Bösch, Zürcher Planungs- und Baurecht, 3. Aufl., Zürich 2003, Ziff. 24.5.1).
+Vor diesem Hintergrund besteht im Baubewilligungsverfahren betreffend ein nachträgliches Baugesuch in materiell- wie verfahrensrechtlicher Hinsicht ein enger und notwendiger Zusammenhang zwischen der Nichterteilung der Baubewilligung und dem nachfolgend zwingenden Behördenentscheid über die Wiederherstellung des gesetzmässigen Zustandes. Die beiden Fragestellungen sind - entgegen der Ansicht der Beschwerdeführerin - nicht zwingend in zwei unabhängige Verfahren mit je unterschiedlichen Parteien und Beteiligten sowie unterschiedlicher Rechtsmittellegitimation aufzuspalten. Adressat des Entscheids auf Wiederherstellung des gesetzmässigen Zustandes kann nur derjenige sein, der in einer bestimmten Beziehung zur Rechtswidrigkeit der Baute oder Anlage steht (vgl. Fritzsche/Bösch, a.a.O., Ziff. 24.6.2.1), sei es, dass er als Störer gilt oder sich schon am Baubewilligungsverfahren als Einsprecher beteiligt hat. Nichts daran zu ändern vermag der Unterschied, dass das ARP zuständigkeitshalber mit anfechtbarem Entscheid die Zonenkonformität der fraglichen Bauten und Anlagen auf der Parzelle Nr. 247 verneint und somit die Ausbaubewilligung verweigert hat. Daraufhin hat die Gemeinde O ebenfalls zuständigkeitshalber (vgl. § 5 Abs. 4 PBG und § 19 PBV) mit Entscheid über das nachträgliche Baugesuch und über die Wiederherstellung des gesetzmässigen Zustandes unter Anwendung der Grundsätze der Verhältnismässigkeit und des Schutzes des guten Glaubens entschieden. Auf diese Prüfung kann ein Dritter notgedrungen nur dann Einfluss nehmen, wenn er selbst förmlich Baueinsprache erhoben hat (vgl. hierzu LGVE 1996 II Nr. 7). Das DBU hat daher korrekt ausgeführt, dass es nicht angehen kann, Dritten, die es unterlassen haben, sich am materiellen Baubewilligungsverfahren zu beteiligen und damit gleichzeitig auch ihr schutzwürdiges Interesse an der Wiederherstellung des gesetzmässigen Zustandes zu bekunden, nachträglich ins Verfahren einzubeziehen und ihnen so im Vollstreckungsverfahren doch noch eine Rekurslegitimation zuzuerkennen, obwohl sie durch ihren Verzicht im eigentlichen materiellen Verfahren auf die Teilnahme verzichtet haben. Eine Verpflichtung der Gemeinde, mögliche Rechtsmittelberechtigte des Baubewilligungsentscheids für das Vollstreckungsverfahren vorgängig noch einmal formell zu benachrichtigen, besteht ohnehin nicht.
+Entscheid vom 9. November 2011
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
