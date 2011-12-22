@@ -1,0 +1,130 @@
+---
+decision_id: "tg_obergericht_RBOG_2012_Nr._4"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2012 Nr. 4"
+docket_2: "ZBR.2011.61"
+decided: "2011-12-22"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/411E86B4-CB1E-88D9-E137834E4C608037.html"
+cites_law: ["switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/210/art-182.md", "switzerland/bund/acts/210/art-205.md", "switzerland/bund/acts/210/art-651.md", "switzerland/bund/acts/220/art-018.md", "switzerland/bund/acts/220/art-537.md", "switzerland/bund/acts/220/art-548.md", "switzerland/bund/acts/220/art-550.md"]
+---
+
+# TG Obergericht RBOG 2012 Nr. 4
+
+## Regeste
+
+1.4 des Konkubinatsvertrags war die Miteigentumsgemeinschaft an der Liegenschaft unabhängig von der Auflösung der Lebensgemeinschaft gesondert zu kündigen und per Ablauf der vereinbarten Kündigungsfrist zu liquidieren. 3.2 des Konkubinatsvertrags ausdrücklich vermerkt, dass die Zahlungen der Berufungsbeklagten im Zusammenhang mit dem Erwerb des hälftigen Miteigentumsanteils an der Liegenschaft (inklusive der Ersatzzahlungen für vorgeschossene Umbaukosten) und die Zahlungen des ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 22.12.2011 RBOG 2012 Nr. 4 (ZBR.2011.61)
+Thurgovie Obergericht Rechenschaftsbericht 22.12.2011 RBOG 2012 Nr. 4 (ZBR.2011.61)
+Turgovia Obergericht Rechenschaftsbericht 22.12.2011 RBOG 2012 Nr. 4 (ZBR.2011.61)
+
+1.4 des Konkubinatsvertrags war die Miteigentumsgemeinschaft an der Liegenschaft unabhängig von der Auflösung der Lebensgemeinschaft gesondert zu kündigen und per Ablauf der vereinbarten Kündigungsfrist zu liquidieren. 3.2 des Konkubinatsvertrags ausdrücklich vermerkt, dass die Zahlungen der Berufungsbeklagten im Zusammenhang mit dem Erwerb des hälftigen Miteigentumsanteils an der Liegenschaft (inklusive der Ersatzzahlungen für vorgeschossene Umbaukosten) und die Zahlungen des ...
+
+RBOG 2012 Nr. 4
+RBOG 2012 Nr. 4
+Bei der Auflösung eines Konkubinats ist zwischen innerer und äusserer Liquidation zu unterscheiden
+(Art. 548 ff. OR)
+1.     a)    Die von der Vorinstanz präsentierte "Gleichung", wonach das Konkubinatsverhältnis eine einfache Gesellschaft darstelle, welche wiederum einheitlich zu liquidieren sei, mit der Konsequenz, dass hiefür die Parteien oder der Richter einen Liquidator einzusetzen hätten, erweist sich als zu einfach. Es steht nämlich ausser Frage, dass in der einfachen Lebensgemeinschaft der persönliche, nicht der vertragsrechtliche Charakter überwiegt
+[1]
+. Zudem ist zu beachten, dass bei der Liquidation einer einfachen Lebensgemeinschaft die freiwillige Übereinkunft jedwelchen Rechtsnormen vorgeht
+[2]
+. Die einfache Lebensgemeinschaft, welche heute eine akzeptierte Lebensform und häufig als eheähnlich zu qualifizieren ist, verlangt deshalb nicht zwingend die Anwendung von Gesellschaftsrecht. Vielmehr stehen je nach ausdrücklichem oder konkludentem Parteiwillen auch die analoge Anwendung des Eherechts – namentlich des Güterrechts – und des Sachenrechts zur Diskussion. Ferner ist im Auge zu behalten, dass auf die wirtschaftlichen Beziehungen zwischen den Partnern der einfachen Lebensgemeinschaft Gesellschaftsrecht stets nur insoweit anwendbar ist, als ein Bezug zur Gemeinschaft gegeben ist. Ob und inwieweit die konkreten Umstände die Anwendung der Regeln über die einfache Gesellschaft erlauben, ist somit in jedem einzelnen Fall näher zu prüfen. Keineswegs ausgeschlossen ist daher auch, dass zwischen den Partnern nebst der einfachen Gesellschaft noch besondere Auftrags- oder sonstige Vertragsverhältnisse bestehen
+[3]
+. Entscheidend ist, welche Lebensbereiche der gemeinsamen Zweckverfolgung untergeordnet werden.
+b)    Für die Liquidation einer einfachen Gesellschaft gilt zum einen der Grundsatz der Einheitlichkeit der Liquidation, wonach sämtliche Rechtsverhältnisse abzuwickeln und alle Aktiven und Passiven zu verteilen sind. Solange dies nicht geschehen ist, kann kein Gesellschafter einen einzelnen gesellschaftsrechtlichen Anspruch geltend machen. Zum anderen haben die Gesellschafter, anders als Erben und Miteigentümer, keinen Anspruch auf Realteilung oder Zuweisung einzelner Gegenstände, sondern bloss Anspruch auf einen Geldbetrag (Versilberungsprinzip)
+[4]
+. Insoweit ist der Vorinstanz grundsätzlich beizupflichten. Indes schenkte die Vorinstanz zwei Aspekten zu wenig Beachtung: Einerseits den verschiedenen zwischen den Parteien abgeschlossenen Vereinbarungen und andererseits dem Unterschied zwischen externer und interner Liquidation.
+c)     aa)   Mit der Auflösung der einfachen Gesellschaft ändert deren Zweck, und die Gesellschaft tritt in die Liquidationsphase und wird zur Abwicklungsgesellschaft. Die Liquidation hat zum Zweck, die Vollbeendigung der Gesellschaft herbeizuführen, das heisst die im Verlauf der Gesellschaftsdauer errichteten Strukturen wieder abzubauen und das gemeinschaftliche Gesellschaftsvermögen wieder in das Privatvermögen der einzelnen Gesellschafter überzuführen. Die Liquidation beginnt mit dem Eintritt eines Auflösungsgrunds und dauert bis zur vollständigen Auseinandersetzung zwischen den Gesellschaftern und Dritten (externe beziehungsweise äussere Liquidation) sowie den Gesellschaftern untereinander (interne beziehungsweise innere Liquidation). Der Zweck der Liquidation ist erfüllt, wenn sämtliche Beziehungen der Gesellschaft zu Dritten beendet sind, die Aktiven der Gesellschaft versilbert sind, die Schlussbilanz erstellt ist und somit die Voraussetzungen für die Verteilung des Liquidationsgewinns beziehungsweise -verlusts auf die einzelnen Gesellschafter vorliegen
+[5]
+.
+bb)   Mit der Auflösung der Gesellschaft hat jeder Gesellschafter das Recht, die Durchführung der Liquidation zu verlangen und allenfalls gerichtlich geltend zu machen. Dieses Recht ist ein unverjährbares Gestaltungsrecht. Die Liquidation ist in erster Linie Aufgabe der Liquidatoren; beim Richter kann also nicht schlechthin die Liquidation der Gesellschaft begehrt werden, sondern lediglich die Vornahme spezifischer Handlungen (zum Beispiel die Veräusserung eines gemeinsamen Aktivums oder die Tilgung einer Gesellschaftsschuld aus der Gesellschaftskasse)
+[6]
+. Der Ablauf der Liquidation bei der einfachen Gesellschaft ist in Art. 548 ff. OR geregelt und umfasst folgende Schritte: Bestimmung der Liquidationsordnung und der Liquidatoren, Erstellen einer Liquidationseröffnungsbilanz, Schaffung der Voraussetzungen für verteilungsfähiges Vermögen durch Einziehung von Forderungen, Versilberung von Gegenständen und Einforderung der ausstehenden Gesellschafterbeiträge, Rückerstattung der Einlagen und Leistung von Auslagenersatz, Verteilung des noch vorhandenen Gesellschaftsvermögens sowie das Erstellen einer Liquidationsschlussbilanz
+[7]
+.
+cc)   Zu unterscheiden ist die äussere von der inneren Liquidation. Die äussere oder externe Liquidation betrifft die Abwicklung der Rechtsbeziehungen zu Dritten, die innere oder interne Liquidation die Auseinandersetzung zwischen den einzelnen Gesellschaftern. Zur inneren Liquidation zählen namentlich die Rückerstattung der Einlagen, der Ersatz der Auslagen und Aufwendungen sowie die Verteilung der nach der Tilgung der Schulden verbleibenden Gesellschaftsaktiven oder -passiven. Die Unterscheidung in innere und äussere Liquidation rechtfertigt sich durch die völlig unterschiedlichen Interessenlagen, die diesen zu Grunde liegen. Die äussere Liquidation ist ein Vorgang, der primär durch das gemeinsame Interesse der Gesellschafter an einem möglichst hohen Liquidationsergebnis bestimmt ist. Interessensgegensätze unter den Gesellschaftern sind hier die Ausnahme. Bei der inneren Liquidation dagegen geht es letztlich darum, welche Gesellschafter was oder wie viel aus der Gesellschaft entnehmen können, weshalb bei diesem Vorgang die individuellen Interessen der Gesellschafter stärker aufeinander stossen. Die beiden Vorgänge unterliegen daher auch nicht den gleichen Regeln. Insbesondere besteht bei der inneren Liquidation die Funktion der Liquidatoren (nur) darin, Vorschläge zu machen, und, wenn deren Scheitern feststeht, allenfalls eine gerichtliche Lösung einzuleiten
+[8]
+. Den Liquidatoren obliegt vielmehr die Durchführung der äusseren Liquidation gestützt auf die vereinbarte oder vom Richter festgelegte Liquidationsordnung, nicht aber der inneren Liquidation
+[9]
+.
+Die innere Liquidation erfolgt durch alle Gesellschafter gemeinsam nach der Durchführung der äusseren Liquidation und ist mit der Ausgleichung der in der Schlussbilanz festgestellten Ansprüche abgeschlossen. Die innere Liquidation erfolgt in mehreren Schritten: In einem ersten Schritt wird die Höhe der Auslagen und Verwendungen im Sinn von Art. 537 OR festgestellt. Der Betrag, der sich nach Durchführung der äusseren Liquidation und nach Abzug des Gesamtbetrags des Auslagen- und Verwendungsersatzes ergibt, ist der Liquidationswert der Gesellschaft. Nach Abzug der Einlagen der Gesellschafter resultiert ein Gewinn oder ein Verlust, der entsprechend den Regeln über die Gewinnverteilung beziehungsweise die Verlustbeteiligung zu verteilen ist
+[10]
+. Scheitert die einvernehmliche Durchführung der inneren Liquidation und damit auch die Erstellung der Schlussbilanz, können die Berechtigten nach Abschluss der äusseren Liquidation klageweise vorgehen. Die Ansprüche können trotz fehlender Schlussbilanz direkt vom einzelnen Gesellschafter mit einer Leistungsklage geltend gemacht werden. Die Klage ist gegen diejenigen Gesellschafter zu richten, die im Rahmen der inneren Liquidation zu Ausgleichszahlungen verpflichtet sind. Der Richter befindet dabei zunächst vorfrageweise über die Höhe des Gesellschaftsvermögens und anschliessend über die Höhe der Ansprüche des klagenden Gesellschafters
+[11]
+. Zusammengefasst kann intern liquidiert und dementsprechend gegen die übrigen Gesellschaftsmitglieder auf Teilung des Gesellschaftsvermögens geklagt werden, wenn die Schulden bezahlt sind und die Aktiven aus Bargeld bestehen.
+d)    Mit Blick auf das Versilberungsprinzip ist zu präzisieren, dass dieser Grundsatz nur soweit geht, als Vermögenswerte veräussert werden müssen, die zur Durchführung der externen Auseinandersetzung erforderlich sind. Das Gesellschaftsvermögen muss nicht vollständig in Bargeld umgewandelt werden, sondern nur in dem Umfang, der nötig ist, die Schulden der Gesellschaft zu begleichen. Eine darüber hinausgehende Realisierung von Vermögenswerten ist aber nicht ausgeschlossen und kann insbesondere dann sinnvoll sein, wenn dadurch die Teilung erleichtert wird
+[12]
+. In der Lehre
+[13]
+wird allerdings mehrheitlich die Auffassung vertreten, auch in der internen Liquidation seien Werte zu versilbern, wenn keine Einigung darüber zustande kommt, welchem Gesellschafter die Sache in natura zugewiesen werden soll, denn die Sonderordnung des Gesellschaftsrechts gehe den Bestimmungen über die Aufhebung des gemeinsamen Eigentums gemäss Art. 651 ZGB vor. Die Zuweisung in natura gegen den Willen eines Gesellschafters bei der Liquidation sei nur gestützt auf eine ausdrückliche oder konkludente Vereinbarung möglich. Siegwart
+[14]
+hält demgegenüber dafür, dass eine Zuweisung von Sachwerten an einen Gesellschafter durch den Liquidator oder den Richter zulässig sei, wenn sich diese als zweckmässig erweise und nur so erfolge, dass die Schuldentilgung nicht erschwert und die Mitgesellschafter nicht geschädigt würden.
+2.     a)    Die Parteien unterstellten im Konkubinatsvertrag die von ihnen gemeinsam bewohnte Liegenschaft, an welcher sie durch die Übertragung eines hälftigen Miteigentumsanteils vom Berufungskläger auf die Berufungsbeklagte Miteigentum zu je einem Zweitel begründet hatten, ausdrücklich nicht der gesellschaftsrechtlichen Liquidation. Vielmehr trafen sie im Kaufvertrag vom 20. September 2001, mit welchem der hälftige Miteigentumsanteil übertragen wurde, für die Belange der Liegenschaft eine selbstständige Regelung. Diese "gesonderte Behandlung" der Liegenschaft zog sich dabei wie ein roter Faden durch den Konkubinatsvertrag. Unter Ziff. 1.2 des Konkubinatsvertrags wurde festgehalten, dass bezüglich der gemeinsamen Liegenschaft der gleichentags unterzeichnete und notariell beurkundete "Abtretungsvertrag mit Begründung von Miteigentum zur Hälfte" gelte. Dass der Abtretungsvertrag in der Urkunde selber als "Kaufvertrag" bezeichnet wurde, spielt dabei keine Rolle. Gemäss Ziff. 1.4 des Konkubinatsvertrags war die Miteigentumsgemeinschaft an der Liegenschaft unabhängig von der Auflösung der Lebensgemeinschaft gesondert zu kündigen und per Ablauf der vereinbarten Kündigungsfrist zu liquidieren. In Ziff. 2 des Konkubinatsvertrags wurde mit Blick auf die Liegenschaft vermerkt, dass die Parteien im entsprechenden Abtretungsvertrag abschliessend die gegenseitigen Rechte und Pflichten während des Konkubinats und die Liquidation bei Auflösung der Lebensgemeinschaft regeln würden. Die Liegenschaft und alles, was damit zusammenhänge, stünden ausserhalb der mit dem Konkubinatsvertrag begründeten Vermögensrisikogemeinschaft. Es würden ausschliesslich die separaten Regeln gemäss Abtretungsvertrag gelten. Ausgenommen von dieser Sonderregelung seien einzig die ordentlichen (laufenden) Liegenschaftenkosten, für welche Ziff. 4 des Konkubinatsvertrags anwendbar sein solle. Ferner ist zu beachten, dass die Parteien im Kaufvertrag und somit ausserhalb des Konkubinatsvertrags eine selbstständige Regelung für den geplanten Um- und Ausbau der Liegenschaft und für die zukünftigen Investitionen vereinbarten. Überdies wurde in Ziff. 3.2 des Konkubinatsvertrags ausdrücklich vermerkt, dass die Zahlungen der Berufungsbeklagten im Zusammenhang mit dem Erwerb des hälftigen Miteigentumsanteils an der Liegenschaft (inklusive der Ersatzzahlungen für vorgeschossene Umbaukosten) und die Zahlungen des Berufungsklägers für diesen Umbau nicht vom Konkubinatsvertrag erfasst seien, sondern dass dafür der separate Abtretungsvertrag mit den entsprechenden Liquidationsregeln gelte. In Ziff. 4 des Kaufvertrags wurde zudem festgehalten, der Konkubinatsvertrag sei nicht Bestandteil des Kaufvertrags.
+b)    Damit vereinbarten die Parteien, dass – mit Ausnahme der laufenden Liegenschaftenkosten – alles, was die Liegenschaft betreffe, ausserhalb der Regeln über das Konkubinat stehe. Insbesondere war das Miteigentum an der Liegenschaft nach eigenen Regeln entsprechend Ziff. 5 des Kaufvertrags zu liquidieren. Wie bereits ausgeführt, sind die Lebenspartner frei, einerseits einen Konkubinatsvertrag abzuschliessen und diesem bestimmte Lebenssachverhalte beziehungsweise Vermögenswerte zu unterstellen, und andererseits für andere Lebenssachverhalte beziehungsweise andere Vermögenswerte gesonderte Regelungen, insbesondere zur Liquidation, zu treffen. In diesem Zusammenhang sei an das Wesen des Konkubinats und an dessen Nähe zur Ehe erinnert. Es ist nicht einsehbar, weshalb es für zwei eigenverantwortliche Erwachsene, die sich zu einer einfachen Lebensgemeinschaft zusammengefunden haben, nicht möglich sein soll, für bestimmte Teile des Vermögens gesonderte und somit andere Liquidationsregeln zu vereinbaren. Ebenso wenig erscheint es als gerechtfertigt, ihnen höhere Hürden aufzustellen, als beispielsweise für das eheliche Güterrecht
+[15]
+gelten.
+c)     Aus den vorangehenden rechtstheoretischen Ausführungen zur Liquidation der einfachen Gesellschaft ergeben sich folgende Erkenntnisse: Zum einen ist eine Liquidation mit Einsetzung eines Liquidators im Rahmen einer Gestaltungsklage nur für die äussere Liquidation notwendig. Die innere Liquidation, bei welcher es letztendlich um die Verteilung des Gesellschaftsvermögens unter den Gesellschaftern geht, erfordert demgegenüber keinen Liquidator und ist einer Leistungsklage des einen Gesellschafters gegen einen andern zugänglich. Die Berufungsbeklagte machte hier zu keinem Zeitpunkt substantiierte Behauptungen, wonach (auch) Rechtsbeziehungen mit Dritten zu klären seien. Insofern kann hier die Klage – entgegen der Auffassung der Berufungsbeklagten – von vorneherein nicht am Erfordernis der Einsetzung eines Liquidators scheitern. Zum anderen ist der Einwand, die Klage müsse abgewiesen werden, weil sie die Einheitlichkeit der Liquidation verletze, bei der inneren Liquidation nicht zielführend, denn der Richter beurteilt diejenigen Vermögenswerte, welche – von beiden Parteien – (substantiiert) vorgetragen und bewiesen oder anerkannt wurden. Was die eine Partei, sei es bewusst oder unbewusst, zu Ungunsten der anderen Parteien nicht vorbringt, kann die andere Partei in den Prozess einbringen. Was eine Partei zu ihren Ungunsten nicht ins Feld führt, wird nicht beurteilt und bleibt unbeachtet. Die interne Liquidation ist diesbezüglich vergleichbar mit der Erbteilung oder mit der güterrechtlichen Auseinandersetzung. Die Parteien sorgen aus ureigenem Interesse dafür, dass alles miteinbezogen wird. Ist dies ausnahmsweise nicht der Fall, ist dies hinzunehmen, genau gleich wie auch in anderen Zivilprozessen nicht (substantiiert) behauptete und bewiesene Sachverhalte unberücksichtigt bleiben. Wenn nun die Berufungsbeklagte zudem Forderungen der Gesellschaft gegenüber dem Berufungskläger behauptete, steht dies der internen Liquidation ebenfalls nicht entgegen; vielmehr kann dieser Umstand im Rahmen der inneren Liquidation vorgebracht und geprüft werden. Das Gericht hat somit zusammenfassend gestützt auf die Behauptungen der Parteien und das Ergebnis eines allfälligen Beweisverfahrens vorfrageweise das zu verteilende Gesellschaftsvermögen festzustellen
+[16]
+und anschliessend über die Höhe der Ansprüche des Berufungsklägers zu befinden. Überdies ist anzumerken, dass eine von einem Liquidator erstellte Liquidationseröffnungsbilanz für die interne Liquidation – entgegen der Auffassung der Berufungsbeklagten – nicht erforderlich ist. Ein Liquidator wäre gar nicht in der Lage, eine Liquidationseröffnungsbilanz zu erstellen, wenn sich die Gesellschafter – wie hier – (bereits) über Fragen der Bewertung der Vermögenswerte nicht einig sind. Der Liquidator vertritt die Interessen der Gesellschaft respektive die Interessen aller Gesellschafter gegenüber Dritten. Er ist aber gerade nicht befugt, im Verhältnis zwischen den Gesellschaftern zu entscheiden. Diese Aufgabe obliegt dem Richter.
+d)    Die Vorinstanz verwies auf BGE vom 17. Dezember 2009, 4A_443/2009, Erw. 3.2, und auf BGE vom 24. Februar 2006, 4C.416/2005, Erw. 3.3, wonach die Liquidation von allen Gesellschaftern oder von einem Liquidator vorzunehmen sei, der mangels anderweitiger Regelung vom Richter eingesetzt werden könne. Diese Erwägungen des Bundesgerichts stehen der vorangehenden Darstellung nicht entgegen, zumal sich diese höchstrichterlichen Ausführungen auf die externe Liquidation bezogen. In der nachfolgenden Erw. 3.4 von BGE 4C.416/2005 bezog sich das Bundesgericht auf die innere Liquidation und hielt fest, dass die Ernennung eines Liquidators nicht (mehr) erforderlich sei, wenn keine äusseren Liquidationshandlungen mehr vorzunehmen seien. Diesfalls könne jeder Gesellschafter mittels Leistungsklage die Ausrichtung des Liquidationsanteils verlangen. Dabei habe der Richter vorfrageweise über die gesamte interne Liquidation, den Umfang des Gesellschaftsvermögens, die Höhe der Auslagen, den Wert und die Rückerstattung der Einlagen sowie über den Anteil am Gewinn zu entscheiden.
+Der Berufungskläger machte hier – entgegen der Auffassung der Vorinstanz – nicht einzelne Forderungen gegen die einfache Lebensgemeinschaft beziehungsweise die einfache Gesellschaft, sondern mittels Leistungsklage einen Liquidationsanteil geltend. Der Grundsatz der Einheitlichkeit der Liquidation wurde damit nicht verletzt. Dieses Prinzip steht somit einer materiell-quantitativen Behandlung der Klage – einschliesslich der "Forderung aus Konkubinatsverhältnis" – nicht entgegen.
+3.     a)    Die Vorinstanz wies die Klage (auch) mit der Begründung ab, das Versilberungsprinzip sei verletzt, weil die Fahrzeuge der Parteien noch im Gesamteigentum der Parteien stünden; keine der Parteien habe gegen den Willen der anderen einen Anspruch auf Zuweisung dieser Fahrzeuge.
+b)    Das Versilberungsprinzip stand hier der Klage nicht entgegen. Nach einem Teil der Lehre ist die Realteilung bei der internen Liquidation zulässig. Es ist hier aber auch kein schutzwürdiges Interesse für die Weigerung eines Gesellschafters, einem Mitgesellschafter die Übernahme einer Sache zum Verkehrswert zu überlassen, ersichtlich. Das Prinzip, wonach die Gesellschafter keinen Anspruch auf Realteilung oder Zuweisung einzelner Gegenstände, sondern bloss auf einen Geldbetrag haben, mag bei klassischen einfachen Gesellschaften seine Berechtigung haben; auf die Auflösung von Lebensgemeinschaften passt eine solche strikte Regel jedoch nicht. In diesem Punkt erscheinen güterrechtliche oder sachenrechtliche Auflösungsbestimmungen
+[17]
+zweckmässiger. Bei Konkubinaten dürften regelmässig Objekte von der Auflösung betroffen sein, welche während der Lebensgemeinschaft nur oder hauptsächlich von einer Partei genutzt wurden und dieser auch fortan gute Dienste leisten könnten. Es wäre unsinnig, wenn die eine Partei eine Übernahme dieser Gegenstände durch die andere Partei verhindern und eine mit Kosten verbundene Versilberung durchsetzen könnte. Dies muss umso mehr gelten, als destruktives Verhalten zwischen den ehemaligen Lebenspartnern im Rahmen der Auflösung von Lebensgemeinschaften nicht ausgeschlossen werden kann.
+Die Berufungsbeklagte verwies im Rahmen des Behauptungsverfahrens auf die Fahrzeuge sowie auf Teile des Mobiliars, welche zwar "aufgeteilt", aber nicht versilbert worden seien. Damit wurde von keiner Seite in Abrede gestellt, dass diese Objekte nach der Konkubinatsauflösung der einen oder anderen Partei real zugeführt wurden; nicht einig waren sich die Parteien aber hinsichtlich der Bewertung dieser Gegenstände. Unterschiedliche Standpunkte nahmen die Parteien auch hinsichtlich der Frage ein, ob der Konkubinatsvertrag hinsichtlich der Fahrzeuge eine Versilberung vorschreibe oder nicht. Im vorliegenden Fall ist nicht erstellt, dass die Parteien mit dem Konkubinatsvertrag den wirklichen oder tatsächlichen Willen erklärten
+[18]
+, die Fahrzeuge dem Versilberungsprinzip zu unterstellen. Es ist zwar unbestritten, dass die Autos nicht in Ziff. 3.1, wo ausdrücklich von "Aufteilung" des Mobiliars die Rede war, sondern von Ziff. 3.2 des Konkubinatsvertrags erfasst wurden. Inhaltlich lag der Unterschied dieser Vertragsbestimmungen aber nicht in der "Art der Liquidation" (Realteilung oder Versilberung), sondern vielmehr im Moment der "Bewertung" der Objekte. Die Vermögenswerte gemäss Ziff. 3.2 – so namentlich Bankguthaben, Eurotaxwerte für Fahrzeuge, Rückkaufswerte für Lebensversicherungen – lassen sich auf einfache und klare Weise beziffern, während das Mobiliar gemäss Ziff. 3.1 des Konkubinatsvertrags bloss geschätzt werden kann. Vor diesem Hintergrund lässt der Konkubinatsvertrag nicht zweifelsfrei den Schluss zu, die Parteien hätten tatsächlich den Willen gehabt, die Fahrzeuge zu versilbern. Lässt sich der wirkliche Wille der Parteien nicht mehr (mit Sicherheit) feststellen, ist mittels Auslegung der Vertragswille zu ermitteln, den die Parteien "mutmasslich" gehabt haben
+[19]
+. Dabei sind sämtliche Umstände miteinzubeziehen, namentlich auch das Verhalten der Parteien nach Vertragsabschluss
+[20]
+. Hier blieb unbestritten, dass die Parteien nach Auflösung der einfachen Lebensgemeinschaft je einen Teil des Mobiliars und je ein Fahrzeug mitnahmen. Somit nahmen die Parteien eine reale Zuweisung der Objekte vor. Daran ändert auch der Umstand nichts, dass die Parteien in der Folge um die wertmässige Anrechnung stritten. Damit ist hier von einem mutmasslichen Parteiwillen auszugehen, wonach die vormaligen Konkubinatspartner gegen Anrechnung des Zeitwerts die behändigten Gegenstände sollen behalten können. Im Ergebnis ist hier davon auszugehen, dass die Parteien auch in Bezug auf die Fahrzeuge eine Realteilung vereinbarten. Angesichts dieses Befunds erscheint im Übrigen die (nachträgliche prozessuale) Berufung auf das Versilberungsprinzip durch den Berufungskläger als widersprüchlich, mithin als rechtsmissbräuchlich
+[21]
+.
+Obergericht, 2. Abteilung, 22. Dezember 2011, ZBR.2011.61
+[1]
+Vgl. bereits BGE 108 II 207
+[2]
+BGE 108 II 207 f.
+[3]
+BGE 108 II 208 f., bestätigt in BGE vom 29. Februar 2008, 4A_482/2007, Erw. 1.4
+[4]
+Staehelin, Basler Kommentar, Art. 548/9 OR N 3 f.
+[5]
+Handschin/Vonzun, Zürcher Kommentar, Art. 548-551 OR N 1 f.
+[6]
+Handschin/Vonzun, Art. 548-551 OR N 11 f.
+[7]
+Handschin/Vonzun, Art. 548-551 OR N 14
+[8]
+Handschin/Vonzun, Art. 548-551 OR N 16 ff.
+[9]
+Handschin/Vonzun, Art. 548-551 OR N 54
+[10]
+Handschin/Vonzun, Art. 548-551 OR N 161 ff.
+[11]
+Handschin/Vonzun, Art. 548-551 OR N 197; Staehelin, Art. 548/9 OR N 12 sowie Art. 550 OR N 10
+[12]
+Handschin/Vonzun, Art. 548-551 OR N 10 und 127
+[13]
+Handschin/Vonzun, Art. 548-551 OR N 176 mit weiteren Hinweisen; Staehelin, Art. 548/9 OR N 4
+[14]
+Siegwart, Zürcher Kommentar (Zürich 1938), Art. 548/549/550 OR N 38
+[15]
+Art. 182 ZGB: Das eheliche Güterrecht befürwortet die Privatautonomie.
+[16]
+Lediglich der Vollständigkeit halber sei ergänzt, dass auch ein Liquidator nicht garantieren kann, dass die durch ihn vorgenommene Liquidation sämtliche Vermögenswerte erfasst.
+[17]
+Art. 205 Abs. 2 ZGB; Art. 654 Abs. 2 i.V.m. Art. 651 Abs. 1 ZGB
+[18]
+Art. 18 Abs. 1 OR
+[19]
+BGE 133 III 409, 132 III 274 f.
+[20]
+Gauch/Schluep/Schmid/Emmenegger, Schweizerisches Obligationenrecht, AT I, 9.A., N 1212 ff. mit weiteren Hinweisen
+[21]
+Art. 2 Abs. 2 ZGB
