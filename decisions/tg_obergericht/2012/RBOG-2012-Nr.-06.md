@@ -1,0 +1,52 @@
+---
+decision_id: "tg_obergericht_RBOG_2012_Nr._06"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2012 Nr. 06"
+decided: "2012-01-17"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2012-nr-6"
+cites_law: ["switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/220/art-098.md", "switzerland/bund/acts/220/art-366.md", "switzerland/bund/acts/220/art-368.md", "switzerland/bund/acts/272/art-088.md"]
+---
+
+# TG Obergericht RBOG 2012 Nr. 06
+
+## Regeste
+
+Kein Rechtsschutzinteresse auf Feststellung eines Werkmangels
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 1985 RBOG 2012 Nr. 06
+Thurgovie Obergericht Rechenschaftsbericht 1985 RBOG 2012 Nr. 06
+Turgovia Obergericht Rechenschaftsbericht 1985 RBOG 2012 Nr. 06
+
+RBOG 2012 Nr. 06
+Skip to main content
+Show navigation
+Kein Rechtsschutzinteresse auf Feststellung eines Werkmangels
+Art. 98 Abs. 1 OR
+,
+Art. 366 Abs. 2 OR
+,
+Art. 368 Abs. 2 OR
+1. Die Besteller klagten gegen die Unternehmerin und beantragten, sie seien zu ermächtigen, gemäss Art. 169 Abs. 1 Ziff. 1 SIA-Norm 118 auf Kosten der Unternehmerin einen Dritten nach ihrer Wahl für die Durchführung der Nachbesserung des mangelhaften Werks auf ihrem Grundstück zu beauftragen. Die Unternehmerin bestritt die Verursachung eines Werkmangels und beantragte Abweisung der Klage. Die Vorinstanz trat auf die Klage nicht ein. Dagegen erhoben die Besteller Berufung.
+2. Wie jede Klage setzt auch die Feststellungsklage ein Rechtsschutzinteresse voraus. Weil mit der Feststellungsklage weder eine Leistung noch eine Veränderung der Rechtslage angestrebt wird, sondern nur die Feststellung eines bereits bestehenden Rechtszustands, geht bei der Feststellungsklage das notwendige Feststellungsinteresse über das allgemeine Rechtsschutzinteresse hinaus. Das allgemeine Interesse, die eigenen Rechte und Pflichten zu kennen, genügt nicht[1]. Nach der Lehre und Rechtsprechung ist ein ausreichendes Feststellungsinteresse insgesamt von drei kumulativen Voraussetzungen abhängig: Erstens muss Unsicherheit über den Bestand des fraglichen Rechts oder Rechtsverhältnisses bestehen. Zweitens muss der Fortbestand dieser Unsicherheit für den Kläger unzumutbar sein, da er dadurch in der Ausübung seiner Rechte oder in seiner wirtschaftlichen Entscheidungsfreiheit eingeschränkt wird. Drittens muss die Feststellungsklage geeignet und grundsätzlich das einzige Mittel sein, um diese Unsicherheit zu beseitigen. Insbesondere darf der klagenden Partei keine Leistungs- oder Gestaltungsklage zur Verfügung stehen[2].
+3. a) Die erste Voraussetzung lag hier vor. Es herrschte Unsicherheit über den Bestand des durch die Berufungskläger geltend gemachten Rechts auf Ersatzvornahme, weil die Voraussetzungen der Nachbesserung durch einen Dritten unter Abwälzung der Kosten auf die Unternehmerin von der Berufungsbeklagten bestritten wurden. So stellte die Berufungsbeklagte bereits die Verursachung eines Werkmangels in Abrede.
+b) Hinsichtlich der zweiten Voraussetzung, wonach für die klagende Partei der Fortbestand der Unsicherheit aufgrund der eingeschränkten wirtschaftlichen Bewegungsfreiheit "unzumutbar" sein muss, bestehen Präjudizien. Eine solche Unzumutbarkeit wurde etwa angenommen bei der Ungewissheit über den Bestand von (in Betreibung gesetzten) Forderungen von Fr. 77'000.00 und Fr. 14'000.00 gegen einen Anwalt oder von Fr. 37'942.90 gegen eine andere natürliche Person. Verneint wurde die Unzumutbarkeit dagegen bei einer ungewissen Forderung über Fr. 10,6 Millionen gegen eine Bank mit einer Bilanzsumme von über Fr. 1 Milliarde und eigenen Mitteln von Fr. 96 Millionen[3]. Ein Teil der Lehre[4] vertritt dabei die Auffassung, dass die Hürde der Unzumutbarkeit tief angesetzt werden sollte. Die Berufungskläger legten in der Berufung dar, es sei für sie mit Blick auf die Ersatzvornahme nicht zumutbar, im Ungewissen darüber zu bleiben, ob sie die Nachbesserungskosten, welche dem Dritten zu bevorschussen wären, von der Berufungsbeklagten zurückfordern könnten oder nicht. Inwiefern obige Praxis auf den vorliegenden Sachverhalt übertragen werden kann, wo es nicht um eine Geldforderung geht, kann indessen offen bleiben, weil es an der dritten Voraussetzung, wonach die Feststellungsklage das einzige Mittel zur Beseitigung der Unsicherheit sein muss, fehlte.
+c) Gemäss bundesgerichtlicher Rechtsprechung[5] kann der Besteller, der berechtigt ist, einen Werkmangel auf Kosten des Unternehmers durch einen Dritten beheben zu lassen, sich die Kosten vom Unternehmer bevorschussen lassen. Verschiedene Gründe sprechen nach dem Bundesgericht für eine solche Bevorschussungspflicht: Vorab sei dem Unternehmer als der vertragsuntreuen Partei nach dem Grundsatz von Treu und Glauben[6] zuzumuten, die Kosten der Nachbesserung vorzufinanzieren. Sodann solle der Unternehmer, der seine Nachbesserungspflicht nicht selbst erfüllen wolle oder könne, nicht besser gestellt werden als der Unternehmer, der seine Nachbesserungspflicht sogleich selbst erfülle, und schliesslich komme dem Besteller ein evidentes Interesse an der finanziellen Absicherung der Ersatzvornahme zu, während dem Unternehmer nur eine Pflicht überbunden werde, die er später ohnehin zu erfüllen habe. Diese Rechtsprechung gilt für die Nachbesserung durch einen Dritten unabhängig vom Rechtsgrund[7], denn die Interessenlage ist dieselbe[8]. Den Berufungsklägern stand mit der Möglichkeit, die Ersatzvornahme von der Berufungsbeklagten bevorschussen zu lassen, eine Leistungsklage zur Verfügung, womit ein Feststellungsinteresse von vorneherein entfiel. Damit fällt aber auch die Argumentation in der Berufungseingabe in sich zusammen: Mit der Leistungsklage auf Bevorschussung der mutmasslichen Kosten der Ersatzvornahme konnten die Berufungskläger das angeblich "grosse Risiko" ausschalten, Nachbesserungsarbeiten durch einen Dritten ausführen zu lassen und damit Investitionen zu tätigen, bevor feststand, ob die verlangten Nachbesserungsarbeiten überhaupt geschuldet waren oder nicht. Die Frage der Rechtmässigkeit der verlangten Nachbesserungsarbeiten hätte denn auch Gegenstand des Forderungsprozesses betreffend Bevorschussung gebildet, in welchem Verfahren der Berufungsbeklagten als Unternehmerin auch sämtliche Einwände zur Verfügung gestanden wären. Damit waren die Berufungskläger nicht auf die Feststellungsklage angewiesen, um die Unsicherheit zu beseitigen. Deshalb verneinte die Vorinstanz das Feststellungsinteresse zu Recht.
+Obergericht, 2. Abteilung, 17. Januar 2012, ZBR.2011.84
+[1] Schenker, in: Schweizerische Zivilprozessordnung (Hrsg.: Baker & McKenzie), Bern 2010, Art. 88 N 4
+[2] BGE 133 III 287, 131 III 324 f.; Schenker, Art. 88 ZPO N 6; Meier, Schweizerisches Zivilprozessrecht, Zürich/Basel/Genf 2010, S. 210
+[3] Füllemann, in: Schweizerische Zivilprozessordnung, Kommentar (Hrsg.: Brunner/Gasser/ Schwander), Zürich/St. Gallen 2011, Art. 88 N 9 mit Hinweisen auf die Rechtsprechung des Bundesgerichts sowie des Zürcher Handelsgerichts; Meier, S. 211 mit weiteren Hinweisen
+[4] Füllemann, Art. 88 ZPO N 10; Meier, S. 211
+[5] BGE 136 III 275 f., 128 III 416 ff.
+[6] Art. 2 ZGB
+[7] Art. 169 Abs. 1 Ziff. 1 SIA-Norm 118; Art. 368 Abs. 2, 366 Abs. 2, Art. 98 Abs. 1 OR
+[8] Vgl. BGE 128 III 417 f.; Gauch, Kommentar zur SIA-Norm 118 Art. 157-190, Art. 169 N 17b am Ende, mit Hinweis auf Gauch, Werkvertrag, 3.A., Zürich 1985, N 1280; Gauch, N 1816
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
