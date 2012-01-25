@@ -1,0 +1,61 @@
+---
+decision_id: "tg_obergericht_RBOG_2012_Nr._19"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2012 Nr. 19"
+docket_2: "BR.2011.83"
+decided: "2012-01-25"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/411E85AF-C887-B9E5-F1E96F56A2822FE7.html"
+cites_law: ["switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-271.md"]
+---
+
+# TG Obergericht RBOG 2012 Nr. 19
+
+## Regeste
+
+2. a) Im Arrestbegehren stützte sich der Beschwerdeführer auf Art. Der Beschwerdeführer wandte dagegen im Beschwerdeverfahren ein, es sei ein vertragswidriges Verschieben von Vermögensgegenständen in die Schweiz gegeben. c) Fehlt – wie hier – eine Schuldanerkennung, bedarf der Ausländerarrest eines genügenden Bezugs der Forderung zur Schweiz[2]. Dieses Kriterium ist erfüllt, wenn das Interesse des Gläubigers an der Rechtsverfolgung am Arrestort durch Anknüpfungselemente des Anspruchs mit ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 25.01.2012 RBOG 2012 Nr. 19 (BR.2011.83)
+Thurgovie Obergericht Rechenschaftsbericht 25.01.2012 RBOG 2012 Nr. 19 (BR.2011.83)
+Turgovia Obergericht Rechenschaftsbericht 25.01.2012 RBOG 2012 Nr. 19 (BR.2011.83)
+
+2. a) Im Arrestbegehren stützte sich der Beschwerdeführer auf Art. Der Beschwerdeführer wandte dagegen im Beschwerdeverfahren ein, es sei ein vertragswidriges Verschieben von Vermögensgegenständen in die Schweiz gegeben. c) Fehlt – wie hier – eine Schuldanerkennung, bedarf der Ausländerarrest eines genügenden Bezugs der Forderung zur Schweiz[2]. Dieses Kriterium ist erfüllt, wenn das Interesse des Gläubigers an der Rechtsverfolgung am Arrestort durch Anknüpfungselemente des Anspruchs mit ...
+
+RBOG 2012 Nr. 19
+RBOG 2012 Nr. 19
+Ausländerarrest; genügender Bezug der Forderung zur Schweiz
+(Art. 271 Abs. 1 Ziff. 4 SchKG)
+1.     Der Gläubiger kann für eine fällige Forderung, soweit diese nicht durch ein Pfand gedeckt ist, Vermögensstücke des Schuldners, die sich in der Schweiz befinden, mit Arrest belegen lassen, wenn einer der in Art. 271 Abs. 1 SchKG genannten Gründe vorliegt. Es ist Sache des Gläubigers, dem Arrestrichter den Arrestgrund anzugeben, auf den er sein Gesuch stützt. Dabei genügt es, wenn er ihn glaubhaft macht. Die Subsumtion des vom Arrestgläubiger vorgebrachten Sachverhalts unter einen der Tatbestände von Art. 271 SchKG ist eine vom Arrestrichter zu entscheidende Rechtsfrage
+[1]
+.
+2.     a)    Im Arrestbegehren stützte sich der Beschwerdeführer auf Art. 271 Abs. 1 Ziff. 4 SchKG. Nach dieser Bestimmung liegt ein Arrestgrund vor, wenn der Schuldner nicht in der Schweiz wohnt, kein anderer Arrestgrund gegeben ist, die Forderung aber einen genügenden Bezug zur Schweiz aufweist oder auf einer Schuldanerkennung im Sinn von Art. 82 Abs. 1 SchKG beruht.
+b)    Die Vorinstanz stellte dazu fest, es handle sich bei der Forderung um Ansprüche der in Deutschland wohnhaften Parteien aus einem Mietverhältnis über ein sich in Deutschland befindliches Mietobjekt, womit ein Bezug der Forderung zur Schweiz nicht ersichtlich sei. Der Beschwerdeführer wandte dagegen im Beschwerdeverfahren ein, es sei ein vertragswidriges Verschieben von Vermögensgegenständen in die Schweiz gegeben. Der Beschwerdeführer habe gegenüber dem Beschwerdegegner sein Vermieterpfandrecht ausgesprochen. Dessen ungeachtet habe der Beschwerdegegner eigenmächtig seine Wohnung geräumt und die darin noch befindlichen restlichen werthaltigen Gegenstände entwendet. In Anbetracht der Arbeitsstelle des Schuldners in der Schweiz sei davon auszugehen, dass der Schuldner diese in die Schweiz abgesetzt habe.
+c)     Fehlt – wie hier – eine Schuldanerkennung, bedarf der Ausländerarrest eines genügenden Bezugs der Forderung zur Schweiz
+[2]
+. Dieses Kriterium ist erfüllt, wenn das Interesse des Gläubigers an der Rechtsverfolgung am Arrestort durch Anknüpfungselemente des Anspruchs mit der Schweiz begründet ist, die in Anbetracht der Gesamtumstände als gegenüber dem Interesse des Schuldners auf ungestörten Besitz überwiegend erscheinen. Dabei sind die Berührungspunkte der Forderung mit der Schweiz abzuwägen gegenüber den Bezugspunkten des Falls zu anderen Staaten, in welchen für die Parteien ein Forum zumutbarer Rechtsverfolgung besteht. Im Hinblick auf die Möglichkeit einer raschen Korrektur im Einspracheverfahren ist im Zweifel eine weite Auslegung angezeigt
+[3]
+. Ein genügender Bezug zur Schweiz kann sich beispielsweise ergeben, wenn der Wohnsitz des Gläubigers in der Schweiz liegt
+[4]
+, wenn Anknüpfungspunkte bestehen, welche nach dem IPRG einen Bezug zur Schweiz darstellen, der einen schweizerischen Gerichtsstand oder schweizerisches Recht zur Anwendung zu bringen vermag
+[5]
+, oder wenn die Arrestforderung mit einer Geschäftstätigkeit in der Schweiz in Zusammenhang steht
+[6]
+.
+d)    Wie die Vorinstanz zu Recht festhielt, besteht hier kein genügender Bezug der Forderung zur Schweiz: Es handelt sich um Ansprüche aus einem Mietvertrag, welcher über eine Mietsache in Deutschland abgeschlossen wurde. Beide Vertragsparteien haben ihren Wohnsitz in Deutschland. Der einzige im Arrestbegehren geltend gemachte Bezug zur Schweiz ist die Behauptung, der Beschwerdegegner arbeite in der Schweiz. Diese Arbeitstätigkeit steht aber mit der mietrechtlichen Forderung in keinem Zusammenhang.
+Zusammenfassend wurde ein Arrestgrund nach Art. 271 Abs. 1 Ziff. 4 SchKG nicht glaubhaft gemacht.
+Obergericht, 1. Abteilung, 25. Januar 2012, BR.2011.83
+[1]
+Jaeger/Walder/Kull/Kottmann, Bundesgesetz über Schuldbetreibung und Konkurs, Zürich 1997/99, Art. 271 N 18, 20
+[2]
+Stoffel, Basler Kommentar, Art. 271 SchKG N 88
+[3]
+Stoffel, Art. 271 SchKG N 89
+[4]
+Stoffel, Art. 271 SchKG N 91
+[5]
+Stoffel, Art. 271 SchKG N 92
+[6]
+Stoffel, Art. 271 SchKG N 93
