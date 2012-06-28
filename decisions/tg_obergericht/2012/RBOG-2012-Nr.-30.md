@@ -1,0 +1,88 @@
+---
+decision_id: "tg_obergericht_RBOG_2012_Nr._30"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2012 Nr. 30"
+docket_2: "SW.2012.54"
+decided: "2012-06-28"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/411E86C7-AB57-A704-FD7296AB480DABF8.html"
+cites_law: ["switzerland/bund/acts/312.0/art-217.md", "switzerland/bund/acts/312.0/art-219.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-430.md"]
+---
+
+# TG Obergericht RBOG 2012 Nr. 30
+
+## Regeste
+
+Als geringfügige und nicht zu entschädigende Umtriebe nannte bereits der Vorentwurf für eine Schweizerische Strafprozessordnung[3] das ein- oder zweimalige Erscheinen zu Einvernahmen. Irrelevant soll dabei sein, ob es sich um eine vorläufige Festnahme, Untersuchungshaft, Sicherheitshaft oder einen vorzeitigen Strafantritt handelte. Nach der Praxis der Anklagekammer galt in der Regel erst eine länger als drei Tage dauernde Untersuchungshaft als schwerer Eingriff in die persönlichen ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 28.06.2012 RBOG 2012 Nr. 30 (SW.2012.54)
+Thurgovie Obergericht Rechenschaftsbericht 28.06.2012 RBOG 2012 Nr. 30 (SW.2012.54)
+Turgovia Obergericht Rechenschaftsbericht 28.06.2012 RBOG 2012 Nr. 30 (SW.2012.54)
+
+Als geringfügige und nicht zu entschädigende Umtriebe nannte bereits der Vorentwurf für eine Schweizerische Strafprozessordnung[3] das ein- oder zweimalige Erscheinen zu Einvernahmen. Irrelevant soll dabei sein, ob es sich um eine vorläufige Festnahme, Untersuchungshaft, Sicherheitshaft oder einen vorzeitigen Strafantritt handelte. Nach der Praxis der Anklagekammer galt in der Regel erst eine länger als drei Tage dauernde Untersuchungshaft als schwerer Eingriff in die persönlichen ...
+
+RBOG 2012 Nr. 30
+RBOG 2012 Nr. 30
+Voraussetzungen für eine Genugtuung nach einer vorläufigen Festnahme
+(Art. 429, 430 Abs. 1 lit. c, 217 StPO)
+1.     a)    Wird die beschuldigte Person ganz oder teilweise freigesprochen oder wird das Verfahren gegen sie eingestellt, hat sie nach Art. 429 Abs. 1 StPO Anspruch auf Entschädigung ihrer Aufwendungen für die angemessene Ausübung ihrer Verfahrensrechte (lit. a) und der wirtschaftlichen Einbussen, die ihr aus ihrer notwendigen Beteiligung am Strafverfahren entstanden sind (lit. b) sowie auf Genugtuung für besondere Verletzungen ihrer persönlichen Verhältnisse, insbesondere bei Freiheitsentzug (lit. c). Nach Art. 429 Abs. 2 StPO prüft die Strafbehörde den Anspruch von Amtes wegen. Sie kann die beschuldigte Person auffordern, ihre Ansprüche zu beziffern und zu belegen. Diese Kann-Vorschrift dürfte letztlich zwingend sein, denn wird die beschuldigte Person nicht aufgefordert, ihre Ansprüche zu beziffern, und wird die Entschädigung von der Behörde in Ausübung ihres Ermessens festgesetzt, wird das rechtliche Gehör der beschuldigten Person verletzt
+[1]
+.
+b)    Sind die Aufwendungen der beschuldigten Person allerdings geringfügig, lässt Art. 430 Abs. 1 lit. c StPO eine Herabsetzung oder Verweigerung der Entschädigung oder Genugtuung zu. Diese Bestimmung nimmt ein Prinzip auf, welches in den früheren kantonalen Strafprozessordnungen weit verbreitet war, dass nämlich nur Aufwendungen von einer gewissen Relevanz zu entschädigen waren. Zudem bringt Art. 430 Abs. 1 lit. c StPO zum Ausdruck, dass von den Bürgern die Bereitschaft erwartet wird, im Interesse der Verbrechensbekämpfung das Risiko einer materiell ungerechtfertigten Strafverfolgung bis zu einem gewissen Grad auf sich zu nehmen. Auch deshalb muss nicht jeder geringfügige Nachteil entschädigt werden
+[2]
+.
+Als geringfügige und nicht zu entschädigende Umtriebe nannte bereits der Vorentwurf für eine Schweizerische Strafprozessordnung
+[3]
+das ein- oder zweimalige Erscheinen zu Einvernahmen.
+Nicht mehr geringfügige Aufwendungen im Sinn von Art. 430 Abs. 1 StPO sollen dagegen vorliegen, wenn sich der Betreffende in Haft befand. Irrelevant soll dabei sein, ob es sich um eine vorläufige Festnahme, Untersuchungshaft, Sicherheitshaft oder einen vorzeitigen Strafantritt handelte. Diesfalls soll Genugtuung regelmässig geschuldet sein, unabhängig davon, ob der Beschuldigte gegen die Haft opponierte oder nicht. Demgegenüber vermag eine Hausdurchsuchung allein noch nicht zwingend einen Anspruch auf Genugtuung zu begründen
+[4]
+.
+c)     Die Höhe der Genugtuung für die im Zusammenhang mit der Freiheitsentziehung erlittene Unbill lässt sich naturgemäss nicht errechnen, sondern nur abschätzen
+[5]
+. Entsprechend existiert auch eine umfangreiche Praxis und Rechtsprechung zur Bemessung der Genugtuung.
+aa)   Im Kanton Schaffhausen wurde bei einem kurzfristigen Freiheitsentzug von wenigen Stunden, der sich im Nachhinein als ungerechtfertigt erwies, wobei keine erschwerenden Umstände vorlagen, eine Genugtuung von Fr. 200.00 zugesprochen
+[6]
+. Im Kanton Aargau scheinen grundsätzlich Fr. 200.00 pro Tag gesprochen zu werden. In den Jahren 1998 und 1999 galten offenbar pro Tag noch rund Fr. 100.00
+[7]
+. Demgegenüber war die Praxis im Kanton Thurgau bezüglich Haftentschädigung vor Inkrafttreten der StPO restriktiver. Nach der Praxis der Anklagekammer galt in der Regel erst eine länger als drei Tage dauernde Untersuchungshaft als schwerer Eingriff in die persönlichen Verhältnisse. Eine kürzere Haftdauer konnte nicht zu einer Genugtuung führen, wenn die Folgen der Verhaftung jenen entsprachen, die üblicherweise mit einer Haft verbunden und insofern nicht aussergewöhnlich waren, wie die Benachrichtigung der Familienangehörigen und des Arbeitgebers sowie der Umstand, dass das "Erlebnis" Untersuchungshaft "nicht zu den angenehmsten des Lebens zählt"
+[8]
+. In Ausnahmefällen konnte aber auch für kürzere Untersuchungshaft eine Genugtuung gesprochen werden, etwa im Fall von zwei Tagen Haft, zweifelhaftem Vorhandensein von Haftgründen, Betroffenheit durch die Begleitumstände (Licht in der Zelle, Wohnungsdurchsuchung, erkennungsdienstliche Behandlung) bei einer psychisch ohnehin bereits angeschlagenen Person oder aber bei einem Tag Haft bei (rechtswidriger und unverhältnismässiger) Verhaftung eines Filialleiters am Arbeitsplatz, bei Vermeidbarkeit der Untersuchungshaft bei richtigem Vorgehen der Untersuchungsbehörden und bei völlig unnötiger Hausdurchsuchung
+[9]
+.
+bb)   Nach der Rechtsprechung des Bundesgerichts, welche weiterhin aktuell bleibt, beruht die Festlegung der Genugtuungssumme auf richterlichem Ermessen. Ausgangspunkt bildet dabei die Feststellung, dass das Bundesrecht keinen bestimmten Mindestbetrag festsetzt. Bei der Ausübung des Ermessens kommt den Besonderheiten des Einzelfalls entscheidendes Gewicht zu. Dabei ist zunächst die Grössenordnung der in Frage kommenden Genugtuung zu ermitteln, wobei Art und Schwere der Verletzung massgebend sind. In einem zweiten Schritt sind die Besonderheiten des Einzelfalls zu würdigen, die eine Verminderung oder Erhöhung der zuzusprechenden Summe nahelegen. Das Bundesgericht erachtet bei kürzeren Freiheitsentzügen Fr. 200.00 pro Tag als angemessene Genugtuung, sofern nicht aussergewöhnliche Umstände vorliegen, die eine höhere oder eine geringere Entschädigung zu rechtfertigen vermögen. Bei längerer Untersuchungshaft (von mehreren Monaten Dauer) ist der Tagesansatz in der Regel zu senken, da die erste Haftzeit besonders erschwerend ins Gewicht fällt
+[10]
+.
+2.     a)    Am 6. April 2012, 11.15 Uhr, wurde der Beschuldigte vorläufig festgenommen; gleichentags wurden sein Zimmer und sein Spind durchsucht. Am frühen Nachmittag wurde dem Beschuldigten die vorläufige Festnahme eröffnet. Das entsprechende Protokoll nennt als Beginn der Hafteröffnung zwar als Uhrzeit 16.30 Uhr. Diese Uhrzeit ist allerdings offensichtlich unrichtig, denn als Ende der Einvernahme wurde 13.39 Uhr vermerkt. Die Befragung zur Sache erfolgte um 16.56 Uhr, welche bis 17.19 Uhr andauerte. Der Beschuldigte hatte nach Abschluss der Einvernahme weder Fragen noch Bemerkungen. Die Entlassung des Beschuldigten aus der Haft erfolgte um 17.30 Uhr.
+b)    Vom Geschehnisablauf her sind keine Momente feststellbar, welche für die rund sechs Stunden andauernde vorläufige Festnahme
+[11]
+mit Durchsuchung von Zimmer und Spind eine – wenn auch nur minimale – Genugtuung rechtfertigen würden. Dass die Kantonspolizei für die Eröffnung der vorläufigen Festnahme die Mittagszeit abwartete, hält sich wohl im von Art. 219 Abs. 1 StPO geforderten Rahmen der "Unverzüglichkeit". Allerdings wurden in der Folge fast dreieinhalb Stunden benötigt, um die Staatsanwaltschaft über die Festnahme zu informieren und den Beschuldigten zu dem gegen ihn bestehenden Verdacht polizeilich zu befragen
+[12]
+. Vor dem Hintergrund, dass die Kantonspolizei die unter Beizug einer Dolmetscherin erfolgte Befragung wohl noch vorbereiten musste, dürfte die kurz vor 17.00 Uhr erfolgte Einvernahme mit anschliessender Freilassung gerade noch im Rahmen des Vertretbaren liegen. In Anbetracht der konkreten Umstände erscheint die hier ausgestandene Haft von insgesamt rund sechs Stunden Dauer somit (noch) als ein "geringfügiger Nachteil" im Sinn von Art. 430 Abs. 1 lit. c StPO, der nicht zu entschädigen ist. Allerdings ist die Staatsanwaltschaft gehalten, die Polizei darauf hinzuweisen, dass unter dem Geltungsbereich der StPO stundenlanges "Wartenlassen" eines Beschuldigten ohne ausreichenden Grund eine Entschädigung beziehungsweise Genugtuung des Staates auslöst. Die Staatsanwaltschaft ist zudem gehalten, inskünftig in ihren Entscheiden den Verzicht auf Ausrichtung von Entschädigung oder Genugtuung infolge "Geringfügigkeit der Aufwendungen" eingehender zu begründen.
+Obergericht, 2. Abteilung, 28. Juni 2012, SW.2012.54
+[1]
+Vgl. Wehrenberg/Bernhard, Basler Kommentar, Art. 429 StPO N 31
+[2]
+Wehrenberg/Bernhard, Art. 430 StPO N 19
+[3]
+Eidgenössisches Justiz- und Polizeidepartement, Begleitbericht zum Vorentwurf für eine Schweizerische Strafprozessordnung, Juni 2011, S. 292
+[4]
+Schmid, Strafprozessrecht, 4.A., N 1220 und 1224; Schmid, Handbuch des schweizerischen Strafprozessrechts, Zürich/St.Gallen 2009, N 1817
+[5]
+Hauser/Schweri/Hartmann, Schweizerisches Strafprozessrecht, 6.A., § 109 N 8
+[6]
+RStrS 2004 Nr. 500 mit Hinweis auf ABSH 2000 S. 165 ff. (es ging konkret um sieben Stunden Freiheitsentzug)
+[7]
+AGVE 2002 Nr. 31
+[8]
+Zweidler, Die Praxis zur thurgauischen Strafprozessordnung, Bern 2005, § 65 N 23
+[9]
+Zweidler, § 65 StPO TG N 26
+[10]
+BGE vom 15. Mai 2012, 6B_111/2012 und 6B_122/2012, Erw. 4.2; BGE vom 31. Januar 2011, 6B_574/2010, Erw. 2.3
+[11]
+Art. 217 ff. StPO
+[12]
+Art. 219 Abs. 1 und 2 StPO
