@@ -1,0 +1,53 @@
+---
+decision_id: "tg_obergericht_RBOG_2012_Nr._03"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2012 Nr. 03"
+decided: "2012-08-14"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2012-nr-3"
+cites_law: ["switzerland/bund/acts/220/art-400.md"]
+---
+
+# TG Obergericht RBOG 2012 Nr. 03
+
+## Regeste
+
+Dokumentationspflicht des Zahnarztes
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2012 RBOG 2012 Nr. 03
+Thurgovie Obergericht Rechenschaftsbericht 2012 RBOG 2012 Nr. 03
+Turgovia Obergericht Rechenschaftsbericht 2012 RBOG 2012 Nr. 03
+
+RBOG 2012 Nr. 03
+Skip to main content
+Show navigation
+Dokumentationspflicht des Zahnarztes
+Art. 400 Abs. 1 OR
+1. Nach herrschender Lehre und ständiger Praxis des Bundesgerichts ist ein Eingriff in die körperliche Integrität – wozu auch das Ziehen und Behandeln von Zähnen gehört – rechtswidrig, sofern nicht die Einwilligung des Patienten vorliegt[1]. Das Erfordernis einer klaren Einwilligung leitet sich direkt aus dem Recht des Patienten auf persönliche Freiheit und auf körperliche Integrität ab, welches ein absolut geschütztes Rechtsgut ist. Der Arzt, der ohne Information und Einwilligung des Patienten operiert, handelt widerrechtlich und haftet für den angerichteten Schaden, ungeachtet ob nun in seinem Verhalten eine Verletzung seiner Pflichten als Beauftragter oder eine Verletzung absoluter Rechte, somit eine unerlaubte Handlung, gesehen wird. Das widerrechtliche Verhalten betrifft den ganzen Eingriff und damit alle einzelnen Handlungen, aus denen er sich zusammensetzt, mögen sie auch medizinisch korrekt ausgeführt worden sein. Der Arzt ist diesfalls zum Ersatz allen Schadens aus dem totalen oder partiellen Misserfolg der Behandlung verpflichtet, auch wenn ihm kein Kunstfehler vorgeworfen werden kann. Das vom Patienten getragene Risiko des medizinischen Eingriffs geht somit bei fehlender Aufklärung und damit mangelnder Einwilligung auf den Arzt über[2].
+2. Die Aufklärung muss umfassend sein, was voraussetzt, dass der Arzt den Patienten über den Eingriff ausreichend unterrichtet, damit dieser seine Zustimmung dazu in Kenntnis der Sachlage geben kann. Der Arzt muss den Patienten somit mit klaren und verständlichen Worten so umfassend wie möglich aufklären, und zwar über die Diagnose, die Therapie, die Aussichten, über die Alternativen zur vorgeschlagenen Behandlung[3], die Risiken[4], die Heilungschancen, über eine mögliche spontane Entwicklung der Krankheit sowie über die finanziellen Fragen. Einschränkungen der Aufklärungspflicht oder sogar Ausnahmen von derselben sind nur in genau umschriebenen Fällen zugelassen, beispielsweise dann, wenn es um alltägliche Handlungen geht, die keine besondere Gefahr und keine endgültige oder dauernde Beeinträchtigung der körperlichen Integrität mit sich bringen, wenn eine Dringlichkeit vorliegt, die an Notstand grenzt, oder wenn sich im Verlauf einer Operation eine offensichtliche Notwendigkeit ergibt, eine weitere Operation vorzunehmen[5].
+3. Es obliegt dem Arzt zu beweisen, dass er den Patienten ausreichend aufgeklärt und dass er vor dem Eingriff eine Einwilligung erhalten hat, die der Patient in voller Kenntnis der Umstände abgegeben hat. Liegt eine solche Einwilligung nicht vor oder kann der Arzt diese beziehungsweise eine gehörige Aufklärung nicht nachweisen und entfällt – wie hier – auch die Möglichkeit einer hypothetischen Einwilligung des Patienten, haftet der Arzt für den aus der Behandlung entstandenen Schaden[6].
+Daraus ergibt sich die Pflicht des (Zahn-)arztes, eine Dokumentation zu erstellen, die es ihm ermöglicht, der Aufklärungspflicht nachzukommen, wobei sich die Pflicht, eine Heilbehandlung zu dokumentieren, privatrechtlich direkt aus Art. 400 Abs. 1 OR herleitet[7]. Entsprechend schuldet der Zahnarzt dem Patienten die ausführliche, sorgfältige, wahre und vollständige Dokumentation der zahnärztlichen Behandlung. Diese Dokumentation muss er schriftlich anlegen. Es ist daher allgemein anerkannt, dass der Zahnarzt eine Krankengeschichte führen muss, damit er unter anderem in der Lage ist, jederzeit über den Stand seiner Bemühungen Rechenschaft abzulegen[8]. Über den Mindestinhalt der Krankengeschichte sagt Art. 400 Abs. 1 OR zwar nichts aus, jedoch ergeben sich Art, Inhalt und Umfang aus dem Zweck der Dokumentation: Therapiesicherung, Sicherung der Rechenschaftsablegung und Beweissicherung[9]. Eine sorgfältige Krankengeschichte muss deshalb in chronologischer Ordnung mindestens drei Elemente aufweisen: Erstens die Sachverhaltsfeststellungen des Zahnarztes samt Anamnese, den Krankheitsverlauf und die sich daraus ergebende Diagnose, zweitens die angeordneten Therapieformen und drittens den Ablauf und Gegenstand der Aufklärung des Patienten. Bezüglich der sorgfältigen Aufklärung ist in der Krankengeschichte festzuhalten, ob überhaupt aufgeklärt wurde und, wer, wann und in welchem Umfang den Patienten über die Risiken des Krankheitsverlaufs sowie über die Chancen und Risiken einer geplanten Heilbehandlung aufgeklärt hat. Dabei genügt es nicht, in der Krankengeschichte nur ganz allgemein zu vermerken, der Patient sei über die geplante Behandlung und ihre möglichen Komplikationen informiert worden[10]. Den Beweis für eine genügende Aufklärung verschafft nur ein ausführlicher Vermerk über das Aufklärungsgespräch in der Krankengeschichte mit der Angabe von Ort und Zeit der Aufklärung, der Person des Aufklärenden, einer stichwortartigen Zusammenfassung des Gesprächsgegenstands sowie dem Datum der Erstellung des Vermerks. Dagegen wäre es unzulässig und auch sachlich nicht gerechtfertigt, das Erbringen des Beweises der Aufklärung von weitergehenden Erfordernissen abhängig zu machen, wie beispielsweise vom Verwenden von Tonträgern, vom Beisein von Zeugen oder der Protokollierung[11]. Neben der fortlaufenden Führung der Krankengeschichte gehört zu einer ordnungsgemässen Dokumentation die Aufbewahrung aller Zusatzdokumente, wie etwa von Röntgenbildern[12].
+Zwar knüpft das Auftragsrecht keine unmittelbaren materiellen Rechtsfolgen an das Unterlassen einer ordnungsgemässen Dokumentation, jedoch können die rechtlichen Konsequenzen für den Zahnarzt gravierend sein, wenn er keine oder eine mangelhafte Dokumentation über Diagnose, Behandlung und Aufklärung des Patienten führt. Es ist davon auszugehen, dass der Zahnarzt in allen Bereichen, in denen eine Dokumentationspflicht besteht, im Fall des Unterlassens einer ordnungsgemässen Dokumentation die Folgen der Beweislosigkeit zu tragen hat. Dem Zahnarzt wird mithin der Beweis, dass er den Patienten ordnungsgemäss aufgeklärt hat, misslingen, wenn seine Aufklärungsdokumentation ungenügend ist. Allerdings hat er die Möglichkeit, diesen Beweis mit anderen Beweismitteln, wie Zeugen, zu erbringen, deren Beweiswert im Vergleich zu einer ordnungsgemässen Krankengeschichte allerdings fraglich sein kann[13].
+Obergericht, 2. Abteilung, 14. August 2012, ZBR.2012.11
+[1] Wiegand, in: Handbuch des Arztrechts (Hrsg.: Honsell), Zürich 1994, S. 180
+[2] BGE 133 III 128 = Pra 96, 2007, Nr. 105 S. 719; BGE vom 11. November 2009, 4A_485/2009, Erw. 1.3; Wiegand, S. 182
+[3] Vgl. Wiegand, S. 139 ff.
+[4] Vgl. Wiegand, S. 134 ff.
+[5] BGE 133 III 129 = Pra 96, 2007, Nr. 105 S. 720; BGE 117 Ib 203 f.; ZBl 97, 1996, S. 281 f.
+[6] BGE 133 III 129 f. = Pra 96, 2007, Nr. 105 S. 720 f.; BGE vom 11. November 2009, 4A_485/2009, Erw. 1.3; vgl. auch BGE 108 II 62 ff. = Pra 71, 1982, Nr. 122 S. 300 f.; Schmid, Beweislast, Beweiserleichterung oder Beweislastumkehr im Arzthaftungsprozess?, in: HAVE 2005, S. 234
+[7] Wiegand, S. 197 f.
+[8] Fellmann, in: Arztrecht in der Praxis (Hrsg.: Kuhn/Poledna), 2.A., S. 136; Fellmann, Berner Kommentar, Art. 400 OR N 44
+[9] Fellmann, S. 137
+[10] Wiegand, S. 152, S. 198 f.; Fellmann, S. 137
+[11] Wiegand, S. 152 f.
+[12] Fellmann, S. 137; Wiegand, S. 199
+[13] Wiegand, S. 204 f.; Fellmann, S. 138; Jetzer, Die ärztliche Dokumentationspflicht und der Beweis des Behandlungsfehlers, in: ZBJV 148, 2012, S. 324
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
