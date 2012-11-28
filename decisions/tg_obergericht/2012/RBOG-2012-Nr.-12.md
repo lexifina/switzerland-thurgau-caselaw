@@ -1,0 +1,52 @@
+---
+decision_id: "tg_obergericht_RBOG_2012_Nr._12"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2012 Nr. 12"
+decided: "2012-11-28"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2012-nr-12"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/272/art-205.md", "switzerland/bund/acts/272/art-210.md", "switzerland/bund/acts/272/art-212.md", "switzerland/bund/acts/272/art-219.md", "switzerland/bund/acts/272/art-235.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md"]
+---
+
+# TG Obergericht RBOG 2012 Nr. 12
+
+## Regeste
+
+Pflicht zur Protokollführung im Entscheidverfahren vor der Schlichtungsbehörde
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2011 RBOG 2012 Nr. 12
+Thurgovie Obergericht Rechenschaftsbericht 2011 RBOG 2012 Nr. 12
+Turgovia Obergericht Rechenschaftsbericht 2011 RBOG 2012 Nr. 12
+
+RBOG 2012 Nr. 12
+Skip to main content
+Show navigation
+Pflicht zur Protokollführung im Entscheidverfahren vor der Schlichtungsbehörde
+Art. 212 ZPO
+,
+Art. 235 Abs. 1 ZPO
+1. Die Schlichtungsbehörde kann in vermögensrechtlichen Streitigkeiten bis zum Streitwert von Fr. 2'000.00 entscheiden, sofern die klagende Partei einen entsprechenden Antrag stellt[1]. Wird dieser Antrag gestellt und macht die Schlichtungsbehörde von ihrer Entscheidkompetenz Gebrauch, hat sie zuerst ein formloses Schlichtungsverfahren durchzuführen. In diesem Stadium des Verfahrens dürfen die Aussagen der Parteien nicht protokolliert werden[2]. Nach dem erfolglosen Schlichtungsversuch ist das Schlichtungsverfahren formell zu schliessen, wenn die Schlichtungsbehörde einen Entscheid fällen will. Der Abschluss des Schlichtungsverfahrens ist im Protokoll festzuhalten, und das Entscheidverfahren ist formell zu eröffnen[3]. Im Entscheidverfahren amtet der Friedensrichter als erstinstanzlicher erkennender Richter[4]. Trotz Mündlichkeit und niedrigem Streitwert handelt es sich um ein vollwertiges Erkenntnisverfahren, weshalb der Friedensrichter in der Ausübung seiner Spruchkompetenz keine Billigkeitserwägungen heranziehen darf; vielmehr muss er sich bei seinem Entscheid auf rein rechtliche Überlegungen stützen[5]. Sodann gelten für das Entscheidverfahren vor der Schlichtungsbehörde die Bestimmungen des vereinfachten Verfahrens und ergänzend des ordentlichen Verfahrens sinngemäss[6].
+2. Gemäss Art. 235 Abs. 1 ZPO hat das Gericht über jede Verhandlung Protokoll zu führen. Die Pflicht zur Protokollführung über für den Entscheid wesentliche Verhandlungen, Abklärungen und Beweiserhebungen ergibt sich bereits aus dem Verfassungsrecht[7] und ist Teil des Anspruchs auf rechtliches Gehör[8]. Die Protokollierung der mündlichen Vorträge der Parteien im Entscheidverfahren ist auch im Hinblick auf ein Rechtsmittelverfahren unumgänglich. Der Entscheid der Schlichtungsbehörde kann nämlich nur mit Beschwerde gemäss Art. 319 ff. ZPO angefochten werden. Im Beschwerdeverfahren kann lediglich eine unrichtige Rechtsanwendung und/oder eine offensichtlich unrichtige Feststellung des Sachverhalts geltend gemacht werden[9]. Im Beschwerdeverfahren sind daher keine neuen Anträge, keine neuen Tatsachenbehauptungen und keine neuen Beweismittel zulässig. Die Beschwerdeinstanz ist somit darauf angewiesen, dass die Anträge und die Behauptungen der Parteien sowie die von ihnen eingereichten Beweismittel von der Schlichtungsbehörde protokolliert werden. Nur so kann sie beurteilen, ob Noven geltend gemacht werden oder nicht[10].
+3. Die Vorinstanz lud die Parteien am 25. April 2012 zur Schlichtungsverhandlung auf den 26. Juni 2012 ein. Dem unbegründeten Entscheid vom 16. August 2012 folgend stellte der Beschwerdegegner mündlich den Antrag auf Entscheid durch die Schlichtungsbehörde im Sinn von Art. 212 ZPO. Ein Protokoll über das im Anschluss an das Schlichtungsverfahren durchgeführte Entscheidverfahren liegt nicht in den Akten. Auch aus dem begründeten Entscheid der Vorinstanz lassen sich die Argumente der Parteien nicht entnehmen. Ebenso wenig finden sich in den vorinstanzlichen Akten die Beweisunterlagen der Parteien. Es ist daher nicht möglich zu beurteilen, welche Behauptungen und Beweismittel im Beschwerdeverfahren neu und damit unzulässig sind. Da die Beschwerdeinstanz mit eingeschränkter Kognition urteilt[11], ist eine Heilung dieses formellen Fehlers im Beschwerdeverfahren nicht möglich[12]. Der angefochtene Entscheid ist deshalb aufzuheben und die Sache an die Vorinstanz zurückzuweisen, damit diese entsprechend den Regeln von Art. 219 ff. ZPO das Entscheidverfahren durchführt und im Sinn von Art. 212 ZPO entscheidet oder den Parteien im Sinn von Art. 210 ZPO einen Urteilsvorschlag vorlegt.
+Obergericht, 1. Abteilung, 28. November 2012, ZR.2012.64
+[1] Art. 212 Abs. 1 ZPO
+[2] Art. 205 Abs. 1 ZPO
+[3] Infanger, Basler Kommentar, Art. 212 ZPO N 13
+[4] Rickli, in: Schweizerische Zivilprozessordnung (Hrsg.: Brunner/Gasser/Schwander), Zürich/St. Gallen 2011, Art. 212 ZPO N 8
+[5] Rickli, Art. 212 ZPO N 12
+[6] Rickli, Art. 212 ZPO N 13
+[7] Art. 29 Abs. 2 BV
+[8] Pahud, in: Schweizerische Zivilprozessordnung (Hrsg.: Brunner/Gasser/Schwander), Zürich/St. Gallen 2011, Art. 235 ZPO N 3; BGE 124 V 390
+[9] Art. 320 ZPO
+[10] BGE 124 V 391
+[11] Art. 320 ZPO
+[12] RBOG 2011 Nr. 1; BGE 130 II 562
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
