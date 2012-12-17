@@ -1,0 +1,83 @@
+---
+decision_id: "tg_obergericht_RBOG_2012_Nr._21"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2012 Nr. 21"
+docket_2: "SBR.2012.36"
+decided: "2012-12-17"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/411E8608-B8FA-B1C4-6D04ADADF8D5D658.html"
+cites_law: ["switzerland/bund/acts/311.0/art-125.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/741.01/art-031.md", "switzerland/bund/acts/741.01/art-090.md", "switzerland/bund/acts/741.01/art-091.md"]
+---
+
+# TG Obergericht RBOG 2012 Nr. 21
+
+## Regeste
+
+b) Gemäss Arztbericht des Facharztes für Neurologie vom 1. Juni 2004 hatte diesem die Berufungsklägerin mitgeteilt, es seien seit dem Unfallereignis, jedoch in den letzten Monaten vor seiner Begutachtung verstärkt, wiederholt plötzlich Bewusstlosigkeiten aufgetreten, infolge derer die Berufungsklägerin auch schon gestürzt sei und sich dabei verletzt habe. Das Institut für Rechtsmedizin der Universität Zürich erachtete die Fahreignung der Berufungsklägerin aus verkehrsmedizinischer Sicht "...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 17.12.2012 RBOG 2012 Nr. 21 (SBR.2012.36)
+Thurgovie Obergericht Rechenschaftsbericht 17.12.2012 RBOG 2012 Nr. 21 (SBR.2012.36)
+Turgovia Obergericht Rechenschaftsbericht 17.12.2012 RBOG 2012 Nr. 21 (SBR.2012.36)
+
+b) Gemäss Arztbericht des Facharztes für Neurologie vom 1. Juni 2004 hatte diesem die Berufungsklägerin mitgeteilt, es seien seit dem Unfallereignis, jedoch in den letzten Monaten vor seiner Begutachtung verstärkt, wiederholt plötzlich Bewusstlosigkeiten aufgetreten, infolge derer die Berufungsklägerin auch schon gestürzt sei und sich dabei verletzt habe. Das Institut für Rechtsmedizin der Universität Zürich erachtete die Fahreignung der Berufungsklägerin aus verkehrsmedizinischer Sicht "...
+
+RBOG 2012 Nr. 21
+RBOG 2012 Nr. 21
+Voraussehbarkeit einer plötzlich auftretenden Fahrunfähigkeit; Bedeutung einer mit dem Hausarzt durchgeführten Probefahrt
+(Art. 12 Abs. 3 und 125 Abs. 2 StGB; Art. 31 Abs. 2 SVG)
+1.     Die Berufungsklägerin geriet am 31. August 2007 aus medizinischen Gründen – wahrscheinlich aufgrund einer Bewusstlosigkeit – mit ihrem Fahrzeug auf die Gegenfahrbahn und kollidierte frontal mit einem korrekt entgegenkommenden Fahrradfahrer. Dieser erlitt schwere Kopf- und Oberkörperverletzungen, welche zu bleibenden Schädigungen führten; er ist heute querschnittgelähmt.
+2.     a)    Zu beurteilen ist im Berufungsverfahren einzig, ob sich die Berufungsklägerin der Gefahr des möglichen Eintritts der Fahrunfähigkeit hätte bewusst sein und dementsprechend auf das Lenken eines Fahrzeugs hätte verzichten müssen.
+b)    Die Berufungsklägerin macht im Wesentlichen geltend, sie habe nicht gewusst und auch nicht wissen müssen oder können, dass sie am Unfalltag plötzlich bewusstlos und damit fahrunfähig werde. Selbst wenn vor dem Juni 2004 gelegentlich Bewusstlosigkeiten aufgetreten sein sollten, so sei dadurch nicht belegt, dass dies auch später, insbesondere im Zeitpunkt zwischen der mit dem Hausarzt durchgeführten Probefahrt im Jahr 2005 und dem Unfallereignis im August 2007, der Fall gewesen sei. Auch aufgrund des Umstands, dass sie zwei Tage vor dem Unfall ihren Hausarzt aufgesucht habe, könne nicht auf eine Fahrunfähigkeit am Unfalltag geschlossen werden. Ausserdem hätten die Kribbelmissempfindungen sowie die Nackenbeschwerden, welche sie zum Hausarztbesuch veranlasst hätten, keinen Zusammenhang mit der plötzlich aufgetretenen Bewusstlosigkeit. Ferner habe ihr Hausarzt im Jahr 2005 die Fahrtauglichkeit nach einer positiv verlaufenen Probefahrt bejaht.
+3.     a)    Die Berufungsklägerin schlug im Juni 2001 ihren Kopf an einer zu kleinen Tür an und stürzte rückwärts auf ihren Hinterkopf. Dabei erlitt sie eine Rissquetschwunde an der Stirn, eine Bewusstlosigkeit unklarer Dauer, eine Amnesie sowie Nausea mit Erbrechen. In der Folge stellten sich Nacken- und Kopfschmerzen, Schwindelepisoden sowie eine erhebliche kognitive Beeinträchtigung ein. Von November 2001 bis Januar 2002 wurde die Berufungsklägerin stationär behandelt; es wurde festgestellt, dass aufgrund der Schwindel­symptomatik und der kognitiven Defizite eine Fahreignung aktuell nicht gegeben sei. Im Oktober/November 2002 war die Berufungsklägerin sodann in einer Rehabilitationsklinik. Dort berichtete sie unter anderem, sie leide an Schwindelattacken; es handle sich um wiederholte sekundenlange Absenzen und synkopenartige Ereignisse.
+b)    Gemäss Arztbericht des Facharztes für Neurologie vom 1. Juni 2004 hatte diesem die Berufungsklägerin mitgeteilt, es seien seit dem Unfallereignis, jedoch in den letzten Monaten vor seiner Begutachtung verstärkt, wiederholt plötzlich Bewusstlosigkeiten aufgetreten, infolge derer die Berufungsklägerin auch schon gestürzt sei und sich dabei verletzt habe. Gemäss den Angaben des Ehemanns verdrehe sie plötzlich die Augen und sinke bewusstlos zu Boden. Die Symptomatik trete etwa alle zwei Wochen auf, eher gegen den späteren Abend. Provoziert werden könnten diese Bewusstlosigkeiten nach vermehrter körperlicher Anstrengung, vermehrter Konzentration und vermehrtem Stress. Er halte die Patientin für nicht fahrtauglich, insbesondere da sie nicht merke, wann die Bewusstlosigkeiten auftreten würden. Den Angaben der Patientin nach fahre sie weiterhin Auto.
+c)     Diesem Bericht war ein neuropsychologisches Teilgutachten vorausgegangen. Dem Neuropsychologen gegenüber hatte die Berufungsklägerin ausgesagt, sie mache kleinere Einkäufe selbst mit dem Auto, müsse aber immer früh vormittags fahren, damit sie jeweils den gleichen Parkplatz habe, ansonsten sie das Auto nicht mehr finde. Sie fahre nur kurze Strecken im Bereich der Nachbardörfer, weil sie mit dem Autofahren Probleme habe (Konzentration, Reaktion); ihr Mann habe sie schon einige Male holen müssen, da sie sich nicht mehr fähig gefühlt habe heimzufahren. Bei sehr starken Kopfschmerzen fahre sie nicht Auto. Der Gutachter hielt fest, aufgrund der neuropsychologischen Defizite, insbesondere der schwer eingeschränkten Aufmerksamkeitsfunktion, der Verlangsamung in der Informationsverarbeitung und des Reaktionsvermögens, sei die Fahreignung zum Führen eines Motorfahrzeugs derzeit eindeutig nicht gegeben, was mit der Berufungsklägerin und ihrem Ehemann besprochen worden sei. Auf ihren Wunsch hin sei ihnen diesbezüglich eine schriftliche Bestätigung abgegeben worden.
+d)    Nach dem Unfall ordnete das Strassenverkehrsamt eine verkehrsmedizinische Begutachtung der Berufungsklägerin an. Das Institut für Rechtsmedizin der Universität Zürich erachtete die Fahreignung der Berufungsklägerin aus verkehrsmedizinischer Sicht "klar als absolut nicht gegeben." Es sei von einer "bis dato ursächlich unklaren, offenbar anfallsartig auftretenden, komplexen neurologischen Grunderkrankung (epileptische DD psychogene Anfälle) bei Zustand nach Schädelhirntrauma 2001" auszugehen. Offenbar bestünden auch weiterhin kognitive Einbussen sowie unklare, rezidivierende, verkehrsmedizinisch bekanntermassen äusserst problematische und gefährliche sowie, bei aktiver Teilnahme am Strassenverkehr, selbst- und fremdgefährdende Sensationen und Bewusstseinsstörungen. Die aktuell ärztlich verordneten Medikamente beeinträchtigten zusätzlich allesamt die Fahrfähigkeit, insbesondere auch in kombinierter Wechselwirkung.
+4.     a)    Damit steht fest, dass die Berufungsklägerin aufgrund ihres im Jahr 2001 erlittenen Schädelhirntraumas grundsätzlich nicht mehr fahrtüchtig war, was ihr vom Neuropsychologen mitgeteilt und zusätzlich schriftlich bestätigt worden war. Obwohl sie um diese Fahruntüchtigkeit wusste, gab sie gegenüber dem Neurologen im Mai 2004 an, weiterhin Auto zu fahren. Gleichzeitig gab sie an, nach wie vor unter plötzlich auftretenden Bewusstlosigkeiten zu leiden. Der Hausarzt der Berufungsklägerin bestätigte in seinem vertrauensärztlichen Bericht vom Juli 2006 an den Vertrauensarzt der Versicherung, es bestehe eine gewisse Stabilisierung auf tiefem Niveau, weshalb davon auszugehen ist, dass die erwähnten Einschränkungen zu jenem Zeitpunkt weiterhin bestanden. Allein schon wegen dieser plötzlich auftretenden Bewusstlosigkeiten und auch aufgrund der ihr schriftlich vom Neuropsychologen bestätigten Fahrunfähigkeit musste die Berufungsklägerin wissen, dass das Führen eines Motorfahrzeugs eine zu grosse Gefahr für die übrigen Strassenbenützer beinhalten würde, sollte eine plötzliche Bewusstlosigkeit während der Fahrt auftreten. Dabei ist unerheblich, ob die Berufungsklägerin auch von der negativen Einschätzung des Neurologen Kenntnis erlangte. Da die Berufungsklägerin wusste, dass die Abklärung beim Neurologen nur deshalb erfolgte, weil sie immer noch an plötzlich auftretenden Bewusstlosigkeiten litt, deren Ursache unklar war, wäre es an ihr gelegen, sich genau über seine Meinung zu erkundigen, bevor sie wieder ein Auto lenkte.
+b)    Wie die Vorinstanz weiter richtig feststellte, suchte die Berufungsklägerin den Hausarzt zudem am 28. August 2007 auf, weil sie schon längere Zeit Nackenschmerzen hatte, welche der Hausarzt als muskuläre Verspannungen beurteilte. Nach den Aussagen der Berufungsklägerin hatte sie zwei Tage vor dem Unfall Beschwerden im Arm und deswegen den Arzt aufsuchen müssen. Trotz dieser Schmerzattacken und der Nackenstarre und ihrer Schlafstörungen war die Berufungsklägerin nun aber am 31. August 2007 der Meinung, sie sei in der Lage, ein Fahrzeug zu führen, was ihr zum Vorwurf zu machen ist. Aufgrund ihres gesundheitlichen Zustands hätte sie von sich aus auf das Führen eines Motorfahrzeugs verzichten müssen, zumal ihr das mehrfach von den Ärzten so mitgeteilt worden war.
+5.     a)    Daran vermag auch die mit ihrem Hausarzt durchgeführte, positiv verlaufene Probefahrt im Jahr 2005 nichts zu ändern. Zum einen blieb die Berufungsklägerin auch nach jener Probefahrt selbst dafür verantwortlich, zu entscheiden, ob sie sich aufgrund ihrer Befindlichkeit überhaupt als fahrtauglich einschätzen und damit ein Fahrzeug lenken durfte. Es gehört zu den in Art. 31 Abs. 2 SVG statuierten Sorgfaltspflichten jedes Fahrzeugführers, eine allfällige Fahrunfähigkeit zu erkennen und bei einem solchen Zustand kein Fahrzeug zu führen
+[1]
+. Zum anderen hatte der Hausarzt sie angewiesen, nur Auto zu fahren, falls sie sich nicht schläfrig oder schwindlig fühle; zudem sei ihr abgeraten worden, nachts Auto zu fahren. Dies bestätigte der Arzt auch in seiner Befragung als Auskunftsperson. Die mit dem Hausarzt durchgeführte Fahrprobe durfte die Berufungsklägerin daher nicht als Freipass für ein künftiges Lenken des Motorfahrzeugs betrachten, sondern sie musste die mit dem Hausarzt ausdrücklich gemachten Einschränkungen beachten und im Zweifelsfall auf das Führen eines Motorfahrzeugs verzichten.
+b)    Auch ändert daran nichts, dass die Staatsanwaltschaft nicht konkret nachwies, dass die Berufungsklägerin in den letzten drei Monaten vor dem Unfall bewusstlos geworden war. Einerseits lässt sich der genaue Gesundheitszustand der Berufungsklägerin bei Antritt der Fahrt ohnehin nicht mehr durch einen direkten Beweis ermitteln, weshalb hier ein durch die verschiedenen ärztlichen Gutachten erbrachter Indizienbeweis zulässig ist
+[2]
+. Andererseits gilt entgegen der Ansicht der Berufungsklägerin
+[3]
+im Fall von Epileptikern nicht grundsätzlich die Regel, dass lediglich eine Fahrabstinenz von drei Monaten seit dem letzten Anfallereignis verlangt wird. Gemäss den aktualisierten Richtlinien der Verkehrskommission der Schweizerischen Liga gegen Epilepsie (Epilepsie-Liga) vom 10. Mai 2006
+[4]
+ist die Fahrtauglichkeit bei einer aktiven Epilepsie in der Regel aufgehoben. Eine Erst- oder Wiederzulassung als Motorfahrzeuglenker steht unter der Voraussetzung einer dem Einzelfall angepassten periodischen fachneurologischen Beurteilung sowie Überprüfung der Fahrtauglichkeit; sie kann in der Regel nur erfolgen, wenn eine Anfallsfreiheit von einem Jahr besteht.
+6.     Der Berufungsklägerin ist daher vorzuwerfen, dass sie sich trotz ihrer gesundheitlichen Beschwerden am 31. August 2007 ans Steuer setzte und so das Risiko einging, nicht während der gesamten Fahrt in der Lage zu sein, ihr Fahrzeug sicher zu führen
+[5]
+. Das Verhalten der Berufungsklägerin führte unmittelbar zu schweren Verletzungen des Opfers. Dass ein solcher Unfall geschehen kann, wenn ein Lenker die Kontrolle über das Fahrzeug verliert, musste ihr bewusst gewesen sein. Dementsprechend hat sich die Berufungsklägerin der fahrlässigen Körperverletzung im Sinn von Art. 125 Abs. 2 StGB schuldig gemacht. Die Berufungsklägerin ist aber nicht zusätzlich wegen grober Verkehrsregelverletzung
+[6]
+und wegen Fahrens in fahrunfähigem Zustand
+[7]
+zu verurteilen, da die Gefährdungstatbestände des SVG durch den Verletzungstatbestand von Art. 125 Abs. 2 StGB konsumiert wurden
+[8]
+. Eine (kumulative) Verurteilung aufgrund der Gefährdungstatbestände wäre nur möglich, wenn neben der verletzten Person noch eine Drittperson konkret gefährdet worden wäre
+[9]
+. Die konkrete Gefährdung weiterer Personen bildete aber nicht Gegenstand des Strafbefehls, weshalb eine Verurteilung ausgeschlossen ist, da damit das Anklageprinzip verletzt würde
+[10]
+.
+Obergericht, 1. Abteilung, 17. Dezember 2012, SBR.2012.36
+[1]
+Schaffhauser, Grundriss des schweizerischen Strassenverkehrsrechts, Bd. I, 2.A., N 501
+[2]
+BGE vom 20. Juli 2012, 6B_217/2012, Erw. 2.2.2; BGE vom 28. Februar 2011, 6B_1047/2010, Erw. 3.2; BGE vom 13. Dezember 2010, 6B_781/2010, Erw. 3.2
+[3]
+Mit Hinweis auf BGE 103 Ib 34
+[4]
+Vgl. www.epi.ch/_files/Fahrtauglichkeit/Epilepsie_und_Autofahren_D.pdf
+[5]
+Schaffhauser, N 501
+[6]
+Art. 90 Ziff. 2 SVG
+[7]
+Art. 91 Abs. 2 SVG
+[8]
+Roth/Keshelava, Basler Kommentar, Art. 125 StGB N 7
+[9]
+BGE 91 IV 215; BGE vom 12. Dezember 2011, 6B_493/2011, Erw. 7.1
+[10]
+Art. 9 Abs. 2 i.V.m. Art. 356 Abs. 1 StPO
