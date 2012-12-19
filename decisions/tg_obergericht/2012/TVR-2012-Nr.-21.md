@@ -1,0 +1,60 @@
+---
+decision_id: "tg_obergericht_TVR_2012_Nr._21"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2012 Nr. 21"
+decided: "2012-12-19"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2012-nr-21"
+cites_law: ["switzerland/bund/acts/101/art-029a.md", "switzerland/bund/acts/741.21/art-022a.md"]
+---
+
+# TG Obergericht TVR 2012 Nr. 21
+
+## Regeste
+
+Anfechtbarkeit von provisorischen baulichen Massnahmen für eine vorgesehene Tempo-30-Zone
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 19.12.2012 TVR 2012 Nr. 21
+Thurgovie Obergericht Rechenschaftsbericht 19.12.2012 TVR 2012 Nr. 21
+Turgovia Obergericht Rechenschaftsbericht 19.12.2012 TVR 2012 Nr. 21
+
+TVR 2012 Nr. 21
+Skip to main content
+Show navigation
+Anfechtbarkeit von provisorischen baulichen Massnahmen für eine vorgesehene Tempo-30-Zone
+Art. 29 a BV
+,
+§ 13 Abs. 2 StrWG
+,
+Art. 5 Abs. 3 V Tempo-30
+,
+Art. 6 V Tempo-30
+1. Sieht eine Verfügung nebst der Einführung einer Tempo-30-Zone auch provisorische bauliche Massnahmen vor, so können diese allein angefochten werden (E. 1.2).
+2. Ob in einer Tempo-30-Zone von Anfang an bauliche Massnahmen zu verfügen sind, hängt nicht nur von den Empfehlungen eines Gutachtens ab, sondern auch davon, ob durch diese Massnahmen zusätzliche neue Gefahrensituationen entstehen können (E. 2).
+Die Politische Gemeinde D gab in einer öffentlichen Bekanntmachung den Beschluss bekannt, dass im Gebiet des Weilers L die Zonenhöchstgeschwindigkeit von 30 km/h gelten solle. Beginn und Ende der Zone mit Geschwindigkeitsbeschränkung würden mit den Signalen 2.59.1 und 2.59.2 markiert und die baulichen Massnahmen genehmigt. Spätestens ein Jahr nach Realisierung der Massnahmen würden diese auf ihre Wirkung überprüft. Dagegen erhob K Beschwerde, mit dem Antrag, auf die baulichen Massnahmen sei zu verzichten.
+Aus den Erwägungen:
+1.2
+1.2.1 Zu prüfen ist die Beschwerdelegitimation des Beschwerdeführers und seiner Mitunterzeichner. Als Einwohner des Weilers L und im Wesentlichen freiberuflicher Gewerbetreibender mit Transportgeschäft und Landwirtschaftsbetrieb in oder um das Gebiet der beabsichtigten Tempo-30-Zone ist der Beschwerdeführer offensichtlich zur Beschwerdeführung legitimiert (vgl. hierzu auch den Entscheid des Bundesgerichts 1C_317/2010 vom 10. Dezember 2010, E. 5.6). Es stellt sich aber aus einem anderen Grund die Frage, inwieweit vorliegend überhaupt Beschwerde geführt werden kann. Der Beschwerdeführer hat ausdrücklich erklärt, sich nicht gegen die grundsätzliche Anordnung einer Tempo-30-Zone zu wehren. Vielmehr geht es im Wesentlichen um die geplanten Möblierungselemente (bauliche Massnahmen). Sowohl von Seiten der Gemeinde als auch vom DBU wird diesbezüglich auf § 13 Abs. 2 StrWG verwiesen, wonach gegen Entscheide über Versuchsmassnahmen zur Verkehrsberuhigung oder Verkehrslenkung kein ordentliches Rechtsmittel gegeben sei.
+1.2.2 § 13 Abs. 2 StrWG hatte bereits in der Kommission zur Vorberatung des StrWG zu Diskussionen geführt. Kantonsrat Schöni wies in der Diskussion zu § 13 StrWG darauf hin, der Artikel lasse viel mehr zu, als man vielleicht annehmen könne. Im Grunde genommen sei es mit dieser Bestimmung durchaus möglich, quasi diktatorisch Verkehrseinschränkungen zu verfügen, ohne dass dagegen Rechtsmittel ergriffen werden könnten. Es werde der Möglichkeit Tür und Tor geöffnet, ohne Rechtsmittel und die üblichen Entscheidungswege Provisorien während langer Jahre hinauszuziehen. Man müsse sich bewusst sein, dass Betroffene während der Versuchsphase keine Möglichkeit hätten, sich gegen eine für sie negative Massnahme zu wehren. Auf der anderen Seite führte Kantonsrat Herzog aus, es sei wichtig, dass solche Versuche sofort durchgeführt werden könnten, wenn es sich dabei um einen Gefahrenpunkt handle. Schliesslich wurde der Paragraph in seiner heutigen Form, nämlich dass eine solche Massnahme grundsätzlich zwei Jahre dauert und danach um maximal zwei Jahre verlängert werden kann, angenommen (vgl. hierzu das Protokoll der Kommission zur Vorberatung eines neuen Gesetzes über Strassen und Wege vom 18. August 1998, S. 17 f.).
+1.2.3 Das StrWG wurde auf den 1. Januar 1993 in Kraft gesetzt. Seither hat die Gesetzgebung in verschiedenen Bereichen wesentliche Änderungen erfahren. So hat jede Person seit Inkrafttreten der Rechtsweggarantie am 1. Januar 2007 bei Rechtsstreitigkeiten Anspruch auf Beurteilung durch eine richterliche Behörde. Allerdings können Bund und Kanton die richterliche Beurteilung in Ausnahmefällen ausschliessen (Art. 29a BV). Die Möglichkeit, Tempo-30-Zonen mit - gegebenenfalls zwingenden - baulichen Massnahmen anzuordnen, besteht sodann erst seit der Einführung auf den 1. Januar 2002 von Art. 22a SSV. Bei der Schaffung von § 13 Abs. 2 StrWG hatte man nicht die baulichen Massnahmen im Auge, die im Zusammenhang mit der Einführung von Tempo-30-Zonen stehen.
+1.2.4 Es ist fraglich, ob die Bestimmung von § 13 Abs. 2 StrWG in Anbetracht der Rechtsweggarantie uneingeschränkt Geltung beanspruchen kann. Diese Verkehrsbeschränkungsmassnahmen können nämlich bis zu vier Jahre ohne Rechtsmittelmöglichkeit angeordnet werden. Der durchgeführte Augenschein hat eindrücklich gezeigt, welche erheblichen Auswirkungen im Verkehr und eben auch welche zusätzlichen Gefahren durch die verengten Fahrbahnen und die dadurch notwendigen zusätzlichen Fahrmanöver nicht nur für die Verkehrsteilnehmer sondern unter Umständen auch für Fussgänger entstehen können. Schwierige, unter Umständen unübersichtliche Kreuzungsmanöver können die Folge sein. Es ist aber nicht denkbar, dass die Betroffenen bis zu vier Jahre lang solche zusätzlichen Gefahren hinnehmen müssen, schon gar nicht unter dem Gesichtspunkt der Rechtsweggarantie. Art. 2 VTempo-30 hält zudem fest, dass bei allen Massnahmen, die zur Einhaltung der angeordneten Höchstgeschwindigkeiten erforderlich sind, darauf zu achten ist, dass die Strassen von allen dort zugelassenen Fahrzeugarten befahren werden können. Das Gutachten des Büros G äussert sich zwar zu bestehenden und absehbaren Sicherheitsdefiziten betreffend möglicher Geschwindigkeiten, hat sich aber gerade zur Kreuzungsproblematik von breiten Fahrzeugen und zu den dadurch entstehenden zusätzlichen Gefahren in engen Bereichen auch für Fussgänger nicht geäussert. Schliesslich ist darauf hinzuweisen, dass die Frage der Rechtsmittelberechtigung und überhaupt eines möglichen Rechtsmittelwegs nicht nur im Lichte von § 13 Abs. 2 StrWG betrachtet werden darf, der wohl im Wesentlichen neue Verkehrsführungen oder ähnliche Verkehrsberuhigungsmassnahmen im Auge hatte. Die Verfügung der Tempo-30-Zone bringt - wie dies durch das Gutachten dargestellt wird - zwingend die Anordnung von baulichen Massnahmen mit sich. Diese baulichen Massnahmen können zwar möglicherweise hinsichtlich ihrer Stellung noch verändert werden, sie müssen jedoch - falls notwendig - zwingend angeordnet werden. Die Massnahme (Anordnung Tempo 30 und gleichzeitig bauliche Massnahme) muss daher als einheitliche und letztlich definitive Anordnung betrachtet werden und fällt daher nicht unter das Verbot von § 13 Abs. 2 StrWG. Der Rechtsschutz hinsichtlich der angeordneten Tempo-30-Zone inklusive der zwingend damit verbundenen baulichen Massnahmen muss daher gegeben sein.
+2.
+2.1 Zunächst ist festzuhalten, dass sich der Beschwerdeführer zusammen mit seinen Mitunterzeichnern nicht gegen die grundsätzliche Anordnung der Tempo-30-Zone wehrt. Zu beurteilen sind daher lediglich die damit zusammenhängenden baulichen Massnahmen. Auch gegen die spezielle Bezeichnung am Beginn der Tempo-30-Zone wehrt sich der Beschwerdeführer nicht grundsätzlich, doch wurde am Augenschein augenfällig darauf hingewiesen, dass der Sockel nicht auf der gleichen Höhe wie der Kandelaber erstellt werden kann, was von Seiten der Verfahrensbeteiligten auch grundsätzlich zugestanden wird.
+2.2 Auch wenn nur die baulichen Massnahmen angefochten werden, geht es um eine Tempo-30-Zone, die Strassen in Quartieren oder Siedlungsbereichen kennzeichnet, auf denen besonders vorsichtig und rücksichtsvoll gefahren werden muss. Die Höchstgeschwindigkeit beträgt 30 km/h (Art. 22a SSV). Vor der Festlegung von abweichenden Höchstgeschwindigkeiten wird durch ein Gutachten abgeklärt, ob die Massnahme nötig, zweck- und verhältnismässig ist oder ob andere Massnahmen vorzuziehen sind. Laut Art. 2 VTempo-30 ist bei allen Massnahmen, die zur Einhaltung der angeordneten Höchstgeschwindigkeit erforderlich sind, darauf zu achten, dass die Strassen von allen dort zugelassenen Fahrzeugarten befahren werden können. Zur Einhaltung der angeordneten Höchstgeschwindigkeit sind nötigenfalls weitere Massnahmen zu ergreifen, wie das Anbringen von Gestaltungs- oder Verkehrsberuhigungselementen. Die realisierten Massnahmen sind spätestens nach einem Jahr auf ihre Wirkung zu überprüfen. Wurden die angestrebten Ziele nicht erreicht, so sind zusätzliche Massnahmen zu ergreifen (Art. 5 Abs. 3 und Art. 6 der VTempo-30). Die gemäss Art. 3 lit. d VTempo-30 in einem Gutachten zu machenden Angaben zum vorhandenen Geschwindigkeitsniveau (50-Prozent-Geschwindigkeit V
+50
+und 85-Prozent-Geschwindigkeit V
+85
+) dienen dazu, die Wirksamkeit der getroffenen Massnahmen in der Nachkontrolle überprüfen zu können. Gemäss Empfehlung des BfU soll der Wert für V
+85
+bei der Nachkontrolle maximal 38 km/h betragen. Kann dieser Wert nicht erreicht werden, so sind gemäss BfU-Empfehlung weitere Massnahmen in Betracht zu ziehen. Das Bundesgericht hat in einem Urteil vom 9. Oktober 2008 (Fall Nr. 1C_206/2008) in E. 2.4.4 Folgendes ausgeführt: „Indessen sind die Angaben zum Geschwindigkeitsniveau nicht allein massgebend für die Beurteilung der Verkehrssicherheit. Ihre Bedeutung liegt insbesondere darin, dass sie eine Beurteilung erlauben, ob eine Tempo-30-Zone notwendig ist und ob diese mit oder ohne zusätzliche bauliche und verkehrsrechtliche Massnahmen eingeführt werden kann.“
+2.3 Anlässlich des Augenscheins wurde demonstriert, dass die verschiedenen Verengungen für breite Fahrzeuge schwierig zu bewältigende Verkehrssituationen mit sich bringen. Aus Sicht des Gerichts ist es äusserst fraglich, ob der angestrebte Schutz der Fussgänger besser gewährleistet ist, wenn die Fahrzeugführer sich auf die durch die Möblierungen hervorgerufenen Ausweichmanöver konzentrieren müssen und ihre Aufmerksamkeit nichts anderem mehr widmen können. Auch die Lärmsituation wird sicher nicht besser werden, bedeuten doch zusätzliche Einengungen immer wieder Temporeduktionen bis zum Stillstand und Neuanfahrten. Auch die Behauptung, dass die meisten Tempo-30-Zonen mit weiteren baulichen Massnahmen versehen werden, kann so nicht zutreffen. Bereits auf dem Stadtgebiet von Frauenfeld gibt es diverse Tempo-30-Zonen ohne zusätzliche Massnahmen. Das Gutachten des Büros G geht mit keinem Wort auf mögliche Gefahren ein, die durch gefährliche Kreuzungsmanöver durch die zu entstehenden Verengungen auf dieser ländlichen, von landwirtschaftlichen Fahrzeugen häufig befahrenen Strasse entstehen können. Ebenso wird im Gutachten nicht erwähnt, dass die Strecke XX - YY über L als Ausweichroute für die Rübentransporte empfohlen wird. Aus Sicht des Verwaltungsgerichts ist daher das einzige verhältnismässige Vorgehen darin zu sehen, dass zunächst die Tempo-30-Zone bzw. dass Tempo 30 ohne zusätzliche bauliche Massnahmen (abgesehen von der Eingangspforte) angeordnet wird. In der Folge wird dann zu prüfen sein, ob mit dieser Massnahme eine entsprechende Temporeduktion erreicht werden kann. Sollte dies nicht der Fall sein, werden entweder weitere bauliche oder gegebenenfalls andere Massnahmen (Signalisierung auf der Strasse, Fussgängerstreifen etc.) zu prüfen sein. Die Beschwerde ist daher im Sinne des von den Beschwerdeführern gestellten Antrags gutzuheissen und die angefochtene Tempo-30-Zone ohne bauliche Massnahmen (abgesehen von der Eingangssignalisierung) zu realisieren.
+Entscheid vom 19. Dezember 2012
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
