@@ -1,0 +1,75 @@
+---
+decision_id: "tg_obergericht_RBOG_2013_Nr._23"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2013 Nr. 23"
+docket_2: "SW.2013.12"
+decided: "2013-04-04"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/D204E95C-AB35-7970-AD78E189CBDD5FBB.html"
+cites_law: ["switzerland/bund/acts/312.0/art-029.md", "switzerland/bund/acts/312.0/art-040.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/351.1/art-030.md", "switzerland/bund/acts/351.1/art-088.md"]
+---
+
+# TG Obergericht RBOG 2013 Nr. 23
+
+## Regeste
+
+Die Staatsanwaltschaft ersuchte die Staatsanwaltschaft im Kanton Tessin um Übernahme des Verfahrens gegen den Beschwerdegegner sowie des Verfahrens gegen Y. Die Tessiner Staatsanwaltschaft teilte mit, sie sei bereit, Rechtshilfe zu leisten. 4. a) Auch wenn es der Thurgauer Staatsanwaltschaft letztlich unbenommen wäre, eine Übertragung der Strafverfolgung an das Ausland im Sinn von Art. [8] Die Thurgauer Strafbehörden erachten sich ja als nicht zuständig und lehnen eine Strafverfolgung ab.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 04.04.2013 RBOG 2013 Nr. 23 (SW.2013.12)
+Thurgovie Obergericht Rechenschaftsbericht 04.04.2013 RBOG 2013 Nr. 23 (SW.2013.12)
+Turgovia Obergericht Rechenschaftsbericht 04.04.2013 RBOG 2013 Nr. 23 (SW.2013.12)
+
+Die Staatsanwaltschaft ersuchte die Staatsanwaltschaft im Kanton Tessin um Übernahme des Verfahrens gegen den Beschwerdegegner sowie des Verfahrens gegen Y. Die Tessiner Staatsanwaltschaft teilte mit, sie sei bereit, Rechtshilfe zu leisten. 4. a) Auch wenn es der Thurgauer Staatsanwaltschaft letztlich unbenommen wäre, eine Übertragung der Strafverfolgung an das Ausland im Sinn von Art. [8] Die Thurgauer Strafbehörden erachten sich ja als nicht zuständig und lehnen eine Strafverfolgung ab.
+
+RBOG 2013 Nr. 23
+RBOG 2013 Nr. 23
+Internationaler und interkantonaler Gerichtsstandskonflikt
+(Art. 40 Abs. 2 StPO; Art. 88 IRSG)
+1.     a)    Die Beschwerdeführerin erstattete im Thurgau bei der Staatsanwaltschaft gegen Y und den Beschwerdegegner X Strafanzeige wegen Betrugs, Unterschlagung, Misswirtschaft, Unterdrückung von Urkunden und versuchter Veruntreuung. Die Staatsanwaltschaft ersuchte die Staatsanwaltschaft im Kanton Tessin um Übernahme des Verfahrens gegen den Beschwerdegegner sowie des Verfahrens gegen Y. Die Tessiner Staatsanwaltschaft teilte mit, sie sei bereit, Rechtshilfe zu leisten. Weil indessen die beiden Verfahren mit der Strafuntersuchung gegen X zusammenhingen, die in Italien geführt werde, seien die italienischen Behörden für alle Strafverfahren zuständig.
+b)    Die Thurgauer Staatsanwaltschaft stellte das Strafverfahren gegen den Beschwerdegegner in Anwendung von Art. 319 Abs. 1 lit. d StPO ein, weil Prozessvoraussetzungen fehlten. Da die örtliche Zuständigkeit definitiv nicht im Kanton Thurgau liege und der Beschwerdegegner seinen Wohn- und Arbeitsort im Kanton Tessin habe, sei das Strafverfahren einzustellen. Sämtliche Bemühungen, das Verfahren an die Tessiner Staatsanwaltschaft abzutreten, seien ins Leere gelaufen. Es bleibe der Anzeigeerstatterin überlassen, ob sie in Bezug auf den Beschwerdegegner die Akten am Wohnsitz von X, mithin bei der Staatsanwaltschaft in Rom, einreichen wolle oder nicht. Die Beschwerdeführerin beantragte mit Beschwerde, die Angelegenheit sei zur Fortsetzung des Verfahrens an die (Thurgauer) Staatsanwaltschaft zurückzuweisen.
+2.     Es lassen sich vorliegend zwei Konflikte unterscheiden: Einerseits ein nationaler (interkantonaler) Gerichtsstandskonflikt
+[1]
+zwischen den Kantonen Thurgau und Tessin und andererseits ein internationaler Gerichtsstandkonflikt
+[2]
+zwischen der Schweiz und Italien.
+3.     a)    Gemäss Art. 88 IRSG kann ein anderer Staat um Übernahme der Strafverfolgung wegen einer der schweizerischen Gerichtsbarkeit unterworfenen Tat ersucht werden, wenn seine Gesetzgebung die Verfolgung und die gerichtliche Ahndung der Tat zulässt und der Verfolgte sich dort aufhält und seine Auslieferung an die Schweiz unzweckmässig oder unzulässig ist, oder wenn der Verfolgte diesem Staat ausgeliefert wird und die Übertragung der Strafverfolgung eine bessere soziale Wiedereingliederung erwarten lässt. Als Rechtshilfe wird in der Lehre
+[3]
+(auch) die Zusammenlegung eines im Ausland angehobenen Verfahrens mit einem im Inland laufenden Verfahren bezeichnet. Die Hilfe liegt dann in der Abtretung des Verfahrens oder des Strafanspruchs. Der ersuchte Staat ist aber grundsätzlich frei, das Abtretungsbegehren anzunehmen
+[4]
+. Für ein entsprechendes Ersuchen an das Ausland ist das Bundesamt
+[5]
+zuständig; es handelt auf Antrag der kantonalen Behörde
+[6]
+. Für den Fall der Abtretung an einen anderen Staat, mithin bei "ausgehenden Ersuchen", finden sich im Gesetz darüber hinaus keine Regelungen
+[7]
+.
+b)    Können sich demgegenüber die Strafverfolgungsbehörden verschiedener Kantone über den Gerichtsstand nicht einigen, unterbreitet gemäss Art. 40 Abs. 2 StPO die Staatsanwaltschaft des Kantons, der zuerst mit der Sache befasst war, die Frage unverzüglich, in jedem Fall vor der Anklageerhebung, dem Bundesstrafgericht zum Entscheid.
+4.     a)    Auch wenn es der Thurgauer Staatsanwaltschaft letztlich unbenommen wäre, eine Übertragung der Strafverfolgung an das Ausland im Sinn von Art. 88 IRSG zu beantragen, rechtfertigt es sich vorgängig einer allfälligen Abtretung des Verfahrens an einen anderen Staat, den Gerichtsstandskonflikt zwischen den betroffenen Schweizer Strafbehörden zu lösen
+[8]
+. Die Thurgauer Staatsanwaltschaft hätte deshalb das Verfahren nicht einfach einstellen dürfen, sondern hätte sich an das Bundesstrafgericht zwecks Festlegung der örtlichen Zuständigkeit wenden müssen. Danach hätte die national zuständige Strafbehörde die Möglichkeit gehabt, mit einem Antrag an das zuständige Bundesamt um die Abtretung des Strafverfahrens an Italien zu ersuchen. Falls Italien dieses Ersuchen alsdann abgelehnt hätte, hätte sich der (ersuchende) innerstaatlich zuständige Kanton mit dem Verfahren zu befassen
+[9]
+.
+b)    Weder kann sich die Thurgauer Staatsanwaltschaft der Verfolgung der dem Beschwerdegegner vorgeworfenen Delikte mit dem Hinweis auf die Zuständigkeit der Tessiner Strafverfolgungsbehörden und deren Weigerung, das Verfahren zu übernehmen, entziehen, noch sind die Behörden des Kantons Tessin befugt, die Übernahme der Strafverfolgung mit dem Argument abzulehnen, ihrer Auffassung nach – wohl in analoger Anwendung von Art. 29 Abs. 1 lit. b StPO – seien die italienischen Strafbehörden zuständig, welche ein Verfahren gegen den Haupttäter X führten. Vielmehr wären die Tessiner Behörden gehalten gewesen, deswegen beim zuständigen Bundesamt einen Antrag zu stellen, damit Italien das Verfahren übernehme. Wie bereits ausgeführt, rechtfertigt es sich aber, vorab den Zuständigkeitskonflikt zwischen den Thurgauer und den Tessiner Strafbehörden zu lösen. Diesen Gerichtsstandskonflikt hat nicht das Obergericht zu entscheiden, sondern gestützt auf Art. 40 Abs. 2 StPO das Bundesstrafgericht.
+5.     Damit ist die Beschwerde zu schützen und die Sache zur Beschreitung des ordentlichen Weges zur Übertragung des Strafverfahrens an das Ausland beziehungsweise zur Lösung des interkantonalen Gerichtsstandskonflikts an die Vorinstanz zurückzuweisen.
+Obergericht, 2. Abteilung, 4. April 2013, SW.2013.12
+[1]
+Art. 40 Abs. 2 StPO
+[2]
+Art. 85 ff. des Bundesgesetzes über die Rechtshilfe in Strafsachen (Rechtshilfegesetz, IRSG; SR 351.1): Sogenannte stellvertretende Strafverfolgung
+[3]
+Popp, Grundzüge der internationalen Rechtshilfe in Strafsachen, Basel 2001, N 87
+[4]
+Popp, N 307
+[5]
+Popp, N 90: Bundesamt für Polizei
+[6]
+Art. 30 Abs. 2 IRSG
+[7]
+Popp, N 480
+[8]
+Die Thurgauer Strafbehörden erachten sich ja als nicht zuständig und lehnen eine Strafverfolgung ab.
+[9]
+Es ist hier allerdings fraglich, ob Italien das Verfahren übernimmt, zumal sich dieser Staat bereits ablehnend äusserte.
