@@ -1,0 +1,135 @@
+---
+decision_id: "tg_obergericht_RBOG_2013_Nr._5"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2013 Nr. 5"
+docket_2: "KES.2013.13"
+decided: "2013-05-08"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/D204EA39-E8B5-7F0F-EFF005F7D6A2813D.html"
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/210/art-390.md", "switzerland/bund/acts/210/art-391.md", "switzerland/bund/acts/210/art-392.md", "switzerland/bund/acts/210/art-393.md", "switzerland/bund/acts/210/art-394.md", "switzerland/bund/acts/210/art-395.md", "switzerland/bund/acts/210/art-396.md"]
+---
+
+# TG Obergericht RBOG 2013 Nr. 5
+
+## Regeste
+
+b) Auch die Unterstützungsbedürftigkeit der Beschwerdeführerin ist zu bejahen, nachdem bereits seit längerem eine altrechtliche Vertretungs- und Verwaltungsbeistandschaft besteht[7] und sich der Zustand der Beschwerdeführerin inzwischen nicht verbessert hat. Verhältnismässiger wäre, dass abgesehen von der persönlichen Post an die Beschwerdeführerin die restlichen Briefe vom Heim zurückbehalten und alsdann mit der Beiständin und der Beschwerdeführerin zusammen geöffnet würden.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 08.05.2013 RBOG 2013 Nr. 5 (KES.2013.13)
+Thurgovie Obergericht Rechenschaftsbericht 08.05.2013 RBOG 2013 Nr. 5 (KES.2013.13)
+Turgovia Obergericht Rechenschaftsbericht 08.05.2013 RBOG 2013 Nr. 5 (KES.2013.13)
+
+b) Auch die Unterstützungsbedürftigkeit der Beschwerdeführerin ist zu bejahen, nachdem bereits seit längerem eine altrechtliche Vertretungs- und Verwaltungsbeistandschaft besteht[7] und sich der Zustand der Beschwerdeführerin inzwischen nicht verbessert hat. Verhältnismässiger wäre, dass abgesehen von der persönlichen Post an die Beschwerdeführerin die restlichen Briefe vom Heim zurückbehalten und alsdann mit der Beiständin und der Beschwerdeführerin zusammen geöffnet würden.
+
+RBOG 2013 Nr. 5
+RBOG 2013 Nr. 5
+Präzisierung des Umfangs der Mitwirkungsbeistandschaft; Beschränkung des Rechts der Beiständin, die Post zu öffnen
+(Art. 390 Abs. 1 Ziff. 1, 391 Abs. 3, 394, 395 und 396 ZGB)
+1.     a)    Die Beschwerdeführerin ist verbeiständet und leidet an einer schizoaffektiven Störung nebst einer arteriellen Hypertonie und Diabetes mellitus. Sie lebt nach einer psychotischen Dekompensation im Alterswohnheim.
+b)    Nachdem die Beschwerdeführerin Waren bei Kauf- und Versandhäusern in einer ihr Vermögen verzehrenden Höhe bestellt hatte, ersuchte die Beiständin um Anpassung der Beistandschaft.
+c)     Die Vorinstanz hob in der Folge die für die Beschwerdeführerin errichtete (altrechtliche) Vertretungs- und Verwaltungsbeistandschaft auf und ordnete eine Vertretungsbeistandschaft mit Einkommens- und Vermögensverwaltung in Kombination mit einer Mitwirkungsbeistandschaft an, mit der Wirkung, dass Spontankäufe nur mit Zustimmung der Beiständin rechtsgültig abgeschlossen werden können. Die Beiständin wurde unter anderem mit folgenden Aufgaben beauftragt:
+-      die Beschwerdeführerin beim Erledigen der finanziellen Angelegenheiten zu vertreten, insbesondere ihr Einkommen und Vermögen sorgfältig zu verwalten und ihre Verpflichtungen zu gewährleisten;
+-      die Post zu öffnen;
+-      bei Spontaneinkäufen mitzuwirken.
+2.     a)    aa)   Nach Art. 390 Abs. 1 Ziff. 1 ZGB errichtet die Kindes- und Erwachsenenschutzbehörde eine Beistandschaft, wenn eine volljährige Person beispielsweise wegen einer geistigen Behinderung, einer psychischen Störung oder eines ähnlichen in der Person liegenden Schwächezustands ihre Angelegenheiten nur teilweise oder gar nicht besorgen kann.
+bb)   Der Begriff der psychischen Störung umfasst die anerkannten Krankheitsbilder der Psychiatrie. Die weit gefasste Wendung des "ähnlichen in der Person liegenden Schwächezustands" dient als Auffangtatbestand insbesondere für den Schutz Betagter, bei denen gleichartige Defizite wie bei Menschen mit einer geistigen Behinderung oder einer psychischen Störung auftreten. Erfasst sind ausserdem extreme Fälle von Unerfahrenheit oder von Misswirtschaft. Menschen mit geistiger Behinderung, psychischer Störung oder ähnlichem in der Person liegendem Schwächezustand sind grundsätzlich als urteilsfähig zu betrachten
+[1]
+.
+cc)   Zusätzlich zum Schwächezustand ist erforderlich, dass die betroffene Person als Folge des Schwächezustands die eigenen Angelegenheiten nur teilweise oder gar nicht oder nicht zweckmässig besorgen kann, also ihr die Fähigkeit zur Ausübung des Selbstbestimmungsrechts in Bezug auf die zu erledigende Angelegenheit fehlt oder diese derart beeinträchtigt ist, dass eigenverantwortliches Entscheiden nicht mehr möglich oder zumindest erschwert ist. Diese Unfähigkeit zum Handeln kann auch darin bestehen, dass der Betroffene nicht zweckmässig in seinem wohlverstandenen Interesse tätig zu werden vermag, es beispielsweise aufgrund seines Schwächezustands unterlässt, einen berechtigten Anspruch auf Sozialhilfeleistungen geltend zu machen, sei es aus Nachlässigkeit oder Überforderung, sei es aus Unbilligkeit, und so in eine finanzielle Notlage gerät
+[2]
+. Das Unvermögen kann ein vollständiges oder ein teilweises sein; sein Ausmass wird die Art der anzuordnenden Beistandsmassnahme und den Umfang der dem Beistand zu übertragenden Aufgaben beeinflussen
+[3]
+.
+b)    aa)   Gestützt auf Art. 394 Abs. 1 ZGB wird eine Vertretungsbeistandschaft errichtet, wenn die hilfsbedürftige Person bestimmte Angelegenheiten nicht erledigen kann und deshalb vertreten werden muss. Errichtet die Kindes- und Erwachsenenschutzbehörde eine Vertretungsbeistandschaft für die Vermögensverwaltung, so bestimmt sie gemäss Art. 395 Abs. 1 ZGB die Vermögenswerte, die vom Beistand oder von der Beiständin verwaltet werden sollen. Sie kann Teile des Einkommens oder das gesamte Einkommen, Teile des Vermögens oder das gesamte Vermögen oder das gesamte Einkommen und Vermögen unter die Verwaltung stellen.
+bb)   Auf die Handlungsfähigkeit hat die Anordnung einer Vertretungsbeistandschaft grundsätzlich keinen Einfluss. Allerdings kann gestützt auf Art. 394 Abs. 2 ZGB eine Einschränkung der Handlungsfähigkeit ausdrücklich verfügt werden. Eine solche Beschränkung kann sich auf die gesamten übertragenen Aufgaben und Aufgabenbereiche oder nur auf einen Teil davon beziehen und bewirkt im Umfang der angeordneten Einschränkung der Handlungsfähigkeit eine Alleinzuständigkeit und mithin eine ausschliessliche Vertretungsbefugnis des Mandatsträgers
+[4]
+.
+c)     Gestützt auf Art. 396 Abs. 1 ZGB wird eine Mitwirkungsbeistandschaft errichtet, wenn bestimmte Handlungen der hilfsbedürftigen Person zu deren Schutz der Zustimmung des Beistands oder der Beiständin bedürfen. Die Handlungsfähigkeit der betroffenen Person wird von Gesetzes wegen entsprechend eingeschränkt
+[5]
+. Die Mitwirkungsbeistandschaft beinhaltet keine Vertretung durch den Mandatsträger, sondern eine Einschränkung der Handlungsfähigkeit mittels eines entsprechenden Mitwirkungsvorbehalts. Der Beistand kann nicht anstelle der verbeiständeten Person handeln, ist nicht deren Vertreter; handelndes Subjekt bleibt die verbeiständete Person, deren Handlung jedoch erst mit der Zustimmung des Beistands rechtswirksam wird
+[6]
+.
+3.     a)    Laut dem Beschluss der Vormundschaftsbehörde leidet die Beschwerdeführerin unter anderem an einer schizoaffektiven Störung. Nach einer psychotischen Dekompensation infolge Absetzens der Medikation führte dies zu einem fürsorgerischen Freiheitsentzug in der Psychiatrischen Klinik. Es besteht somit ein Schwächezustand im Sinn von Art. 390 Abs. 1 Ziff. 1 ZGB.
+b)    Auch die Unterstützungsbedürftigkeit der Beschwerdeführerin ist zu bejahen, nachdem bereits seit längerem eine altrechtliche Vertretungs- und Verwaltungsbeistandschaft besteht
+[7]
+und sich der Zustand der Beschwerdeführerin inzwischen nicht verbessert hat. Das Gegenteil ist der Fall, denn seit ihrem Aufenthalt in der Psychiatrischen Klinik wohnt die Beschwerdeführerin nicht mehr selbstständig in einer eigenen Wohnung, sondern in einem Alterswohnheim. Bereits vor ihrem Klinikeintritt hatte sie laut Sitzungsprotokoll der Vormundschaftsbehörde die Unterstützung des psychiatrischen Pflegedienstes benötigt. Die Verwaltungs- und Vertretungsbeistandschaft erwies sich bis anhin für die Beschwerdeführerin als hilfreich. Die Voraussetzungen nach Art. 390 Abs. 1 Ziff. 1 ZGB für die Anordnung einer Beistandschaft sind somit erfüllt.
+c)     aa)   Der altrechtlichen Vertretungsbeistandschaft im Sinn von Art. 392 Ziff. 1 aZGB – wie sie bei der Beschwerdeführerin angeordnet war – entspricht die heutige Vertretungsbeistandschaft nach Art. 394 ZGB, wobei das bisher geltende Recht die Möglichkeit, die Handlungsfähigkeit der verbeiständeten Person in bestimmten einzelnen Bereichen einzuschränken
+[8]
+, nicht kannte
+[9]
+. Die Vermögensverwaltungsbeistandschaft im Sinn von Art. 393 Ziff. 2 aZGB wird heute in Art. 395 ZGB geregelt
+[10]
+.
+bb)   Die Beschwerdeführerin war schon vor dem Erlass des angefochtenen Entscheids zur Erledigung ihrer dringenden Angelegenheiten von ihrer Beiständin vertreten worden. Im angefochtenen Entscheid werden diese Angelegenheiten näher definiert. So hat die Beiständin bei Bedarf für eine geeignete Wohnsituation für die Beschwerdeführerin besorgt zu sein und sie bei allen in diesem Zusammenhang erforderlichen Handlungen zu unterstützen und zu vertreten, für das gesundheitliche und soziale Wohl sowie hinreichende medizinische Betreuung zu sorgen und die Beschwerdeführerin bei den dafür erforderlichen Handlungen zu vertreten, die Beschwerdeführerin beim Erledigen der administrativen Angelegenheiten soweit nötig zu vertreten, insbesondere im Verkehr mit Behörden, Ämtern, Banken, Post, Versicherungen und sonstigen Institutionen und sie beim Erledigen der finanziellen Angelegenheiten zu vertreten, insbesondere ihr Einkommen und Vermögen sorgfältig zu verwalten und ihre Verpflichtungen zu gewährleisten. Eine Vertretungs- und Verwaltungsbeistandschaft im Sinn von Art. 394 Abs. 1 sowie Art. 395 Abs. 1 und 2 ZGB im gleichen Rahmen, wie sie bis anhin für die Beschwerdeführerin bereits bestanden hatte, ist nach wie vor gerechtfertigt. Diesbezüglich ist der angefochtene Entscheid zu bestätigen.
+4.     a)    Die Vorinstanz verfügte im angefochtenen Entscheid nebst der bisherigen Vertretungs- und Verwaltungsbeistandschaft zusätzlich eine Mitwirkungsbeistandschaft "mit der Wirkung, dass Spontankäufe nur mit Zustimmung der Beiständin rechtsgültig abgeschlossen werden können". Begründet wurde diese neue Massnahme damit, die Beschwerdeführerin habe in der Vergangenheit regelmässig spontane Einkäufe getätigt, was zum Verzehr ihres Vermögens geführt habe. Die Massnahme dränge sich auf, um die Beschwerdeführerin rechtzeitig vor einer Überschuldung zu schützen.
+b)    Nebst den allgemeinen Voraussetzungen für die Errichtung einer Beistandschaft ist für die Mitwirkungsbeistandschaft erforderlich, dass die hilfsbedürftige Person zwar selber handeln kann, aber in der Weise vor sich selber oder vor Dritten geschützt werden muss, dass sie gewisse Handlungen nur mit Zustimmung des Beistands rechtsgültig vornehmen kann
+[11]
+. Das Schutzbedürfnis liegt darin begründet, dass die betroffene Person ihre Angelegenheiten nicht zweckmässig besorgt, ja sogar gegen ihre wohlverstandenen eigenen Interessen handelt. Dabei muss es sich um relevante Angelegenheiten handeln, beispielsweise um ungerechtfertigte Kreditaufnahmen oder das Ausrichten von Schenkungen in nicht alltäglichem Umfang
+[12]
+.
+c)     aa)   Die Beschwerdeführerin wohnt derzeit in einem Alterswohnheim. Die Heimkosten betragen gemäss Monatsbudget netto, das heisst nach Abzug des Beitrags der Krankenversicherung, pro Tag Fr. 150.10. Die Beschwerdeführerin verfügt über ein Gesamteinkommen von Fr. 3'389.66 pro Monat. Sie ist somit nicht in der Lage, die monatlichen Ausgaben selber finanzieren zu können, weshalb für sie Ergänzungsleistungen beantragt wurden. Bei Personen, die dauernd oder längere Zeit in einem Heim oder Spital leben, werden bei der Berechnung der Ergänzungsleistungen als Ausgaben - nebst den Beiträgen an die Sozialversicherungen und einem jährlichen Pauschalbetrag für die obligatorische Krankenpflegeversicherung - die Tagestaxe und ein vom Kanton zu bestimmender Betrag für die persönlichen Auslagen berücksichtigt
+[13]
+. Im Kanton Thurgau entspricht dieser Betrag bei einem Aufenthalt in einem Altersheim 25% und in einem Pflegeheim 15% des Betrags für den allgemeinen Lebensbedarf für Alleinstehende
+[14]
+. Der Betrag für den allgemeinen Lebensbedarf für Alleinstehende beziffert sich aktuell auf Fr. 19'210.00
+[15]
+. Die Beschwerdeführerin als Bewohnerin eines Alters- und Pflegeheims wird daher über die Ergänzungsleistungen mit einem monatlichen Betrag von höchstens Fr. 400.00 für persönliche Auslagen finanziert
+[16]
+.
+bb)   Aus dem Klienten-Kontojournal für das Jahr 2012, das die Beiständin für die Beschwerdeführerin führte, ist ersichtlich, dass die Beschwerdeführerin namentlich im Juni, Juli und September diverse Auslagen für Kleider, Haushalt, Kosmetik, Bücher und CDs zusätzlich zu den Barauslagen für den laufenden Unterhalt von monatlich Fr. 800.00 tätigte. So gab die Beschwerdeführerin im Juni 2012 knapp Fr. 5'000.00 zusätzlich aus. Im Juli 2012 waren es rund Fr. 1'000.00. Im September 2012 sind rund Fr. 2'600.00 unter dem Titel "Diverse Auslagen" im Journal verzeichnet. Dies zeigt somit, dass die Beschwerdeführerin teilweise wesentlich mehr als monatlich Fr. 400.00 für persönliche Auslagen ausgab.
+cc)   Anlässlich ihrer Anhörung sagte die Beschwerdeführerin aus, sie sei sich bewusst gewesen, dass sie in der Vergangenheit Bestellungen getätigt habe, die über das Budget hinausgegangen seien. Sie sei in diesem Punkt entgleist.
+d)    aa)   Aus den Akten geht hervor, dass die Beschwerdeführerin auch im Jahr 2013 wiederum einige Bestellungen vornahm. So wurde eine Rechnung einer Buchhandlung über einen Gesamtbetrag von Fr. 125.60 eingereicht. Bei einem Versandzentrum bestellte die Beschwerdeführerin offenbar diesen Winter einen Anhänger für Fr. 149.00 und eine Kaffeemaschine, deren Lieferung für Mitte April vorgesehen war. Bei zwei Verlagen bestellte sie Schnupperabos. Ferner bestellte die Beschwerdeführerin für sich bei einem Versandzentrum einen Armreif für Fr. 555.95.
+bb)   Die Gefahr, dass die Beschwerdeführerin nach wie vor über Versandhäuser Waren bestellt, die ihr Budget sprengen, besteht somit weiterhin, und die Anordnung einer Mitwirkungsbeistandschaft ist damit gerechtfertigt. Allerdings ist der Umfang der Beistandschaft weiter zu präzisieren, denn der Begriff "Spontaneinkäufe" ist zu wenig aussagekräftig, zumal er insbesondere auch kleine Barkäufe umfasst. Die Beschwerdeführerin erhält monatlich ein Taschengeld von Fr. 240.00, welches für sie frei verfügbar ist und ihr weiterhin auch für "Spontaneinkäufe" zur Verfügung steht. Ein Schutzbedürfnis besteht nur insofern, als die Beschwerdeführerin über diesen ihr zugestandenen Freibetrag hinaus Einkäufe auf Rechnung und Kredit tätigt, welche das Budget bei weitem übersteigen (können). Es ist daher eine Mitwirkungsbeistandschaft anzuordnen, mit der Wirkung, dass Käufe auf Rechnung oder auf Kredit nur mit Zustimmung der Beiständin rechtsgültig abgeschlossen werden können. Ziff. 2 des Dispositivs ist entsprechend anzupassen.
+5.     a)    Die Vorinstanz ordnete weiter an, die Beiständin sei berechtigt, die Post der Beschwerdeführerin zu öffnen. Damit sollen unüberlegte Käufe verhindert werden.
+b)    aa)   Das Korrespondenzgeheimnis ist sowohl durch Art. 8 EMRK (Schutz der Privatsphäre) als auch durch Art. 13 Abs. 1 BV garantiert; die Einschränkung des Grundrechts bedarf gemäss Art. 36 Abs. 1 BV einer gesetzlichen Grundlage, welche in Art. 391 Abs. 3 ZGB enthalten ist
+[17]
+. Dem Grundsatz nach darf deshalb der Beistand oder die Beiständin keine Einsicht nehmen in die Korrespondenz ohne Einwilligung der betroffenen Person. Falls diese die Einwilligung verweigert, die Einsichtnahme in die Korrespondenz jedoch als notwendig erscheint, kann die Erwachsenenschutzbehörde die Beiständin dazu ausdrücklich ermächtigen
+[18]
+.
+bb)   In der Praxis wird ein Beistand üblicherweise zum Beispiel die AHV-Ausgleichskasse, Pensionskasse, Bank, Postfinance sowie Liegenschaftsverwaltung, Heimleitung und andere Adressaten über die ihm zustehende Vertretungsbefugnis als Beistand gemäss Art. 394, 395 oder 398 ZGB informieren und gestützt darauf die direkte Abwicklung der Geschäfte mit ihm anordnen, anstatt die Post beim Verbeiständeten zu behändigen oder zu sich umleiten zu lassen. Ein solch direktes Korrespondieren mit den Geschäftspartnern fällt einerseits nicht unter den Begriff "Post öffnen", und andererseits besteht bei einem solchen Vorgehen auch faktisch für den Beistand kein Anlass, die Post des Verbeiständeten zu öffnen, weshalb er auch keine entsprechende Ermächtigung benötigt, weder von der verbeiständeten Person noch von Behörden. Ist es im Ausnahmefall unumgänglich, die Post der verbeiständeten Person mit entsprechender Ermächtigung zu öffnen, hat der Beistand mit grösstmöglicher Zurückhaltung vorzugehen, die Post möglichst in Anwesenheit der verbeiständeten Person zu öffnen und darauf zu achten, dass das Schriftgeheimnis nicht verletzt wird, das heisst von aussen erkennbar persönliche Briefe dürfen nicht ohne Zustimmung der verbeiständeten Person oder nur aus einem anderen Rechtfertigungsgrund geöffnet werden
+[19]
+.
+c)     aa)   Damit die Beiständin ihre Mitwirkung im Zusammenhang mit Käufen der Beschwerdeführerin auf Rechnung oder Kredit überhaupt wahrnehmen kann, ist sie darauf angewiesen, über die per Post erfolgte Korrespondenz zwischen der Beschwerdeführerin und Versand- oder Kaufhäusern rechtzeitig informiert zu sein. Um dieses Ziel erreichen zu können, ist es indessen nicht notwendig, dass die Beiständin sämtliche Post öffnen darf. Vom Recht der Beiständin, die Post der Beschwerdeführerin zu öffnen, sind daher persönliche Briefe auszunehmen. Dabei handelt es sich regelmässig um Briefe, die äusserlich erkennbar keinen Absender mit Geschäftsadresse oder Behördenadresse aufweisen.
+bb)   Über die Frage, wie die Beiständin die Post öffnen darf, lässt sich dem angefochtenen Entscheid nichts entnehmen. Zum Antrag der Beiständin, wonach alle Post via Berufsbeistandschaft umgeleitet werden soll, äusserte sich die Vorinstanz nicht. Angesichts des massiven Eingriffs in die persönliche Freiheit ist eine Umleitung nicht gerechtfertigt. Verhältnismässiger wäre, dass abgesehen von der persönlichen Post an die Beschwerdeführerin die restlichen Briefe vom Heim zurückbehalten und alsdann mit der Beiständin und der Beschwerdeführerin zusammen geöffnet würden. Dies braucht nicht täglich zu geschehen. Die Beiständin kann diese Aufgabe auch einer Mitarbeiterin oder einem Mitarbeiter beziehungsweise einer Bezugsperson im Heim delegieren. Das Ziel, Einkäufe zu verhindern, welche das Budget sprengen, lässt sich auch so erreichen.
+Obergericht, 1. Abteilung, 8. Mai 2013, KES.2013.13
+[1]
+Praxisanleitung Erwachsenenschutzrecht (Hrsg.: KOKES), Zürich/St. Gallen 2012, N 5.9; Schmid, Erwachsenenschutz Kommentar, Zürich/St. Gallen 2010, Art. 390 ZGB N 6 f.
+[2]
+Henkel, Basler Kommentar Erwachsenenschutz, Art. 390 ZGB N 17 f.
+[3]
+Meier, in: FamKommentar Erwachsenenschutz (Hrsg.: Büchler/Häfeli/Leuba/Stett­ler), Bern 2013, Art. 390 ZGB N 20
+[4]
+Praxisanleitung Erwachsenenschutzrecht, N 5.35 f.
+[5]
+Art. 396 Abs. 2 ZGB
+[6]
+Praxisanleitung Erwachsenenschutzrecht, N 5.44; Henkel, Art. 396 ZGB N 19 ff.
+[7]
+Art. 392 Ziff. 1 und Art. 393 Ziff. 2 aZGB (in der bis 31. Dezember 2012 gültigen Fassung)
+[8]
+Vgl. Art. 394 Abs. 2 ZGB
+[9]
+Meier, Art. 394 ZGB N 15
+[10]
+Vgl. Meier, Art. 395 ZGB N 1
+[11]
+Art. 396 Abs. 1 ZGB
+[12]
+Henkel, Art. 396 ZGB N 6 f.
+[13]
+Art. 10 Abs. 2 und 3 ELG
+[14]
+§ 6 des Gesetzes über Ergänzungsleistungen zur AHV/IV, RB 831.3
+[15]
+Art. 10 Abs. 1 lit. a Ziff. 1 ELG
+[16]
+25% von Fr. 19'210.00 / 12
+[17]
+Meier, Art. 391 ZGB N 30
+[18]
+Meier, Art. 391 ZGB N 31 f.
+[19]
+Henkel, Art. 391 ZGB N 26, 28
