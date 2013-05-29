@@ -1,0 +1,88 @@
+---
+decision_id: "tg_obergericht_RBOG_2013_Nr._1"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2013 Nr. 1"
+docket_2: "KES.2013.15"
+decided: "2013-05-29"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/D204E9C3-E4D1-CE9B-8E081F0B3EC853F0.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/210/art-439.md", "switzerland/bund/acts/210/art-450f.md"]
+---
+
+# TG Obergericht RBOG 2013 Nr. 1
+
+## Regeste
+
+Die Kindes- und Erwachsenenschutzbehörde sei daher nicht von anderen staatlichen Organen unabhängig; überdies verletze die Wahl durch den Regierungsrat die Gewaltenteilung. Es dürfte sich um ein Versehen handeln, dass die Amtsdauer bei den Behördemitgliedern der Kindes- und Erwachsenenschutzbehörde nicht ausdrücklich im Gesetz erwähnt wird; jedenfalls ergibt sich aus den entsprechenden Wahlbeschlüssen des Regierungsrates, dass die Behördemitglieder der Kindes- und Erwachsenenschutzbehörde auf...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 29.05.2013 RBOG 2013 Nr. 1 (KES.2013.15)
+Thurgovie Obergericht Rechenschaftsbericht 29.05.2013 RBOG 2013 Nr. 1 (KES.2013.15)
+Turgovia Obergericht Rechenschaftsbericht 29.05.2013 RBOG 2013 Nr. 1 (KES.2013.15)
+
+Die Kindes- und Erwachsenenschutzbehörde sei daher nicht von anderen staatlichen Organen unabhängig; überdies verletze die Wahl durch den Regierungsrat die Gewaltenteilung. Es dürfte sich um ein Versehen handeln, dass die Amtsdauer bei den Behördemitgliedern der Kindes- und Erwachsenenschutzbehörde nicht ausdrücklich im Gesetz erwähnt wird; jedenfalls ergibt sich aus den entsprechenden Wahlbeschlüssen des Regierungsrates, dass die Behördemitglieder der Kindes- und Erwachsenenschutzbehörde auf...
+
+RBOG 2013 Nr. 1
+RBOG 2013 Nr. 1
+Der Kindes- und Erwachsenenschutzbehörde kommt gerichtliche Unabhängigkeit zu.
+(Art. 30 Abs. 1 BV; Art. 6 Ziff. 1 EMRK; Art. 439 Abs. 1 ZGB; § 16 Abs. 1 EG ZGB)
+1.     a)    Der Beschwerdeführer bestreitet die gerichtliche Unabhängigkeit der Kindes- und Erwachsenenschutzbehörde. Deren Mitglieder würden durch den Regierungsrat, also durch die Exekutive, bestimmt. Die Kindes- und Erwachsenenschutzbehörde sei daher nicht von anderen staatlichen Organen unabhängig; überdies verletze die Wahl durch den Regierungsrat die Gewaltenteilung. Der Richter müsse von der Regierung, dem Gesetzgeber sowie den Parteien unabhängig sein. Er dürfe nicht an Weisungen gebunden und niemandem Rechenschaft schuldig sein. Die Kindes- und Erwachsenenschutzbehörde unterliege aber schon von Bundesrechts wegen einer Aufsichtsbehörde der Exekutive, und zudem bestimme der Thurgauer Regierungsrat deren Präsidenten und Sitz sowie Büroräumlichkeiten.
+b)    Bei ärztlich angeordneter Unterbringung kann die betroffene Person das zuständige Gericht anrufen
+[1]
+. Die Kantone bezeichnen das für Beschwerden gemäss Art. 439 ZGB zuständige Gericht
+[2]
+. Im Kanton Thurgau ist dies die Kindes- und Erwachsenenschutzbehörde
+[3]
+. Damit kann ihr der Kanton auch die von Art. 439 ZGB vorgesehenen gerichtlichen Funktionen übertragen
+[4]
+. Was unter "Gericht" zu verstehen ist, ergibt sich aus der Rechtsprechung zu Art. 6 EMRK. Dabei kommt es nicht auf die Bezeichnung, sondern auf die tatsächliche Ausgestaltung des entsprechenden Spruchkörpers an. Das Gericht muss unparteiisch und unabhängig sein. Zudem ist das Verfahren so zu organisieren, dass die Sache laut Art. 6 Ziff. 1 EMRK "in billiger Weise öffentlich und innerhalb einer angemessenen Frist gehört wird". Entscheidende Bedeutung hat schliesslich, dass das Gericht die rechtserheblichen Tatsachen selber erhebt, die Rechtssätze auf den in einem rechtsstaatlichen Verfahren ermittelten Sachverhalt anwendet und die die Parteien bindenden Entscheidungen selber fällt. Im Gegensatz zu einer Verwaltungsbehörde kann ein Gericht die Entscheidungsfindung nicht delegieren. Die gewählten Richter müssen sich sowohl bezüglich Sachverhaltsfeststellung als auch der Rechtsfindung persönlich eine Meinung bilden. Sie müssen deshalb die für den Entscheid relevanten Akten auch selber studiert haben
+[5]
+. Als Gericht im Sinn von Art. 6 Ziff. 1 EMRK und Art. 30 Abs. 1 BV gilt eine Behörde, die nach Gesetz und Recht in einem justizförmigen, fairen Verfahren begründete und bindende Entscheidungen über Streitfragen trifft. Sie braucht nicht in die ordentliche Gerichtsstruktur eines Staates eingegliedert zu sein, muss jedoch organisatorisch und personell, nach der Art ihrer Ernennung, der Amtsdauer, dem Schutz vor äusseren Beeinflussungen und nach ihrem äusseren Erscheinungsbild sowohl gegenüber anderen Behörden als auch gegenüber den Parteien unabhängig und unparteiisch sein
+[6]
+.
+Das zentrale Kriterium des Unabhängigkeitsgebots besteht in der Forderung, dass die erkennende Instanz mit Bezug auf ihre Rechtsprechungstätigkeit an keinerlei Weisungen gebunden sein darf und niemandem Rechenschaft ablegen muss. Dabei soll insbesondere die Beeinflussung der Judikative durch die Exekutive ausgeschlossen werden. Der Europäische Gerichtshof untersucht im Zusammenhang mit der Prüfung der gerichtlichen Unabhängigkeit den Bestellungsmodus und die Amtsdauer der Richter sowie die im staatlichen Recht vorgesehenen Schutzmöglichkeiten gegen die Ausübung äusseren Drucks. Der Forderung nach einem unabhängigen Gericht wird auf nationaler Ebene am zweckmässigsten durch die Statuierung von festen Amtsdauern, während denen die Richter nur wegen ausserordentlicher Gründe abgesetzt werden dürfen, Rechnung getragen. Ferner vermag auch die Bestellung der Richter mittels Wahl durch das Parlament oder das Volk Gewähr für eine unabhängige Justizbehörde zu bieten. Das heisst allerdings nicht, dass die Einsetzung eines Gerichts durch die Exekutive automatisch das Prinzip der Unabhängigkeit verletzt. Solange das von der Regierung bestellte Gremium im Rahmen seiner Amtsausübung faktisch und rechtlich weisungsfrei ist und innerhalb seiner Amtsdauer nur unter erschwerten Bedingungen abgesetzt werden kann, ist den Anforderungen von Art. 6 Ziff. 1 EMRK auch in diesen Fällen Genüge getan
+[7]
+.
+c)     Der Regierungsrat wählt die Mitglieder der Kindes- und Erwachsenenschutzbehörde und bestimmt deren Präsidenten
+[8]
+. Nach § 32 KV beträgt die Amtsdauer der Personen und Behördenmitglieder, die vom Volk oder vom Grossen Rat gewählt werden oder für die das Gesetz die Wahl auf Amtsdauer vorsieht, vier Jahre. Es dürfte sich um ein Versehen handeln, dass die Amtsdauer bei den Behördemitgliedern der Kindes- und Erwachsenenschutzbehörde nicht ausdrücklich im Gesetz erwähnt wird; jedenfalls ergibt sich aus den entsprechenden Wahlbeschlüssen des Regierungsrates, dass die Behördemitglieder der Kindes- und Erwachsenenschutzbehörde auf eine Amtsdauer von vier Jahren gewählt sind.
+§ 16 Abs. 1 EG ZGB hält ausdrücklich fest, dass der Kindes- und Erwachsenenschutzbehörde gerichtliche Unabhängigkeit im Sinn von Art. 6 Ziff. 1 EMRK zukommt. Um die gerichtliche Unabhängigkeit zu wahren, übt denn auch nicht der Regierungsrat, sondern das Obergericht die fachliche Aufsicht über die Kindes- und Erwachsenenschutzbehörde aus. In diesem Zusammenhang erlässt es auch die nötigen Bestimmungen
+[9]
+. Einzig die administrative Aufsicht obliegt dem Regierungsrat
+[10]
+. Das Obergericht genehmigt die Geschäftsordnung der Kindes- und Erwachsenenschutzbehörde und bestimmt den Beschäftigungsgrad der Präsidien, der Mitglieder und der Fachsekretariate der Kindes- und Erwachsenenschutzbehörde
+[11]
+. Das Obergericht kann als Aufsichtsbehörde nötigenfalls Disziplinarmassnahmen gegen die Kindes- und Erwachsenenschutzbehörde treffen und deren Mitglieder letztlich auch disziplinarisch entlassen, genauso wie es dies auch bei den Bezirksgerichten tun kann
+[12]
+. Das Verfahren vor der Kindes- und Erwachsenenschutzbehörde richtet sich ergänzend zu demjenigen gemäss ZGB sinngemäss nach den auch für die Bezirksgerichte geltenden Bestimmungen der ZPO
+[13]
+. Die Kindes- und Erwachsenenschutzbehörde ist somit gegenüber anderen Behörden wie auch gegenüber den Parteien unabhängig und in der Rechtsprechung nicht weisungsgebunden. Ihre Entscheide beruhen auf vollständiger Sachverhaltsermittlung und freier Rechtsanwendung und sind verbindlich, unter Vorbehalt der Anfechtung beim Obergericht, das auf Beschwerde hin wiederum sämtliche Tat- und Rechtsfragen uneingeschränkt prüfen kann. Der Kindes- und Erwachsenenschutzbehörde kommt somit ohne Zweifel gerichtliche Unabhängigkeit im Sinn von Art. 6 Ziff. 1 EMRK zu. Sie ist bezüglich ihrer Rechtsprechung an keine Weisungen gebunden, ihre Mitglieder sind auf Amtsdauer gewählt, und sie trifft in einem justizförmigen, fairen Verfahren begründete und bindende Entscheidungen.
+Obergericht, 1. Abteilung, 29. Mai 2013, KES.2013.15
+[1]
+Art. 439 Abs. 1 Ziff. 1 ZGB
+[2]
+Guillod, in: FamKommentar Erwachsenenschutz (Hrsg.: Büchler/Häfeli/Leuba/Stett­ler), Bern 2013, Art. 439 ZGB N 9
+[3]
+§ 58 Abs. 2 EG ZGB
+[4]
+Guillod, Art. 439 ZGB N 9
+[5]
+Geiser/Etzensberger, Basler Kommentar Erwachsenenschutz, Art. 439 ZGB N 28
+[6]
+BGE vom 18. Januar 2013, 5C_1/2012, Erw. 4.2
+[7]
+Bezgovsek, Art. 6 Ziff. 1 EMRK und das steuerrechtliche Verfahren, Zürich 2002, S. 69 f.
+[8]
+§ 16 Abs. 1 und 4 EG ZGB
+[9]
+§ 11c Abs. 2 EG ZGB
+[10]
+§ 11 Abs. 1 Ziff. 3 EG ZGB
+[11]
+§ 16a Abs. 2 und 3 EG ZGB
+[12]
+§§ 16 Abs. 1, 17 Abs. 1 und 18 Abs. 1 Ziff. 3 VerantwG
+[13]
+Art. 450f ZGB; § 42 EG ZGB; § 29 Abs. 1 KESV
