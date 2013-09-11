@@ -1,0 +1,38 @@
+---
+decision_id: "tg_obergericht_RBOG_2013_Nr._13"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2013 Nr. 13"
+decided: "2013-09-11"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2013-nr-13"
+cites_law: ["switzerland/bund/acts/272/art-138.md"]
+---
+
+# TG Obergericht RBOG 2013 Nr. 13
+
+## Regeste
+
+Die Zustellfiktion ist auf die erste Aufforderung zur Stellungnahme zum Rechtsöffnungsgesuch nicht anwendbar.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2012 RBOG 2013 Nr. 13
+Thurgovie Obergericht Rechenschaftsbericht 2012 RBOG 2013 Nr. 13
+Turgovia Obergericht Rechenschaftsbericht 2012 RBOG 2013 Nr. 13
+
+RBOG 2013 Nr. 13
+Skip to main content
+Show navigation
+Die Zustellfiktion ist auf die erste Aufforderung zur Stellungnahme zum Rechtsöffnungsgesuch nicht anwendbar.
+Art. 138 Abs. 3 lit. a ZPO
+1. Nach Eingang des Rechtsöffnungsbegehrens forderte die Vorinstanz den Beschwerdeführer mit eingeschriebenem Brief zur Stellungnahme zum Rechtsöffnungsgesuch auf; der Beschwerdeführer holte dieses Schreiben bei der Post nicht ab, so dass es an die Vor­instanz zurückging. Diese stellte den Brief mit Hinweis auf den Fristenlauf nochmals mit gewöhnlicher Post zu.
+2. Stellt das Gericht eine Vorladung oder einen Entscheid (oder eine Fristansetzung) durch eingeschriebene Postsendung zu und wird die Postsendung nicht abgeholt, so gilt die Zustellung gemäss Art. 138 Abs. 3 ZPO am siebten Tag nach dem erfolglosen Zustellungsversuch als erfolgt, sofern der Adressat mit einer Zustellung rechnen musste. Voraussetzung ist mithin, dass ein Prozessrechtsverhältnis besteht, welches die Parteien verpflichtet, sich nach Treu und Glauben zu verhalten und dafür zu sorgen, dass ihnen behördliche Akte zugestellt werden können, die das Verfahren betreffen. Zwischen der Zustellung des Zahlungsbefehls beziehungsweise der Erhebung des Rechtsvorschlags einerseits und dem Rechtsöffnungsbegehren andererseits kann indessen eine beträchtliche Zeitspanne liegen. Die Zustellung des Zahlungsbefehls beziehungsweise die Erhebung des Rechtsvorschlags begründet folglich – ebenso wie die Konkursandrohung – kein Prozessrechtsverhältnis vor dem Rechtsöffnungsrichter[1]; erst durch das Rechtsöffnungsbegehren wird das Gerichtsverfahren betreffend Rechtsöffnung hängig. Die Zustellfiktion ist somit auf die Zustellung der ersten Aufforderung zur Stellungnahme zum Rechtsöffnungsgesuch nicht anzuwenden. Das bedeutet hier, dass keine korrekte Fristansetzung für die Antwort zum Rechtsöffnungsgesuch erging, so dass der angefochtene Entscheid aufzuheben und die Streitsache zu neuer Durchführung des Verfahrens und zu neuem Entscheid an die Vorin­stanz zurückzuweisen ist. Daran ändert nichts, dass die Fristansetzung später auch noch mit A-Post versandt wurde, denn dafür fehlen Belege sowohl für den Versand als auch für die Zustellung.
+Obergericht, 1. Abteilung, 11. September 2013, BR.2013.60
+[1] BGE 138 III 225 ff., 130 III 396; vgl. RBOG 2012 Nr. 10; ZR 104, 2005, Nr. 43, S. 174 ff.
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
