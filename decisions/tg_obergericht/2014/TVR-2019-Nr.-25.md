@@ -1,0 +1,52 @@
+---
+decision_id: "tg_obergericht_TVR_2019_Nr._25"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2019 Nr. 25"
+decided: "2014-05-21"
+published: "2019-06-19"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2019-nr-25"
+cites_law: ["switzerland/bund/acts/210/art-025.md", "switzerland/bund/acts/851.1/art-007.md"]
+---
+
+# TG Obergericht TVR 2019 Nr. 25
+
+## Regeste
+
+Unterstützungswohnsitz am Sitz der KESB, Bestimmung des Sitzes der KESB
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 19.06.2019 TVR 2019 Nr. 25
+Thurgovie Obergericht Rechenschaftsbericht 19.06.2019 TVR 2019 Nr. 25
+Turgovia Obergericht Rechenschaftsbericht 19.06.2019 TVR 2019 Nr. 25
+
+TVR 2019 Nr. 25
+Skip to main content
+Show navigation
+Unterstützungswohnsitz am Sitz der KESB, Bestimmung des Sitzes der KESB
+§ 16 e Abs.1 Ziff. 1 EG ZGB
+,
+Art. 25 Abs. 1 ZGB
+,
+Art. 7 Abs. 3 lit. a ZUG
+Der Unterstützungswohnsitz des unter Vormundschaft stehenden Kindes, das mit keinem Elternteil zusammenlebt, befindet sich am Sitz der KESB, unter dessen Vormundschaft es steht. Der Sitz der KESB befindet sich in der Gemeinde, in der das Kind bei Errichtung der Vormundschaft seinen Wohnsitz hatte. Steht die elterliche Sorge bloss einem Elternteil zu, so befindet sich der Wohnsitz des Kindes am Wohnort dieses Elternteils. Unerheblich ist in diesem Fall, wo sich das Kind tatsächlich aufhält und ob sich das Kind unter der Obhut des Inhabers bzw. der Inhaberin der elterlichen Sorge befindet.
+A, geboren 2006, ist der Sohn der nicht miteinander verheirateten Eltern B (Mutter) und C (Vater). 2010 war die alleinige elterliche Sorge dem Vater übertragen, für A eine Beistandschaft errichtet und dem Vater als Inhaber der elterlichen Sorge das Aufenthaltsbestimmungsrecht entzogen worden, wobei A bei seinen Grosseltern (wohnhaft in X) untergebracht und im Heim B in X platziert wurde. Mit Beschluss vom 21. Mai 2014 wurde A unter die elterliche Sorge seiner Mutter gestellt, wobei dieser die Obhut entzogen und die Platzierung im Heim B aufrechterhalten wurde. Mit Entscheid vom 5. August 2016 entzog die KESB Y der Mutter die elterliche Sorge und errichtete für A eine Vormundschaft. Mit Entscheid vom 25. Januar 2017 wies die Sozialhilfekommission der Politischen Gemeinde Z den dort offenbar gestellten Antrag um Sozialhilfeunterstützung für A ab, dies wegen mangelnder Zuständigkeit. Sie begründete dies im Wesentlichen damit, der Unterstützungswohnsitz sowie der zivilrechtliche Wohnsitz von A befänden sich ab Errichtung der Vormundschaft in X. Mit Entscheid vom 15. Mai 2017 wies der Soziale Dienst der Politischen Gemeinde X das dort am 17. Januar 2017 gestellte Gesuch um Sozialhilfeunterstützung ebenfalls wegen mangelnder Zuständigkeit ab. Er begründete dies im Wesentlichen damit, der Unterstützungswohnsitz sowie der zivilrechtliche Wohnsitz von A befänden sich ab Errichtung der Vormundschaft in Z. Den gegen den Entscheid vom 15. Mai 2017 von A sowie der Politischen Gemeinde Z erhobenen Rekurs hiess das DFS gut und wies die Sache zur Neubeurteilung im Sinne der Erwägungen an die Politische Gemeinde X zurück. Hierbei hielt es fest, A habe seinen Unterstützungswohnsitz in X und damit im sozialhilferechtlichen Zuständigkeitsgebiet der Politischen Gemeinde X, womit diese für die vom Vormund mit Gesuch vom 17. Januar 2017 beantragten Platzierungskosten aufzukommen habe. Das Verwaltungsgericht heisst die gegen diesen Entscheid erhobene Beschwerde gut.
+Aus den Erwägungen:
+2.3 Die Eltern von A haben keinen gemeinsamen Wohnsitz. Zudem wohnt er weder überwiegend bei seiner Mutter noch bei seinem Vater. Da er unter Vormundschaft steht, befindet sich sein Unterstützungswohnsitz somit gestützt auf Art. 7 Abs. 3 lit. a ZUG am Sitz der Kindesschutzbehörde, unter dessen Vormundschaft er steht, also der KESB Y.
+3.
+3.1 Zu prüfen bleibt, wo sich der Sitz der KESB Y im vorliegenden Fall befindet.
+3.2
+3.2.1 Ist eine Kindesschutzbehörde für mehrere Gemeinden zuständig, so kann das kantonale Recht bestimmen, wo sich ihr Sitz befindet (Staehelin in: Geiser/Fountoulakis [Hrsg.], Basler Kommentar zum Zivilgesetzbuch I, 6. Aufl., Basel 2018, Art. 25 N. 11).
+3.2.2 Gemäss § 16e Abs. 1 EG ZGB gilt im Kanton Thurgau als Sitz der KESB die Gemeinde, in welcher die betroffene Person bei Errichtung der Vormundschaft oder der umfassenden Beistandschaft ihren Wohnsitz hat (Ziff. 1) bzw.?die Gemeinde, in welche die Person mit Zustimmung der KESB innerhalb des eigenen Zuständigkeitsgebietes oder nach Übertragung der Massnahme von einer anderen KESB ihren gewöhnlichen Aufenthalt verlegt (Ziff. 2).
+3.3
+3.3.1 Die vorliegende Konstellation fällt unter § 16e Abs. 1 Ziff. 1 EG ZGB. Der Sitz der KESB Y befindet sich also in der Gemeinde, in welcher A bei Errichtung der Vormundschaft seinen Wohnsitz hatte. Beim minderjährigen A ist der Wohnsitz gestützt auf Art. 25 Abs. 1 ZGB zu bestimmen. Demnach gilt als Wohnsitz des Kindes unter elterlicher Sorge der Wohnsitz der Eltern oder, wenn die Eltern keinen gemeinsamen Wohnsitz haben, der Wohnsitz des Elternteils, unter dessen Obhut das Kind steht; in den übrigen Fällen gilt sein Aufenthaltsort als Wohnsitz. Steht die elterliche Sorge bloss einem Elternteil zu, so befindet sich der Wohnsitz des Kindes am Wohnort dieses Elternteils. Unerheblich ist in diesem Fall, wo sich das Kind tatsächlich aufhält und ob sich das Kind unter der Obhut des Inhabers bzw. der Inhaberin der elterlichen Sorge befindet. Auch Kinder, die unter der Obhut Dritter stehen, haben ihren Wohnsitz am Sitz des alleinigen Inhabers der elterlichen Sorge. Dies ergibt sich zwar nicht ohne weiteres aus dem Wortlaut von Art. 25 Abs. 1 ZGB, aber der bundesgerichtlichen Rechtsprechung und Lehre. So hat das Bundesgericht in BGE 133 III 305 (= Pra 2007 Nr. 116) nach ausführlicher Auseinandersetzung mit der Botschaft des Bundesrats (BBl 1979 II 1191-1431) zu Art. 25 ZGB festgestellt, als Wohnsitz eines Kindes, das unter der elterlichen Sorge nur eines Elternteils stehe, gelte der Wohnsitz dieses Elternteils, der die elterliche Sorge alleine innehabe und zwar ungeachtet dessen, ob dieser das Obhutsrecht ausübe oder nicht (E. 3.3.4). Die abweichende Meinung, der Wohnsitz eines Kindes müsse sich insbesondere dann am Aufenthaltsort des Kindes (statt am Wohnsitz des Elternteils, der die elterliche Sorge innehabe) befinden, wenn das Kind auf Beschluss einer Behörde untergebracht werde, hat das Bundesgericht explizit verworfen, weil diese Meinung dem ausdrücklichen Entscheid des Gesetzgebers widerspreche und weder im Gesetz noch in den Materialien eine Stütze finde (E. 3.3.5; vgl. zum Ganzen auch Staehelin, a.a.O., Art. 25 N. 4, mit zahlreichen Hinweisen auf Literatur und Rechtsprechung).
+3.3.2 Bei bzw. vor Errichtung der Vormundschaft stand A unter der alleinigen elterlichen Sorge seiner Mutter. Die Mutter von A wohnte damals in Z, womit sich aufgrund von Art. 25 Abs. 1 ZGB auch der Wohnsitz von A zu diesem Zeitpunkt in Z befand. Der?Sitz der KESB Y befand sich deshalb gemäss § 16e Abs. 1 Ziff. 1 EG ZGB ebenfalls in Z, weshalb der sich aus Art. 7 Abs. 3 lit. a ZUG ergebende Unterstützungswohnsitz von A ebenfalls in Z war.
+Entscheid des Verwaltungsgerichts VG.2018.63/E vom 19. Juni 2019
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
