@@ -1,0 +1,45 @@
+---
+decision_id: "tg_obergericht_RBOG_2014_Nr._21"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2014 Nr. 21"
+decided: "2014-06-06"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2014-nr-21"
+cites_law: ["switzerland/bund/acts/312.0/art-318.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-394.md"]
+---
+
+# TG Obergericht RBOG 2014 Nr. 21
+
+## Regeste
+
+Anfechtung der Ablehnung von Beweisanträgen
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 01.01.2011 RBOG 2014 Nr. 21
+Thurgovie Obergericht Rechenschaftsbericht 01.01.2011 RBOG 2014 Nr. 21
+Turgovia Obergericht Rechenschaftsbericht 01.01.2011 RBOG 2014 Nr. 21
+
+RBOG 2014 Nr. 21
+Skip to main content
+Show navigation
+Anfechtung der Ablehnung von Beweisanträgen
+Art. 318 Abs. 3 StPO
+,
+Art. 394 lit. b StPO
+1. Die Staatsanwaltschaft teilte dem Beschwerdeführer mit, sie beabsichtige die Verfahrenseinstellung. Gleichzeitig gab sie ihm die Möglichkeit, Beweisanträge zu stellen. Die vom Beschwerdeführer gestellten Beweisanträge lehnte sie mit begründeter Verfügung ab. Diese ficht der Beschwerdeführer an.
+2. Die Anfechtung der Ablehnung von Beweisanträgen ist in der StPO widersprüchlich geregelt. Gemäss Art. 318 Abs. 3 i.V.m. Abs. 2 StPO sind durch die Staatsanwaltschaft abgelehnte Beweisanträge der beschuldigten Person nicht anfechtbar. Gemäss Art. 394 lit. b StPO ist indessen die Beschwerde gegen die Ablehnung von Beweisanträgen (nur dann) nicht zulässig, wenn der Antrag ohne Rechtsnachteil vor dem erstinstanzlichen Gericht wiederholt werden kann.
+3. a) Der Verzicht auf Anfechtbarkeit gemäss Art. 318 Abs. 3 StPO beruht auf der Überlegung, dass ein abgelehnter Beweisantrag vor Gericht ohne weiteres noch einmal gestellt werden kann. Zudem basiert er auf dem Aspekt der Verfahrensbeschleunigung. Die Zulassung von Beschwerden in diesem Verfahrensstadium könnte zu unnötigen Verfahrensverzögerungen führen, da sich die Rechtsmittelbehörde gerade bei grösseren und komplexen Untersuchungen nur mit erheblichem Zeitaufwand ein Urteil über die antizipierte Beweiswürdigung der Staatsanwaltschaft bilden könnte. Falls eine Partei den Beweisantrag vor dem erstinstanzlichen Gericht ohne Rechtsnachteil noch einmal stellen kann, kann sie den ablehnenden Entscheid nicht anfechten. Ansonsten ist entgegen der anders lautenden Formulierung von Art. 318 Abs. 3 StPO eine Beschwerde gegen den ablehnenden Entscheid der Staatsanwaltschaft möglich. Folglich ist eine Beschwerde nur bei drohendem Beweisverlust zulässig[1].
+b) Die angefochtene Verfügung enthält die Rechtsmittelbelehrung für die Beschwerde nach Art. 393 ff. StPO. Die Staatsanwaltschaft führte in der Begründung des Entscheids dazu aus, weil beabsichtigt sei, das Verfahren einzustellen, sei es nicht möglich, die Beweisanträge gemäss Art. 394 StPO vor dem erstinstanzlichen Gericht zu wiederholen. Demnach sei die Beschwerde im Sinn von Art. 393 StPO gegen diese Verfügung zulässig. Diese Auffassung ist auf den ersten Blick nachvollziehbar. Indessen hat der Beschwerdeführer die Möglichkeit, abgelehnte Beweisanträge im Beschwerdeverfahren gegen die Einstellungsverfügung im Sinn von Art. 319 StPO zu rügen und die Abnahme weiterer Beweise zu beantragen. Die Beschwerdemöglichkeit gegen die Einstellungsverfügung ist der Wiederholung abgelehnter Beweisanträge beim erstinstanzlichen Strafgericht im Sinn von Art. 394 lit. b StPO gleichzusetzen. Die gegenteilige Auffassung widerspräche dem Gebot der Verfahrensbeschleunigung, das der Gesetzgeber mit der Rechtsmittelbeschränkung unterstützen wollte. Zudem ist für die Parteien in Fällen, in denen die Einstellung des Verfahrens zusammen mit der Ablehnung des Beweisantrags angekündigt[2] wird, kein Rechtsnachteil ersichtlich, weil die (mit Beschwerde anfechtbare) Einstellungsverfügung in der Regel umgehend erlassen wird. Ferner ist die Einstellungsverfügung regelmässig ausführlicher begründet als die Ablehnung des Beweisantrags, was die Anfechtung erleichtert.
+c) Der Beschwerdeführer macht keinen drohenden Beweisverlust geltend. Ein solcher ist auch nicht ersichtlich. Daher ist die Ablehnung seiner Beweisanträge nicht separat anfechtbar. Dem Beschwerdeführer verbleibt die Möglichkeit, seine beweisrechtlichen Rügen im Rahmen einer allfälligen Beschwerde gegen die Einstellungsverfügung vorzubringen.
+d) Um vergeblichen Beschwerden vorzubeugen und dadurch den Parteien unnötigen Aufwand und unnötige Kosten zu ersparen, erschiene es sinnvoll, in der Begründung oder in der Rechtsmittelbelehrung des Beweisergänzungsentscheids auf die eingeschränkte Beschwerdemöglichkeit hinzuweisen.
+Obergericht, Einzelrichter, 6. Juni 2014, SW. 2014.40
+[1] Steiner, Basler Kommentar, Art. 318 StPO N 14; Schmid, Handbuch des Schweizerischen Strafprozessrechts, Zürich/St. Gallen 2009, N 1245 und 1515; Ruckstuhl/Dittmann/Arnold, Strafprozessrecht, Zürich/Basel/Genf 2011, N 962; Landshut, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Hansjakob/Lieber), Zürich/Basel/Genf 2010, Art. 318 N 13
+[2] Seit 1. Januar 2011 erfolgt dies mit einer Schlussverfügung im Sinn von Art. 318 Abs. 1 StPO.
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
