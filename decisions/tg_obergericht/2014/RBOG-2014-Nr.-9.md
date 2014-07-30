@@ -1,0 +1,57 @@
+---
+decision_id: "tg_obergericht_RBOG_2014_Nr._9"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2014 Nr. 9"
+decided: "2014-07-30"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2014-nr-9"
+cites_law: ["switzerland/bund/acts/210/art-428.md", "switzerland/bund/acts/272/art-108.md", "switzerland/bund/acts/272/art-117.md"]
+---
+
+# TG Obergericht RBOG 2014 Nr. 9
+
+## Regeste
+
+Kostenfolge einer mutwilligen Beschwerde
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 26.05.2003 RBOG 2014 Nr. 9
+Thurgovie Obergericht Rechenschaftsbericht 26.05.2003 RBOG 2014 Nr. 9
+Turgovia Obergericht Rechenschaftsbericht 26.05.2003 RBOG 2014 Nr. 9
+
+RBOG 2014 Nr. 9
+Skip to main content
+Show navigation
+Kostenfolge einer mutwilligen Beschwerde
+Art. 108 ZPO
+,
+Art. 117 ZPO
+1. a) X wurde am 30. Juni 2014 von Dr.med. A mittels fürsorgerischer Unterbringung in die Psychiatrische Klinik eingewiesen. Am 7. Juli 2014 erhob er bei der Kindes- und Erwachsenenschutzbehörde "Rekurs gegen Festhaltung". Nach der psychiatrischen Begutachtung und Anhörung von X entschied die Kindes- und Erwachsenenschutzbehörde am 14. Juli 2014, die Beschwerde werde abgewiesen und die ärztlich angeordnete fürsorgerische Unterbringung in eine behördliche Unterbringung gemäss Art. 428 Abs. 1 ZGB umgewandelt.
+b) Gegen diesen Entscheid erhob X am 25. / 28. Juli 2014 Beschwerde und beantragte, er sei sofort aus der Psychiatrischen Klinik zu entlassen; eventuell sei er in eine offene Abteilung zu verlegen.
+c) Mit Entscheid vom 30. Juli 2014 wies das Obergericht die Beschwerde ab.
+d) Gegen diesen Entscheid des Obergerichts erhob X beim Bundesgericht Beschwerde, welche am 29. September 2014 abgewiesen wurde, soweit darauf einzutreten war.
+e) Am 4. September 2014 stellte der Rechtsanwalt des Beschwerdeführers erneut ein Gesuch um sofortige Entlassung von X aus der Klinik.
+f) Am 12. September 2014 wies die Kindes- und Erwachsenenschutzbehörde das Gesuch von X um sofortige Entlassung aus der fürsorgerischen Unterbringung ab.
+g) X erhob wiederum fristgerecht Beschwerde.
+2. a) Der Beschwerdeführer verlangt für das Beschwerdeverfahren die Bestellung eines Offizialanwalts.
+aa) Eine Person hat Anspruch auf unentgeltliche Rechtspflege mit Offizialanwalt, wenn sie nicht über die erforderlichen Mittel verfügt und ihr Rechtsbegehren nicht aussichtslos erscheint[1]. Als aussichtslos sind Begehren anzusehen, bei denen die Gewinnaussichten beträchtlich geringer sind als die Verlustgefahren und die deshalb kaum als ernsthaft bezeichnet werden können. Dagegen gilt ein Begehren nicht als aussichtslos, wenn sich Gewinnaussichten und Verlustgefahren ungefähr die Waage halten oder jene nur wenig geringer sind als diese. Massgebend ist, ob eine Partei, die über die nötigen Mittel verfügt, sich bei vernünftiger Überlegung zu einem Prozess entschliessen würde; eine Partei soll einen Prozess, den sie auf eigene Rechnung und Gefahr nicht führen würde, nicht deshalb anstrengen können, weil er sie nichts kostet. Ob im Einzelfall genügende Erfolgsaussichten bestehen, beurteilt sich aufgrund einer vorläufigen und summarischen Prüfung der Prozessaussichten[2].
+bb) Der Beschwerdeführer wurde am 30. Juni 2014 in die Klinik eingewiesen. Die Kindes- und Erwachsenenschutzbehörde entschied am 14. Juli 2014, das Obergericht am 30. Juli 2014. Nur fünf Wochen nach Erhalt dieses Entscheids wurde ein erneutes Entlassungsgesuch eingereicht, noch während des vor Bundesgericht hängigen Verfahrens; die Kindes- und Erwachsenenschutzbehörde entschied erneut am 12. September 2014, und die Beschwerde gegen diesen Entscheid ging am 29. September 2014 ein. Die Beschwerde wiederholte nur die bereits vorgetragenen Argumente; es wurden weder neue Tatsachen vorgebracht noch neue Beweismittel oder entsprechende Anhaltspunkte für eine Veränderung der Sachlage genannt. Faktisch handelt es sich bei der Beschwerde um eine reine Anfechtung der in den ursprünglichen Verfahren von den Justizbehörden über drei Instanzen geprüften und verworfenen Standpunkte. Mag auch das Entlassungsgesuch angesichts der Bedeutung der Angelegenheit bei grosszügiger Betrachtungsweise noch eine gewisse Berechtigung aufweisen, war die neuerliche Beschwerde offensichtlich aussichtslos. Damit kommt die Bestellung eines Offizialanwalts nicht in Betracht.
+b) aa) Wer unnötige Prozesskosten verursacht, hat diese gemäss Art. 108 ZPO zu tragen. Das gilt für trölerische Begehren oder weitschweifige Eingaben, wobei gleichgültig ist, ob eine offensichtliche Unnötigkeit der Begehren oder ein vorwerfbares Verhalten vorliegt[3]. Für die Kostentragung ausreichend ist das Verursachen unnötiger Prozesskosten; ein Verschulden ist nicht vorausgesetzt[4]. Unter "unnötigen Prozesskosten" sind diejenigen Kosten zu verstehen, die nicht durch den Prozess als solchen, sondern durch ein bestimmtes Verhalten beziehungsweise eine Unterlassung einer Partei oder eines Dritten ohne sachlichen Grund verursacht werden; dies bedeutet, dass das Verhalten dem Verursacher in einem gewissen Mass anzulasten ist, auch wenn das Vorliegen eines Verschuldens auf Seiten des Verursachers keine Haftungsvoraussetzung darstellt[5]. Verursacher unnötiger Kosten und somit Zahlungspflichtiger kann nicht nur eine Partei, sondern auch ein Rechtsvertreter sein, der mit minimaler Vorsicht vermeidbare Fehler begangen hat, oder ein Dritter, wie etwa ein Zeuge[6]. Einem Rechtsvertreter, der ein Rechtsmittel erhebt, das in guten Treuen nicht mehr als erfolgversprechend bezeichnet werden kann, können die Verfahrenskosten auferlegt werden[7].
+bb) Die vom Anwalt des Beschwerdeführers angehobene Beschwerde erscheint nicht nur als aussichtslos, sondern auch als trölerisch und mutwillig. Das Obergericht behält sich vor, in ähnlichen Fällen künftig die Kosten des Verfahrens dem Rechtsvertreter des Beschwerdeführers aufzuerlegen.
+Obergericht, 1. Abteilung, 22. Oktober 2014, KES.2014.86
+Eine dagegen erhobene Beschwerde wies das Bundesgericht am 19. Februar 2015 ab, soweit es darauf eintrat (5A_941/2014).
+[1] Art. 117 lit. a und b ZPO
+[2] BGE 138 III 218, 133 III 616
+[3] BBl 2006 S. 7298
+[4] Jenny, in: Kommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Hasenböhler/Leuenberger), 2.A., Art. 108 N 4
+[5] Fischer, in: Schweizerische Zivilprozessordnung (Hrsg. Baker & McKenzie), Bern 2010, Art. 108 N 5
+[6] Jenny, Art. 108 ZPO N 7
+[7] ZR 105, 2006, Nr. 7 S. 30 ff.; vgl. zur Kostenauflage an einen Anwalt BGE 129 IV 207 f.; BGE vom 26. Mai 2003, 6S.126/2003, Erw. 2; BGE vom 14. Juni 2001, 5P.83/2001, Erw. 8; BGE vom 13. Februar 2001, 2A.76/2001, Erw. 3b; BGE vom 24. März 2000, 6S.149/2000, Erw. 2
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
