@@ -1,0 +1,108 @@
+---
+decision_id: "tg_obergericht_RBOG_2014_Nr._23"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2014 Nr. 23"
+docket_2: "SW.2014.94"
+decided: "2014-09-11"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/1E1F881E-B0EB-E8D9-350AE58B29B3BCBE.html"
+cites_law: ["switzerland/bund/acts/173.110/art-107.md", "switzerland/bund/acts/312.0/art-003.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-248.md", "switzerland/bund/acts/312.0/art-380.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-431.md"]
+---
+
+# TG Obergericht RBOG 2014 Nr. 23
+
+## Regeste
+
+429 und 430 StPO wären unbeachtlich[10]. Würde der Entscheid des Zwangsmassnahmengerichts für dieses Verfahren als nicht verbindlich eingestuft und die Rechtmässigkeit der Hausdurchsuchung bejaht, entfielen sowohl Art. 3 StPO entscheidet das Zwangsmassnahmengericht innerhalb eines Monats (nach Eingang des Entsiegelungsgesuchs) endgültig, was Verfahrensverzögerungen vermeiden soll und dem Beschleunigungsgebot entspricht[14]. Gegen den Entscheid des Zwangsmassnahmengerichts ist die Beschwerde...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 11.09.2014 RBOG 2014 Nr. 23 (SW.2014.94)
+Thurgovie Obergericht Rechenschaftsbericht 11.09.2014 RBOG 2014 Nr. 23 (SW.2014.94)
+Turgovia Obergericht Rechenschaftsbericht 11.09.2014 RBOG 2014 Nr. 23 (SW.2014.94)
+
+429 und 430 StPO wären unbeachtlich[10]. Würde der Entscheid des Zwangsmassnahmengerichts für dieses Verfahren als nicht verbindlich eingestuft und die Rechtmässigkeit der Hausdurchsuchung bejaht, entfielen sowohl Art. 3 StPO entscheidet das Zwangsmassnahmengericht innerhalb eines Monats (nach Eingang des Entsiegelungsgesuchs) endgültig, was Verfahrensverzögerungen vermeiden soll und dem Beschleunigungsgebot entspricht[14]. Gegen den Entscheid des Zwangsmassnahmengerichts ist die Beschwerde...
+
+RBOG 2014 Nr. 23
+RBOG 2014 Nr. 23
+Entschädigungs- und Genugtuungsfolgen: Die Beschwerdeinstanz ist nicht an den Entsiegelungsentscheid des Zwangsmassnahmengerichts gebunden
+(Art. 431 Abs. 1, 429 Abs. 1 lit. c und 248 StPO)
+1.     a)    Gestützt auf den Befehl der Staatsanwaltschaft durchsuchte die Kantonspolizei den Wohnort von X und stellte im Umfang von 25 Kisten Geschäftsunterlagen sicher, worauf X die Siegelung verlangte. Zudem erhob X Beschwerde und beantragte, es sei der Hausdurchsuchungsbefehl der Staatsanwaltschaft aufzuheben und dessen Rechtswidrigkeit festzustellen. Die Staatsanwaltschaft stellte einen Antrag auf Entsiegelung der sichergestellten Unterlagen, wobei das Zwangsmassnahmengericht das Entsiegelungsbegehren abwies. In der Folge schrieb das Obergericht die Beschwerde von X gegen die Hausdurchsuchung zufolge Gegenstandslosigkeit als erledigt ab.
+b)    Mit Eingabe an die Staatsanwaltschaft beantragte X, es sei ihm eine Entschädigung sowie eine Genugtuung zu bezahlen. Die Staatsanwaltschaft entschädigte daraufhin X; auf die Ausrichtung einer Genugtuung verzichtete sie. Gegen diesen Entscheid erhob X Beschwerde und beantragte, es sei ihm eine Genugtuung zuzusprechen.
+2.     a)    aa)   Die Hausdurchsuchung stellt eine Zwangsmassnahme dar
+[1]
+. Sind gegenüber der beschuldigten Person rechtswidrig Zwangsmassnahmen angewandt worden, so spricht ihr die Strafbehörde gestützt auf Art. 431 Abs. 1 StPO eine angemessene Entschädigung und Genugtuung zu, und zwar unabhängig von einem Freispruch oder einer Verfahrenseinstellung. Zwangsmassnahmen sind rechtswidrig, wenn im Zeitpunkt ihrer Anordnung oder Fortsetzung die materiellen oder formellen Voraussetzungen nach Art. 196 ff. StPO nicht erfüllt waren. Wird hingegen erst im Nachhinein festgestellt, dass die Zwangsmassnahme ungerechtfertigt war, weil die beschuldigte Person freigesprochen oder deren Strafverfahren eingestellt wird, waren aber im Zeitpunkt der Anordnung oder Fortsetzung der Zwangsmassnahme die Voraussetzungen nach Art. 196 ff. StPO gegeben, stützt sich der Entschädigungs- oder Genugtuungsanspruch auf Art. 429 StPO
+[2]
+. Danach hat die beschuldigte Person, die ganz oder teilweise freigesprochen oder deren Verfahren eingestellt wird, Anspruch auf Entschädigung ihrer Aufwendungen für die angemessene Ausübung ihrer Verfahrensrechte und auf Genugtuung für besonders schwere Verletzungen ihrer persönlichen Verhältnisse, insbesondere bei Freiheitsentzug
+[3]
+. Bei rechtswidrigen Zwangsmassnahmen wird die besonders schwere Verletzung der persönlichen Verhältnisse im Sinn von Art. 429 Abs. 1 lit. c StPO vermutet
+[4]
+.
+bb)   Zwangsmassnahmen dürfen nur ergriffen werden, wenn sie gesetzlich vorgesehen sind, ein hinreichender Tatverdacht vorliegt, die damit angestrebten Ziele nicht durch mildere Massnahmen erreicht werden können und die Bedeutung der Straftat die Zwangsmassnahme rechtfertigt
+[5]
+. Zwangsmassnahmen, welche eine oder mehrere dieser Voraussetzungen nicht erfüllen, sind als widerrechtlich oder rechtswidrig zu qualifizieren.
+b)    aa)   Aufzeichnungen und Gegenstände, die nach Angaben der Inhaberin oder des Inhabers wegen eines Aussage- oder Zeugnisverweigerungsrechts oder aus anderen Gründen nicht durchsucht oder beschlagnahmt werden dürfen, sind gemäss Art. 248 Abs. 1 StPO zu versiegeln und dürfen von den Strafbehörden weder eingesehen noch verwendet werden. Die Staatsanwaltschaft hat dann innert längstens zwanzig Tagen ein Entsiegelungsgesuch zu stellen. Darüber entscheidet im Vorverfahren das Zwangsmassnahmengericht endgültig
+[6]
+. Im Rahmen des Entsiegelungsverfahrens können sämtliche Einwände gegen die Hausdurchsuchung vorgebracht werden, insbesondere hinsichtlich der Rechtmässigkeit der Zwangsmassnahme
+[7]
+. Die Siegelung ist ein besonderes Verfahren des vorläufigen Rechtsschutzes gegen Durchsuchungen, das in seinem Anwendungsbereich anderen Rechtsbehelfen vorgeht beziehungsweise diese ausschliesst
+[8]
+. Insoweit hat das Zwangsmassnahmengericht eine Art Kompetenzattraktion, prüft also neben dem Geheimhaltungsinteresse auch die Rechtmässigkeit der (Haus-)Durch­suchung und Beschlagnahme, das heisst insbesondere auch den hinreichenden Tatverdacht sowie die Verhältnismässigkeit der Zwangsmassnahme
+[9]
+.
+bb)   Das Zwangsmassnahmengericht wies das Entsiegelungsbegehren der Staatsanwaltschaft wegen fehlenden Tatverdachts ab. Damit war nach Auffassung des Zwangsmassnahmengerichts eine gesetzliche Voraussetzung für die Anordnung der Hausdurchsuchung nicht gegeben; mithin qualifizierte das Gericht die Zwangsmassnahme als rechtswidrig. Wird dieser Auffassung gefolgt oder wird diese Qualifikation für das vorliegende Beschwerdeverfahren als verbindlich eingestuft, wäre das Genugtuungsbegehren von X ausschliesslich unter den Voraussetzungen von Art. 431 Abs. 1 StPO zu prüfen, und die Art. 429 und 430 StPO wären unbeachtlich
+[10]
+. Würde der Entscheid des Zwangsmassnahmengerichts für dieses Verfahren als nicht verbindlich eingestuft und die Rechtmässigkeit der Hausdurchsuchung bejaht, entfielen sowohl Art. 431 Abs. 1 StPO als auch Art. 429 Abs. 1 lit. c StPO als Anspruchsgrundlage für eine Genugtuung. Art. 431 Abs. 1 StPO käme nicht in Betracht, weil die Hausdurchsuchung rechtmässig war, und Art. 429 Abs. 1 lit. c StPO deshalb nicht, weil der Beschwerdeführer bislang weder freigesprochen noch das Verfahren gegen ihn eingestellt wurde.
+c)     aa)   Die Versiegelung sichergestellter Aufzeichnungen und das sich daran anschliessende Entsiegelungsverfahren dienen dem Schutz der Geheim- und Privatsphäre vor ungerechtfertigten staatlichen Eingriffen. Die Staatsanwaltschaft verfügt über eine Frist von 20 Tagen, um das Entsiegelungsgesuch einzureichen
+[11]
+; die Frist ist eine gesetzliche Verwirkungsfrist und als solche nicht erstreckbar
+[12]
+. Ein unabhängiges Gericht nimmt alsdann die Abwägung vor zwischen den Strafverfolgungsinteressen einerseits und den Interessen des Inhabers an der Geheimhaltung der sichergestellten Datenträger andererseits
+[13]
+. Die StPO sieht aber nicht nur für das Entsiegelungsgesuch, sondern auch für den Entscheid selbst eine Frist vor. Gemäss Art. 248 Abs. 3 StPO entscheidet das Zwangsmassnahmengericht innerhalb eines Monats (nach Eingang des Entsiegelungsgesuchs) endgültig, was Verfahrensverzögerungen vermeiden soll und dem Beschleunigungsgebot entspricht
+[14]
+. Gegen den Entscheid des Zwangsmassnahmengerichts ist die Beschwerde nach Art. 393 ff. StPO ausgeschlossen
+[15]
+, womit dieser Entscheid von der Beschwerdeinstanz nicht mehr auf das Bestehen oder Nichtbestehen eines hinreichenden Tatverdachts überprüft werden kann. Im Entsiegelungsverfahren ist somit das Obergericht als kantonale Beschwerdeinstanz nicht involviert (und damit weder "Vorinstanz" noch "Behörde" im Sinn von Art. 107 Abs. 2 BGG). Dem Gesetzgeber ging es mit der Regelung des Entsiegelungsverfahrens in Art. 248 Abs. 2 bis 4 StPO vor allem um ein rasches Verfahren, und er legte besonderes Gewicht darauf, eine Blockierung des Verfahrens durch langwierige Entsiegelungsprozeduren zu vermeiden
+[16]
+. Sinn und Zweck von Art. 431 Abs. 1 StPO ist hingegen, dass der von einer rechtswidrigen Zwangsmassnahme betroffene Beschuldigte unabhängig vom Verfahrensausgang oder seinem Verhalten entschädigt wird beziehungsweise eine Genugtuung erhält
+[17]
+. In diesem Verfahren gibt es keine Frist, innerhalb welcher zu entscheiden ist, und der Entscheid der Staatsanwaltschaft kann mit Beschwerde ans Obergericht weitergezogen werden.
+bb)   Angesichts der unterschiedlichen Zwecke und Verfahren muss daher die Beschwerdeinstanz die Rechtmässigkeit einer Zwangsmassnahme frei überprüfen können, wenn es um die Frage geht, ob der Staat eine Entschädigung beziehungsweise eine Genugtuung nach Art. 431 Abs. 1 StPO ausrichten soll. Das Zwangsmassnahmengericht entschied im Dispositiv allein über das Entsiegelungsbegehren, und nur dieses erwuchs in Rechtskraft. Die Beschwerdeinstanz entscheidet indessen über die Ausrichtung einer Genugtuung, wobei sie an die Erwägungen des Zwangsmassnahmengerichts betreffend die Rechtswidrigkeit der Zwangsmassnahme nicht gebunden ist. Gerade der Umstand, dass der Entscheid des Zwangsmassnahmengerichts betreffend die Entsiegelung von der Beschwerdeinstanz nicht überprüft werden konnte, spricht dafür, dass sie im Verfahren betreffend die Genugtuung nicht an die Feststellung der Rechtswidrigkeit durch das Zwangsmassnahmengericht gebunden ist. Andernfalls hätte die Beschwerdeinstanz selbst dann eine Genugtuung zuzusprechen, wenn nach deren Auffassung die Zwangsmassnahme als rechtmässig zu qualifizieren wäre. Ein solches Ergebnis wäre abzulehnen.
+Obergericht, 2. Abteilung, 11. September 2014, SW.2014.94
+[1]
+Art. 196 ff., 241 ff. und 244 f. StPO
+[2]
+Wehrenberg/Frank, Basler Kommentar, Art. 431 StPO N 3; Schmid, Schweizerische Strafprozessordnung, Praxiskommentar, 2.A., Art. 431 N 1
+[3]
+Art. 429 Abs. 1 lit. a und c StPO
+[4]
+Schmid, Art. 431 StPO N 3
+[5]
+Art. 197 Abs. 1 lit. a-d StPO
+[6]
+Art. 248 Abs. 2 und 3 StPO
+[7]
+BGE vom 25. Januar 2013, 1B_503/2012, Erw. 3 ff.; BGE vom 26. März 2012, 1B_117/2012, Erw. 3.2 f.
+[8]
+BGE vom 26. März 2012, 1B_117/2012, Erw. 3.2
+[9]
+BGE vom 24. März 2014, 1B_360/2013, Erw. 2.2; Heimgartner, Strafprozessuale Beschlagnahme, Zürich/Basel/Genf 2011, S. 381
+[10]
+Schmid, Art. 431 StPO N 1 f.
+[11]
+Art. 248 Abs. 2 StPO
+[12]
+Thormann/Brechbühl, Basler Kommentar, Art. 248 StPO N 18
+[13]
+Art. 248 Abs. 3 StPO; Thormann/Brechbühl, Art. 248 StPO N 41
+[14]
+Thormann/Brechbühl, Art. 248 StPO N 37, 64
+[15]
+Art. 248 Abs. 3 i.V.m. Art. 380 StPO; Schmid, Art. 248 StPO N 12; Keller, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Hansjakob/ Lieber), 2.A., Art. 248 N 48
+[16]
+Botschaft zur Vereinheitlichung des Strafprozessrechts vom 21. Dezember 2005, in: BBl 2006 S. 1239
+[17]
+Schmid, Art. 431 StPO N 1
+Internationaler und interkantonaler Gerichtsstandskonflikt
