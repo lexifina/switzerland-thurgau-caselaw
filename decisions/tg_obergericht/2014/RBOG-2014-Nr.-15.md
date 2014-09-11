@@ -1,0 +1,49 @@
+---
+decision_id: "tg_obergericht_RBOG_2014_Nr._15"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2014 Nr. 15"
+docket_2: "BS.2014.9"
+decided: "2014-09-11"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/1E1F87F0-9ACE-22E0-0DB33516D3EF0896.html"
+cites_law: ["switzerland/bund/acts/231.1/art-018.md", "switzerland/bund/acts/281.1/art-092.md"]
+---
+
+# TG Obergericht RBOG 2014 Nr. 15
+
+## Regeste
+
+Daraufhin gelangte die Gläubigerin an das Obergericht als kantonale Aufsichtsbehörde über Schuldbetreibung und Konkurs und beantragte, die Verfügung des Betreibungsamts betreffend Pfändung des Markenrechts und der Bilder sei zu bestätigen. Das Obergericht schützte die Beschwerde und wies die Vorinstanz an, die Beschwerdeführerin in das Beschwerdeverfahren einzubeziehen und die Sache anschliessend neu zu entscheiden. c) Der Beschwerdegegner machte geltend, die Beschwerdeführerin übertreibe ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 11.09.2014 RBOG 2014 Nr. 15 (BS.2014.9)
+Thurgovie Obergericht Rechenschaftsbericht 11.09.2014 RBOG 2014 Nr. 15 (BS.2014.9)
+Turgovia Obergericht Rechenschaftsbericht 11.09.2014 RBOG 2014 Nr. 15 (BS.2014.9)
+
+Daraufhin gelangte die Gläubigerin an das Obergericht als kantonale Aufsichtsbehörde über Schuldbetreibung und Konkurs und beantragte, die Verfügung des Betreibungsamts betreffend Pfändung des Markenrechts und der Bilder sei zu bestätigen. Das Obergericht schützte die Beschwerde und wies die Vorinstanz an, die Beschwerdeführerin in das Beschwerdeverfahren einzubeziehen und die Sache anschliessend neu zu entscheiden. c) Der Beschwerdegegner machte geltend, die Beschwerdeführerin übertreibe ...
+
+RBOG 2014 Nr. 15
+RBOG 2014 Nr. 15
+Pfändung eines Markenrechts und selbstgemalter Bilder
+(Art. 92 Abs. 2 und 4 SchKG; Art. 18 URG)
+1.     Nach erfolgtem Fortsetzungsbegehren pfändete das Betreibungsamt das Markenrecht "X" sowie die vom Schuldner gemalten Bilder. Der Einzelrichter hiess die dagegen erhobene Beschwerde des Schuldners gut und hob sowohl die Pfändung des Markenrechts als auch die Pfändung der Bilder auf mit der Begründung, die Marke "X" und die Bilder seien im Zeitpunkt der Pfändung wertlos und damit unpfändbar im Sinn von Art. 92 SchKG gewesen. Daraufhin gelangte die Gläubigerin an das Obergericht als kantonale Aufsichtsbehörde über Schuldbetreibung und Konkurs und beantragte, die Verfügung des Betreibungsamts betreffend Pfändung des Markenrechts und der Bilder sei zu bestätigen. Das Obergericht schützte die Beschwerde und wies die Vorinstanz an, die Beschwerdeführerin in das Beschwerdeverfahren einzubeziehen und die Sache anschliessend neu zu entscheiden. Der Einzelrichter hiess die Beschwerde daraufhin gut und wies das Betreibungsamt (erneut) an, die Pfändung des Markenrechts und der Bilder aufzuheben. Dagegen erhob die Beschwerdeführerin wieder Beschwerde und beantragte, die Pfändung sei zu bestätigen. Das Betreibungsamt und der Beschwerdegegner seien anzuweisen, eine Liste der öffentlich ausgestellten Bilder zu erstellen, und diese seien in der Pfändung zu belassen.
+2.     a)    Die Vorinstanz erwog, dass nicht beziehungsweise gegen den Willen oder ohne das Wissen des Urhebers veröffentlichte Bilder gestützt auf Art. 92 Abs. 4 SchKG i.V.m. Art. 18 URG nicht gepfändet werden dürften. Die Pfändungsverfügung spreche nur von "Einpfändung" der Bilder und Aquarelle, welche der Schuldner gemalt habe. Weitere Angaben, wie zum Beispiel eine klare Zuordnung oder ein Bilderverzeichnis, fehlten. Zwar liege ein Zeitungsartikel im Recht, in dem erwähnt werde, dass von Januar bis Februar Ölbilder, Aquarelle und Mischtechniken des Beschwerdegegners zu sehen seien, doch sei hieraus nicht ersichtlich, welche Gegenstände ausgestellt worden seien. Aufgrund der Akten sei somit nicht erstellt, dass die in der Verfügung des Betreibungsamts erwähnten und von der Vorinstanz beim Beschwerdegegner zu Hause fotografierten Bilder sowie Aquarelle ausgestellt oder sonst wie der Öffentlichkeit zugänglich gemacht und somit durch den Beschwerdegegner im Sinn der URG-Bestimmung veröffentlicht worden seien. Damit seien die Bilder als unpfändbar zu qualifizieren.
+b)    Dagegen brachte die Beschwerdeführerin vor, ihr seien die von der Vorinstanz berücksichtigten Umstände sehr wohl bekannt. Deshalb sei das Betreibungsamt im Sinn eines Eventualantrags anzuweisen, zusammen mit dem Beschwerdegegner eine Liste der öffentlich ausgestellten Bilder zu erstellen, wobei diese Objekte in der Pfändung zu belassen seien. Dieses Vorgehen stütze sich auf die umfassende Auskunftspflicht des Schuldners gegenüber dem Betreibungsbeamten.
+c)     Der Beschwerdegegner machte geltend, die Beschwerdeführerin übertreibe und vermöge keinen Beweis für ihre Behauptungen zu liefern. Er habe in seinem Leben nur eine einzige Bilderausstellung gemacht. Dabei sei bereits im Vorfeld vereinbart worden, dass keine Bilder verkauft würden. Entsprechend seien keine Preise kommuniziert worden, und er habe - wie vereinbart - alle Bilder wieder zu sich nach Hause genommen. Es habe jegliche wirtschaftliche Ausrichtung gefehlt.
+3.     a)    Gegenstände, bei denen von vornherein anzunehmen ist, dass der Überschuss des Verwertungserlöses über die Kosten so gering wäre, dass sich eine Wegnahme nicht rechtfertigt, dürfen nicht gepfändet werden. Sie sind aber mit der Schätzungssumme in der Pfändungsurkunde vorzumerken
+[1]
+. Art. 92 Abs. 2 SchKG kommt in der täglichen Praxis grosse Bedeutung zu. Er lässt dem Betreibungsbeamten einen erheblichen Ermessenspielraum, auch an sich entbehrliche Gegenstände von der Pfändung auszunehmen, weil sich nach seiner Meinung deren Verwertung nicht oder kaum lohnt, sie also keinen genügenden Gantwert (Verwertungswert) aufweisen. Bei in einfachen Verhältnissen lebenden Schuldnern trifft dies oft für den gesamten Hausrat zu, soweit er nicht ohnehin Kompetenz bildet. Insbesondere die modernen Geräte der Unterhaltungs-, aber auch der Büroelektronik unterliegen angesichts des schnellen Wechsels von Technik und Design einer sehr raschen Altersentwertung. Zudem sind die Transport-, Lager- und Verwertungskosten von gebrauchten Einrichtungsgegenständen heute derart hoch, dass sich ihre Verwertung, wenn sie nicht vor Ort stattfinden kann, immer häufiger nicht rechtfertigt
+[2]
+.
+b)    Die gepfändeten Aquarelle sind in den Akten dokumentiert. Es ist offensichtlich, dass solche Bilder eines Anfängers und Laien, mögen sie mit noch soviel Herzblut gemalt sein, objektiv nur einen geringen Wert aufweisen. Das Betreibungsamt schätzte sie denn auch auf Fr. 5.00 pro Bild. Damit fallen diese Bilder unter Art. 92 Abs. 2 SchKG und können nicht gepfändet werden. Vor diesem Hintergrund braucht die Frage, ob die Bilder ausgestellt waren, nicht beantwortet beziehungsweise Art. 92 Abs. 4 SchKG i.V.m. Art. 18 URG nicht geprüft zu werden. Der angefochtene Entscheid ist in diesem Punkt zu bestätigen.
+4.     a)    aa)   In Bezug auf die Marke "X" erwog die Vorinstanz, der Wert einer Marke hänge stark davon ab, ob und mit welchem Erfolg die Marke benutzt werde. Kriterien dafür seien beispielsweise der mit der Marke erwirtschaftete Umsatz oder die Bekanntheit der Marke. Rund drei Monate vor der Pfändung der Marke durch das Betreibungsamt sei das Konkursverfahren mangels Aktiven eingestellt worden. Mit anderen Worten sei von Anfang an festgestanden, dass die vorhandenen Aktiven nicht einmal zur Deckung der Verfahrenskosten ausreichten. Vor diesem Hintergrund sei offensichtlich, dass die Unternehmung des Beschwerdegegners zum Zeitpunkt der "Einpfändung" der Marke nicht erfolgreich gewesen sei und keinen Umsatz generiert habe. Deshalb habe die Marke "X" zum Zeitpunkt der Pfändung als wertlos und somit als unpfändbar im Sinn von Art. 92 SchKG gegolten.
+bb)   Die Beschwerdeführerin machte geltend, gemäss bundesgerichtlicher Rechtsprechung liege Wertlosigkeit vor, wenn der Gegenstand bei der Verwertung keine genügende Kostendeckung erziele, wobei per se veräusserliche Gegenstände der Zwangsvollstreckung nicht zu entziehen seien. So erachte das Bundesgericht auch einige Kleidungsstücke sowie eine Zigarre als verwertbar. Nach der Lehre lägen Gegenstände ohne genügenden Gant- beziehungsweise Verwertungswert vor, wenn es sich um Gegenstände aus der Unterhaltungselektronik oder um Hausrat handle, mithin Objekte betroffen seien, welche schnell an Wert verlören. Zudem sei im Zweifel immer zu pfänden, weil das Betreibungsamt in der Verwertungsphase immer noch auf die Verwertung mangels Wert verzichten könne. Ferner sei die Verwertung durchzuführen, wenn der Gläubiger für die restlichen Kosten aufkomme. Die Beschwerdeführerin habe im erstinstanzlichen Verfahren ausdrücklich erklärt, sie wolle die Marke ersteigern, weshalb von Werthaltigkeit auszugehen sei.
+cc)   Dem hielt der Beschwerdegegner entgegen, die Marke sei im Zeitpunkt der Pfändung völlig wertlos gewesen. Heute sei die Marke noch viel wertloser, zumal er sich bereits vor einem Dreivierteljahr von dieser Marke verabschiedet habe. Es sei von dieser Marke überhaupt kein einziger Rappen Kostendeckung zu erwarten.
+b)    Die Beschwerdeführerin behauptete nicht, der vom Betreibungsamt auf Fr. 100.00 geschätzte Wert der Marke sei unzutreffend. Vielmehr begründete die Beschwerdeführerin die Werthaltigkeit einzig mit dem Umstand, dass sie die Marke ersteigern wolle. Dies allein genügt aber nicht. Es ist offensichtlich, dass ein Verwertungswert von Fr. 100.00 zur Deckung der Verfahrenskosten nicht genügt. Die Beschwerdeführerin machte in diesem Zusammenhang nicht geltend, für die nicht gedeckten Kosten aufkommen zu wollen. Damit ist die Beschwerde (auch) in Bezug auf die Marke abzuweisen.
+Obergericht, 2. Abteilung, 11. September 2014, BS.2014.9
+[1]
+Art. 92 Abs. 2 SchKG; BGE vom 18. Februar 2013, 5A_5/2013, Erw. 3.1
+[2]
+Vonder Mühll, Basler Kommentar, Art. 92 SchKG N 45
