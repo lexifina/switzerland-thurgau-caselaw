@@ -1,0 +1,55 @@
+---
+decision_id: "tg_obergericht_TVR_2015_Nr._19"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2015 Nr. 19"
+decided: "2014-09-17"
+published: "2015-06-17"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2015-nr-19"
+cites_law: ["switzerland/bund/acts/741.21/art-022a.md"]
+---
+
+# TG Obergericht TVR 2015 Nr. 19
+
+## Regeste
+
+Rechtsmittellegitimation einer Schulgemeinde, Fussgängerstreifen in Tempo-30-Zone
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 17.06.2015 TVR 2015 Nr. 19
+Thurgovie Obergericht Rechenschaftsbericht 17.06.2015 TVR 2015 Nr. 19
+Turgovia Obergericht Rechenschaftsbericht 17.06.2015 TVR 2015 Nr. 19
+
+TVR 2015 Nr. 19
+Skip to main content
+Show navigation
+Rechtsmittellegitimation einer Schulgemeinde, Fussgängerstreifen in Tempo-30-Zone
+§ 25 Abs. 2 VSG
+,
+Art. 22 a SSV
+,
+Art. 4 Abs. 2 V Tempo-30
+,
+§ 44 Ziff. 2 VRG
+1. Betrifft eine Verkehrsanordnung unmittelbar den Schulweg in unmittelbarer Nähe zur Schule, so ist die Primarschulgemeinde legitimiert, dagegen Beschwerde zu erheben (E. 1.2).
+2. Vom Grundsatz, dass in Tempo-30-Zonen keine Fussgängerstreifen angebracht werden sollen, kann abgewichen werden, wenn besondere Schutzbedürfnisse für Fussgänger bestehen, was namentlich bei Schulwegen der Fall sein kann (E. 2).
+Mit Entscheid vom 17. September 2014 genehmigte das DBU die Signale 2.59.1 und 2.59.2 „Beginn und Ende der Zone mit Geschwindigkeitsbeschränkung“ und allfällige weitere Massnahmen sowie die Aufhebung der Signale 2.50 „Parkieren verboten“ gemäss Antrag der Gemeinde I. In Ziff. 2 des Entscheiddispositivs ordnete das DBU an, dass die zwei Fussgängerstreifen zu demarkieren bzw. zu entfernen seien, da diese gemäss Art. 4 VTempo 30 nicht zulässig und durch den niedrigen durchschnittlichen Tagesverkehr (DTV) von ca. 1000 Fahrzeugen auch nicht begründet seien. Dagegen erhob die Schulgemeinde I beim Verwaltungsgericht Beschwerde, das diese gutheisst.
+Aus den Erwägungen:
+1.2 Zu prüfen ist die Legitimation der Schulgemeinde. Eine Gemeinde ist nach § 44 Ziff. 1 und 2 VRG zur Erhebung eines Rechtsmittels berechtigt, wenn sie von einem Entscheid berührt ist und die Verletzung schutzwürdiger Interessen glaubhaft macht oder wenn sie durch ein Gesetz dazu ermächtigt wurde. Dies gilt sowohl für die Politischen Gemeinden als auch für die Schulgemeinden (§ 1 GemG; § 57 KV). Nachfolgend ist vorerst zu prüfen, ob die Beschwerdeführerin durch ein Gesetz ermächtigt wurde, in vorliegender Sache ein Rechtsmittel zu ergreifen.
+Nach Art. 4 Abs. 2 der VTempo-30 dürfen Fussgängerstreifen in Tempo-30-Zonen angebracht werden, wenn besondere Vortrittsbedürfnisse für Fussgänger dies erfordern, dies namentlich bei Schulen und Heimen. Gemäss § 25 Abs. 2 VSG sorgen die Schulbehörden bei unzumutbaren Schulwegen für Abhilfe und sind bestrebt, Verkehrsgefahren so weit als möglich herabzusetzen.
+Die Schulbehörden sind demnach gesetzlich verpflichtet, sich darum zu bemühen, dass bestehende Verkehrsgefahren auf Schulwegen möglichst reduziert werden. Sie sind insbesondere verpflichtet, bei unzumutbaren Schulwegen Abhilfe zu schaffen und Verkehrsgefahren soweit als möglich herabzusetzen. Mit der Vorschrift von § 25 Abs. 2 VSG wird die Behörde in Sachen Schulwegsicherheit ausdrücklich zum aktiven Handeln aufgefordert. Diese gesetzliche Aufforderung muss aber auch beinhalten, dass die Schulbehörde Rechtsmittel ergreifen kann, wo sie es für sinnvoll hält, weil sie sonst diesen konkreten Auftrag mit Bezug auf die Schulwegsicherheit nicht erfüllen könnte.
+Eine spezialgesetzliche Ermächtigung, welche die Beschwerdeführerin zur vorliegenden Beschwerde legitimiert, liegt damit vor. Die Prüfung, ob die Beschwerdeführerin zusätzlich aufgrund eines schutzwürdigen Interesses berechtigt wäre, in vorliegender Sache ein Rechtsmittel zu ergreifen, erübrigt sich somit. Der Präsident der Primarschulgemeinde ist zudem regelmässig vertretungsberechtigt (TVR 2013 Nr. 9, E. 1). Auf die Beschwerde ist somit einzutreten.
+2.
+2.1 Laut Art. 22a SSV kennzeichnet das Signal „Tempo-30-Zone“ (2.59.1) Strassen in Quartieren oder Siedlungsbereichen, auf denen besonders vorsichtig und rücksichtsvoll gefahren werden muss. Die Höchstgeschwindigkeit beträgt 30 km/h. Die Einzelheiten bei der Anordnung von Tempo-30-Zonen (und Begegnungszonen) regelt die VTempo-30 (Art. 1 VTempo-30). Gemäss Art. 4 Abs. 2 VTempo-30 ist die Anordnung von Fussgängerstreifen grundsätzlich unzulässig. In Tempo-30-Zonen dürfen jedoch Fussgängerstreifen angebracht werden, wenn besondere Vortrittsbedürfnisse für Fussgänger dies erfordern, namentlich bei Schulen und Heimen. Die VSS-Norm 640 241 „Fussgängerverkehr; Fussgängerstreifen“ führt in Ziff. 5, „Grundsätze“, aus, dass auf siedlungsorientierten Strassen und namentlich in Tempo-30-Zonen in der Regel auf Fussgängerstreifen zu verzichten sei, da ein Überqueren der Strasse überall zulässig sein sollte. Fussgängerstreifen seien nur dann anzuordnen, wenn besondere Schutzbedürfnisse für Fussgänger bestünden und diese mit Fussgängerstreifen erfüllt werden könnten. Unter dem Titel „Beurteilungskriterien und Bedingungen“ wird in Ziff. 6 lit. b der VSS-Norm 640 241 unter dem Begriff „Benutzergruppe“ ausgeführt, mit der Zusammensetzung der Fussgängergruppe seien Informationen über den Verkehrszweck (Schulweg, Einkauf, Freizeit), das Verhalten und die Erfahrung im Verkehr (unterschiedliche Verhaltensweisen bei Kindern, Betagten, Behinderten) zu erfassen. Von Bedeutung sei deshalb, ob die Querungsstelle auf einer Schulwegverbindung, in der Nähe einer Alterssiedlung, eines Heims oder eines Spitals liege.
+2.2 Der ermittelte DTV von ca. 1000 Fahrzeugen und die Situierung der A-Strasse im öffentlichen Motorverkehrsnetz ergibt eine klare Siedlungsorientierung. Der am frühen Morgen beim nördlicheren der beiden Fussgängerstreifen durchgeführte Augenschein zeigte, dass eine erhebliche Anzahl der total 300 im Schulhaus unterrichteten Kinder die A-Strasse im Bereich des strittigen nördlicheren Fussgängerstreifens überqueren, um in gerader Linie und unmittelbar nachfolgend auf den M-weg zu gelangen und dann auf diesem das Schulhaus zu erreichen. Der Augenschein bestätigte zudem, dass die Kinder zwischen Kindergarten- und Unterstufenalter zumeist in Gruppen praktisch ausschliesslich auf dem nordwestlichen Trottoir der A-Strasse oder auf dem Fussweg entlang des M-Bachs daherkommen und die A-Strasse auf dem zu demarkierenden Fussgängerstreifen überqueren. Ähnliches Verhalten konnte aus der Ferne auch für den südlichen Fussgängerstreifen beobachtet werden.
+Diese Beobachtungen legen es nahe, dass geordnetes, gruppenweises Überqueren der A-Strasse auf den bestehenden Fussgängerstreifen einem überall zulässigen individuellen Überqueren des Strassenraumes vorzuziehen ist. In einer Tempo-30-Zone (und auch in einer Begegnungszone) wird zwar angestrebt, dem Fussgänger die Möglichkeit einer individuellen Strassenquerung zu eröffnen. Dies wertet den Fussgänger gegenüber dem motorisierten A-Strassenverkehr zwar faktisch auf, ohne ihm allerdings ein Vortrittsrecht einzuräumen. Wo Kinder im Kindergarten- bis Unterstufenalter derart gehäuft auf ihrem Schulweg eine A-Strasse zu überqueren haben, ist aber der Ausnahmetatbestand gemäss Satz 2 von Art. 4 Abs. 2 VTempo-30 klarerweise erfüllt. Dies verdeutlicht auch die VSS Norm 640 241, Ziff. 6 lit. b. Trotz niedriger Fahrgeschwindigkeit und bescheidenem Verkehrsaufkommen ist ein kanalisiertes Überqueren der A-Strasse mit Blick auf die Verkehrssicherheit einer individuellen A-Strassenquerung klar vorzuziehen.
+Der Vorschlag des Tiefbauamtes, die Kinder mittels aufgemalten Füssen zu führen und trotz demarkiertem Fussgängerstreifen zu einem konzentrierten Überqueren der A-Strasse anzuhalten, erscheint widersprüchlich. Damit wird die zur verlangten Demarkierung führende Annahme in Frage gestellt, dass ein individuelles Überqueren der A-Strasse an jedem Ort, auch für Kinder, keine Gefahr darstelle. Wenn die Kinder zu einem kanalisierten Queren der A-Strasse angehalten werden sollen, was ja gerade auch ein pädagogisches Anliegen der Schule ist, ist kein Grund ersichtlich, die Fussgängerstreifen zu demarkieren, zumal diese vor nicht allzu langer Zeit auf Wunsch der Anwohner angebracht wurden. Die rechtlichen Grundlagen sehen eine Ausnahmebestimmung insbesondere in der Nähe von Schulen explizit vor, weshalb ein Weiterbestand der Fussgängerstreifen nicht rechtswidrig ist. Zu berücksichtigen ist zudem, dass nicht ohne Not von den besonderen Kenntnissen der örtlichen Behörden abgewichen werden sollte. Dazu kommt, dass die Primarschulgemeinde durch das VSG explizit zur grösstmöglichen Wahrung der Schulwegsicherheit verpflichtet ist. Nachdem auch der südlichere der beiden Fussgängerstreifen an einem von drei Zugängen zum Schulhaus liegt, sind analoge Überlegungen auch für die Situation dort anzustellen. Die Beschwerde wird daher gutgeheissen und die vom DBU angeordnete Demarkierung der beiden Fussgängerstreifen auf der A-Strasse aufgehoben.
+Entscheid des Verwaltungsgerichts VG.2014.220/E vom 17. Juni 2015
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
