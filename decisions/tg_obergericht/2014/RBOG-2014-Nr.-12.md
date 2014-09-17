@@ -1,0 +1,93 @@
+---
+decision_id: "tg_obergericht_RBOG_2014_Nr._12"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2014 Nr. 12"
+docket_2: "ZR.2014.42"
+decided: "2014-09-17"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/1E1F8813-EBA2-497D-798C3B98F23B4A89.html"
+cites_law: ["switzerland/bund/acts/210/art-164.md", "switzerland/bund/acts/272/art-160.md", "switzerland/bund/acts/272/art-163.md", "switzerland/bund/acts/272/art-164.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-254.md", "switzerland/bund/acts/272/art-296.md", "switzerland/bund/acts/272/art-303.md"]
+---
+
+# TG Obergericht RBOG 2014 Nr. 12
+
+## Regeste
+
+Vor diesem Hintergrund könne in der Hauptsache keine positive Prognose gestellt werden, da den Söhnen keine Unterhaltsbeiträge zugesprochen werden könnten und X auch nicht verpflichtet werden könne, Unterhaltsbeiträge zu hinterlegen. 1 ZPO verpflichtet[6]. Parteien und Dritte haben insbesondere als Partei oder Zeuge wahrheitsgemäss auszusagen, Urkunden herauszugeben und einen Augenschein durch Sachverständige zu dulden[7]. Eine Mitwirkung am Beweisverfahren kann nur ablehnen, wer über ein ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 17.09.2014 RBOG 2014 Nr. 12 (ZR.2014.42)
+Thurgovie Obergericht Rechenschaftsbericht 17.09.2014 RBOG 2014 Nr. 12 (ZR.2014.42)
+Turgovia Obergericht Rechenschaftsbericht 17.09.2014 RBOG 2014 Nr. 12 (ZR.2014.42)
+
+Vor diesem Hintergrund könne in der Hauptsache keine positive Prognose gestellt werden, da den Söhnen keine Unterhaltsbeiträge zugesprochen werden könnten und X auch nicht verpflichtet werden könne, Unterhaltsbeiträge zu hinterlegen. 1 ZPO verpflichtet[6]. Parteien und Dritte haben insbesondere als Partei oder Zeuge wahrheitsgemäss auszusagen, Urkunden herauszugeben und einen Augenschein durch Sachverständige zu dulden[7]. Eine Mitwirkung am Beweisverfahren kann nur ablehnen, wer über ein ...
+
+RBOG 2014 Nr. 12
+RBOG 2014 Nr. 12
+Pflicht des Massnahmenrichters zur Erforschung der finanziellen Verhältnisse des Schuldners von Kinderunterhaltsbeiträgen mit unbekanntem Wohnsitz im Ausland
+(Art. 296 Abs. 1, 303 Abs. 1 ZPO)
+1.     a)    X, wohnhaft in Deutschland, ist der Vater von zwei unmündigen Söhnen mit Wohnsitz in der Schweiz. Die Söhne reichten Klage gegen ihren Vater ein und beantragten, dieser sei zu verpflichten, Unterhaltsbeiträge zu bezahlen. Weiter sei X im Rahmen vorsorglicher Massnahmen zu verpflichten, Unterhaltsbeiträge zu hinterlegen.
+b)    Die Einzelrichterin des Bezirksgerichts lud die Parteien zur Hauptverhandlung vor. Das zuständige Amtsgericht in Deutschland teilte dem Bezirksgericht mit, die Vorladung habe X nicht zugestellt werden können, weil er unter der bisherigen Anschrift nicht mehr angetroffen werden könne. Die Vorladung zur Hauptverhandlung wurde im Amtsblatt des Kantons Thurgau publiziert; X erschien an der Hauptverhandlung nicht.
+c)     Die Einzelrichterin wies das Gesuch um vorsorgliche Massnahmen ab. Die persönlichen und finanziellen Verhältnisse von X seien unbekannt. Er habe nach der ersten Zustellung der Akten nicht mehr ausfindig gemacht und die Vorladung habe ihm nicht zugestellt werden können. Es hätten somit weder eine aktuelle Adresse noch die aktuellen finanziellen und persönlichen Verhältnisse in Erfahrung gebracht werden können. Es bestünden weder zu seinem Gesundheitszustand noch zu seiner Ausbildung noch zu seinen Erwerbsmöglichkeiten irgendwelche bestätigten oder gesicherten Angaben. Die Behauptungen der Söhne zu den finanziellen Verhältnissen von X überzeugten bei objektiver Betrachtung nicht beziehungsweise liessen doch erhebliche Zweifel an deren Richtigkeit aufkommen, zumal es sich dabei um reine Vermutungen der Söhne handle. Insbesondere stehe die Leistungsfähigkeit von X keineswegs fest. Vor diesem Hintergrund könne in der Hauptsache keine positive Prognose gestellt werden, da den Söhnen keine Unterhaltsbeiträge zugesprochen werden könnten und X auch nicht verpflichtet werden könne, Unterhaltsbeiträge zu hinterlegen.
+d)    Die Söhne führten Beschwerde gegen den Massnahmenentscheid.
+2.     a)    Die Beschwerdeführer verlangen, es seien gestützt auf Art. 303 Abs. 1 ZPO angemessene Beiträge an den Unterhalt zu hinterlegen oder vorläufig zu bezahlen. Da es sich um vorsorgliche Massnahmen handelt, gelangt grundsätzlich das summarische Verfahren
+[1]
+zur Anwendung. Es gilt aber in Anwendung von Art. 296 ZPO der Untersuchungs- und Offizialgrundsatz
+[2]
+.
+b)    Gemäss Art. 296 Abs. 1 ZPO hat das Gericht den Sachverhalt von Amtes wegen zu erforschen. Dies gilt bei Kinderbelangen in allen familienrechtlichen Verfahren und in allen Verfahrensstadien
+[3]
+. Die Untersuchungsmaxime verpflichtet das Gericht, von sich aus alle Elemente in Betracht zu ziehen, die für den Entscheid wesentlich sind, und unabhängig von den Anträgen der Parteien Beweise zu erheben
+[4]
+. Die Untersuchungspflicht reicht so weit und dauert so lange, bis über die Tatsachen, deren Kenntnis für eine Entscheidung zum Wohl des Kindes von Bedeutung ist, hinreichende Klarheit besteht. Art. 296 Abs. 1 ZPO schreibt dem Sachrichter jedoch nicht vor, mit welchen Mitteln er den Sachverhalt abklären muss. Ebenso wenig erfasst diese Vorschrift die Art der Erhebung von Beweismitteln. Wie das Beweisführungsrecht schliesst auch die Untersuchungsmaxime eine vorweggenommene Würdigung von Beweisanerbieten nicht aus. Verfügt das Gericht über genügende Grundlagen für eine sachgerechte Entscheidung, kann es auf weitere Beweiserhebungen verzichten
+[5]
+.
+c)     Auch im Rahmen der uneingeschränkten Untersuchungsmaxime sind die Parteien zur Mitwirkung bei der Beweiserhebung im Sinn von Art. 160 Abs. 1 ZPO verpflichtet
+[6]
+. Parteien und Dritte haben insbesondere als Partei oder Zeuge wahrheitsgemäss auszusagen, Urkunden herauszugeben und einen Augenschein durch Sachverständige zu dulden
+[7]
+. Eine Mitwirkung am Beweisverfahren kann nur ablehnen, wer über ein Verweigerungsrecht verfügt
+[8]
+. Dabei sind die Mitwirkungspflichten die Regel und die Verweigerungsrechte
+[9]
+die Ausnahme. Aus diesem Grundsatz ergibt sich namentlich, dass die gesetzliche Aufzählung der Verweigerungsgründe als abschliessend zu betrachten ist
+[10]
+. Die verschuldete Versäumnis einer zur Mitwirkung verpflichteten Partei ist als unberechtigte Verweigerung der Mitwirkung und damit als Verletzung der Mitwirkungspflicht zu betrachten, die nach Art. 164 ZGB vom Gericht bei der Beweiswürdigung zu berücksichtigen ist
+[11]
+.
+d)    Gemäss Art. 254 Abs. 1 ZPO ist der Beweis in Summarverfahren grundsätzlich durch Urkunden zu erbringen. Gilt aber wie hier der Untersuchungsgrundsatz, so sind nach Art. 254 Abs. 2 lit. c ZPO alle Beweismittel zugelassen, denn eine Beweismittelbeschränkung lässt sich mit dem Untersuchungsgrundsatz nicht vereinbaren
+[12]
+.
+3.     a)    Wie die Vorinstanz zu Recht ausführte, sind die finanziellen Verhältnisse von X bisher ungeklärt. Dies kann aber in einem Verfahren, in welchem der Untersuchungsgrundsatz gilt, nicht einfach dazu führen, dass ein Massnahmebegehren abzuweisen ist, zumal die Beschaffung von Beweismitteln zur Klärung der bisher unbekannten Tatsachen durchaus möglich scheint.
+b)    So ist offensichtlich, dass X selber Auskünfte über sein Einkommen und seine Ausgaben geben könnte. Nun trifft zwar zu, dass er unter der bisherigen Adresse nicht mehr erreicht werden kann. Dies bedeutet aber nicht, dass nicht doch noch die Möglichkeit besteht, X zu befragen. Bisher ist durch das Schreiben des Amtsgerichts lediglich bekannt, dass X zu diesem Zeitpunkt an der alten Adresse nicht mehr angetroffen werden konnte und der Einwohnermeldebehörde damals auch keine aktuelle Anschrift bekannt war. Es wäre jedoch für die Vorinstanz zumutbar, noch einmal direkt an die zuständige Einwohnermeldebehörde in Deutschland zu gelangen, um den aktuellen Stand abzufragen. Das gilt insbesondere, weil X offenbar weiterhin in der Dartliga aktiv ist, so dass es den deutschen Behörden ein Leichtes sein müsste, seine Adresse in Erfahrung zu bringen, namentlich weil seine (Mobil-)Telefonnummer bekannt ist.
+c)     Hingegen kann nicht von der Vorinstanz verlangt werden, dass sie selber auf sozialen Netzwerken (wie Facebook oder Twitter) nach X sucht, zumal der Zugang zu diesen Netzwerken im Rahmen des Internetzugangs des Kantons Thurgau gesperrt ist. Im Rahmen eines Massnahmenverfahrens scheint es ferner ebenfalls nicht zumutbar, Drittpersonen, wie den Stiefvater von X oder Verantwortliche der Dartliga oder des Dartclubs oder die aktuelle Freundin von X, rechtshilfeweise befragen zu lassen, um die Anschrift von X herauszufinden. Ob dies im Hauptverfahren unter Umständen anders zu beurteilen wäre, ist nicht hier zu prüfen.
+4.     a)    Selbst wenn es der Vorinstanz nicht gelingen sollte, X zu seinen finanziellen Verhältnissen zu befragen, ist das Gesuch nicht ohne weiteres abzuweisen.
+b)    Aus den Akten geht hervor, dass X knapp 30 Jahre alt ist. In der Urkunde vom Mai 2006 über die Anerkennung und Zustimmung der Vaterschaft erklärte X, er sei Metallbauer. Gegenüber der Mutter der Beschwerdeführer gab er im November 2013 an, er werde ab März 2014 arbeiten. Zudem ist bekannt, dass er in einer Dartliga aktiv ist. Es ist daher grundsätzlich davon auszugehen, dass er ein regelmässiges Einkommen erzielen kann. Wenn er sich mit 22 Jahren als Metallbauer bezeichnete, kann weiter angenommen werden, dass er acht Jahre später immer noch in diesem Beruf tätig sein kann. Über berufliche Tätigkeiten von X seit dem Jahr 2006 könnte eventuell die Befragung der Mutter der Beschwerdeführer zielführend sein, welche zu diesem Thema bisher noch nicht befragt wurde.
+5.     Zusammenfassend ist festzustellen, dass die Vorinstanz ihrer Pflicht, den Sachverhalt zu erforschen, nicht vollumfänglich nachkam. Die Beschwerde ist daher insofern zu schützen, als die Streitsache zu neuem Entscheid an die Vorinstanz zurückgewiesen wird. Dabei wird die Vorinstanz angewiesen, sich direkt beim Einwohnermeldeamt über den Bestand einer aktuellen Anschrift von X zu erkundigen. Falls die Vorinstanz seine Adresse in Erfahrung bringen kann, hat sie ihn rechtshilfeweise zu seinen aktuellen finanziellen Verhältnissen befragen und entsprechende Unterlagen edieren zu lassen. Sollte die Adresse durch die Anfrage an das Einwohnermeldeamt nicht zu ermitteln sein, so hat die Vorinstanz ein hypothetisches Einkommen von X zu berechnen, dieses seinem mutmasslichen Bedarf entgegenzustellen und zu prüfen, ob ein Überschuss resultiert, welchen X für die Bezahlung von Kinderunterhaltsbeiträgen verwenden kann.
+Obergericht, 1. Abteilung, 17. September 2014, ZR.2014.42
+[1]
+Art. 248 ff. ZPO
+[2]
+Steck, Basler Kommentar, Art. 303 ZPO N 15; Spycher, Berner Kommentar, Art. 303 ZPO N 4; Schweighauser, in: Kommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Hasenböhler/Leuenberger), 2.A., Art. 303 N 11
+[3]
+Schweighauser, Art. 296 ZPO N 3
+[4]
+BGE vom 4. März 2014, 5A_720/2013, Erw. 4.1; BGE vom 14. Februar 2013, 5A_911/2012, Erw. 6.3.1
+[5]
+BGE vom 26. Februar 2013, 5A_834/2012, Erw. 3.1; BGE vom 17. Dezember 2012, 5A_574/2012, Erw. 2.2.1 und BGE 130 III 735
+[6]
+Steck, Art. 296 ZPO N 36; Spycher, Art. 296 ZPO N 7; Rüetschi, Berner Kommentar, Vorbemerkungen zu Art. 160-167 ZPO N 8
+[7]
+Art. 160 Abs. 1 ZPO
+[8]
+Steck, Art. 296 ZPO N 36
+[9]
+Verweigerungsrechte der Parteien: Art. 163 ZPO; Verweigerungsrechte von Dritten: Art. 165 f. ZPO
+[10]
+Rüetschi, Vorbemerkungen zu Art. 160-167 ZPO N 23; vgl. Rüetschi, Art. 164 ZPO N 3
+[11]
+Steck, Art. 296 ZPO N 36
+[12]
+Chevalier, in: Kommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Hasen­böh­ler/Leu­enberger), 2.A., Art. 254 N 13; Mazan, Basler Kommentar, Art. 254 ZPO N 8
