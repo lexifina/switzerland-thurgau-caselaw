@@ -1,0 +1,41 @@
+---
+decision_id: "tg_obergericht_RBOG_2015_Nr._26"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2015 Nr. 26"
+decided: "2015-04-22"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2015-nr-26"
+cites_law: ["switzerland/bund/acts/312.0/art-399.md", "switzerland/bund/acts/312.0/art-406.md", "switzerland/bund/acts/312.0/art-407.md"]
+---
+
+# TG Obergericht RBOG 2015 Nr. 26
+
+## Regeste
+
+Eintreten auf die Berufung, obwohl eine schriftliche Berufungsbegründung fehlt
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2005 RBOG 2015 Nr. 26
+Thurgovie Obergericht Rechenschaftsbericht 2005 RBOG 2015 Nr. 26
+Turgovia Obergericht Rechenschaftsbericht 2005 RBOG 2015 Nr. 26
+
+RBOG 2015 Nr. 26
+Skip to main content
+Show navigation
+Eintreten auf die Berufung, obwohl eine schriftliche Berufungsbegründung fehlt
+Art. 407 Abs. 1 lit. b StPO
+1. Nach Art. 399 Abs. 3 StPO hat die Partei, welche die Berufung angemeldet hat, dem Berufungsgericht innert 20 Tagen seit der Zustellung des begründeten Urteils eine schriftliche Berufungserklärung einzureichen, in welcher sie anzugeben hat, ob sie das Urteil vollumfänglich oder nur in Teilen anficht, welche Abänderungen des erstinstanzlichen Urteils sie verlangt und welche Beweisanträge sie stellt. Das Berufungsgericht kann die Berufung entsprechend Art. 406 Abs. 1 lit. a StPO in einem schriftlichen Verfahren behandeln, wenn ausschliesslich Rechtsfragen zu entscheiden sind. Alsdann setzt die Verfahrensleitung der Partei, welche die Berufung erklärt hat, Frist zur schriftlichen Begründung der Berufung. Gemäss Art. 407 Abs. 1 lit. b StPO gilt die Berufung als zurückgezogen, wenn die Partei, die sie erklärt hat, keine schriftliche Eingabe einreicht.
+2. Wird trotz entsprechender Fristansetzung keine schriftliche Berufungsbegründung eingereicht, gilt die Berufung entsprechend Art. 407 Abs. 1 lit. b StPO mithin grundsätzlich als zurückgezogen. Allerdings ist nicht zu verkennen, dass ein solcher Rechtsverlust nur bei einer "Totalversäumnis" eintreten sollte[1]. Von einem Totalversäumnis kann gesprochen werden, wenn die Berufung ohne weitere Hinweise angemeldet wird und in der Berufungserklärung lediglich Anträge gestellt werden; alsdann fehlt es an einer Begründung der Berufung. Enthalten indessen die Berufungsanmeldung und/oder die Berufungserklärung – insbesondere bei Eingaben von nicht anwaltlich vertretenen Personen – bereits genügende Ansätze für eine Begründung der Berufung, kann von Totalversäumnis oder auch nur von Säumnis nicht gesprochen werden: Wie der frühere § 207 StPO TG hat auch Art. 407 StPO vorab den Fall vor Augen, dass die Berufungspartei die rechtzeitige Begründung ihrer Berufung versäumt[2]. Nach dem früheren thurgauischen Strafprozessrecht war eine Berufung zu behandeln, auch wenn keine schriftliche Berufungsbegründung eingereicht wurde, sofern sich die Begründung der Berufung in genügendem Mass aus der Berufungserklärung ergab; dabei wurde davon ausgegangen, es wäre überspitzt formalistisch, sich auf die verpasste Frist zu berufen, wenn das Gericht aus der früheren Erklärung ohne weiteres ersehen konnte, was der Berufungskläger mit dem Rechtsmittel bezweckte. Dabei genügte es aber nicht, wenn aus der Berufungserklärung ausdrücklich oder sinngemäss bloss der Antrag hervorging, den die Berufungspartei im zweitinstanzlichen Verfahren stellen wollte, denn alsdann ging die Berufungserklärung nicht über das hinaus, was das Gesetz ohnehin als Inhalt der Berufungserklärung erwartete; nötig war nach dem früheren Recht vielmehr, dass die Berufungserklärung eine mindestens rudimentäre Begründung dieser Anträge enthielt[3]. Es rechtfertigt sich, diese Rechtsprechung auch unter dem Regime der eidgenössischen Strafprozessordnung fortzuführen.
+Obergericht, 1. Abteilung, 22. April 2015, SBR.2014.31
+Auf eine dagegen erhobene Beschwerde trat das Bundesgericht am 17. Juni 2015 nicht ein (6B_562/2015).
+[1] BGE 133 I 15
+[2] Vgl. für das neue Recht: Schmid, Schweizerische Strafprozessordnung, Praxiskommentar, Zürich/St. Gallen 2009, Art. 407 N 4 und Art. 405 N 7; vgl. für das frühere Recht: RBOG 1998 Nr. 37, 1914 Nr. 27
+[3] Zweidler, Die Praxis zur thurgauischen Strafprozessordnung, Bern 2005, § 207 N 22
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
