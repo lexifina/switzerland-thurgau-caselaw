@@ -1,0 +1,81 @@
+---
+decision_id: "tg_obergericht_RBOG_2015_Nr._24"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2015 Nr. 24"
+docket_2: "SBR.2015.1"
+decided: "2015-05-04"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/BEDB44D3-F1C0-A4D0-1A66B0AD2B70365B.html"
+cites_law: ["switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-326.md", "switzerland/bund/acts/312.0/art-337.md", "switzerland/bund/acts/312.0/art-352.md"]
+---
+
+# TG Obergericht RBOG 2015 Nr. 24
+
+## Regeste
+
+1. a) Die Staatsanwaltschaft erhob gegen den Berufungskläger Anklage und beantragte eine zu vollziehende Freiheitsstrafe von 12 Monaten sowie eine Busse von Fr. Hinter der Verpflichtung zur persönlichen Teilnahme der Staatsanwaltschaft steht die Überlegung, dass der Staatsanwaltschaft im Vorverfahren eine relativ starke Stellung eingeräumt wird, welche mit grosser Verantwortung verbunden ist. Das gilt insbesondere, weil die Voraussetzungen, unter denen die Staatsanwaltschaft im Sinn von Art.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 04.05.2015 RBOG 2015 Nr. 24 (SBR.2015.1)
+Thurgovie Obergericht Rechenschaftsbericht 04.05.2015 RBOG 2015 Nr. 24 (SBR.2015.1)
+Turgovia Obergericht Rechenschaftsbericht 04.05.2015 RBOG 2015 Nr. 24 (SBR.2015.1)
+
+1. a) Die Staatsanwaltschaft erhob gegen den Berufungskläger Anklage und beantragte eine zu vollziehende Freiheitsstrafe von 12 Monaten sowie eine Busse von Fr. Hinter der Verpflichtung zur persönlichen Teilnahme der Staatsanwaltschaft steht die Überlegung, dass der Staatsanwaltschaft im Vorverfahren eine relativ starke Stellung eingeräumt wird, welche mit grosser Verantwortung verbunden ist. Das gilt insbesondere, weil die Voraussetzungen, unter denen die Staatsanwaltschaft im Sinn von Art.
+
+RBOG 2015 Nr. 24
+RBOG 2015 Nr. 24
+Pflicht der Staatsanwaltschaft zum persönlichen Erscheinen an der Hauptverhandlung; Berücksichtigung eines drohenden Widerrufs
+(Art. 337 Abs. 3 StPO)
+1.     a)    Die Staatsanwaltschaft erhob gegen den Berufungskläger Anklage und beantragte eine zu vollziehende Freiheitsstrafe von 12 Monaten sowie eine Busse von Fr. 1'300.00 bei einer Ersatzfreiheitsstrafe von 13 Tagen.
+b)    Das Bezirksgericht sprach den Berufungskläger schuldig und verurteilte ihn zu einer vollziehbaren Freiheitsstrafe von 12 Monaten; gleichzeitig wurde der bedingte Strafvollzug für eine mit früherem Urteil ausgesprochene Freiheitsstrafe von acht Monaten widerrufen und die Freiheitsstrafe für vollziehbar erklärt.
+c)     Der Berufungskläger rügte im Berufungsverfahren unter anderem, die Staatsanwaltschaft habe zu Unrecht an der Hauptverhandlung vor Vorinstanz nicht teilgenommen.
+2.     a)    Gemäss Art. 337 Abs. 3 StPO hat die Staatsanwaltschaft, wenn sie eine Freiheitsstrafe von mehr als einem Jahr oder eine freiheitsentziehende Massnahme beantragt, die Anklage vor Gericht persönlich zu vertreten. Laut Art. 337 Abs. 5 StPO wird die Verhandlung verschoben, wenn die Staatsanwaltschaft nicht an der Hauptverhandlung erscheint, obwohl sie dazu verpflichtet wäre. Hinter der Verpflichtung zur persönlichen Teilnahme der Staatsanwaltschaft steht die Überlegung, dass der Staatsanwaltschaft im Vorverfahren eine relativ starke Stellung eingeräumt wird, welche mit grosser Verantwortung verbunden ist. Diese Verantwortung soll sie auch durch persönliche Teilnahme an der Hauptverhandlung wahrnehmen. Ist der Ankläger anwesend, ist überdies die Waffengleichheit gewährleistet, und die Verfahrensleitung läuft nicht Gefahr, die Funktion des Anklägers zu übernehmen
+[1]
+.
+b)    Wird eine Verhandlung in Verletzung von Art. 337 Abs. 5 StPO trotz Fehlens der Staatsanwaltschaft durchgeführt, stellt dies eine klare Verletzung dieser Verfahrensregel dar; wird gegen ein solches Urteil als Ganzes oder in Teilen ein Rechtsmittel erhoben, ist es vor oberer Instanz zu kassieren und zur Neubeurteilung an die Vorin­stanz zurückzuweisen
+[2]
+.
+3.     a)    Nach der Lehre wird bei der Frage, ob eine Freiheitsstrafe von mehr als einem Jahr oder eine freiheitsentziehende Massnahme beantragt wird, nur auf die neu beantragte Freiheitsstrafe abgestellt; steht auch noch der Widerruf einer bedingten Freiheitsstrafe im Raum, werden die Strafen nicht zusammengerechnet
+[3]
+.
+b)    Diese Auffassung überzeugt indessen nicht und macht letztlich auch keinen Sinn. Das gilt insbesondere, weil die Voraussetzungen, unter denen die Staatsanwaltschaft im Sinn von Art. 337 Abs. 3 StPO die Anklage persönlich zu vertreten hat, identisch sind mit den Voraussetzungen für die notwendige Verteidigung gemäss Art. 130 lit. b StPO
+[4]
+, was auch logisch ist. Bei Art. 130 lit. b StPO ist aber unbestritten, dass der Widerruf des bedingten Vollzugs von Freiheitsstrafen mit der Verhängung einer neuen Strafe gleichzusetzen ist und die drohenden Strafen dementsprechend für die Beurteilung der Notwendigkeit der Verteidigung zusammenzuzählen sind
+[5]
+. Die Gewährung der notwendigen Verteidigung rechtfertigt sich durch die schwerwiegenden Konsequenzen, die der Ausgang des Verfahrens für den Betroffenen haben kann; für ihn ist im Ergebnis die gesamte Dauer der vollziehbaren Strafe entscheidend, und ob und wie sie sich zusammensetzt, ist von untergeordneter Bedeutung
+[6]
+.
+c)     Wenn aber die Voraussetzungen der Pflicht der Staatsanwaltschaft zum persönlichen Erscheinen gemäss Art. 337 Abs. 3 StPO identisch sind mit den Voraussetzungen für die notwendige Verteidigung gemäss Art. 130 lit. b StPO, ist nicht zu erkennen, weshalb bezüglich der Frage, ob ein allfälliger Widerruf bei der drohenden Strafsanktion einzurechnen ist, anders entschieden werden sollte. Fingerhuth
+[7]
+gibt denn auch keine Begründung, sondern verweist auf den Praxiskommentar von Schmid. Schmid
+[8]
+seinerseits begründet seine Auffassung auch nicht, sondern verweist ohne weitere Erklärung auf Art. 326 StPO. Wildi
+[9]
+geht davon aus, Widerrufsverfahren und neues Strafverfahren stellten eben zwei eigenständige Verfahren dar, auch wenn das Widerrufsverfahren am gleichen Termin wie die Hauptverhandlung im Strafverfahren durchgeführt werde, und ausserdem beruft sie sich auf die Regelung beziehungsweise die Abgrenzung in Art. 326 Abs. 1 lit. f und g StPO. Diese Argumentation könnte aber genauso auch bei der notwendigen Verteidigung angeführt werden, wo sie indessen gerade keine Anwendung findet. Soweit Wildi weiter darauf hinweist, wo der Gesetzgeber eine Zusammenrechnung wolle, habe er dies im Gesetz ausdrücklich angeordnet
+[10]
+, trifft dies bei den Voraussetzungen der notwendigen Verteidigung gemäss Art. 130 lit. b StPO gerade nicht zu. Es ist denn auch nicht zu erkennen, warum eine Erscheinungspflicht der Staatsanwaltschaft bei einer neu beantragten Strafe von 13 Monaten bestehen sollte, bei einer drohenden Freiheitsstrafe von gegen drei Jahren (neue Strafe von 11 Monaten verbunden mit einem Widerrufsantrag bezüglich einer Strafe von gegen 24 Monaten) hingegen nicht.
+d)    Mithin ist bei Art. 130 lit. b StPO ebenso wie bei Art. 337 Abs. 3 StPO nicht nur auf die neu beantragte Freiheitsstrafe, sondern auch auf die Freiheitsstrafe abzustellen, für welche der bedingte Strafvollzug widerrufen werden soll; die Strafen sind damit zusammenzurechnen. Das gilt schon mit Rücksicht auf die schwerwiegenden Konsequenzen, die der Ausgang des Verfahrens für den Betroffenen haben kann. Für den Betroffenen ist auch in dieser Hinsicht einzig die Dauer der gesamten zu vollziehenden Strafe massgebend, und nicht die Frage, wie sich diese zusammensetzt.
+Obergericht, 1. Abteilung, 4. Mai 2015, SBR.2015.1
+Auf eine dagegen erhobene Beschwerde trat das Bundesgericht am 29. September 2015 nicht ein (6B_605/2015).
+[1]
+Fingerhuth, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Hans­ja­kob/Lie­ber), 2.A., Art. 337 N 9; Riklin, StPO Kommentar, Zürich 2010, Art. 337 N 2; Reusser, in: Kommentierte Textausgabe zur Schweizerischen Strafprozessordnung (Hrsg.: Goldschmid/Maurer/Sollberger), Bern 2008, S. 330; Ackermann/Vetterli, Brisante Aspekte der neuen Anklageschrift, in: ZStrR 126, 2008, S. 199
+[2]
+Wildi, Basler Kommentar, Art. 337 StPO N 26; Hug/Scheidegger, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Hansjakob/Lieber), 2.A., Art. 409 N 6; vgl. Schmid, Schweizerische Strafprozessordnung, Praxiskommentar, 2.A., Art. 409 N 2; Entscheid des Obergerichts des Kantons Zürich vom 5. November 2014, SB140146; Urteil des Obergerichts des Kantons Bern vom 25. Juni 2014, SK 2013 106
+[3]
+Fingerhuth, Art. 337 StPO N 8; Schmid, Art. 337 StPO N 6; Wildi, Art. 337 StPO N 16
+[4]
+Stucki, in: Kommentierte Textausgabe zur Schweizerischen Strafprozessordnung (Hrsg.: Goldschmid/Mau­rer/Sollberger), Bern 2008, S. 112
+[5]
+Ruckstuhl, Basler Kommentar, Art. 130 StPO N 18; BGE 129 I 285 f.
+[6]
+BGE 129 I 286
+[7]
+Art. 337 StPO N 8
+[8]
+Art. 337 StPO N 6
+[9]
+Art. 337 StPO N 16
+[10]
+Wildi, Art. 337 StPO N 16 Fn. 33, mit Hinweis auf Art. 19 Abs. 1 lit. b und Art. 352 Abs. 1 StPO
