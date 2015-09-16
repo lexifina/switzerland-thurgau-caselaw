@@ -1,0 +1,57 @@
+---
+decision_id: "tg_obergericht_RBOG_2015_Nr._16"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2015 Nr. 16"
+docket_2: "ZR.2015.39"
+decided: "2015-09-16"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/BEDB445C-A09C-72D4-54AB3C6C585AB506.html"
+cites_law: ["switzerland/bund/acts/210/art-729.md", "switzerland/bund/acts/220/art-419.md", "switzerland/bund/acts/272/art-343.md"]
+---
+
+# TG Obergericht RBOG 2015 Nr. 16
+
+## Regeste
+
+3. a) Der Entscheid der Einzelrichterin berechtigte den Beschwerdeführer, zum Vollzug der Ausweisung beziehungsweise zur Räumung der Wohnung die gestützt auf § 37 ZSRG hiefür zuständige Staatsanwaltschaft beizuziehen. Hätte die Staatsanwaltschaft die Hinterlegung der Einrichtungsgegenstände organisieren müssen, weil der Beschwerdeführer beispielsweise keinen entsprechenden Raum zur Verfügung hätte stellen können, hätte dieser einen Kostenvorschuss für die Hinterlegung leisten müssen.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 16.09.2015 RBOG 2015 Nr. 16 (ZR.2015.39)
+Thurgovie Obergericht Rechenschaftsbericht 16.09.2015 RBOG 2015 Nr. 16 (ZR.2015.39)
+Turgovia Obergericht Rechenschaftsbericht 16.09.2015 RBOG 2015 Nr. 16 (ZR.2015.39)
+
+3. a) Der Entscheid der Einzelrichterin berechtigte den Beschwerdeführer, zum Vollzug der Ausweisung beziehungsweise zur Räumung der Wohnung die gestützt auf § 37 ZSRG hiefür zuständige Staatsanwaltschaft beizuziehen. Hätte die Staatsanwaltschaft die Hinterlegung der Einrichtungsgegenstände organisieren müssen, weil der Beschwerdeführer beispielsweise keinen entsprechenden Raum zur Verfügung hätte stellen können, hätte dieser einen Kostenvorschuss für die Hinterlegung leisten müssen.
+
+RBOG 2015 Nr. 16
+RBOG 2015 Nr. 16
+Vollstreckung einer Mieterausweisung
+(Art. 343 Abs. 1 lit. d und Abs. 3 ZPO; § 37 ZSRG)
+1.     a)    Die Einzelrichterin des Bezirksgerichts verpflichtete die Mieterin, die Wohnung des Vermieters zu räumen und ordnungsgemäss zu verlassen. Nachdem die Mieterin die Wohnung bis zum im Entscheid festgesetzten Zeitpunkt nicht geräumt hatte, wandte sich der Vermieter an die Staatsanwaltschaft, welche die Vollstreckung der Mieterausweisung durch die Kantonspolizei verfügte. Die Kantonspolizei räumte in der Folge die Wohnung. Das gesamte Inventar der Mieterin wurde in einem Kellerabteil der Liegenschaft eingelagert.
+b)    Darauf ersuchte der Vermieter die Staatsanwaltschaft, die Mieterin anzuweisen, ihre Einrichtungsgegenstände abzuholen. Die Staatsanwaltschaft stellte sich auf den Standpunkt, der Entscheid der Einzelrichterin sei bereits vollständig umgesetzt worden.
+c)     Dagegen erhob der Vermieter Beschwerde und beantragte, die Staatsanwaltschaft sei anzuweisen, die Mieterin zur Abholung ihrer Einrichtungsgegenstände anzuhalten.
+2.     Lautet der Entscheid auf eine Verpflichtung zu einem Tun, Unterlassen oder Dulden, so kann das Vollstreckungsgericht gemäss Art. 343 Abs. 1 lit. d ZPO eine Zwangsmassnahme, wie Wegnahme einer beweglichen Sache oder Räumung eines Grundstücks, anordnen. Die effektive Vollstreckung der Zwangsmassnahme wird in der Regel nicht vom Vollstreckungsgericht selber, sondern von der mit der Vollstreckung betrauten Person durchgeführt, welche dabei auf Anweisung des Gerichts handelt
+[1]
+. Gestützt auf Art. 343 Abs. 3 ZPO kann die mit der Vollstreckung betraute Person die Hilfe der zuständigen Behörde in Anspruch nehmen. Laut § 37 ZSRG können die Zivilgerichte oder die Berechtigten für Zwangsmassnahmen und Ersatzvornahmen zur Urteilsvollstreckung die Hilfe der zuständigen Staatsanwaltschaft beanspruchen. Bei der Räumung eines Grundstücks werden der unterlegenen Partei die ihr gehörenden Gegenstände übergeben. Ist niemand anwesend, werden sie für eine gewisse Zeit hinterlegt und anschliessend verwertet oder entsorgt. Die Hinterlegungskosten sind als Vollstreckungskosten von der obsiegenden Partei vorzuschiessen
+[2]
+. Die Räumung ist erst dann beendet, wenn der Vollstreckungshelfer den Schuldner aus dem Besitz seiner Wohnung setzte und den Gläubiger einwies, womit der Gewahrsam auf den Gläubiger überging
+[3]
+.
+3.     a)    Der Entscheid der Einzelrichterin berechtigte den Beschwerdeführer, zum Vollzug der Ausweisung beziehungsweise zur Räumung der Wohnung die gestützt auf § 37 ZSRG hiefür zuständige Staatsanwaltschaft beizuziehen. Die Wohnung wurde alsdann im Auftrag der Staatsanwaltschaft im Beisein der Kantonspolizei geräumt. Die Mieterin händigte dem Polizeiprotokoll folgend der Kantonspolizei die Schlüssel zum Mietobjekt aus, und diese übergab dem Beschwerdeführer die Schlüssel. Ab diesem Zeitpunkt konnte der Beschwerdeführer folglich wieder über seine Räumlichkeiten verfügen, womit der Gewahrsam der Wohnung auf ihn überging. Die Räumung der Wohnung war damit beendet. Der Umstand, dass die Einrichtungsgegenstände der Mieterin zwar aus der Wohnung des Beschwerdeführers geräumt, aber in dessen Keller eingelagert wurden, ändert an der Beendigung der Räumung nichts. Es ist nicht entscheidend, wer die Hinterlegung der Möbel organisiert, und wo die Möbel eingelagert werden. Die Hinterlegungskosten hat in jedem Fall die Mieterin zu bezahlen, da sie diese verursachte. Der Beschwerdeführer hat die Hinterlegungskosten als Vollstreckungskosten aber vorzuschiessen. Solange die Gegenstände in seinen eigenen Räumlichkeiten eingelagert sind, fällt ein Kostenvorschuss weg, weil die Entschädigung für das Einlagern der Möbel ohnehin ihm selbst zukommen würde. Hätte die Staatsanwaltschaft die Hinterlegung der Einrichtungsgegenstände organisieren müssen, weil der Beschwerdeführer beispielsweise keinen entsprechenden Raum zur Verfügung hätte stellen können, hätte dieser einen Kostenvorschuss für die Hinterlegung leisten müssen. Es ist nämlich nicht Sache des Staates, für den Schaden aus einem privatrechtlichen Mietverhältnis aufzukommen. Das Problem hätte sich für den Beschwerdeführer somit nicht gelöst, wenn die Staatsanwaltschaft die Möbel an einem anderen Ort eingelagert hätte, weil er dafür die Kosten hätte vorschiessen müssen. Da die Mieterin die Hinterlegungskosten zu tragen hat, kann der Beschwerdeführer auf sie zurückgreifen; sie hat ihm diesen Schaden zu ersetzen. Der Staatsanwaltschaft kann in diesem Zusammenhang aber kein rechtsverweigerndes Verhalten vorgeworfen werden.
+b)    Dem Beschwerdeführer stehen allerdings andere Möglichkeiten offen, um die Einrichtungsgegenstände der Mieterin nicht mehr länger in seiner Liegenschaft einlagern zu müssen. Er kann als Geschäftsführer ohne Auftrag die Sachen etwa in einem Lagerhaus hinterlegen und die dabei entstehenden Kosten bei der Mieterin geltend machen
+[4]
+. Er kann aber auch gerichtlich feststellen lassen, dass die Mieterin das Eigentum an ihren Einrichtungsgegenständen aufgab
+[5]
+, und dass er berechtigt ist, diese Sachen zu entsorgen. Schliesslich kann er mit richterlicher Bewilligung die Möbel durch das Betreibungsamt auch öffentlich verkaufen lassen.
+Obergericht, 1. Abteilung, 16. September 2015, ZR.2015.39
+[1]
+Zinsli, Basler Kommentar, Art. 343 ZPO N 35
+[2]
+Staehelin, in: Kommentar zur schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Hasen­böhler/Leuenberger), 2.A., Art. 343 N 24
+[3]
+Haubensak, Die Zwangsvollstreckung nach der zürcherischen Zivilprozessordnung, Diss. Zürich 1975, S. 46
+[4]
+Vgl. Art. 419 ff. OR
+[5]
+Vgl. Art. 729 ZGB
