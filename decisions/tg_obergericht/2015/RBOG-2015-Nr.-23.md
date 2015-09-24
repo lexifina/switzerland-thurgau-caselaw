@@ -1,0 +1,84 @@
+---
+decision_id: "tg_obergericht_RBOG_2015_Nr._23"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2015 Nr. 23"
+docket_2: "SW.2015.91"
+decided: "2015-09-24"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/BEDB44A8-E2F2-4A62-F1676027EA628D53.html"
+cites_law: ["switzerland/bund/acts/311.0/art-055a.md", "switzerland/bund/acts/312.0/art-081.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-267.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-314.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-320.md", "switzerland/bund/acts/312.0/art-321.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md"]
+---
+
+# TG Obergericht RBOG 2015 Nr. 23
+
+## Regeste
+
+Wenn die Sistierungsverfügung nach Ablauf von sechs Monaten automatisch als Einstellungsverfügung gelten würde, hätten die Betroffenen – insbesondere die beschuldigte Partei – keine genaue Kenntnis, wann die Rechtsmittelfrist gegen die (definitive) Einstellungsverfügung zu laufen beginnt. 2 StPO hebt die Staatsanwaltschaft in der Einstellungsverfügung bestehende Zwangsmassnahmen auf. 319 StPO zu erfolgen, kann die Staatsanwaltschaft nicht bereits in der provisorischen Einstellungsverfügung ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 24.09.2015 RBOG 2015 Nr. 23 (SW.2015.91)
+Thurgovie Obergericht Rechenschaftsbericht 24.09.2015 RBOG 2015 Nr. 23 (SW.2015.91)
+Turgovia Obergericht Rechenschaftsbericht 24.09.2015 RBOG 2015 Nr. 23 (SW.2015.91)
+
+Wenn die Sistierungsverfügung nach Ablauf von sechs Monaten automatisch als Einstellungsverfügung gelten würde, hätten die Betroffenen – insbesondere die beschuldigte Partei – keine genaue Kenntnis, wann die Rechtsmittelfrist gegen die (definitive) Einstellungsverfügung zu laufen beginnt. 2 StPO hebt die Staatsanwaltschaft in der Einstellungsverfügung bestehende Zwangsmassnahmen auf. 319 StPO zu erfolgen, kann die Staatsanwaltschaft nicht bereits in der provisorischen Einstellungsverfügung ...
+
+RBOG 2015 Nr. 23
+RBOG 2015 Nr. 23
+Korrektes Vorgehen bei der Sistierung des Strafverfahrens gestützt auf Art. 55a StGB, verbunden mit der Einziehung beschlagnahmter Waffen
+(Art. 314 Abs. 1, 267 Abs. 3 StPO)
+1.     Die Staatsanwaltschaft eröffnete eine Strafuntersuchung gegen X wegen einfacher Körperverletzung, mehrfacher Drohung, Nötigung und Tätlichkeiten zum Nachteil seiner Ehefrau und beschlagnahmte neun Schusswaffen. Die Ehefrau beantragte die provisorische Einstellung des Strafverfahrens gestützt auf Art. 55a StGB. Die beschlagnahmten Gegenstände seien ihrem Ehemann sofort herauszugeben.
+Die Staatsanwaltschaft verfügte, die Strafuntersuchung gegen den Ehemann werde sistiert (Ziff. 1). Diese Verfügung gelte nach Ablauf einer Frist von sechs Monaten als Einstellungsverfügung, sofern nicht innert dieser Frist Wiederaufnahme des Verfahrens verlangt werde (Ziff. 2). Die beschlagnahmten Pistolen würden zur Vernichtung eingezogen, die nach Ablauf der Frist von sechs Monaten erfolge (Ziff. 4.a). Die restlichen beschlagnahmten Waffen gingen zuständigkeitshalber zur Prüfung einer Einziehung oder Herausgabe nach Waffengesetz an die Kantonspolizei (Ziff. 4.b).
+Die Ehefrau erhob Beschwerde und verlangte die Herausgabe der Waffen an den Eigentümer, ihren Ehemann.
+2.     a)    Bei einfacher Körperverletzung, wiederholten Tätlichkeiten, Drohung und Nötigung können die Staatsanwaltschaft und die Gerichte laut Art. 55a Abs. 1 StGB das Verfahren sistieren, falls die Voraussetzungen gemäss Art. 55a Abs. 1 lit. a und b StGB erfüllt sind. Das Verfahren wird gemäss Art. 55a Abs. 2 StGB wieder an die Hand genommen, wenn das Opfer seine Zustimmung innerhalb von sechs Monaten seit der Sistierung des Verfahrens schriftlich oder mündlich widerruft. Wird die Zustimmung nicht widerrufen, verfügt die zuständige Behörde nach Art. 55a Abs. 3 StGB die Einstellung des Verfahrens.
+aa)   Die Sistierung (provisorische Einstellung) des Strafverfahrens gemäss Art. 55a Abs. 1 StGB entspricht der Verfahrenssistierung im Sinn von Art. 314 Abs. 1 StPO
+[1]
+. Die Sistierung des Verfahrens erfolgt durch einen verfahrensleitenden Entscheid und führt zu einer vorübergehenden Aussetzung der Strafverfolgung. Der Sistierungsentscheid ist mit einem Hinweis auf Art. 55a StGB und die erfolgte Zustimmung des Opfers zu begründen und dem Beschuldigten sowie dem Opfer zu eröffnen
+[2]
+. Die Sistierung stellt eine Verfahrenserledigung lediglich prozessualer Natur dar und gilt daher nicht als eigentliche oder echte Erledigungsart. Dies unterscheidet sie von der Nichtanhandnahme gemäss Art. 310 StPO und der Verfahrenseinstellung gemäss Art. 319 ff. StPO, die gemäss Art. 321 StPO einem freisprechenden Urteil gleichzusetzen sind
+[3]
+. Wird die Zustimmung des Opfers innerhalb von sechs Monaten seit der provisorischen Verfahrenseinstellung nicht widerrufen, sind die Behörden verpflichtet, von Amtes wegen tätig zu werden. Nach Ablauf dieser Frist ist die definitive Einstellung zu verfügen
+[4]
+. Bei gegebenen Voraussetzungen ist das Verfahren durch einen förmlichen Entscheid einzustellen. Das blosse Unterlassen der Wiederanhandnahme genügt den gesetzlichen Anforderungen nicht
+[5]
+.
+bb)   Wie jede Verfügung ist auch die Sistierungsverfügung gemäss Art. 55a Abs. 1 StGB zu begründen. Da die Sistierung aber keinen tiefgreifenden Eingriff darstellt und daher für die Betroffenen eine nicht allzu erhebliche Bedeutung erhält, muss eine Sistierung nicht ausführlich begründet werden. Allerdings ist der Sistierungsgrund zu erwähnen
+[6]
+. Auch die definitive Einstellungsverfügung gemäss Art. 319 StPO ist mindestens summarisch zu begründen
+[7]
+.
+cc)   Art. 55a Abs. 1 und 3 StGB bedingen somit zwei Verfahrensschritte. Dies ergibt sich schon aus dem Wortlaut dieser Bestimmung. Dieses zweistufige Vorgehen legt auch der Sachverhalt im Entscheid des Bundesgerichts vom 22. Januar 2015
+[8]
+nahe. Zunächst hat somit, falls die Voraussetzungen gegeben sind, eine provisorische Einstellung des Verfahrens im Sinn der Sistierung gemäss Art. 314 StPO zu erfolgen. Nach Ablauf der sechsmonatigen Frist ist die definitive Verfahrenseinstellung im Sinn von Art. 319 StPO zu verfügen, falls das Opfer seine Zustimmung zur Verfahrenseinstellung nicht widerrief.
+b)    Die Anordnung der Staatsanwaltschaft in Ziff. 2 der angefochtenen Verfügung, wonach die Sistierungsverfügung nach Ablauf von sechs Monaten als Einstellungsverfügung gelte, sofern nicht innert dieser Frist die Wiederaufnahme des Verfahrens verlangt werde, ist somit nicht mit Art. 55a Abs. 3 StGB und Art. 314 und 319 StPO vereinbar. Das von der Staatsanwaltschaft gewählte Vorgehen mag zwar pragmatisch und prozessökonomisch sein. Es fehlt aber eine unbedingte verfahrenserledigende Verfügung, die in Form und Inhalt Art. 80 f. StPO genügt. Jede Einstellungsverfügung ist gemäss Art. 320 Abs. 1 i.V.m. Art. 81 Abs. 2 lit. b StPO zu datieren; gerade diese Angabe fehlt bei dem von der Staatsanwaltschaft propagierten Vorgehen. Daher können sich Schwierigkeiten mit Bezug auf die Rechtsmittelmöglichkeiten der Betroffenen ergeben. Gemäss Art. 322 Abs. 2 StPO können die Parteien eine Einstellungsverfügung innert zehn Tagen bei der Beschwerdeinstanz anfechten. Wenn die Sistierungsverfügung nach Ablauf von sechs Monaten automatisch als Einstellungsverfügung gelten würde, hätten die Betroffenen – insbesondere die beschuldigte Partei – keine genaue Kenntnis, wann die Rechtsmittelfrist gegen die (definitive) Einstellungsverfügung zu laufen beginnt. Der Grund liegt darin, dass die sechsmonatige Widerrufsfrist mit Zustellung der Sistierungsverfügung an das Opfer zu laufen beginnt, der Beschuldigte oder allenfalls Dritte von diesem Zeitpunkt aber keine sichere Kenntnis haben. Das Vorgehen der Staatsanwaltschaft zwingt zudem die Parteien, ein allfälliges Rechtsmittel bereits gegen die Sistierungsverfügung zu ergreifen, obwohl noch gar nicht sicher ist, ob das Strafverfahren gegen den Beschuldigten tatsächlich definitiv eingestellt werden kann.
+c)     Zusammengefasst ist Ziff. 2 der angefochtenen Verfügung aufzuheben. Die Staatsanwaltschaft ist anzuweisen, nach Ablauf der Widerrufsfrist von Art. 55a Abs. 2 StGB im Sinn von Art. 319 StPO die definitive Verfahrenseinstellung zu verfügen. Insofern erweist sich die Beschwerde als begründet.
+3.     Die Staatsanwaltschaft verfügte in Ziff. 4 der Sistierungsverfügung den Einzug von zwei Pistolen zur Vernichtung (nach Ablauf der Frist von sechs Monaten) sowie die Übergabe weiterer Waffen an die Fachstelle Waffen und Sprengstoffe der Kantonspolizei Thurgau zur Prüfung einer Einziehung oder Herausgabe nach Waffengesetz. Die Beschwerdeführerin beantragte die Aufhebung dieser Anordnungen und die Herausgabe dieser Waffen an ihren Ehemann.
+a)    Gemäss Art. 320 Abs. 2 StPO hebt die Staatsanwaltschaft in der Einstellungsverfügung bestehende Zwangsmassnahmen auf. Sie kann die Einziehung von Gegenständen und Vermögenswerten anordnen. Folgerichtig bestimmt Art. 267 Abs. 3 StPO, dass über das Schicksal eines Gegenstands, dessen Beschlagnahme nicht vorher aufgehoben wurde, im Endentscheid zu befinden ist. Wird das Strafverfahren in Anwendung von Art. 55a Abs. 3 StGB definitiv eingestellt, und hat dies aufgrund einer Verfügung gemäss Art. 319 StPO zu erfolgen, kann die Staatsanwaltschaft nicht bereits in der provisorischen Einstellungsverfügung oder Verfahrenssistierung in Anwendung von Art. 314 StPO über das Schicksal beschlagnahmter Gegenstände verfügen. Dieser Entscheid ist der definitiven Einstellungsverfügung vorbehalten. Es macht denn auch keinen Sinn, über die Einziehung beschlagnahmter Gegenstände zu befinden, bevor Gewissheit über die definitive Verfahrenserledigung besteht. Ferner besteht nach Erlass der Sistierungsverfügung stets die Möglichkeit, dass das Opfer seine Zustimmung zur provisorischen Verfahrenseinstellung widerruft. In dem wieder aufgenommenen Strafverfahren können sich durchaus auch im Hinblick auf die Voraussetzungen der Einziehung wesentliche Rückschlüsse ergeben.
+Ziff. 4.a und 4.b des Dispositivs der Sistierungsverfügung sind somit ebenfalls aufzuheben. Die Staatsanwaltschaft wird für den Fall des Ausbleibens eines Widerrufs mit der definitiven Einstellungsverfügung über die Einziehung oder Freigabe der beschlagnahmten Waffen zu entscheiden haben.
+b)    Ist Ziff. 4 der Sistierungsverfügung aufzuheben, kann in diesem Beschwerdeverfahren auch nicht darüber entschieden werden, ob die Waffen entsprechend dem Antrag der Beschwerdeführerin ihrem Ehemann auszuhändigen sind. Auf den Antrag betreffend Herausgabe der Waffen kann daher nicht eingetreten werden. Abgesehen davon ist zur Erhebung von Beschwerden gemäss Art. 393 Abs. 1 lit. a StPO nach Art. 382 Abs. 1 StPO nur jene Partei legitimiert, die ein rechtlich geschütztes Interesse an der Aufhebung oder Änderung eines Entscheids hat. Ein rechtlich geschütztes Interesse ist gegeben, wenn die Beschwerdeführerin selbst in ihren eigenen Rechten unmittelbar betroffen ist (Beschwer)
+[9]
+. Eigentümer der Waffen ist der Ehemann der Beschwerdeführerin. Es erscheint daher mehr als fraglich, ob die Beschwerdeführerin durch die Einziehung überhaupt beschwert ist
+[10]
+. Ob es zur Beschwerdelegitimation genügt, dass durch eine allfällige Einziehung und Vernichtung der Waffen des Ehemanns der häusliche Frieden beeinträchtigt werden könnte, dürfte ebenfalls zu bezweifeln sein.
+Obergericht, 2. Abteilung, 24. September 2015, SW.2015.91
+[1]
+Vgl. Omlin, Basler Kommentar, Art. 314 StPO N 20
+[2]
+Riedo/Allemann, Basler Kommentar, Art. 55a StGB N 142, 144 und 146, je mit Hinweisen
+[3]
+Omlin, Art. 314 StPO N 6 f.
+[4]
+Riedo/Allemann, Art. 55a StGB N 209; Omlin, Art. 314 StPO N 50; Trechsel/ Keller, in: Schweizerisches Strafgesetzbuch, Praxiskommentar (Hrsg.: Trechsel/Pieth), 2.A., Art. 55a N 6
+[5]
+Riedo/Allemann, Art. 55a StGB N 216
+[6]
+Omlin, Art. 314 StPO N 29 f.; Riedo/Allemann, Art. 55a StGB N 144
+[7]
+Riedo/Allemann, Art. 55a StGB N 219
+[8]
+6B_948/2013
+[9]
+Lieber, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/ Hansjakob/Lieber), 2.A., Art. 382 N 7; Schmid, Schweizerische Strafprozessordnung, Praxiskommentar, 2.A., Art. 382 N 1 f.; Guidon, Die Beschwerde gemäss Schweizerischer Strafprozessordnung, Zürich/St. Gallen 2011, N 232; Oberholzer, Grundzüge des Strafprozessrechts, 3.A., N 1557
+[10]
+Vgl. Bommer/Goldschmid, Basler Kommentar, Art. 263 StPO N 72 f.
