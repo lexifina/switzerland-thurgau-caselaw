@@ -1,0 +1,48 @@
+---
+decision_id: "tg_obergericht_RBOG_2015_Nr._1"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2015 Nr. 1"
+docket_2: "KES.2015.55"
+decided: "2015-10-01"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/1F31AD40-C1AA-D184-E123482B96270069.html"
+cites_law: ["switzerland/bund/acts/210/art-273.md", "switzerland/bund/acts/210/art-308.md"]
+---
+
+# TG Obergericht RBOG 2015 Nr. 1
+
+## Regeste
+
+Allerdings ist es unrealistisch, den persönlichen Verkehr gegen den Willen und die innere Haltung des Besuchsberechtigten durchsetzen zu wollen. Stellt der persönliche Verkehr oder dessen Fehlen eine Gefährdung des Kindeswohls dar und bietet sich anstatt anderer Massnahmen oder parallel dazu mit der Beistandschaft die Möglichkeit, diese Gefährdung zu mildern oder zu beheben, so stehen folgende Dienstleistungen des Beistands im Vordergrund: Unterstützung mit Rat und Tat, Aufklärung über die ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 01.10.2015 RBOG 2015 Nr. 1 (KES.2015.55)
+Thurgovie Obergericht Rechenschaftsbericht 01.10.2015 RBOG 2015 Nr. 1 (KES.2015.55)
+Turgovia Obergericht Rechenschaftsbericht 01.10.2015 RBOG 2015 Nr. 1 (KES.2015.55)
+
+Allerdings ist es unrealistisch, den persönlichen Verkehr gegen den Willen und die innere Haltung des Besuchsberechtigten durchsetzen zu wollen. Stellt der persönliche Verkehr oder dessen Fehlen eine Gefährdung des Kindeswohls dar und bietet sich anstatt anderer Massnahmen oder parallel dazu mit der Beistandschaft die Möglichkeit, diese Gefährdung zu mildern oder zu beheben, so stehen folgende Dienstleistungen des Beistands im Vordergrund: Unterstützung mit Rat und Tat, Aufklärung über die ...
+
+RBOG 2015 Nr. 1
+RBOG 2015 Nr. 1
+Durchsetzung des persönlichen Verkehrs mit dem Kind gegen den Willen des Besuchsberechtigten?
+(Art. 273 Abs. 1 ZGB)
+1.     Im Jahr 2014 genehmigte das Zivilgericht Basel-Stadt die von den Kindeseltern im gegenseitigen Einvernehmen festgesetzte Besuchsregelung betreffend die Kinder X und Y.
+2.     a)    Wie die Kindes- und Erwachsenenschutzbehörde im angefochtenen Entscheid zutreffend feststellte, besteht damit eine verbindliche Regelung des persönlichen Verkehrs zwischen dem Vater und seinen Kindern. Die Vorinstanz erkannte zudem mit Recht, dass es primär in der Verantwortung der Kindeseltern liegt, Rahmenbedingungen zu schaffen, die es ermöglichen, diese Regelung umzusetzen. Bezeichnenderweise verpflichteten sie sich in der genehmigten Vereinbarung mit Blick auf die Kinder zur Zusammenarbeit und dazu, sich nicht gegenseitig schlecht zu machen.
+b)    Vollstrecken lässt sich das Besuchsrecht als solches (geschweige denn die innere Beziehung zwischen den Beteiligten) aber nicht, sondern – wenn überhaupt – höchstens das für die Realisierung des Kontakts nötige Verhalten der Beteiligten, konkret die Übergabe des Kindes. Allerdings ist es unrealistisch, den persönlichen Verkehr gegen den Willen und die innere Haltung des Besuchsberechtigten durchsetzen zu wollen. Das Besuchsrecht darf die körperliche, seelische und sittliche Entfaltung des Kindes nicht bedrohen, weshalb sich die Vollstreckungsmassnahmen in der Regel in psychologischem Zwang erschöpfen. Damit steht fest, dass die Vollstreckung des persönlichen Verkehrs (auch) nicht über einen Beistand
+[1]
+führen kann; jene Betroffenen, die dies vom Beistand erwarten oder verlangen, verkennen die Realität
+[2]
+. Wo Eltern kooperativ sind und Hilfe annehmen, bietet sich dem Beistand ein Nährboden für professionelle Hilfe zum Schutz des Kindes, insbesondere in der Vermittlung von Lösungen zwischen den Beteiligten, in der Entkrampfung und Neutralisierung eines emotionsgeladenen Umgangs und allenfalls in der Überwachung der Kontakte. Kritisch wird es aber, wenn das Kind als Faustpfand elterlicher Interessen missbraucht wird, wenn die Eltern im Beistand einen Verbündeten im gegenseitigen Machtkampf zu finden glauben, oder wo es Eltern an Reife, Verlässlichkeit und Verantwortungsbewusstsein fehlt und sich dies auf das Wohlbefinden des Kindes negativ auswirkt (Verunsicherung, Überforderung, Angst, fehlendes Vertrauen). Stellt der persönliche Verkehr oder dessen Fehlen eine Gefährdung des Kindeswohls dar und bietet sich anstatt anderer Massnahmen oder parallel dazu mit der Beistandschaft die Möglichkeit, diese Gefährdung zu mildern oder zu beheben, so stehen folgende Dienstleistungen des Beistands im Vordergrund: Unterstützung mit Rat und Tat, Aufklärung über die Bedeutung der Elternschaft für das Kind und des Hintenanstellens von Elternkonflikten sowie über die Auslösung beziehungsweise Vermeidung von Loyalitätskonflikten für das Kind, Aufklärung über den Zusammenhang von Besuchskontakten, Vermittlung bei Streitfragen (Unterbreiten von Vorschlägen zu einem "modus vivendi", "Brücken bauen", konzeptionelle Hilfe zur Anbahnung von Besuchskontakten, Beistand als "Relais-Station"), Überwachung des persönlichen Verkehrs, Beobachtung der Beziehungsentwicklung, Beratung bezüglich Aktivitäten während der Besuchszeit und Vermittlung geeigneter Angebote, Regelung von Modalitäten, die in der Besuchsordnung offen bleiben und dem Beistand behördlich oder gerichtlich übertragen wurden (Abholen und Zurückführen des Kindes, Ort und genaue Zeit bei offener Regelung, Ausstattung mit Kleidern, Sportgeräten und Hygieneartikeln, Meiden konkreter nicht kindergerechter Örtlichkeiten usw.)
+[3]
+.
+c)     Festzustellen ist, dass X mehrfach zum Ausdruck brachte, den Abbruch des Kontakts zum Vater zu bedauern. Gemäss den Experten soll das Mädchen unter diesem Zustand auch gelitten haben. Ebenso ist aber festzustellen, dass der Kindesvater den Kontakt zum Kind abgelehnt hat. Er äusserte sich wiederholt in diesem Sinn und zeigte in den letzten rund zweieinhalb Jahren auch keinerlei Bereitschaft, daran etwas zu ändern. So machte der Kindesvater mehrfach geltend, keine Regelung des Besuchsrechts anzustreben; vielmehr wolle er nur, dass die Kindes- und Erwachsenenschutzbehörde die Entwicklung der Kinder im Auge behalte. Ausserdem brachte er immer wieder sein Misstrauen bezüglich der Echtheit des Wunsches der Kinder, ihn zu sehen, zum Ausdruck, weil X und Y von der Kindesmutter regelmässig beeinflusst würden. Eine solche Motivation für die ablehnende Haltung ist nur schwer nachvollziehbar. Bezeichnenderweise stellten auch die Psychiatrischen Dienste Thurgau im Rahmen der multisystemischen Therapie Kinderschutz MST CAN fest, dass der Kindesvater den Wunsch seiner Kinder, ihn regelmässig zu sehen, nicht unterstützt habe, wobei seine Motive letztlich unklar geblieben seien. Welche Gründe den Kindesvater auch immer bewogen haben, den persönlichen Verkehr mit X abzulehnen, seine negative Haltung scheint gefestigt. Es ist vor diesem Hintergrund unrealistisch, den persönlichen Verkehr gegen den Willen und die innere Haltung des Besuchsberechtigten durchsetzen zu wollen. Auch die Errichtung einer Beistandschaft änderte daran (mindestens zum heutigen Zeitpunkt) nichts. Zum einen zeigen die Akten, dass die Eltern einander nur noch mit Argwohn betrachten und kaum mehr in der Lage sind, konstruktiv miteinander umzugehen; es ist bei dieser Ausgangslage somit nicht ausgeschlossen, dass beide Elternteile im Beistand ihren Verbündeten im gegenseitigen Machtkampf sähen, womit eine erfolgreiche Begleitung des Besuchsrechts von vornherein in Frage gestellt wäre. Zum anderen scheint sich X mittlerweilen mit der Situation abgefunden zu haben. So hielt die Psychologin am 17. April 2015 fest, X habe ihren Vater lange Zeit sehr vermisst; zwischenzeitlich habe sich das Kind aber von seinem Vater so weit distanziert, dass es ihn nicht mehr anrufe und von ihm auch nichts mehr erwarte. X habe sich mit dieser Haltung arrangiert und könne so besser leben. Die Unterstützung, welche X von der Schule und der Psychologin erhalte, sowie der Umgang zwischen Mutter und Tochter seien "ausreichend", weshalb derzeit keine zusätzlichen Unterstützungsmassnahmen erforderlich seien. Insofern scheint X bei der psychologischen Verarbeitung des fehlenden Kontakts zum Vater in der Zwischenzeit gut vorangekommen zu sein, und sie ist heute in der Lage, auch ohne ihren Vater gut zu leben; mit anderen Worten stellt (heute) das Fehlen des persönlichen Verkehrs mit dem Vater keine Gefährdung des Wohls des Kindes (mehr) dar. Vor diesem Hintergrund besteht mit Blick auf das Wohl von X derzeit kein Handlungsbedarf. Die Vorinstanz stellte somit zu Recht fest, dass (einstweilen) keine Massnahmen erforderlich sind.
+Obergericht, 1. Abteilung, 1. Oktober 2015, KES.2015.55
+Auf eine dagegen erhobene Beschwerde trat das Bundesgericht am 24. November 2015 nicht ein (5A_928/2015).
+[1]
+Art. 308 ZGB
+[2]
+Affolter, Die Besuchsrechtsbeistandschaft oder der Glaube an eine dea ex machina, in: ZKE 2015 S. 183 f.
+[3]
+Affolter, S. 190 f.
