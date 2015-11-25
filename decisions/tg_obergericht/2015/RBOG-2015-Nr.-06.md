@@ -1,0 +1,63 @@
+---
+decision_id: "tg_obergericht_RBOG_2015_Nr._06"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2015 Nr. 06"
+decided: "2015-11-25"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2015-nr-6"
+cites_law: ["switzerland/bund/acts/210/art-428.md", "switzerland/bund/acts/210/art-429.md", "switzerland/bund/acts/210/art-431.md", "switzerland/bund/acts/210/art-450e.md"]
+---
+
+# TG Obergericht RBOG 2015 Nr. 06
+
+## Regeste
+
+Korrekter Verfahrensablauf nach ärztlich angeordneter fürsorgerischer Unterbringung
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2015 RBOG 2015 Nr. 06
+Thurgovie Obergericht Rechenschaftsbericht 2015 RBOG 2015 Nr. 06
+Turgovia Obergericht Rechenschaftsbericht 2015 RBOG 2015 Nr. 06
+
+RBOG 2015 Nr. 06
+Skip to main content
+Show navigation
+Korrekter Verfahrensablauf nach ärztlich angeordneter fürsorgerischer Unterbringung
+§ 94 Abs. 3 KESV
+,
+Art. 428 ZGB
+,
+Art. 429 ZGB
+,
+Art. 450e Abs. 4 ZGB
+1. Der Beschwerdeführer fiel einer Polizeipatrouille durch wirres Verhalten auf, worauf er mit ärztlicher Verfügung in die Psychiatrische Klinik eingewiesen wurde. Rund drei Wochen später entliess ihn die Klinik, nachdem das damals zuständige Zürcher Bezirksgericht seine Beschwerde geschützt hatte. Kurze Zeit darauf wurde erneut eine ärztlich angeordnete fürsorgerische Unterbringung des Beschwerdeführers wegen wahnhafter Vorstellungen mit Eigen- und Fremdgefährdung verfügt. Eine dagegen erhobene Beschwerde wies die Kindes- und Erwachsenenschutzbehörde ab und verfügte die fürsorgerische Unterbringung für weitere sechs Monate.
+2. a) Im Kanton Thurgau ist die sachliche Zuständigkeit für Beschwerden gegen die fürsorgerische Unterbringung nicht einheitlich geregelt: Wird die fürsorgerische Unterbringung gestützt auf Art. 428 ZGB durch die Kindes- und Erwachsenenschutzbehörde angeordnet, bildet das Obergericht einzige kantonale Beschwerdeinstanz[1]. Wird die fürsorgerische Unterbringung hingegen durch einen Arzt in Anwendung von Art. 429 Abs. 1 ZGB verfügt, ist die Kindes- und Erwachsenenschutzbehörde Beschwerdeinstanz[2]; deren Entscheid kann alsdann an das Obergericht weiter gezogen werden[3].
+b) Die Vorinstanz wies im angefochtenen Entscheid einerseits als Beschwerdeinstanz die Beschwerde gegen die ärztlich verfügte fürsorgerische Unterbringung ab. Soweit sich die Beschwerde dagegen richtet, entscheidet das Obergericht als zweite Beschwerdeinstanz; die Vorschriften von Art. 450e Abs. 5 ZGB sind nicht massgebend[4]. Soweit sich die Beschwerde andererseits gegen die behördliche Unterbringung richtet, entscheidet das Obergericht als erste Beschwerdeinstanz. Die (erste) gerichtliche Beschwerdeinstanz hört die betroffene Person in der Regel als Kollegium an[5]. Auf eine Anhörung des Beschwerdeführers kann jedoch verzichtet werden, weil der Entscheid diesbezüglich ohnehin aufzuheben ist.
+c) aa) Die mediane Aufenthaltsdauer (d.h. 50% der Hospitalisierungen sind kürzer und 50% länger) in Psychiatrischen Kliniken lag gemäss einer Studie von 2007 bei etwa 21 Tagen bei Männern und 25 Tagen bei Frauen; eine weitere Studie wies für psychiatrische Einrichtungen eine mediane Aufenthaltsdauer von 19 Tagen im Jahr 2006 nach. In der Schweiz beträgt die mediane Aufenthaltsdauer von über 15-jährigen Personen mit einer Hauptdiagnose F (psychische und Verhaltensstörungen) gemäss der internationalen Klassifikation der Krankheiten für das Jahr 2008 16 Tage; allerdings bestehen grosse regionale Unterschiede, wobei der Kanton Thurgau durch eine im Vergleich zu anderen Kantonen sehr lange mediane Aufenthaltsdauer von 32 Tagen auffiel[6]. 2013 betrug die mediane Aufenthaltsdauer im Kanton Thurgau laut Schweizerischem Gesundheitsobservatorium 19 Tage[7].
+bb) Die ärztlich angeordnete Unterbringung ist auf sechs Wochen befristet und fällt mit Ablauf der festgelegten Dauer dahin, sofern bis dahin nicht ein vollstreckbarer Unterbringungsentscheid der Erwachsenenschutzbehörde vorliegt[8]; als solcher gilt auch ein vorsorglicher Unterbringungsentscheid. Die relativ lange Frist von sechs Wochen hat zur Folge, dass ein erheblicher Teil der eingewiesenen Personen vor Ablauf der Frist bereits wieder entlassen werden kann[9]. Die Frist berechnet sich nach Kalendertagen. Die betroffene Person kann somit für höchstens 42 Tage in der Klinik untergebracht werden[10]. Nicht nur die Massnahme an sich, sondern auch ihre Dauer muss verhältnismässig sein[11].
+d) aa) Mit ärztlicher Verfügung vom 9. November 2015 wurde der Beschwerdeführer fürsorgerisch in der Psychiatrischen Klinik untergebracht. Am 17. November 2015 wies die Kindes- und Erwachsenenschutzbehörde die Beschwerde gegen die ärztlich angeordnete fürsorgerische Unterbringung ab und fällte gleichzeitig einen behördlichen Unterbringungsentscheid. Die nächste von der Behörde durchzuführende Überprüfung der fürsorgerischen Unterbringung hätte somit spätestens bis am 9. Mai 2016 zu erfolgen[12]. Die Kindes- und Erwachsenenschutzbehörde fällte einen behördlichen Unterbringungsentscheid, obwohl seit der Einweisung des Beschwerdeführers erst acht Tage vergangen waren, mithin rund ein Fünftel der maximal zulässigen Dauer der ärztlichen Unterbringung. Der Beschwerdeführer war letztmals von Anfang bis Ende Oktober 2015 in stationärer Behandlung. Er wurde aus der Psychiatrischen Klinik entlassen, nachdem das Bezirksgericht seine Beschwerde geschützt hatte. Die Gründe für die Entlassung des Beschwerdeführers sind nicht bekannt; der Entscheid liegt nur im Dispositiv vor. Der Grund für den Schutz der Beschwerde dürfte wohl darin gelegen haben, dass sowohl die Klinik (in ihrer Stellungnahme zum Entlassungsgesuch) als auch der Gutachter Y gegenüber dem Bezirksgericht eine Fremdgefährdung verneinten. Der Gutachter Y führte vor dem Bezirksgericht auch aus, er sehe keine Suizidgefahr beim Beschwerdeführer. Eine Selbstgefährdung sei angesichts des Krankheitsverlaufs nur deshalb anzunehmen, da bei der Krankheit des Beschwerdeführers langfristig davon auszugehen sei, dass bei weiterer Nichtbehandlung die Krankheitszeichen weiter aufträten. Die Gefährdungssituation sei insbesondere aus finanziellen Gründen anzunehmen. Wenn der Beschwerdeführer die Medikamente tatsächlich regelmässig und konstant über einen gewissen Zeitraum einnehme, dürfe angenommen werden, dass diese Wirkung zeigten.
+bb) Die Behandlungsberichte und medizinischen Unterlagen der vorbehandelnden Klinik lagen dem Gutachter Z nicht vor. Der Gutachter Z konnte denn auch keine genaue Diagnose stellen. Mit hoher Wahrscheinlichkeit liege eine Störung aus dem schizophrenen Formenkreis vor. Beim Störungsbild des Betroffenen könnte es sich um eine akute polymorphe psychotische Störung mit Symptomen einer Schizophrenie respektive um eine paranoide Schizophrenie handeln. Aus dem Journal der Psychiatrischen Klinik geht hervor, dass sich das Verhalten des Beschwerdeführers drei Tage nach der Einweisung nicht mehr angespannt zeigte. Es könnten Absprachen getroffen werden, an die sich der Beschwerdeführer halte. Im Kontakt sei er jedoch weiterhin psychotisch. Der Gutachter äusserte sich nicht über den Zeitrahmen für die stationäre Behandlung, und auch von den behandelnden Ärzten liegt keine Auskunft vor, weder über den Behandlungsplan noch den bisherigen Krankheitsverlauf.
+cc) Nachdem es häufig Fälle gibt, bei denen innert weniger Wochen eine Beruhigung und Stabilisierung der psychischen Störung eintreten kann, hat ein behördlicher Unterbringungsentscheid grundsätzlich erst zu erfolgen, wenn die sechswöchige Frist der ärztlich angeordneten Unterbringung soweit möglich ausgeschöpft wurde und der Betroffene noch nicht aus der stationären Behandlung entlassen werden konnte. Der Unterbringungsentscheid der Kindes- und Erwachsenenschutzbehörde war weder in zeitlicher Hinsicht verhältnismässig noch gab es einen sachlich nachvollziehbaren oder aus den Akten ersichtlichen Grund, den maximalen Zeitrahmen für eine stationäre Behandlung des Beschwerdeführers auszuschöpfen, zumal weder die Vorakten der vorbehandelnden Klinik bekannt sind noch von den derzeit behandelnden Ärzten Angaben über den Krankheitsverlauf gemacht wurden noch ein Behandlungsplan vorliegt. Aus dem sich in den Akten des Bezirksgerichts befindenden Verlaufsjournal der vorbehandelnden Klinik, wo der Beschwerdeführer nach rund drei Wochen aus der fürsorgerischen Unterbringung entlassen werden musste, ist ersichtlich, dass sich der Gesundheitszustand des Beschwerdeführers in diesen drei Wochen verbesserte. Eine Verbesserung des Zustands des Beschwerdeführers ist auch beim aktuellen Aufenthalt innert der nächsten Wochen durchaus denkbar, so dass sich eine stationäre Hospitalisation des Beschwerdeführers – auch wenn therapeutisch allenfalls noch indiziert – möglicherweise gegen den Willen des Beschwerdeführers nicht mehr rechtfertigen lässt. Jedenfalls kann momentan nicht davon ausgegangen werden, die Situation des Beschwerdeführers bleibe innerhalb der Frist von sechs Wochen seit der Unterbringung stabil, und es müsse in jedem Fall mit einem Antrag der Klinik auf eine behördliche Unterbringung gerechnet werden. Die Beschwerde wird deshalb insofern teilweise geschützt, als der behördliche Unterbringungsentscheid aufgehoben wird.
+Über die Entlassung vor Ablauf der sechswöchigen Frist entscheidet die Psychiatrische Klinik. Falls die Klinik die fürsorgerische Unterbringung weiterhin als notwendig erachtet, muss sie bei der Kindes- und Erwachsenenschutzbehörde spätestens sieben Tage vor dem Ablauf der sechswöchigen Frist für die ärztliche Unterbringung deren Weiterführung beantragen. Dem Antrag sind die notwendigen Unterlagen beizulegen, insbesondere die ärztlichen Berichte über den Verlauf der Unterbringung[13]. Alsdann hat die Kindes- und Erwachsenenschutzbehörde nochmals zu entscheiden. Nur ein solches Vorgehen entspricht den rechtlichen Vorgaben.
+Obergericht, 1. Abteilung, 25. November 2015, KES.2015.71
+[1] § 11c Abs. 1 EG ZGB, RB 210.1
+[2] § 58 Abs. 2 EG ZGB
+[3] BGE vom 29. September 2014, 5A_719/2014, Erw. 1.1
+[4] Geiser, Basler Kommentar Erwachsenenschutz, Art. 450e ZGB N 39
+[5] Art. 450e Abs. 4 ZGB
+[6] Guillod, in: FamKommentar Erwachsenenschutz (Hrsg.: Büchler/Häfeli/Leuba/Stett­ler), Bern 2013, Art. 429 ZGB N 21 ff.
+[7] Vgl. www.obsan.admin.ch/de; Indikatoren; Dauer der Spitalaufenthalte bei psychiatrischen Störungen
+[8] Art. 429 Abs. 1 und 2 ZGB
+[9] Breitschmid/Matt, in: Handkommentar zum Schweizer Privatrecht (Hrsg.: Breitschmid/Rumo-Jungo), 2.A., Art. 429 ZGB N 3; Botschaft des Bundesrats zur Änderung des Schweizerischen Zivilgesetzbuches vom 28. Juni 2006, in: BBl 2006 S. 7065
+[10] Geiser/Etzensberger, Basler Kommentar Erwachsenenschutz, Art. 429/430 ZGB N 15
+[11] Bernhart, Handbuch der fürsorgerischen Unterbringung, Basel 2011, N 396
+[12] Art. 431 Abs. 1 ZGB
+[13] § 94 Abs. 3 KESV
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
