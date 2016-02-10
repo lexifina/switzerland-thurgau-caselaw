@@ -1,0 +1,87 @@
+---
+decision_id: "tg_obergericht_RBOG_2016_Nr._4"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2016 Nr. 4"
+docket_2: "ZBS.2016.2"
+decided: "2016-02-10"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/399EF7AF-9A03-86C8-48AF9181F580EC37.html"
+cites_law: ["switzerland/bund/acts/210/art-277.md", "switzerland/bund/acts/210/art-291.md", "switzerland/bund/acts/272/art-057.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/291/art-016.md"]
+---
+
+# TG Obergericht RBOG 2016 Nr. 4
+
+## Regeste
+
+b) Im Scheidungsurteil verpflichtete das slowenische Gericht den Berufungsbeklagten zur monatlichen Zahlung von Unterhaltsbeiträgen an die Berufungskläger, und zwar ab Rechtskraft des Ehescheidungsurteils, solange "die gesetzlichen Bedingungen dafür bestehen". Die Berufungskläger müssten in einem Unterhaltsprozess zunächst ein vollstreckbares Urteil erwirken, das die aktuelle Unterhaltspflicht des Berufungsbeklagten bestätigt, und gestützt darauf sodann erneut um Schuldneranweisung ersuchen.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 10.02.2016 RBOG 2016 Nr. 4 (ZBS.2016.2)
+Thurgovie Obergericht Rechenschaftsbericht 10.02.2016 RBOG 2016 Nr. 4 (ZBS.2016.2)
+Turgovia Obergericht Rechenschaftsbericht 10.02.2016 RBOG 2016 Nr. 4 (ZBS.2016.2)
+
+b) Im Scheidungsurteil verpflichtete das slowenische Gericht den Berufungsbeklagten zur monatlichen Zahlung von Unterhaltsbeiträgen an die Berufungskläger, und zwar ab Rechtskraft des Ehescheidungsurteils, solange "die gesetzlichen Bedingungen dafür bestehen". Die Berufungskläger müssten in einem Unterhaltsprozess zunächst ein vollstreckbares Urteil erwirken, das die aktuelle Unterhaltspflicht des Berufungsbeklagten bestätigt, und gestützt darauf sodann erneut um Schuldneranweisung ersuchen.
+
+RBOG 2016 Nr. 4
+RBOG 2016 Nr. 4
+Schuldneranweisung gestützt auf ein ausländisches Urteil
+(Art. 291 ZGB)
+1.     Die Schuldneranweisung erfolgte gestützt auf ein slowenisches Scheidungsurteil, welches den Vater verpflichtete, monatliche Unterhaltsbeiträge an seine beiden damals noch minderjährigen Kinder zu bezahlen. Der Einzelrichter des Bezirksgerichts hob die Schuldneranweisung später wieder auf, da die mittlerweile 24-jährigen Kinder nicht mehr in ihrer Erstausbildung seien und kein Unterhaltstitel im Recht liege, welcher die Dauer des Volljährigenunterhalts festlege. Die Kinder erhoben gegen die Aufhebung der Schuldneranweisung Berufung.
+2.     Die Schuldneranweisung gemäss Art. 291 ZGB setzt voraus, dass der Schuldner die in einem Urteil festgesetzten Unterhaltspflichten gegenüber den Kindern ganz oder teilweise nicht erfüllt. Diesfalls ist die Anweisung für den im Unterhaltstitel festgesetzten Betrag grundsätzlich auszusprechen, ohne dass sich der Anweisungsrichter mit dem Sachverhalt und den rechtlichen Themen des Eheschutz- oder Scheidungsverfahrens erneut befasst. Der in Art. 291 ZGB vorgesehene Rechtsbehelf stellt nämlich eine Vollstreckungsmassnahme dar und hat dienende Funktion, das heisst, es soll damit die Eintreibung der Unterhaltsbeiträge erleichtert werden
+[1]
+. Wird die Anweisung als privilegierte Zwangsvollstreckungsmassnahme sui generis aufgefasst, ist ein Vorgehen nach den einschlägigen Regeln über den Pfändungsvollzug besonders naheliegend und grundsätzlich massgebend
+[2]
+. Aus dem vollstreckbaren Titel muss die Unterhaltspflicht deshalb ausdrücklich und eindeutig hervorgehen.
+3.     a)    Das von den Berufungsklägern eingereichte Schreiben einer slowenischen Anwaltskanzlei, wonach die Unterhaltspflicht nach slowenischem Recht bis zum Abschluss der Ausbildung, worunter auch eine Zweitausbildung falle, jedoch höchstens bis zum 26. Altersjahr dauere, stellt keinen vollstreckbaren Titel dar. Dieses Schreiben ist nämlich kein Rechtsgutachten, das die Unterhaltspflicht des Berufungsbeklagten zu beweisen vermag, sondern kommt beweisrechtlich einer Parteibehauptung gleich. Im Übrigen ist das Schreiben bereits mehr als fünf Jahre alt und sagt somit nichts über die aktuelle Unterhaltspflicht des Berufungsbeklagten aus.
+b)    Im Scheidungsurteil verpflichtete das slowenische Gericht den Berufungsbeklagten zur monatlichen Zahlung von Unterhaltsbeiträgen an die Berufungskläger, und zwar ab Rechtskraft des Ehescheidungsurteils, solange "die gesetzlichen Bedingungen dafür bestehen". Dem Scheidungsurteil ist somit nicht zu entnehmen, bis wann die Unterhaltspflicht besteht. Zudem ist aus den Akten nicht ersichtlich, dass das Scheidungsurteil in der Schweiz überhaupt anerkannt wurde. Es stellt für sich allein folglich ebenfalls keinen vollstreckbaren Titel dar.
+c)     aa)   Auch unter Hinzuziehung der einschlägigen gesetzlichen Bestimmungen zum Unterhaltsrecht ergibt sich die aktuelle Unterhaltspflicht des Berufungsbeklagten nicht. In diesem Zusammenhang kann offen bleiben, ob schweizerisches oder slowenisches Recht anwendbar ist. Das Gericht wendet gestützt auf Art. 57 ZPO das Recht von Amtes wegen an
+[3]
+. Dieser Grundsatz gilt auch bei der Anwendbarkeit ausländischen Rechts
+[4]
+. Die Kenntnis ausländischen Rechts kann dem Gericht aber nicht von vornherein zugemutet werden
+[5]
+; es kann die Mitwirkung der Parteien verlangen und bei vermögensrechtlichen Ansprüchen den Nachweis sogar den Parteien überbinden
+[6]
+. Wenn der Nachweis von den Parteien nicht erbracht wird, ist der Richter aufgrund des Grundsatzes "iura novit curia" aber dennoch verpflichtet, zumutbare und verhältnismässige Abklärungen über das anwendbare Recht zu machen
+[7]
+. Da weder das Schreiben der Anwaltskanzlei noch das Scheidungsurteil als Beleg für die Unterhaltspflicht des Berufungsbeklagten dienen und die Berufungskläger keine weiteren Nachweise erbrachten, hat das Obergericht das slowenische Recht – soweit zumutbar und verhältnismässig – gleichermassen wie das schweizerische Recht von Amtes wegen festzustellen.
+bb)   Nach schweizerischem Recht dauert die Unterhaltspflicht bis zur Volljährigkeit des Kindes
+[8]
+. Hat es dann noch keine angemessene Ausbildung, so haben die Eltern, soweit es ihnen nach den gesamten Umständen zugemutet werden darf, für seinen Unterhalt aufzukommen, bis eine entsprechende Ausbildung ordentlicherweise abgeschlossen werden kann
+[9]
+. Unbestritten ist, dass die Berufungskläger nach wie vor ein Studium absolvieren. Die Berufungskläger bestritten aber nicht, dass es sich dabei nicht mehr um eine Erstausbildung handelt, und brachten auch nicht vor, bislang keine ordentliche Erstausbildung abgeschlossen zu haben. Daher ist davon auszugehen, dass die Berufungskläger aktuell eine zweite oder sogar dritte Ausbildung absolvieren. Darauf deuten ausserdem die Immatrikulationsbescheinigungen hin, aus denen hervorgeht, dass sich beide Berufungskläger im ersten Jahr ihres Studiums befinden. Nach schweizerischem Recht besteht somit keine Unterhaltspflicht des Berufungsbeklagten.
+cc)   Laut slowenischem Recht sind die Eltern verpflichtet, ihre Kinder bis zur Volljährigkeit zu unterhalten
+[10]
+. Geht das Kind einem ordentlichen Studium oder einem Fernstudium nach, so sind die Eltern verpflichtet, es auch nach dem Erreichen der Volljährigkeit zu unterhalten, jedoch nur bis zum vollendeten 26. Lebensjahr
+[11]
+. In diesem Fall sind die Eltern nur unterhaltspflichtig, wenn das Kind seine Schul- beziehungsweise Studienpflichten ordnungsgemäss wahrnimmt
+[12]
+. Auch dem slowenischen Recht ist nicht zu entnehmen, dass die Unterhaltspflicht der Eltern über eine ordentliche Erstausbildung hinausgeht; vielmehr lässt der Gesetzestext darauf schliessen, dass die Unterhaltspflicht nach Abschluss dieser Erstausbildung endet und die Berufungskläger somit keinen Anspruch mehr auf Unterhalt haben. Ferner vermögen die im Recht liegenden Immatrikulationsbescheinigungen nicht zu belegen, dass die Berufungskläger ihre Studienpflichten auch ordnungsgemäss wahrnehmen. Folglich ist die Unterhaltspflicht des Berufungsbeklagten auch nach slowenischem Recht nicht ausgewiesen.
+d)    Es fehlt an einem vollstreckbaren Titel, aus dem die Unterhaltspflicht ausdrücklich und eindeutig hervorgeht. Insofern sind die Voraussetzungen der Schuldneranweisung nicht erfüllt. Ausserdem kann es trotz Untersuchungsmaxime nicht Sache des Obergerichts sein, im summarischen Verfahren betreffend Schuldneranweisung die im Scheidungsurteil festgehaltene Unterhaltspflicht genauer zu definieren. Die Berufungskläger müssten in einem Unterhaltsprozess zunächst ein vollstreckbares Urteil erwirken, das die aktuelle Unterhaltspflicht des Berufungsbeklagten bestätigt, und gestützt darauf sodann erneut um Schuldneranweisung ersuchen.
+Obergericht, 1. Abteilung, 10. Februar 2016, ZBS.2016.2
+[1]
+BGE vom 30. April 2014, 5A_223/2014, Erw. 2
+[2]
+RBOG 2006 Nr. 2
+[3]
+Grundsatz "iura novit curia"
+[4]
+Art. 16 Abs. 1 Satz 1 IPRG (Bundesgesetz über das Internationale Privatrecht, SR 291)
+[5]
+Gehri, Basler Kommentar, Art. 57 ZPO N 16
+[6]
+Art. 16 Abs. 1 Satz 2 und 3 IPRG; vgl. Art. 150 Abs. 2 ZPO
+[7]
+BGE 128 III 351
+[8]
+Art. 277 Abs. 1 ZGB
+[9]
+Art. 277 Abs. 2 ZGB
+[10]
+Art. 123 Abs. 1 des slowenischen Gesetzes über die Ehe- und Familienbeziehungen
+[11]
+Art. 123 Abs. 2 des slowenischen Gesetzes über die Ehe- und Familienbeziehungen
+[12]
+Zupancic/Novak, in: Internationales Ehe- und Kindschaftsrecht, Ordner XVII, Slowenien (Hrsg.: Bergmann/Ferid/Henrich), 6.A., S. 55
