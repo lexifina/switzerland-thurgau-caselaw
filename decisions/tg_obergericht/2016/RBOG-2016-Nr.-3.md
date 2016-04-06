@@ -1,0 +1,60 @@
+---
+decision_id: "tg_obergericht_RBOG_2016_Nr._3"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2016 Nr. 3"
+decided: "2016-04-06"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2016-nr-3"
+cites_law: ["switzerland/bund/acts/210/art-274.md", "switzerland/bund/acts/210/art-275a.md"]
+---
+
+# TG Obergericht RBOG 2016 Nr. 3
+
+## Regeste
+
+Recht auf Information des nicht sorgeberechtigten Elternteils
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 11.02.2015 RBOG 2016 Nr. 3
+Thurgovie Obergericht Rechenschaftsbericht 11.02.2015 RBOG 2016 Nr. 3
+Turgovia Obergericht Rechenschaftsbericht 11.02.2015 RBOG 2016 Nr. 3
+
+RBOG 2016 Nr. 3
+Skip to main content
+Show navigation
+Recht auf Information des nicht sorgeberechtigten Elternteils
+Art. 274 ZGB
+,
+Art. 275 a ZGB
+1. Der Ehescheidungsrichter stellte die beiden Kinder unter die elterliche Sorge ihrer Mutter. Zu einem späteren Zeitpunkt errichtete die Kindes- und Erwachsenenschutzbehörde gestützt auf Art. 308 Abs. 1 und 2 ZGB für die Kinder je eine Beistandschaft; dabei wurde die Beiständin verpflichtet, dem Vater der Kinder jeweils zweimal pro Jahr schriftlich über die persönliche Situation der beiden Verbeiständeten zu berichten. Dagegen erhob der Kindesvater Beschwerde, weil zwei Berichte pro Jahr zu wenig seien.
+2. a) Gemäss Art. 275a Abs. 1 ZGB sollen Eltern ohne elterliche Sorge über besondere Ereignisse im Leben des Kindes benachrichtigt und vor Entscheidungen, die für die Entwicklung des Kindes wichtig sind, angehört werden. Sie können bei Drittpersonen, die an der Betreuung des Kindes beteiligt sind, wie namentlich bei Lehrkräften, Ärztinnen und Ärzten in gleicher Weise wie der Inhaber der elterlichen Sorge Auskünfte über den Zustand und die Entwicklung des Kindes einholen[1].
+b) Der Zweck dieser Bestimmung ist es, Eltern, die nicht oder nicht mehr Inhaber der elterlichen Sorge sind, die Möglichkeit zu geben, am Wohlergehen des Kindes Anteil zu nehmen und ihr Verantwortungsgefühl im Interesse des Kindes zu fördern[2]. Das Informations- und Auskunftsrecht gemäss Art. 275a ZGB wird – wie jedes Recht – durch die Rechte des Anderen, hier namentlich durch die Persönlichkeitsrechte des Kindes beschränkt[3]. Im Einzelfall muss zwischen dem Informationsanspruch des nicht Obhutsberechtigten und dem persönlichkeitsrechtlichen Anspruch des Kindes auf Geheimhaltung eines informationellen Kernbereichs abgewogen werden[4].
+c) Die Bestimmungen über die Schranken des persönlichen Verkehrs gelten sinngemäss[5]. Dementsprechend kann das Informations- und Auskunftsrecht eingeschränkt oder aufgehoben werden, soweit es im Interesse des Kindes erforderlich ist. Art. 274 ZGB ist insoweit entsprechend anwendbar[6]. Bei anhaltenden schweren Konflikten zwischen den Eltern mag die Pflicht zur Information oder Anhörung im Einzelfall dem sorgeberechtigten Elternteil nicht zumutbar sein, doch bleibt auf jeden Fall das Recht auf Auskunft gegenüber Dritten unberührt[7].
+3. Es ist unbestritten, dass zwischen dem Beschwerdeführer und der Mutter der Kinder seit längerem tiefgreifende Konflikte bestehen. Diese Situation führte letztendlich auch zur Errichtung der Beistandschaft. Daher scheint es nicht zielführend, die Mutter der Kinder anzuweisen, den Beschwerdeführer laufend über die wichtigen Ereignisse zu informieren. Vielmehr ist zu erwarten, dass bei einer direkten Information durch die Mutter der Kinder zwischen den Eltern weitere Konflikte über die Art, die Häufigkeit und die Detailliertheit der Auskunftserteilung entstehen würden. Eine Verschärfung des bereits bestehenden Konflikts wäre aber dem Kindeswohl abträglich.
+4. Richtig ist es, die Beiständin mit der entsprechenden Information zu beauftragen, wobei auch die Informationspflicht verhältnismässig zu bleiben hat. Mit der Anordnung an die Beiständin, dem Beschwerdeführer zweimal pro Jahr einen schriftlichen Bericht über die persönliche Situation der Kinder zu erstatten, ist die Vorinstanz den Anliegen des Beschwerdeführers in durchaus genügendem Mass nachgekommen.
+5. a) Durch die Informationspflicht der Beiständin wird das Recht des Beschwerdeführers, bei Dritten Erkundigungen einzuholen, nicht eingeschränkt. Der Beschwerdeführer ist daher grundsätzlich auch befugt, sich beispielsweise bei Ärzten und Schulen häufiger als nur halbjährlich über den Zustand und die Entwicklung seiner Kinder zu erkundigen.
+b) Aus Art. 275a ZGB können drei Rechte abgeleitet werden, ein Benachrichtigungs-, ein Anhörungs- und ein Auskunftsrecht[8]. Der nicht sorgeberechtigte Elternteil hat einen Anspruch, über besondere Ereignisse im Leben des Kindes benachrichtigt zu werden. Dieser Anspruch richtet sich nach dem Einzelfall, mithin nach der Frage, welche konkrete Beziehung zwischen dem Kind und dem betroffenen Elternteil besteht; je enger diese ist, umso eher muss ein Ereignis als "besonders" bezeichnet werden. Gewisse Ereignisse sind aber in jedem Fall als mitteilungspflichtig zu betrachten, wie etwa ein Schulabschluss, die Berufswahl, berufliche oder schulische Misserfolge sowie schwere Erkrankungen oder ein Wohnsitzwechsel[9]. Die Benachrichtigungspflicht trifft in erster Linie den sorgeberechtigten Elternteil oder den Beistand; der Beistand kann sich nicht damit begnügen, dass in erster Linie die Informationspflicht den sorgeberechtigten Elternteil trifft, und er kann nicht einfach davon ausgehen, dass dieser Elternteil seinen Pflichten nachkommt. Der Beistand muss vielmehr den anderen Elternteil von sich aus über gewisse Vorkommnisse informieren[10]. Neben dem Benachrichtigungsrecht besteht auch ein Recht, vor gewissen Entscheidungen angehört zu werden, wobei nicht ein Mitsprachrecht gemeint ist; der Berechtigte hat keinen Anspruch, dass seiner Meinung gefolgt wird. Er hat aber einen Anspruch darauf, dass seine Meinung zur Kenntnis genommen und bei der Entscheidung berücksichtigt wird. Gegenstand der Anhörung sind Entscheide, die für die Entwicklung des Kindes wichtig sind; der Begriff ist wesentlich enger als die "besonderen Ereignisse" und meint nur Entscheide, welche für die Zukunft des Kindes ausschlaggebend sind[11]. Die Auskunftspflicht von Dritten gemäss Art. 275a Abs. 2 ZGB schliesslich umfasst alle Informationen, welche auch dem Inhaber der elterlichen Sorge zustehen und den Zustand und die Entwicklung des Kindes betreffen, wobei es nicht darum geht, Auskunft über alltägliche Ereignisse zu erhalten, welche nicht oder wenigstens nicht in diesem Detaillierungsgrad für die Entwicklung des Kindes eine gewisse Aussagekraft haben. Der Begriff "Drittpersonen" ist dabei weit zu verstehen; er umfasst Lehrer und Lehrmeister, Sporttrainer, Jugendgruppenleiter, Musiklehrer, aber auch Medizinalpersonen[12].
+c) Allerdings ist der Beschwerdeführer darauf hinzuweisen, dass das Auskunftsrecht gemäss Art. 275a Abs. 2 ZGB nicht als Kontrollrecht missbraucht werden darf. Es geht nicht darum, dass ein Elternteil die Ausübung der elterlichen Sorge durch den anderen kontrolliert und sich in dessen Erziehungsaufgaben einmischt[13]. Sollte der Beschwerdeführer das Informations- und Auskunftsrecht gemäss Art. 275a ZGB zur Mitbestimmung in Kinderbelangen oder zur Kontrolle der Sorgerechtsinhaberin missbrauchen und damit pflichtwidrig ausüben, so kann es künftig eingeschränkt oder entzogen werden[14].
+Obergericht, 1. Abteilung, 6. April 2016, KES.2016.14
+[1] Art. 275a Abs. 2 ZGB
+[2] Schwenzer/Cottier, Basler Kommentar, Art. 275a ZGB N 2
+[3] BGE vom 11. Februar 2015, 5A_889/2014, Erw. 3.2.2
+[4] Schwenzer/Cottier, Art. 275a ZGB N 7
+[5] Art. 275a Abs. 3 ZGB
+[6] Schwenzer/Cottier, Art. 275a ZGB N 8; BGE vom 11. Februar 2015, 5A_889/2014, Erw. 3.2.3
+[7] BGE 140 III 344; BGE vom 3. Februar 2015, 5A_638/2014, Erw. 5.1; Schwenzer/Cottier, Art. 275a ZGB N 6
+[8] Affolter, Informations-, Anhörungs- und Auskunftsrecht des nichtsorgeberechtigten Elters (Art. 275a ZGB), in: ZVW 64, 2009, S. 381
+[9] Geiser, Informations-, Anhörungs- und Auskunftsrecht des nicht sorgeberechtigten Elternteils, in: FamPra.ch 2012 S. 9 f.
+[10] Geiser, S. 10
+[11] Geiser, S. 10 f.
+[12] Geiser, S. 11 f.
+[13] BGE vom 11. Februar 2015, 5A_889/2014, Erw. 3.2.2
+[14] BGE vom 11. Februar 2015, 5A_889/2014, Erw. 3.2.3
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
