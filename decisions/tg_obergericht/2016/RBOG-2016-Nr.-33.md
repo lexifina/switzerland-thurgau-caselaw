@@ -1,0 +1,81 @@
+---
+decision_id: "tg_obergericht_RBOG_2016_Nr._33"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2016 Nr. 33"
+docket_2: "SW.2016.24"
+decided: "2016-04-20"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/67AA86A2-CE91-D31D-7005651D583B2709.html"
+cites_law: ["switzerland/bund/acts/312.0/art-076.md", "switzerland/bund/acts/312.0/art-087.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-379.md", "switzerland/bund/acts/312.0/art-386.md"]
+---
+
+# TG Obergericht RBOG 2016 Nr. 33
+
+## Regeste
+
+Am 7. April 2014 sandte die Staatsanwaltschaft der Rechtsbeiständin des Beschwerdeführers Kopien der Akten nach Deutschland. Es ist auch nicht anzunehmen, dass sich der Beschwerdeführer knapp zwei Jahre nach Erlass des Strafbefehls respektive der Erhebung der Einsprache der Tragweite des Rückzugs bewusst war; jedenfalls enthält die Aktennotiz vom 22. Februar 2016 keinerlei Hinweise auf eine entsprechende Belehrung des Beschwerdeführers. So bestellte der Beschwerdeführer eine Rechtsbeiständin,...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 20.04.2016 RBOG 2016 Nr. 33 (SW.2016.24)
+Thurgovie Obergericht Rechenschaftsbericht 20.04.2016 RBOG 2016 Nr. 33 (SW.2016.24)
+Turgovia Obergericht Rechenschaftsbericht 20.04.2016 RBOG 2016 Nr. 33 (SW.2016.24)
+
+Am 7. April 2014 sandte die Staatsanwaltschaft der Rechtsbeiständin des Beschwerdeführers Kopien der Akten nach Deutschland. Es ist auch nicht anzunehmen, dass sich der Beschwerdeführer knapp zwei Jahre nach Erlass des Strafbefehls respektive der Erhebung der Einsprache der Tragweite des Rückzugs bewusst war; jedenfalls enthält die Aktennotiz vom 22. Februar 2016 keinerlei Hinweise auf eine entsprechende Belehrung des Beschwerdeführers. So bestellte der Beschwerdeführer eine Rechtsbeiständin,...
+
+RBOG 2016 Nr. 33
+RBOG 2016 Nr. 33
+Mündlicher Rückzug der Einsprache gegen den Strafbefehl
+(Art. 354 Abs. 1, 355 Abs. 2, 356 Abs. 4, 386 Abs. 1 StPO)
+1.     a)    Zwar sieht Art. 354 Abs. 1 StPO vor, dass die Einsprache gegen den Strafbefehl schriftlich einzureichen ist, doch findet sich in der StPO nirgends eine Be­stimmung, wonach für den Rückzug der Einsprache Schriftlichkeit erforderlich sei. Art. 386 StPO hält fest, dass Rechtsmittel auch mündlich zurückgezogen werden kön­nen; allerdings lässt sich diese Bestimmung höchstens sinngemäss heranziehen, da die Einsprache bloss ein Rechtsbehelf und kein Rechtsmittel ist
+[1]
+. Demzufolge sind die allgemeinen Bestimmungen für Rechtsmittel im Sinn von Art. 379 ff. StPO nicht oder nur teilweise ergänzend anwendbar. Das Bundesgericht äusserte sich zu dieser Frage, soweit ersichtlich, nicht. Auch die Lehre beschäftigte sich nur spärlich mit dieser Thematik. Immerhin hält Daphinoff
+[2]
+fest, dass aus Gründen der Rechtssicher­heit die Formvorschriften, die für die Erhebung der Einsprache gelten, auch auf den Rückzug der Einsprache anzuwenden seien. Eine mündlich zurückgenommene Einsprache sei vorbehältlich der hier nicht interessierenden Fälle von Art. 355 Abs. 2 und 356 Abs. 4 StPO sowie der zu Protokoll genommenen und vom Erklärenden unterschriftlich bestätigten Rückzugserklärung ungültig und entfalte keine Rechtswirkungen. Damit betreibt der Autor Lückenfüllung mittels Analogieschlusses
+[3]
+. Allerdings ist rechtsmethodisch auch ein qualifiziertes Schweigen des Gesetzgebers denkbar, zumal die Botschaft sich zur Form des Einspracherückzugs nicht äussert
+[4]
+. Mit anderen Wor­ten ist nicht ausgeschlossen, dass der Gesetzgeber mit seinem Schweigen zur Form des Rückzugs der Einsprache zum Ausdruck brachte, dass dieser auch mündlich möglich sein soll. Hiezu passt, dass Verfahrenshandlungen vorbehältlich anderweitiger ausdrücklicher gesetzlicher Anordnung mündlich oder schriftlich vorgenommen werden können
+[5]
+.
+b)    Letztlich kann diese Frage aber offen gelassen werden, denn die Staatsanwaltschaft trägt die Beweislast dafür, dass zum einen ein solcher Rückzug tatsächlich geäussert wurde und zum anderen die Äusserung in Kenntnis der Tragweite und Folgen sowie unmissverständlich und unbeeinflusst erfolgte. Erforderlich ist somit, dass der Verzicht unzweideutig vorliegt und nicht auf einer dem Fairnessprinzip widersprechenden Weise zustande kam
+[6]
+. Es rechtfertigt sich, die strenge Rechtsprechung des Bundesgerichts
+[7]
+zur Rückzugsfiktion nach Art. 355 Abs. 2 oder 356 Abs. 4 StPO sinngemäss anzuwenden. Dementsprechend darf ein mündlicher Rückzug der Einsprache gegen den Strafbefehl nur angenommen werden, wenn sich aus dem gesamten Verhalten des Betroffenen der Schluss aufdrängt, er verzichte mit seinem Desinteresse am weiteren Gang des Verfahrens bewusst auf den ihm zustehenden Rechtsschutz. Zu verlangen ist, dass der Beschuldigte um die Konsequenzen seines mündlichen Rückzugs weiss und in Kenntnis der massgebenden Rechtslage auf die ihm zustehenden Rechte verzichtet. Der Beschuldigte muss sich mit anderen Worten der gesetzlich vorgesehenen Konsequenzen seines mündlich erklärten Einspracherückzugs bewusst sein.
+2.     a)    Die dem Beschwerdeführer zur Last gelegte Widerhandlung gegen das Strassenverkehrsgesetz datiert vom 15. Januar 2014. Am 13. / 14. März 2014 erliess die Staatsanwaltschaft einen Strafbefehl. Dagegen erhob der Beschwerdeführer am 2. April 2014 Einspra­che. Am 7. April 2014 sandte die Staatsanwaltschaft der Rechtsbeiständin des Beschwerdeführers Kopien der Akten nach Deutschland. Am 10. April 2014 liess die Rechtsbeiständin der Staatsanwaltschaft eine Vollmacht zukommen. Danach enthalten die Akten bis auf den Vermerk der Staatsanwaltschaft vom 22. Februar 2016, wonach der Beschwerdeführer gleichentags am Telefon die Einsprache zurückgezogen habe, keine Hinweise auf Verfahrenshandlungen mehr. Allerdings behauptete die Staatsanwaltschaft in der Beschwerdeantwort, sie habe im Herbst 2015 mit der deutschen Anwaltskanzlei und Ende 2015 mit dem Beschwerdeführer persönlich telefoniert. Indessen sucht man in den Akten zu diesen angeblichen Kontakten vergeblich nach entsprechenden Aktennotizen. Damit handelte die Staatsanwaltschaft wider die Dokumentationspflicht; diese verlangt, dass die Staatsanwaltschaft im Strafverfahren sämtliche prozessualen Vorgänge respektive Verfahrenshandlungen aktenkundig macht. Zu protokollieren sind auch ergebnislose oder unergiebige Abklärungen, wobei alle während der Strafuntersuchung erstellten Unterlagen und sämtliche im Rahmen des Verfahrens gemachten Eingaben ins Dossier aufge­nommen werden müssen. Dabei muss aus den Akten ersichtlich sein, wer sie erstellt hat und wie sie zustande gekommen sind
+[8]
+. An dieser Dokumentationspflicht der Behörde ändert auch der Umstand nichts, dass der Beschwerdeführer die telefonische Kontaktaufnahme Ende 2015 seitens der Staatsanwaltschaft in der Beschwerdereplik anerkannte. Der Beschwerdeführer führte in diesem Zusammenhang aus, er habe nach diesem Telefongespräch umgehend die deutsche Anwaltskanzlei kontaktiert und von dort die Auskunft erhalten, er brauche sich keine Gedanken zu machen, weil die Angelegenheit "in Arbeit" sei. Gestützt darauf sei er davon ausgegangen, nach wie vor durch diese Kanzlei vertreten zu sein. Vor diesem Hintergrund musste der Beschwerdeführer nicht mit einem weiteren Anruf seitens der Staatsanwaltschaft rechnen, zumal es in jedem Fall und unter gar keinen Umständen angeht, dass ein Staatsanwalt oder eine Staatsanwältin einen anwaltlich vertretenen Einsprecher
+[9]
+direkt kontaktiert, um mit ihm über einen allfälligen Einspracherückzug zu diskutieren
+[10]
+. Dies gilt sogar für den Fall, dass der Einsprecher – wie von der Staatsanwaltschaft behauptet – eine telefonische Kontaktaufnahme wünscht, weil er als Lkw-Fahrer im Fernverkehr postalisch nur schlecht erreichbar ist, mit der Folge, dass seine Post zwischengelagert werden muss. Insofern ist nachvollziehbar, dass sich der Beschwerdeführer in seiner Beschwerdeschrift darüber wunderte, dass er trotz anwaltlicher Vertretung von der Staatsanwaltschaft während der Arbeit telefonisch kontaktiert worden war.
+b)    Ausserdem hatte der Beschwerdeführer gemäss Aktennotiz vom 22. Februar 2016 gleichentags am Telefon mitgeteilt, seine Anwälte in Deutschland hätten ihn im Stich gelassen, beziehungsweise die für ihn zuständige Anwältin arbeite nicht mehr bei der von ihm beauftragten Anwaltskanzlei. Damit besteht Grund zur Annahme, dass der Rückzug der Einsprache nicht unbeeinflusst vom Umstand er­folgte, dass sich der Beschwerdeführer überfordert fühlte, sodass der Rückzug weit mehr als Akt der Verzweiflung denn als bewusster, unmissverständlicher Verzicht auf den Rechtsschutz aufzufassen ist. Es ist auch nicht anzunehmen, dass sich der Beschwerdeführer knapp zwei Jahre nach Erlass des Strafbefehls respektive der Erhebung der Einsprache der Tragweite des Rückzugs bewusst war; jedenfalls enthält die Aktennotiz vom 22. Februar 2016 keinerlei Hinweise auf eine entsprechende Belehrung des Beschwerdeführers. Bezeichnenderweise fühlte sich der Beschwerdeführer bereits nach Erhalt des Strafbefehls offensichtlich überfordert, weshalb er sich auch anwaltlich vertreten liess. So bestellte der Beschwerdeführer eine Rechtsbeiständin, obwohl ihm die Rechtsschutzversicherung mitgeteilt hatte, der Versicherungsschutz sei vom Ausgang des Strafverfahrens abhängig, was zur Folge hatte, dass der Beschwerdeführer seiner Anwältin in Deutschland im Juli 2014 einen Kostenvorschuss bezahlen musste.
+c)     Vor diesem Hintergrund ist nicht von einem unzweideutigen Verzicht des Beschwerdeführers auf das Einspracheverfahren auszugehen; vielmehr besteht Grund zur Annahme, dass der Verzicht auf den Rechtsschutz in einer dem Fairnessprinzip widersprechenden Weise zustande kam. Dieser Mangel wiegt hier insofern schwer, als erst die Einsprache dem Betroffenen überhaupt den Zugang zum ordentlichen Strafverfahren ermöglicht und ihm in vollem Umfang die Verfahrens- und Verteidigungsrechte, namentlich den Anspruch auf rechtliches Gehör, garantiert. So wird das Strafbefehlsverfahren erst durch den Rechtsbehelf der Einsprache zu einem verfassungs- und EMRK-konformen Strafverfahren
+[11]
+. Entsprechend sind an die Klarheit und Unmissverständlichkeit des Rückzugs der Einsprache hohe Anforderungen zu stellen.
+3.     Zusammenfassend ist die Abschreibungsverfügung der Staatsanwaltschaft aufzuheben, weil der Nachweis eines klaren, unmissverständlichen und in Kenntnis der Tragweite erfolgten Rückzugs der Einsprache fehlt. Damit lebt das Einspracheverfahren wieder auf, und es ist die Strafsache zur Weiterführung des Verfahrens an die Staatsanwaltschaft zurückzuweisen.
+Obergericht, 2. Abteilung, 20. April 2016, SW.2016.24
+[1]
+Schwarzenegger, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Hansjakob/Lieber) 2.A., Art. 354 N 1; Riklin, Basler Kommentar, Art. 354 StPO N 4
+[2]
+Daphinoff, Das Strafbefehlsverfahren in der Schweizerischen Strafprozessordung, Diss. Freiburg 2012, S. 620 f.
+[3]
+Art. 354 Abs. 1 StPO kommt analog zur Anwendung.
+[4]
+Botschaft zur Vereinheitlichung des Strafprozessrechts vom 21. Dezember 2005, in: BBl 2006 S. 1289 ff.
+[5]
+Donatsch/Schwarzenegger/Wohlers, Strafprozessrecht, 2.A., S. 261
+[6]
+BGE vom 27. Mai 2013, 6B_152/2013, Erw. 4.3 f. (= Pra 102, 2013, Nr. 99 S. 766)
+[7]
+BGE vom 27. Mai 2013, 6B_152/2013, Erw. 4.5 (= Pra 102, 2013, Nr. 99 S. 766 f.)
+[8]
+Art. 76 Abs. 1 StPO; Näpfli, Basler Kommentar, Art. 76 StPO N 8
+[9]
+Von einem Vertretungsverhältnis musste die Staatsanwaltschaft gemäss ihren eigenen Ausführungen in der Beschwerdeantwort indessen ausgehen, weil die Anwaltskanzlei in Deutschland im Herbst 2015 gerade nicht mitgeteilt hatte, das Mandat sei erloschen, und der Beschwerdeführer Ende 2015 angab, er habe keine Kenntnisse von einem Anwaltswechsel.
+[10]
+Vgl. Art. 87 Abs. 3 StPO; BGE vom 7. Februar 2012, 1B_700/2011, Erw. 2.1
+[11]
+Daphinoff, S. 552
