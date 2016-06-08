@@ -1,0 +1,95 @@
+---
+decision_id: "tg_obergericht_RBOG_2016_Nr._22"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2016 Nr. 22"
+docket_2: "SBR.2015.78"
+decided: "2016-06-08"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/39A227E5-BB9C-B17F-6F704282D000DF9B.html"
+cites_law: ["switzerland/bund/acts/311.0/art-030.md", "switzerland/bund/acts/312.0/art-119.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-142.md", "switzerland/bund/acts/312.0/art-304.md", "switzerland/bund/acts/312.0/art-329.md"]
+---
+
+# TG Obergericht RBOG 2016 Nr. 22
+
+## Regeste
+
+1. Der Berufungskläger machte geltend, es fehle in Bezug auf verschiedene Sachverhalte der Anklageschrift an gültigen Strafanträgen. 30 StGB ist eine Prozessvoraussetzung; fehlt ein gültiger Strafantrag, kommt eine Strafverfolgung und damit eine Bestrafung nicht in Betracht[1], und das Verfahren ist einzustellen[2]. Der Strafantrag ist als Willenserklärung des Verletzten definiert, dass eine Strafverfolgung stattfinden soll, wobei eine korrekte rechtliche Würdigung seitens des Antragstellers...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 08.06.2016 RBOG 2016 Nr. 22 (SBR.2015.78)
+Thurgovie Obergericht Rechenschaftsbericht 08.06.2016 RBOG 2016 Nr. 22 (SBR.2015.78)
+Turgovia Obergericht Rechenschaftsbericht 08.06.2016 RBOG 2016 Nr. 22 (SBR.2015.78)
+
+1. Der Berufungskläger machte geltend, es fehle in Bezug auf verschiedene Sachverhalte der Anklageschrift an gültigen Strafanträgen. 30 StGB ist eine Prozessvoraussetzung; fehlt ein gültiger Strafantrag, kommt eine Strafverfolgung und damit eine Bestrafung nicht in Betracht[1], und das Verfahren ist einzustellen[2]. Der Strafantrag ist als Willenserklärung des Verletzten definiert, dass eine Strafverfolgung stattfinden soll, wobei eine korrekte rechtliche Würdigung seitens des Antragstellers...
+
+RBOG 2016 Nr. 22
+RBOG 2016 Nr. 22
+Berechtigung zur Stellung eines Strafantrags
+(Art. 30 StGB; Art. 304 Abs. 1 StPO)
+1.     Der Berufungskläger machte geltend, es fehle in Bezug auf verschiedene Sachverhalte der Anklageschrift an gültigen Strafanträgen. Insbesondere fehle der Beweis, dass die "behaupteten Strafanträge" von den dazu berechtigten Personen gestellt worden seien. Die Strafanzeigen seien mündlich bei der Polizei deponiert worden. Die Rapporte über diese Anzeigeerstattungen stellten die einzigen Erfassungen der Aussagen der angeblich Geschädigten dar, die aber mangels Wahrung der Teilnahmerechte des Beschuldigten nicht verwertbar seien. Die Vorinstanz habe sich damit begnügt, darauf hinzuweisen, dass die Strafanzeigen den Interessen der Geschädigten entsprächen; sie habe sich aber nicht damit beschäftigt, ob die Anzeigeerstatter überhaupt einen auch nur konkludenten Auftrag zur Antragstellung gehabt hätten. Zur Beantwortung dieser Frage sei ein Beweis über die Identität und den Zusammenhang der Anzeigeerstatter mit den Geschädigten erforderlich. Dieser Beweis könne entweder durch Urkunden oder durch eine formell korrekte Einvernahme erbracht werden. Was hingegen nicht genüge, sei die Zusammenfassung der angeblichen Behauptungen eines angeblichen Vertreters einer angeblich Geschädigten im Rahmen eines polizeilichen Ermittlungsberichts. Ein Personalbeweis sei nur relevant, wenn er gemäss den Regeln von Art. 142 ff. StPO parteiöffentlich protokolliert worden sei.
+2.     a)    Ist die Tat nur auf Antrag strafbar, kann jede Person, die durch sie verletzt worden ist, gemäss Art. 30 Abs. 1 StGB die Bestrafung des Täters beantragen.
+b)    Der Strafantrag gemäss Art. 30 StGB ist eine Prozessvoraussetzung; fehlt ein gültiger Strafantrag, kommt eine Strafverfolgung und damit eine Bestrafung nicht in Betracht
+[1]
+, und das Verfahren ist einzustellen
+[2]
+. Der Strafantrag ist als Willenserklärung des Verletzten definiert, dass eine Strafverfolgung stattfinden soll, wobei eine korrekte rechtliche Würdigung seitens des Antragstellers nicht notwendig ist. Solange sich keine Hinweise darauf ergeben, dass der Strafantragsberechtigte bestimmte Tatbestände von der Untersuchung ausnehmen wollte, wirkt die rechtliche Würdigung nicht einschränkend
+[3]
+. Nach Art. 304 Abs. 1 StPO ist der Strafantrag bei der Polizei, der Staatsanwaltschaft oder der Übertretungsstrafbehörde schriftlich einzureichen oder mündlich zu Protokoll zu geben. Auch die Erklärung nach Art. 119 Abs. 1 StPO, mit der sich eine geschädigte Person im Strafpunkt als Privatkläger konstituiert, ist als Strafantrag zu qualifizieren
+[4]
+.
+c)     Das Recht, Strafantrag zu stellen, ist grundsätzlich höchstpersönlicher Natur und nicht übertragbar
+[5]
+. Aus der höchstpersönlichen Natur des Antragsrechts folgt aber nicht, dass dieses nicht auch von einem Vertreter ausgeübt werden könnte (Vertretung in der Erklärung); dabei reicht die Erteilung einer generellen Vollmacht aus. Es kann somit einem bevollmächtigten Vertreter die Befugnis eingeräumt werden, die Willenserklärung abzugeben. Eine Vollmacht, die dem Vertreter die Entscheidung überlässt, ob er Strafantrag erheben will (Vertretung im Willen), genügt dort, wo die Verletzung materieller Rechtsgüter in Frage steht, die nicht direkt von der Person des Berechtigten abhängen, sondern etwa von einer vertraglichen Beziehung (wie etwa beim Hausfriedensbruch). In solchen Fällen ist die Vertretung durch eine generelle Ermächtigung zulässig. Der Antrag ist somit auch gültig, wenn er sich auf eine vom Geschädigten vor der Tat erteilte Vollmacht stützt. Insbesondere darf die Ermächtigung des Vertreters zur Antragstellung in der Regel angenommen werden, wenn das betreffende Delikt materielle Rechtsgüter verletzt, mit deren Wahrung oder Verwaltung der Vertreter in allgemeiner Hinsicht betraut ist. Einer speziellen, auf den konkreten Fall zugeschnittenen ausdrücklichen oder konkludenten Ermächtigung bedarf der Bevollmächtigte nur bei Verletzung höchstpersönlicher immaterieller Rechtsgüter
+[6]
+.
+d)    Wurde eine juristische Person durch eine Straftat verletzt, richtet sich die Zuständigkeit zur Antragstellung nach ihrer inneren Organisation. Die jeweiligen Kompetenzen gehen zunächst aus dem Handelsregistereintrag oder den Statuten hervor. Dabei kann allerdings nicht verlangt werden, dass für die Stellung eines Strafantrags jeweils eine entsprechende Vollmacht eines im Handelsregister eingetragenen Organs der juristischen Person vorgelegt wird; andernfalls würden die formellen Anforderungen insbesondere mit Blick auf grössere Unternehmen völlig überdehnt. Zulässig ist jedoch auch die Antragstellung durch eine Person, die ausdrücklich oder stillschweigend damit beauftragt ist, die konkret betroffenen Interessen der juristischen Person zu wahren, ohne dabei im Handelsregister aufgeführt zu sein. Voraussetzung ist allerdings, dass der Antrag dem Willen der Gesellschaftsorgane nicht widerspricht und von diesen genehmigt werden kann
+[7]
+.
+e)     Nach Art. 139 Abs. 2 StPO wird über Tatsachen, die unerheblich, offenkundig, der Strafbehörde bekannt oder bereits rechtsgenügend nachgewiesen sind, nicht Beweis geführt. Zu den offenkundigen Tatsachen gehören Informationen, die allgemeinkundig sind, das heisst, von denen verständige Menschen regelmässig Kenntnis haben oder über die sie sich ohne besondere Fachkunde aus allgemein und öffentlich zugänglichen Quellen jederzeit unschwer unterrichten können
+[8]
+, wie in der einschlägigen Fachliteratur beschriebene, wissenschaftlich nachgewiesene Fakten oder unbestrittene beziehungsweise unbestreitbare Tatsachen, die deshalb allgemein bekannt sind, weil über sie in den Medien breit berichtet worden ist, oder weil sie über Nachschlagewerke oder seriöse Quellen im Internet abgerufen werden können
+[9]
+. Heute kann wohl als unbestritten gelten, dass Informationen aus dem Internet eine gewisse Notorietät zukommen kann
+[10]
+. Als allgemein bekannte Tatsachen können auch solche gelten, die nicht in allen Landesteilen oder nur einem begrenzten Personenkreis bekannt sind, wie etwa die besonderen Verkehrsverhältnisse in einer Gemeinde
+[11]
+. Allgemein bekannte Tatsachen haben indessen eine klare Begrenzung ihrer Beweistauglichkeit: Ein Fahrplan belegt nur die vorgesehenen Bahnverbindungen, nicht aber, ob tatsächlich ein Zug fuhr; eine Landkarte belegt nur, wo eine Strasse durchführt, nicht aber, ob sie im fraglichen Zeitpunkt befahrbar war. Der Richter darf ausserdem auf allgemein bekannte Tatsachen aus der Lebenserfahrung abstellen. Solche Erfahrungstatsachen sind im Rahmen jeder Beweiswürdigung von Bedeutung; es ist indessen in jedem Einzelfall zu prüfen, welcher Beweiswert ihnen im Zusammenhang mit den konkreten Umständen zukommt
+[12]
+. Schliesslich muss der Richter bei der Beweiswürdigung auch berücksichtigen, wenn ein Sachverhalt völlig lebensfremd geschildert wird
+[13]
+.
+3.     a)    aa)   In Bezug auf den Einbruchdiebstahl im A Gartencenter unterzeichnete A den Strafantrag für das Gartencenter. Die Verteidigung bemängelte, zu diesem Unternehmen sei kein Handelsregistereintrag zu finden, weshalb keine verwertbaren Angaben über die Rolle von A in diesem Betrieb zu finden seien; ebenso fehle eine Vollmacht.
+bb)   Da jede Person, die ausdrücklich oder stillschweigend damit beauftragt ist, die konkret betroffenen Interessen der Privatklägerin zu wahren, zum Strafantrag berechtigt ist, sind diese Einwendungen fehl am Platz. Vorab ist ein Handelsregistereintrag nicht zwingend, da es sich bei der Privatklägerin um eine Einzelunternehmung handelt. Im Übrigen ist die Berechtigung von A zur Stellung eines Strafantrags offensichtlich, zumal es sich gemäss Website und Presseberichten um den Betriebsinhaber handelt. Ausserdem ergibt sich aus dem Grundbuch, dass A an dieser Adresse über ein selbstständiges und dauerndes Baurecht für ein Gartencenter (Verkaufsanlage) oder ein anderes stilles Gewerbe verfügt. Damit liegt ein gültiger Strafantrag vor.
+b)    aa)   Beim Einbruch in das See-Restaurant wurden die Strafanträge für die B AG von C und für die Stadt von D gestellt. Auch hier rügt die Verteidigung, die Berechtigungen seien nicht nachvollziehbar dokumentiert.
+bb)   D ist Bereichsleiter Tiefbau bei der Stadt und damit offensichtlich berechtigt, für die Stadt einen Strafantrag einzureichen. Als notorisch darf aufgrund von Medienberichten auch gelten, dass C als Geschäftsführerin des Restaurants tätig ist; auch hier kann die Berechtigung zur Stellung eines Strafantrags nicht ernsthaft bezweifelt werden.
+c)     In Bezug auf den Einbruchdiebstahl bei "E-Einrah­mungen" unterzeichnete E den Strafantrag. Die Rüge der Verteidigung, die Berechtigung zur Antragstellung sei nicht ausgewiesen, ist offensichtlich unberechtigt, nachdem aufgrund von Branchenverzeichnissen und Presseberichten als notorisch gelten kann, dass das Geschäft von E geführt wurde.
+Obergericht, 1. Abteilung, 8. Juni 2016, SBR.2015.78
+Eine dagegen erhobene Beschwerde ist beim Bundesgericht hängig (6B_1023/2016).
+[1]
+BGE 129 IV 311
+[2]
+Stephenson/Zalunardo-Walser, Basler Kommentar, Art. 329 StPO N 13; Griesser, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Hans­jakob/Lieber), 2.A., Art. 329 N 27
+[3]
+Trechsel/Jean-Richard, in: Schweizerisches Strafgesetzbuch, Praxiskommentar (Hrsg.: Trechsel/Pieth), 2.A., vor Art. 30 N 8
+[4]
+Riedo, Basler Kommentar, Art. 30 StGB N 50; Lieber, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Hansjakob/Lieber), 2.A., Art. 118 N 6; Schmid, Handbuch des Schweizerischen Strafprozessrechts, 2.A., N 690
+[5]
+BGE 130 IV 98, 122 IV 208, 99 IV 2
+[6]
+BGE 122 IV 208 f.; BGE vom 26. September 2012, 6B_334/2012, Erw. 2.2
+[7]
+Riedo, Art. 30 StGB N 81; BGE 118 IV 170; BGE vom 14. November 2012, 6B_99/2012, Erw. 3.2; BGE vom 16. Februar 2010, 6B_972/2009, Erw. 3.4.1; BGE vom 8. Januar 2009, 6B_762/2008, Erw. 3.5
+[8]
+BGHSt 26, 59
+[9]
+Zweidler, Die Praxis zur thurgauischen Strafprozessordnung, Bern 2005, § 151 N 31; Gless, Basler Kommentar, Art. 139 StPO N 35; Schmid, N 778; vgl. SJZ 92, 1996, S. 259 ff.
+[10]
+Vgl. BVGE vom 3. Mai 2011, B-934/2011, S. 20
+[11]
+Vgl. BGHSt 6, 293
+[12]
+Zweidler, § 151 StPO TG N 32
+[13]
+Zweidler, § 151 StPO TG N 33
