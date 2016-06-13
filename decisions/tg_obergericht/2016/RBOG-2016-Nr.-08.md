@@ -1,0 +1,75 @@
+---
+decision_id: "tg_obergericht_RBOG_2016_Nr._08"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2016 Nr. 08"
+decided: "2016-06-13"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2016-nr-8"
+cites_law: ["switzerland/bund/acts/210/art-404.md"]
+---
+
+# TG Obergericht RBOG 2016 Nr. 08
+
+## Regeste
+
+Entschädigung des Beistands; Bedeutung von Richtlinien; Verfahrenskosten der Kindes- und Erwachsenenschutzbehörde
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2016 RBOG 2016 Nr. 08
+Thurgovie Obergericht Rechenschaftsbericht 2016 RBOG 2016 Nr. 08
+Turgovia Obergericht Rechenschaftsbericht 2016 RBOG 2016 Nr. 08
+
+RBOG 2016 Nr. 08
+Skip to main content
+Show navigation
+Entschädigung des Beistands; Bedeutung von Richtlinien; Verfahrenskosten der Kindes- und Erwachsenenschutzbehörde
+§ 88 KESV
+,
+§ 10 VGG
+,
+Art. 404 ZGB
+1. a) X erlitt bei einem Unfall ein schweres Schädel-Hirn-Trauma; er bezieht eine IV-Rente und Hilflosenentschädigung und ist auf einen geschützten Rahmen angewiesen. Die Kindes- und Erwachsenenschutzbehörde hob die für X bestehende umfassende Beistandschaft auf und errichtete eine Vertretungsbeistandschaft mit Vermögensverwaltung; dabei ernannte sie einen neuen privaten Beistand. Diesen beauftragte sie einerseits mit der Personensorge für X und andererseits mit der Vertretung bei den administrativen und finanziellen Angelegenheiten sowie mit der Verwaltung des gesamten Einkommens und Vermögens.
+b) Der Beistand reichte den Beistandschaftsbericht und die Rechnung für den Zeitraum von 14 Monaten ein. Die Rechnung wies am Ende dieses Zeitabschnitts ein Reinvermögen von Fr. 821'631.23 aus. Die Kindes- und Erwachsenenschutzbehörde genehmigte den Bericht und die Rechnung. Sie verpflichtete X, dem Beistand für die Führung der Beistandschaft für die in Frage stehenden 14 Monate mit Fr. 1'980.00 (abzüglich Sozialversicherungsbeiträge) sowie mit Spesen von Fr. 230.00 zu entschädigen und der zuständigen Berufsbeistandschaft als Vermögenszuschlag Fr. 1'680.00 zu bezahlen. Die Verfahrenskosten von Fr. 1'920.00 wurden X auferlegt. Der Beistand erhob Beschwerde.
+2. a) Der Beistand hat Anspruch auf eine angemessene Entschädigung und auf Ersatz der notwendigen Spesen aus dem Vermögen der betroffenen Person[1]. Die Kindes- und Erwachsenenschutzbehörde legt die Entschädigung fest und berücksichtigt dabei den Umfang und die Komplexität der dem Beistand übertragenen Aufgaben[2]. Art. 404 ZGB gilt für alle Beistandschaften und unabhängig davon, ob es sich um einen Privat- oder einen Berufsbeistand handelt; die Ansätze müssen bei beiden Kategorien die gleichen sein[3]. Der Anspruch auf Entschädigung und Spesen besteht in allen Fällen, sofern das Mandat nicht aufgrund einer sittlichen Pflicht geführt wird[4].
+b) Die Kantone haben bezüglich ihrer Ausführungsbestimmungen über die Höhe der Entschädigungen ein weites Ermessen. Der Kanton kann aufgrund des zeitlichen Aufwands nach Stundenansätzen entschädigen oder Pauschalen festlegen. Dabei liegt grosses Gewicht auf der persönlichen Betreuung; durch stark unterschiedliche Ansätze darf diese Aufgabe nicht abgewertet werden. Für die Vermögensverwaltung können Pauschalgebühren vorgesehen werden, die auf das Bruttovermögen oder auf den Vermögensertrag abstellen. Die Kantone dürfen mithin zwischen hilfsbedürftigen Personen mit viel und wenig Vermögen differenzieren[5].
+c) Gemäss § 88 KESV legt die Kindes- und Erwachsenenschutzbehörde die Entschädigung des Beistands entweder nach dem notwendigen zeitlichen Aufwand oder nach einem entsprechend der Schwierigkeit des Mandats zu bestimmenden Pauschalbetrag fest. Der Stundenansatz beträgt Fr. 50.00 bis Fr. 70.00, wobei dieser Ansatz bei komplexen Fällen ausnahmsweise erhöht werden kann. Der Pauschalbetrag für eine zweijährige Rechnungs- oder Berichtsperiode beträgt in der Regel Fr. 1'000.00 bis Fr. 10'000.00. Auslagen, wie etwa Fahrspesen für Besuche bei der betroffenen Person, sind zusätzlich zu ersetzen, wobei die entsprechenden Kosten soweit möglich zu belegen sind. Massgebend für die Spesenansätze sind die Bestimmungen der Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals. Bei geringem Spesenaufwand können pauschale Spesen von Fr. 100.00 bis Fr. 400.00 pro Jahr zugesprochen werden. Bei privaten Beiständen rechnet die Behörde gegebenenfalls die Sozialversicherungsbeiträge ab.
+3. a) Der Beschwerdeführer rügte die Höhe seiner Entschädigung.
+b) Die Vorinstanz führte dazu aus, die Grundpauschale für eine einjährige Rechnungs- und Berichtsperiode betrage bei einer Vertretungsbeistandschaft mit Vermögensverwaltung praxisgemäss Fr. 1'700.00. Zudem werde bei einem Vermögen über Fr. 100'000.00 zugunsten der zuständigen Berufsbeistandschaft ein Zuschlag von 0,2% pro Jahr auf dem Vermögen erhoben.
+c) Ausgehend von der in § 88 KESV vorgesehenen Regelung liegt der Pauschalbetrag für eine Rechnungs- und Berichtsperiode von 14 Monaten bei rund Fr. 580.00 bis Fr. 5'830.00. Die Kindes- und Erwachsenenschutzbehörde vereinbarte mit den beteiligten Berufsbeistandschaften "Richtlinien für die Entschädigung und den Spesenersatz der Beiständinnen und Beistände", welche pro Jahr einen Regelsatz von Fr. 1'700.00 für eine Vertretungsbeistandschaft mit Vermögensverwaltung vorsieht. Diese Richtlinien sind zwar nicht rechtsverbindlich, vermögen aber in der Praxis zugunsten einer rechtsgleichen Behandlung gute Dienste zu leisten; insofern ist nicht zu beanstanden, dass sich die Vorinstanz an diese Richtlinien hält. Das gilt jedenfalls solange, bis das Obergericht, welches für den Erlass entsprechender Ausführungsbestimmungen zuständig ist[6], eigene Richtlinien herausgibt[7].
+d) Gemäss dem Bericht des Beistands stellte die persönliche Betreuung von X, der in einer Wohngruppe lebt, keine grösseren Probleme dar. Anspruchsvoll ist hingegen die Verwaltung seines Vermögens von über Fr. 800'000.00; allerdings weist auch die Rechnung keine grösseren Schwierigkeiten aus. Damit bestehen keine Gründe, die Grundpauschale zu erhöhen; die Festsetzung der Entschädigung auf Fr. 1'980.00 erscheint als angemessen.
+e) Nachdem sich die Vorinstanz bezüglich der Grundpauschale auf die "Richtlinien für die Entschädigung und den Spesenersatz der Beiständinnen und Beistände" berief, hat sie sich allerdings auch in den übrigen Bereichen an diese Richtlinien zu halten, zumal für Privatbeistände und Berufsbeistände keine unterschiedlichen Ansätze verwendet werden dürfen[8]. Die Richtlinien sehen einen "Vermögenszuschlag" von 0,2% vom verwalteten Vermögen ab Fr. 100'000.00 pro Jahr vor; dies macht hier für 14 Monate Fr. 1'680.00 aus[9]. Irgendwelche Gründe, dem Beschwerdeführer diesen Zuschlag auf der Entschädigung für die Verwaltung grösserer Vermögen nicht zusätzlich zuzusprechen, sind nicht ersichtlich.
+f) Die Vorinstanz sprach diesen Zuschlag der zuständigen Berufsbeistandschaft zu. Allerdings sehen nicht einmal die (nicht rechtsverbindlichen) "Richtlinien für die Entschädigung und den Spesenersatz der Beiständinnen und Beistände" bei Privatmandaten einen solchen Zuschlag zugunsten der Berufsbeistandschaft vor; daran ändert auch nichts, dass dieser Zuschlag für die Berufsbeistandschaft offenbar in Merkblättern erwähnt wird. Entscheidend ist, dass für ein solches Vorgehen nicht nur jede Rechtsgrundlage fehlt, sondern dass es auch gegen das kantonale Recht und gegen das Bundesrecht verstösst, welches nur eine Entschädigung für den Beistand kennt.
+4. a) Der Beschwerdeführer will eine Erhöhung der Spesen, während die Vorinstanz von einer Spesenpauschale von Fr. 200.00 pro Jahr ausging.
+b) Gemäss dem Bericht des Beschwerdeführers kam es zu verschiedenen Treffen und Telefonaten mit der Mutter von X; zudem organisierte der Beschwerdeführer einen Bankenwechsel und führte dazu Gespräche. Dabei absolvierte er drei Fahrten mit insgesamt 384 Kilometern; hiefür steht ihm eine Entschädigung von gerundet Fr. 270.00 zu[10]. Nachdem die Fahrtkosten separat entschädigt werden, rechtfertigt es sich, mit Bezug auf den zusätzlichen Aufwand, wie Telefon und Porti, für die Berichtsperiode eine zusätzliche Spesenpauschale von Fr. 100.00 zuzusprechen.
+5. a) Der Beschwerdeführer rügte zudem die Höhe der Verfahrenskosten der Kindes- und Erwachsenenschutzbehörde.
+b) Laut § 10 VGG[11] erhebt die Kindes- und Erwachsenenschutzbehörde für Entscheide der Kollegialbehörde eine Gebühr von Fr. 100.00 bis Fr. 5'000.00[12]. Für die Vorinstanz massgebend bei der Festsetzung der Verfahrensgebühr waren die Vermögensverhältnisse von X sowie die Dauer der Berichts- und Rechnungsperiode. Gemäss § 3 VGG ist die Verfahrensgebühr innerhalb des vorgesehenen Rahmens nach dem Aufwand der Behörde zu bemessen, wobei die Bedeutung des Falls und die Vermögensverhältnisse der betroffenen Partei zu berücksichtigen sind.
+c) Die Verfahrensgebühr von Fr. 1'920.00 liegt innerhalb des in § 10 Ziff. 1 VGG vorgesehenen Rahmens. Angesichts des Vermögens ist eine solche Verfahrensgebühr nicht willkürlich und liegt durchaus im Ermessen der Vorinstanz. Die Höhe der Verfahrenskosten kann nicht mit der Entschädigung des Beistands verglichen werden, zumal die Verfahrensgebühr nicht den Aufwand der Berufsbeistandschaft abdeckt, sondern als Anteil an die Kosten der Kindes- und Erwachsenenschutzbehörde erhoben wird, welche nicht nur Bericht und Rechnung prüfen, sondern auch das Dossier für X führen und periodisch dessen Situation prüfen muss[13].
+6. a) Der Beschwerdeführer beschwerte sich weiter darüber, dass ihm die massgebenden Berechnungsgrundlagen nicht zugänglich gemacht worden seien.
+b) Nur die im Gesetz[14] sowie in den Verordnungen des Obergerichts[15] enthaltenen Regelungen sind rechtsverbindlich; diese Erlasse sind öffentlich zugänglich[16]. Bei den übrigen Grundlagen handelt es sich um blosse Richtlinien und Empfehlungen, welche schon mangels Zuständigkeit der erlassenden Amtsstellen nicht verbindlich sind[17]. Wenn sich eine Amtsstelle aber ausdrücklich auf solche Richtlinien abstützt, gibt es keinen Grund, sie vertraulich zu behandeln. Einzelne Berufsbeistandschaften publizieren ihre Richtlinien denn auch im Internet. Nachdem der Beschwerdeführer indessen von den in Betracht kommenden Richtlinien Kenntnis hat, braucht dem nicht weiter nachgegangen zu werden.
+Obergericht, 1. Abteilung, 13. Juni 2016, KES.2016.32
+Auf eine dagegen erhobene Beschwerde trat das Bundesgericht am 15. Februar 2017 nicht ein (5A_534/2016).
+[1] Art. 404 Abs. 1 ZGB
+[2] Art. 404 Abs. 2 ZGB
+[3] Vgl. Reusser, Basler Kommentar, Art. 404 ZGB N 17
+[4] § 88 Abs. 6 KESV (Kindes- und Erwachsenenschutzverordnung, RB 211.24)
+[5] Reusser, Art. 404 ZGB N 44 f.
+[6] § 11c Abs. 2 EG ZGB
+[7] Anlässlich der letzten Revision der KESV sprachen sich der Verband der Thurgauer Gemeinden und verschiedene Gemeinden für den Erlass einheitlicher Richtlinien für den ganzen Kanton aus.
+[8] Reusser, Art. 404 ZGB N 17
+[9] Fr. 821'631.23 abzüglich Fr. 100'000.00, davon 0,2%, geteilt durch 12 mal 14; gerundet
+[10] § 64 Ziff. 1 der Verordnung des Regierungsrates zur Besoldungsverordnung, RRV BesV, RB 177.223
+[11] Verordnung des Grossen Rates über die Gebühren der Strafverfolgungs- und Gerichtsbehörden, RB 638.1
+[12] § 10 Abs. 1 Ziff. 1 VGG
+[13] Die von der Kindes- und Erwachsenenschutzbehörde erhobenen Verfahrensgebühren decken gemäss Staatsrechnung nur 11% des gesamten Aufwands der Behörde ab.
+[14] ZGB und EG ZGB sowie ZPO
+[15] KESV sowie ZSRV
+[16] Vgl. www.tg.ch; Rechtsbuch
+[17] Es handelt sich nicht einmal um Verwaltungsverordnungen in der üblichen Definition; vgl. BGE 141 III 401 ff.
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
