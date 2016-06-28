@@ -1,0 +1,44 @@
+---
+decision_id: "tg_obergericht_TVR_2017_Nr._10"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2017 Nr. 10"
+decided: "2016-06-28"
+published: "2017-11-15"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2017-nr-10"
+cites_law: ["switzerland/bund/acts/101/art-029.md"]
+---
+
+# TG Obergericht TVR 2017 Nr. 10
+
+## Regeste
+
+Vollstreckungsentscheid, Anfechtungsgründe
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 15.11.2017 TVR 2017 Nr. 10
+Thurgovie Obergericht Rechenschaftsbericht 15.11.2017 TVR 2017 Nr. 10
+Turgovia Obergericht Rechenschaftsbericht 15.11.2017 TVR 2017 Nr. 10
+
+TVR 2017 Nr. 10
+Skip to main content
+Show navigation
+Vollstreckungsentscheid, Anfechtungsgründe
+§ 86 Abs. 3 VRG
+Nebst den in § 86 Abs. 3 VRG aufgezählten Anfechtungsgründen kann immer auch geltend gemacht werden, die Vollstreckungsverfügung selbst leide an einem formellen Mangel (Verletzung der Ausstandspflicht, rechtliches Gehör etc.).
+Mit Entscheid vom 28. Juni 2016 verpflichtete der Stadtrat B die A AG, innert 30 Tagen ab Rechtskraft des Entscheides diverse (im Dispositiv konkret aufgeführte) Bauten und Anlagen zurückzubauen und die Gestaltung dieser Bereiche gemäss den vormals im Jahr 2011 bewilligten Plänen und Auflagen auszuführen. Für den Widerhandlungsfall wurde die Ersatzvornahme auf Kosten der Bauherrschaft (A AG) angedroht. Nachdem ein dagegen von der A AG erhobener Rekurs zurückgezogen worden war, erwuchs der Beschluss des Stadtrats B vom 28. Juni 2016 in Rechtskraft.
+Da die A AG den Rückbau- und Umgebungsgestaltungsverpflichtungen gemäss dem Beschluss vom 28. Juni 2016 nicht nachkam, erliess der Stadtrat B am 13. Juni 2017 einen weiteren Beschluss und ordnete unter anderem an, dass die im rechtskräftigem Beschluss vom 28. Juni 2016 verfügten Massnahmen zur Wiederherstellung des rechtmässigen Zustandes von Amtes wegen vorgenommen würden, wobei die A AG die anfallenden Kosten der Ersatzvornahme zu tragen habe. Diesen Beschluss focht die A AG am 28. Juni 2017 beim Verwaltungsgericht an. Das Verwaltungsgericht weist die Anfechtung des Vollstreckungsentscheids ab.
+Aus den Erwägungen:
+2.
+2.1
+2.1.1 Die Anfechtung von Vollstreckungsverfügungen zeichnet sich durch beschränkte Anfechtungsgründe aus: Gerügt werden kann nur die Unzuständigkeit der entscheidenden Behörde, die fehlende Vollstreckbarkeit oder die Nichtübereinstimmung des Zwangsvollstreckungsentscheids mit dem Sachentscheid. Einwände gegen die rechtskräftige Sachverfügung sind nicht mehr zu hören (Fedi/Meyer/Müller, Kommentar zum Gesetz über die Verwaltungsrechtspflege des Kantons Thurgau, Basel 2014, § 86 N. 19). Die Anfechtende bringt nun vor, dass der angefochtene Beschluss an einem Mangel in dem Sinne leide, als der Stadtpräsident beim Erlass des Beschlusses wegen Befangenheit hätte in den Ausstand treten müssen.
+2.1.2 Der Anfechtungsgrund der widerrechtlich (z. B. unter Verletzung der Ausstandspflicht) zustande gekommenen Vollstreckungsverfügung fehlt in der Aufzählung von § 86 Abs. 3 VRG. Bei der Ausstandspflicht von Verwaltungsbehörden handelt es sich aber um einen grundrechtlichen Anspruch, nämlich denjenigen auf gleiche und gerechte Behandlung gemäss Art. 29 Abs. 1 BV, vgl. Fedi/Meyer/Müller, a.a.O., § 7 N. 1). Die Enumeration der Anfechtungsgründe in § 86 Abs. 3 VRG bezweckt, dass im Vollstreckungsverfahren Einwände gegen die rechtskräftige Sachverfügung nicht mehr zu hören sind (Fedi/Meyer/Müller, a.a.O., § 86 N. 19, unter Verweis auf TVR 2003 Nr. 46; vgl. hierzu auch Jaag/Häggi Furrer, in: Waldmann/Weissenberger [Hrsg.], Praxiskommentar Verwaltungsverfahrensgesetz, 2. Aufl., Zürich/Basel/Genf 2016, Art. 39 N. 21). Die Verletzung unverjährbarer und unverzichtbarer Grundrechte, Mängel also, die in der Vollstreckungsverfügung selbst begründet sind, müssen daher trotz der Einschränkung der Anfechtungsgründe in § 86 Abs. 3 VRG im Anfechtungsverfahren ebenfalls geltend gemacht werden können (Jaag/Häggi Furrer, a.a.O., Art. 39 N. 22), zumal in schwerwiegenden Fällen einer Ausstandspflichtverletzung gegebenenfalls ohnehin von Nichtigkeit der angefochtenen Verfügung auszugehen wäre (TVR 2002 Nr. 5, E. 1c/bb).
+Entscheid des Verwaltungsgerichts VG.2017.90/E vom 15. November 2017
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
