@@ -1,0 +1,52 @@
+---
+decision_id: "tg_obergericht_TVR_2016_Nr._37"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2016 Nr. 37"
+decided: "2016-06-29"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2016-nr-37"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/837.0/art-016.md", "switzerland/bund/acts/837.0/art-017.md", "switzerland/bund/acts/837.0/art-030.md"]
+---
+
+# TG Obergericht TVR 2016 Nr. 37
+
+## Regeste
+
+Einstellung in der Anspruchsberechtigung; misslungene Zustellung der Bewerbungsunterlagen wegen fehlerhafter Eingabe der Mailadresse
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 29.06.2016 TVR 2016 Nr. 37
+Thurgovie Obergericht Rechenschaftsbericht 29.06.2016 TVR 2016 Nr. 37
+Turgovia Obergericht Rechenschaftsbericht 29.06.2016 TVR 2016 Nr. 37
+
+TVR 2016 Nr. 37
+Skip to main content
+Show navigation
+Einstellung in der Anspruchsberechtigung; misslungene Zustellung der Bewerbungsunterlagen wegen fehlerhafter Eingabe der Mailadresse
+Art. 30 Abs. 1 lit. d AVIG
+Wenn ein Versicherter für seine Bewerbung die Zustellart per Mail wählt, so trägt er das Risiko, wenn sie den Empfänger wegen eines Tippfehlers nicht erreicht. Hat dies zur Folge, dass eine Bewerbung verspätet oder gar nicht beim potentiellen Arbeitgeber eintrifft, so ist der Einstellungstatbestand von Art. 30 Abs. 1 lit. d AVIG erfüllt, denn er umfasst jedes Verhalten, welches das Zustandekommen eines Arbeitsvertrages scheitern lässt.
+F bezog seit dem 17. November 2014 Arbeitslosenentschädigung. Die für ihn zuständige Personalberaterin wies ihm ein Stellenangebot als Werkstattleiter (Automechaniker) zu, wo er sich innert dreier Tage zu bewerben hatte. Im Weisungsschreiben wurde als Bewerbungsadresse die Postadresse des Arbeitgebers sowie eine Mailadresse genannt. Gemäss Schreiben waren sowohl die schriftliche als auch die elektronische Bewerbungsform möglich. Das AWA erkundigte sich in der Folge beim potentiellen Arbeitgeber, ob F sich beworben habe. Gemäss ausgefülltem Rückmeldungsformular hatte F sich nicht beworben. In der Folge stellte das AWA F in seiner Anspruchsberechtigung 31 Tage ein, was auf Einsprache hin bestätigt wurde. Gegen den Einspracheentscheid liess F beim Versicherungsgericht Beschwerde führen, die teilweise gutgeheissen wird.
+Aus den Erwägungen:
+2.
+2.1 Der Versicherte, der Versicherungsleistungen beanspruchen will, muss mit Unterstützung des zuständigen Arbeitsamtes alles Zumutbare unternehmen, um Arbeitslosigkeit zu vermeiden oder zu verkürzen. Insbesondere ist er verpflichtet, Arbeit zu suchen, nötigenfalls auch ausserhalb seines bisherigen Berufes (Art. 17 Abs. 1 AVIG). Der Versicherte muss zur Schadenminderung grundsätzlich jede vermittelte zumutbare Arbeit unverzüglich annehmen (Art. 16 Abs. 1 und Art. 17 Abs. 3 Satz 1 AVIG).
+2.2 Nach dem klaren Willen des Gesetzgebers soll die Annahme einer im Sinne von Art. 16 Abs. 1 AVIG zumutbaren Zwischenverdienstarbeit nicht im Belieben der versicherten Person stehen. Vielmehr ist die versicherte Person verpflichtet, eine ihr zugewiesene, lohnmässig unzumutbare Zwischenverdienstarbeit anzunehmen. Die verschuldete Nichtannahme einer solchen Tätigkeit stellt einen Verstoss gegen die in Art. 17 Abs. 1 AVIG statuierte Schadenminderungspflicht dar und hat eine Einstellung zur Folge (BGE 122 V 39 E. 4b; Kupfer Bucher, Rechtsprechung des Bundesgerichts zum Bundesgesetz über die Obligatorische Arbeitslosenversicherung und Insolvenzentschädigung, 4. Aufl., Zürich/Basel/Genf 2013, S. 95).
+2.3 Der Versicherte ist in der Anspruchsberechtigung einzustellen, wenn er die Kontrollvorschriften oder die Weisungen der zuständigen Amtsstelle nicht befolgt, namentlich eine zumutbare Arbeit nicht annimmt oder eine arbeitsmarktrechtliche Massnahme ohne entschuldbaren Grund nicht antritt, abbricht oder deren Durchführung oder Zweck durch sein Verhalten beeinträchtigt oder verunmöglicht (Art. 30 Abs. 1 lit. d AVIG). Zweck der Einstellung als versicherungsrechtliche Sanktion ist die angemessene Mitbeteiligung der versicherten Person am Schaden, den sie durch ihr pflichtwidriges Verhalten der Arbeitslosenversicherung natürlich und adäquat kausal verursacht hat ([…] BGE 126 V 523 E. 4). Sie hat zudem zum Ziel, Druck auf die einzelne Person auszuüben und sie dadurch zur Erfüllung ihrer Pflichten zu bewegen (Verband Schweizerischer Arbeitsämter, Arbeitslosenversicherung, 8. Aufl., Bern 2003, S. 37).
+2.4 Eine Nichtannahme zumutbarer Arbeit liegt nicht nur dann vor, wenn die versicherte Person eine Stelle ausdrücklich zurückweist oder eine nach den Umständen gebotene ausdrückliche Annahmeerklärung unterlässt, sondern dieser Einstellungstatbestand erfasst grundsätzlich jedes Verhalten, welches das Zustandekommen eines Arbeitsvertrages scheitern lässt (Urteil des Bundesgerichts 8C_337/2008 vom 1. Juli 2008 E. 3.3.2). Die Nichtannahme einer zumutbaren Arbeit betrifft neben einer von der Amtsstelle zugewiesenen Arbeit auch die Nichtannahme einer selbst gefundenen Stelle oder von Dritten vermittelten oder angebotenen Arbeitsgelegenheit (Nussbaumer, in Meyer [Hrsg.]: Schweizerisches Bundesverwaltungsrecht, Band XIV, 3. Aufl., Basel 2016, S. 2519, N. 847 ff.). Die Bestimmung von Art. 30 Abs. 1 lit. d AVIG erfasst grundsätzlich jedes Verhalten, welches das Zustandekommen eines Arbeitsvertrages scheitern lässt. Der Tatbestand der Nichtannahme zumutbarer Arbeit ist auch dann erfüllt, wenn sich die arbeitslose Person trotz Zuweisung einer Stelle durch die zuständige Stelle oder Dritten nicht bewirbt oder nicht ernsthaft um die Aufnahme von Vertragsverhandlungen bemüht (ARV [Zeitschrift für Arbeitsrecht und Arbeitslosenversicherung] 1986 Nr. 5 S. 22; Nussbaumer, a.a.O., S. 2519, N. 850).
+2.5
+2.5.1 Nach dem im Sozialversicherungsprozess und damit auch im Arbeitslosenversicherungsrecht geltenden Beweismass der überwiegenden Wahrscheinlichkeit ist ein bestimmter Sachverhalt nicht bereits dann bewiesen, wenn er bloss möglich ist; hingegen genügt es, wenn das Gericht aufgrund der Würdigung aller relevanten Sachumstände, mithin nach objektiven Gesichtspunkten, zur Überzeugung gelangt ist, dass er der wahrscheinlichste aller in Betracht fallenden Geschehensabläufe - bei zwei möglichen Sachverhaltsvarianten: die wahrscheinlichere - ist (vgl. BGE 126 V 360 E. 5b), und zudem begründeterweise angenommen werden darf, dass weitere Beweismassnahmen an diesem feststehenden Ergebnis nichts mehr ändern (vgl. Urteil des Bundesgerichts I 362/1999 vom 8. Februar 2000 E. 4, mit Hinweisen).
+2.5.2 Im Sozialversicherungsrecht gilt der Grundsatz der freien Beweiswürdigung (Art. 61 lit. c ATSG). Das Versicherungsgericht hat den Sachverhalt von Amtes wegen festzustellen und alle Beweismittel objektiv zu prüfen, unabhängig davon, von wem sie stammen, und danach zu entscheiden, ob sie eine zuverlässige Beurteilung des strittigen Anspruchs gestatten (Kieser, ATSG-Kommentar, 3. Aufl., Zürich/Basel/Genf 2015, Art. 61 N. 97).
+2.5.3 Wegen der Massgeblichkeit des Untersuchungsgrundsatzes entfällt im Sozialversicherungsrecht eine Beweisführungslast. Immerhin tragen die Parteien eine dahingehende Beweislast, dass im Falle der Beweislosigkeit der Entscheid zu Ungunsten derjenigen Partei ausfällt, die aus dem unbewiesen gebliebenen Sachverhalt Rechte ableiten wollte (BGE 121 V 208 E. 6a). Von besonderer praktischer Bedeutung ist die Feststellung, dass bei einer in Aussicht genommenen Einstellung bzw. Herabsetzung einer bisher ausgerichteten Leistung diejenige Partei die Beweislast trägt, welche daraus Rechte ableiten will; dies wird regelmässig der Versicherungsträger sein (Kieser, a.a.O., Art. 43 N. 60 ff.).
+3. (…)
+4.
+4.1 Unbestritten ist, dass der Beschwerdeführer am 31. Mai 2015 und somit innert der am 27. Mai 2015 mittels Weisung gesetzten Frist eine E-Mail mit seinen Bewerbungsunterlagen an die Adresse xyz.abc@buewin.ch gesandt hat. Nicht strittig ist auch, dass er sich bei der Eingabe der Adresse vertippte und folglich die E-Mail ein zweites Mal erst am 5. Juni 2015 und damit nach Weisungsfristende zustellte, dieses Mal an die korrekte Adresse. Der Beschwerdeführer behauptete, er habe erst am 5. Juni 2015 eine automatisch generierte Mail erhalten, die auf die fehlerhafte Adresse hingewiesen habe und so gemerkt, dass er sich vertippt habe.
+4.2 Ob und wann der Beschwerdeführer eine Anzeige erhalten hat, dass seine Mail nicht zugestellt werden konnte, kann vorliegend offenbleiben, da dies letztlich irrelevant ist. Der Beschwerdeführer hatte sich gemäss der Weisung vom 27. Mai 2015 beim bezeichneten Arbeitgeber zu bewerben. Die Bewerbung ist aber beim Arbeitgeber bis am 11. Juni 2015 nicht eingetroffen. Dies wurde vom Arbeitgeber im Telefongespräch vom 16. Juni 2015 nochmals bestätigt. Der Beschwerdeführer ist allerdings der Auffassung, die am 5. Juni 2015 abgeschickte Mail müsse angekommen sein. Aufgrund der Akten muss daher davon ausgegangen werden, dass die Bewerbung des Beschwerdeführers auf jeden Fall nicht innert dreier Tage, möglicherweise sogar nie beim möglichen Arbeitgeber eingetroffen ist. Der Beschwerdeführer wählte für die Übermittlung seiner Bewerbung den Weg der elektronischen Post (E-Mail). Es ist aber hinlänglich bekannt, dass eine Zustellung per E-Mail gerade nicht als sicherer Zustellweg angesehen werden kann. Wenn der Beschwerdeführer diese Zustellart wählt, so trägt er das Risiko, wenn die Mail den Empfänger nicht erreicht. Es verhält sich hier nicht anders als etwa bei der Zuhilfenahme einer Bank bei einer Zahlung. Auch hier trägt derjenige das Risiko, der die Zahlung aufgibt, wenn die Zahlung nicht rechtzeitig eintrifft. Dies gilt jedenfalls dann, wenn sich der Beschwerdeführer bei der Angabe der Adresse vertippt. Abgesehen davon muss aufgrund der auf Nachfragen hin bestätigten Aussage des Arbeitgebers davon ausgegangen werden, dass auch die E-Mail vom 5. Juni 2015 nicht angekommen ist. Die Weisung vom 27. Mai 2015, sich innert der Frist von drei Tagen zu bewerben, ist somit klar nicht befolgt worden. Die Voraussetzungen von Art. 30 Abs. 1 lit. d AVIG sind damit erfüllt.
+Entscheid des Versicherungsgerichts VV.2015.286/E vom 13. April 2016
+Das Bundesgericht hat eine dagegen erhobene Beschwerde in öffentlich-rechtlichen Angelegenheiten mit Urteil 8C_339/2016 vom 29. Juni 2016 abgewiesen.
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
