@@ -1,0 +1,67 @@
+---
+decision_id: "tg_obergericht_RBOG_2017_Nr._01"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2017 Nr. 01"
+decided: "2016-09-22"
+published: "2017-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2017-nr-1"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/210/art-009.md", "switzerland/bund/acts/210/art-182.md", "switzerland/bund/acts/210/art-195a.md", "switzerland/bund/acts/272/art-179.md", "switzerland/bund/acts/272/art-229.md", "switzerland/bund/acts/311.0/art-253.md"]
+---
+
+# TG Obergericht RBOG 2017 Nr. 01
+
+## Regeste
+
+Beweiswert einer Erklärung in einem Ehe- und Erbvertrag
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2017 RBOG 2017 Nr. 01
+Thurgovie Obergericht Rechenschaftsbericht 2017 RBOG 2017 Nr. 01
+Turgovia Obergericht Rechenschaftsbericht 2017 RBOG 2017 Nr. 01
+
+RBOG 2017 Nr. 01
+Skip to main content
+Show navigation
+Beweiswert einer Erklärung in einem Ehe- und Erbvertrag
+Art. 30 Abs. 1 BV
+,
+Art. 9 Abs. 1 ZGB
+,
+Art. 195 a Abs. 1 ZGB
+,
+Art. 195 a Abs. 2 ZGB
+,
+Art. 179 ZPO
+1. In Ziff. A.II. des Ehe- und Erbvertrags vom 15. November 2007 hielten die Eheleute fest, welche Eigengüter bis zum Abschluss des Vertrags entstanden seien. In Bezug auf die Investitionen in die Liegenschaft des Ehemanns vereinbarten die Vertragsparteien Folgendes: "Wir halten ausdrücklich und übereinstimmend fest, dass seit Eheabschluss in die Liegenschaft des Ehemannes wertvermehrende Investitionen von total Fr. 200'000.00 getätigt wurden. Die Ehefrau hat von diesen Investitionen ohne entsprechende Gegenleistung aus ihrem Eigengut Fr. 100'000.00 beigetragen. Wir halten ausdrücklich fest, dass die Ersatzforderung – nach unserem ausdrücklichen Willen zinsfrei – bei der güterrechtlichen Auseinandersetzung nicht mehr zu berücksichtigen ist, da zugunsten der Ehefrau und zulasten der Liegenschaft des Ehemannes als Sicherstellung für die Forderung eine Grundpfandverschreibung im Betrage von Fr. 100'000.00 eingetragen wurde".
+2. a) Gemäss Art. 9 Abs. 1 ZGB erbringen öffentliche Register und öffentliche Urkunden für die durch sie bezeugten Tatsachen vollen Beweis, solange nicht die Unrichtigkeit ihres Inhalts nachgewiesen ist. Für den Zivilprozess wurde diese Bestimmung von Art. 179 ZPO übernommen[1]. Grundsätzlich beschränkt sich die verstärkte Beweiskraft nach der herrschenden Lehre, und der Rechtsprechung des Bundesgerichts[2] auf diejenigen Tatsachen, die in der öffentlichen Urkunde als richtig bescheinigt werden, das heisst auf das, was der Notar persönlich kraft eigener Wahrnehmung festgestellt hat, was er als richtig zu bescheinigen in der Lage ist, und was er von Bundesrechts wegen auf seine Richtigkeit hin zu überprüfen verpflichtet ist, unabhängig davon, ob er im Einzelfall die Prüfung vorgenommen hat oder nicht[3]. Aus diesem Grund gelangen rechtsgeschäftliche Willens- und Wissenserklärungen allein aufgrund des Umstands, dass sie öffentlich beurkundet worden sind, nicht in den Genuss verstärkter Beweiskraft in Bezug auf ihre Ernsthaftigkeit oder ihre inhaltliche Richtigkeit. Vielmehr beweist die öffentliche Urkunde nur die Tatsache, dass die Parteien die entsprechenden Erklärungen vor der Urkundsperson abgegeben haben[4].
+b) Öffentlich beurkundete Inventare geniessen somit nur dann verstärkte Beweiskraft für ihre inhaltliche Richtigkeit, wenn diese von der Urkundsperson geprüft worden ist. Ausnahmsweise kann der Inhalt eines Inventars aber aufgrund einer gesetzlichen Sondervorschrift besondere Wirkungen aufweisen. So werden gemäss Art. 195a Abs. 2 ZGB die (Wissens-)Erklärungen der Ehegatten im Rahmen eines güterrechtlichen Inventars als richtig vermutet, wenn das Inventar innert eines Jahres seit Einbringen der Vermögenswerte errichtet wurde[5]. Eheverträge, welche sich auf den Bestand und die Zuordnung von Vermögenswerten zum einen oder andern Ehegatten und zu einer bestimmten Vermögensmasse im Frauen- oder Mannesgut beziehen, kommt die gleiche Bedeutung zu wie dem Inventar mit öffentlicher Urkunde nach Art. 195a ZGB[6].
+c) Wurde die Frist von Art. 195a Abs. 2 ZGB nicht eingehalten, so kommt der öffentlichen Urkunde nur insofern ein besonderer Beweiswert zu, als die Tatsache der übereinstimmenden Erklärung der Ehegatten und deren Zeitpunkt im Sinn von Art. 9 ZGB von der öffentlichen Urkundsperson festgestellt wurden. In Bezug auf den Inhalt der Erklärungen handelt es sich dagegen um eine gewöhnliche, private Beweisurkunde der Ehegatten, die der freien gerichtlichen Beweiswürdigung unterliegt[7].
+d) Es besteht aber regelmässig eine tatsächliche Vermutung für die inhaltliche Richtigkeit öffentlich beurkundeter Erklärungen, welche gegenüber Urkunden in einfacher Schriftlichkeit deshalb stärker ins Gewicht fällt, weil die öffentliche Beurkundung unter Mitwirkung eines Notars erfahrungsgemäss von der Abgabe nicht ernst gemeinter oder unrichtiger Erklärungen weit mehr abhält als die Schriftform[8]. Dabei bezieht sich die Wahrheitspflicht der Urkundsperson in beschränktem Ausmass über die blosse Tatsache der Abgabe der Erklärung hinaus auch auf deren Inhalt. Weiss der Notar nämlich, dass die abgegebene Erklärung nicht wahr ist, so darf er die entsprechende Beurkundung nicht vornehmen. Hat der Notar den Verdacht, dass die abgegebene Erklärung nicht wahr ist, so muss er die Parteien aufgrund seiner Rechtsbelehrungspflicht jedenfalls auf die rechtlichen Folgen unwahrer Erklärungen hinweisen[9]. Dabei ist zusätzlich zu berücksichtigen, dass eine bewusst und gewollt wahrheitswidrige Wissenserklärung der Ehegatten den Tatbestand des Erschleichens einer falschen Beurkundung im Sinn von Art. 253 StGB erfüllt[10].
+e) Die tatsächliche Vermutung charakterisiert sich dadurch, dass sie auf Indizien beruht, aus denen mittels Wahrscheinlichkeitsüberlegungen und aufgrund der Lebenserfahrung auf einen nicht direkt bewiesenen Sachumstand geschlossen wird[11]. Sie dient der Beweiserleichterung, hat aber keine Umkehr der Beweislast im technischen Sinn zur Folge. Dem Gegner steht der Gegenbeweis offen, den er durch Erwecken von Zweifeln an der Richtigkeit der Indizien und der daraus gezogenen Schlussfolgerungen erbringen kann[12].
+3. a) Die Vorinstanz erkannte zutreffend, dass die strittige Regelung im Ehevertrag keine erhöhte Beweiskraft im Sinn von Art. 9 Abs. 1 ZGB und Art. 179 ZPO geniesst. Dies bedeutet, dass den Feststellungen im Ehevertrag über die Investition der Ehefrau von Fr. 100'000.00 aus ihrem Eigengut als (hälftiger) Anteil der wertvermehrenden Investitionen von total Fr. 200'000.00 sowie den aufgeführten Eigengütern der Ehefrau (Kontoguthaben Fr. 29'000.00, Säule 3a Fr. 34'000.00, Erbschaft Tante Fr. 43'000.00, Erbschaft Mutter Fr. 220'000.00) die gesetzliche Vermutung der Richtigkeit nicht zukommt und somit keine Beweislastumkehr zulasten des Berufungsklägers erfolgt.
+b) Es gilt aber für die Richtigkeit der vom Berufungskläger bestrittenen Feststellungen über die im Ehevertrag aufgeführten Eigengüter der Ehefrau und die Investition der Ehefrau eine tatsächliche Vermutung. Dabei ist in Betracht zu ziehen, dass die Eheleute mit solchen Erklärungen in einem öffentlich beurkundeten Ehevertrag eine Sache klären wollen, nicht zuletzt wohl auch gerade im Hinblick darauf, spätere gerichtliche Auseinandersetzungen zu vermeiden. Die Eheleute wollen sich auf diese gemeinsame Erklärung behaften lassen und müssen dies nach Treu und Glauben auch; nach dem Tod eines Ehegatten gilt das auch für dessen Erben. Wenn diese die gemeinsame und übereinstimmende ehevertragliche Erklärung der Ehegatten bestreiten wollen, müssen sie Sachumstände substantiieren, die Zweifel an der Richtigkeit der ehevertraglichen Feststellungen über die Eigengüter und die Investitionen erwecken.
+c) Der Berufungskläger brachte nicht rechtzeitig[13] substantiiert hinreichende Zweifel an, welche gegen die ehevertragliche Feststellung sprechen. Er begnügte sich vielmehr damit geltend zu machen, der Betrag sei tiefer, "wenn man die Beträge in den Akten nachrechnet", ohne jedoch die entsprechenden Beträge und die massgebenden Akten zu bezeichnen. Damit griff die tatsächliche Vermutung für die Richtigkeit der Erklärungen im Ehevertrag, und es brauchte für den der Berufungsbeklagten obliegenden Beweis neben dem Ehevertrag weder weitere Urkunden noch hatte die Berufungsbeklagte einzelne Zahlungsvorgänge zu beweisen.
+Obergericht, 2. Abteilung, 22. September 2016, ZBR.2015.73
+Eine dagegen erhobene Beschwerde hiess das Bundesgericht am 2. Februar 2018 aus anderen Gründen teilweise gut (5A_182/2017).
+[1] Wolf, Berner Kommentar, Art. 9 ZGB N 14; Rüetschi, Berner Kommentar, Art. 179 ZPO N 2; Weibel, in: Kommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Hasen­böhler/Leuenberger), 3.A., Art. 179 N 1
+[2] Vgl. Wolf, Art. 9 ZGB N 52
+[3] Wolf, Art. 9 ZGB N 48; Lardelli, Basler Kommentar, Art. 9 ZGB N 24
+[4] Wolf, Art. 9 ZGB N 48; Lardelli, Art. 9 ZGB N 26; BGE 110 II 2 f.
+[5] Wolf, Art. 9 ZGB N 50; Hausheer/Reusser/Geiser, Berner Kommentar, Art. 195a ZGB N 19 f.
+[6] Hausheer/Aebi-Müller, Basler Kommentar, Art. 182 ZGB N 10
+[7] Hausheer/Aebi-Müller, Art. 195a ZGB N 18; Hausheer/Reusser/Geiser, Art. 195a ZGB N 26; BGE 100 IV 242
+[8] Wolf, Art. 9 ZGB N 49; Lardelli, Art. 9 ZGB N 26
+[9] Wolf, Art. 9 ZGB N 49
+[10] Hausheer/Aebi-Müller, Art. 195a ZGB N 15; Hausheer/Reusser/Geiser, Art. 195a ZGB N 23
+[11] Lardelli, Art. 8 ZGB N 86; Walter, Berner Kommentar, Art. 8 ZGB N 473
+[12] Lardelli, Art. 8 ZGB N 87; Walter, Art. 8 ZGB N 474, 476; vgl. Wolf, Art. 9 ZGB N 49
+[13] Art. 229 Abs. 2 ZPO
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
