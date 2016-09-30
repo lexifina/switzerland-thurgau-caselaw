@@ -1,0 +1,42 @@
+---
+decision_id: "tg_obergericht_TVR_2017_Nr._33"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2017 Nr. 33"
+decided: "2016-09-30"
+published: "2017-02-22"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2017-nr-33"
+cites_law: ["switzerland/bund/acts/235.1/art-002.md", "switzerland/bund/acts/830.1/art-044.md"]
+---
+
+# TG Obergericht TVR 2017 Nr. 33
+
+## Regeste
+
+Ausländisches IV-Gutachten
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 22.02.2017 TVR 2017 Nr. 33
+Thurgovie Obergericht Rechenschaftsbericht 22.02.2017 TVR 2017 Nr. 33
+Turgovia Obergericht Rechenschaftsbericht 22.02.2017 TVR 2017 Nr. 33
+
+TVR 2017 Nr. 33
+Skip to main content
+Show navigation
+Ausländisches IV-Gutachten
+Art. 44 ATSG
+,
+Art. 2 Abs. 1 lit. b DSG
+Die Einholung von sozialversicherungsrechtlichen Gutachten im Ausland ist unzulässig, da auf die im Ausland durchgeführte Gutachtertätigkeit die schweizerischen datenschutzrechtlichen Bestimmungen keine Anwendung finden.
+A meldete sich im September 2014 bei der Invalidenversicherung zum Leistungsbezug an. Mit Verfügung vom 30. September 2016 verneinte die IV-Stelle einen Anspruch auf IV-Leistungen. Das Versicherungsgericht weist die hiergegen erhobene Beschwerde ab.
+Aus den Erwägungen:
+3.1 Die Beschwerdegegnerin hatte den Beschwerdeführer zunächst durch Dr. B in C (Deutschland) begutachten lassen. Wie das hiesige Gericht gegenüber der Beschwerdegegnerin wiederholt festgehalten hat, erscheint es fragwürdig, dass die schweizerische Invalidenversicherung Gutachten in C bzw. im Ausland in Auftrag gibt (vgl. Urteile VV.2008.455/E vom 7. Januar 2009 E. 5b sowie VV.2010.224/E vom 3. November 2010 E. 4.3). Die Einholung von Gutachten im Ausland ist nicht nur fragwürdig, sondern muss gar als unzulässig bezeichnet werden. Wie Rz. 2074.3 KSVI entnommen werden kann, gelten für die begutachtende Stelle in datenschutzrechtlicher Hinsicht die gleichen Abklärungsmöglichkeiten wie für die IV-Stellen und die RAD. Gemäss Art. 2 Abs. 1 lit. b DSG gilt das DSG unter anderem für das Bearbeiten von Daten natürlicher und juristischer Personen durch Bundesorgane. Organe, die im Bereich Sozialversicherung tätig sind, gelten als Bundesorgane (Maurer-Lambrou/Kunz in: Maurer-Lambrou/Blechta [Hrsg.], Basler Kommentar zum Datenschutzgesetz Öffentlichkeitsgesetz, 3. Aufl., Basel 2014, Art. 2 N. 18). Im DSG finden sich keine Bestimmungen bezüglich dessen räumlichen Geltungsbereichs. Öffentlich-rechtliche Vorschriften des DSG kommen aufgrund des Territorialitätsprinzips lediglich für Sachverhalte in der Schweiz zur Anwendung, wobei der Ort der Bearbeitung von Personendaten in der Schweiz liegen muss, damit diese dem grundrechtlichen Schutz der Privatsphäre unterstehen (Maurer-Lambrou/Kunz, a.a.O., Art. 2 N. 19b). Da auf die im Ausland durchgeführte Gutachtertätigkeit die schweizerischen datenschutzrechtlichen Bestimmungen keine Anwendung finden, erscheint es mit Blick auf KSVI Rz. 2074.3 unzulässig, wenn die IV-Stellen Gutachten im Ausland in Auftrag geben.
+Entscheid des Versicherungsgerichts VV.2016.312/E vom 22. Februar 2017
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
