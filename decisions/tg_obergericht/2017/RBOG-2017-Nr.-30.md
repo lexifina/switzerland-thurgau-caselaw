@@ -1,0 +1,79 @@
+---
+decision_id: "tg_obergericht_RBOG_2017_Nr._30"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2017 Nr. 30"
+docket_2: "SW.2016.129"
+decided: "2017-02-09"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/A8A4B2BA-0A64-3B6F-7CBC5801F34AD289.html"
+cites_law: ["switzerland/bund/acts/312.0/art-299.md", "switzerland/bund/acts/312.0/art-300.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-312.md", "switzerland/bund/acts/312.0/art-315.md"]
+---
+
+# TG Obergericht RBOG 2017 Nr. 30
+
+## Regeste
+
+Eine Strafuntersuchung gilt aber auch ohne formelle Verfügung als eröffnet, sobald sich die Staatsanwaltschaft mit dem Straffall zu befassen beginnt[7]. Hier korrespondierte die Staatsanwaltschaft lediglich mit den Beschwerdeführerinnen und erteilte der Polizei den Auftrag, einen Sachbearbeiter zu bestellen. Es ist somit irreführend, wenn die Staatsanwaltschaft von einer "Strafuntersuchung" spricht und diese sistiert. 4 StPO, wonach die Staatsanwaltschaft zwingend eine Strafuntersuchung zu ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 09.02.2017 RBOG 2017 Nr. 30 (SW.2016.129)
+Thurgovie Obergericht Rechenschaftsbericht 09.02.2017 RBOG 2017 Nr. 30 (SW.2016.129)
+Turgovia Obergericht Rechenschaftsbericht 09.02.2017 RBOG 2017 Nr. 30 (SW.2016.129)
+
+Eine Strafuntersuchung gilt aber auch ohne formelle Verfügung als eröffnet, sobald sich die Staatsanwaltschaft mit dem Straffall zu befassen beginnt[7]. Hier korrespondierte die Staatsanwaltschaft lediglich mit den Beschwerdeführerinnen und erteilte der Polizei den Auftrag, einen Sachbearbeiter zu bestellen. Es ist somit irreführend, wenn die Staatsanwaltschaft von einer "Strafuntersuchung" spricht und diese sistiert. 4 StPO, wonach die Staatsanwaltschaft zwingend eine Strafuntersuchung zu ...
+
+RBOG 2017 Nr. 30
+RBOG 2017 Nr. 30
+Keine Sistierung des Verfahrens vor Eröffnung der Strafuntersuchung
+(Art. 309, 314 StPO)
+1.   Das Vorverfahren besteht aus dem Ermittlungsverfahren der Polizei und der Untersuchung der Staatsanwaltschaft
+[1]
+. Es wird durch die Ermittlungstätigkeit der Polizei oder (alternativ) durch die Eröffnung einer Untersuchung durch die Staatsanwaltschaft eingeleitet
+[2]
+. Die Staatsanwaltschaft eröffnet unter anderem eine Untersuchung, wenn sich aus der Strafanzeige ein hinreichender Tatverdacht ergibt
+[3]
+. Sie kann Strafanzeigen, aus denen der Tatverdacht nicht deutlich hervorgeht, der Polizei zur Durchführung ergänzender Ermittlungen überweisen
+[4]
+. Alsdann eröffnet die Staatsanwaltschaft die Untersuchung in einer Verfügung (Eröffnungsverfügung)
+[5]
+. Auf die Eröffnung verzichtet die Staatsanwaltschaft, wenn sie sofort eine Nichtanhandnahmeverfügung oder einen Strafbefehl erlässt
+[6]
+.
+Eine formelle Eröffnungsverfügung findet sich nicht in den Akten. Eine Strafuntersuchung gilt aber auch ohne formelle Verfügung als eröffnet, sobald sich die Staatsanwaltschaft mit dem Straffall zu befassen beginnt
+[7]
+. Hier korrespondierte die Staatsanwaltschaft lediglich mit den Beschwerdeführerinnen und erteilte der Polizei den Auftrag, einen Sachbearbeiter zu bestellen. Ein konkreter Ermittlungsauftrag im Sinn von Art. 312 Abs. 1 StPO erfolgte nicht
+[8]
+. Damit eröffnete die Staatsanwaltschaft auch materiell keine Strafuntersuchung gegen den Beschwerdegegner. Es ist somit irreführend, wenn die Staatsanwaltschaft von einer "Strafuntersuchung" spricht und diese sistiert.
+2.   Die Sistierung widerspricht somit dem Gebot von Art. 309 Abs. 4 StPO, wonach die Staatsanwaltschaft zwingend eine Strafuntersuchung zu eröffnen hat, wenn sie nicht sofort eine Nichtanhandnahmeverfügung oder einen Strafbefehl erlässt. Macht sie weder das eine noch das andere, muss sie eine Untersuchung eröffnen
+[9]
+. Art. 309 Abs. 4 StPO nennt die Sistierung gerade nicht als Ausnahme von der Eröffnung einer Strafuntersuchung. Hinzu kommt, dass die Strafprozessordnung die Sistierung erst im zweiten Abschnitt unter "Durchführung der Untersuchung" regelt
+[10]
+und ausdrücklich von "sistierter Untersuchung" spricht
+[11]
+. Demnach ist die Sistierung vor Eröffnung der Strafuntersuchung nicht möglich, und die Staatsanwaltschaft hätte zwingend eine Untersuchung eröffnen müssen. Die Beschwerde ist in diesem Punkt somit zu schützen, der angefochtene Entscheid aufzuheben und die Staatsanwaltschaft anzuweisen, gegen den Beschwerdegegner in einer Verfügung eine Strafuntersuchung zu eröffnen sowie diese sodann voranzutreiben.
+Obergericht, 2. Abteilung, 9. Februar 2017, SW.2016.129
+Auf eine dagegen erhobene Beschwerde trat das Bundesgericht am 18. Mai 2017 nicht ein (1B_199/2017).
+[1]
+Art. 299 Abs. 1 StPO
+[2]
+Art. 300 Abs. 1 StPO
+[3]
+Art. 309 Abs. 1 lit. a StPO
+[4]
+Art. 309 Abs. 2 StPO
+[5]
+Art. 309 Abs. 3 Satz 1 StPO
+[6]
+Art. 309 Abs. 4 StPO
+[7]
+BGE 141 IV 24
+[8]
+Vgl. BGE vom 27. September 2016, 6B_976/2015, Erw. 4.2.3, wonach generelle Ermittlungsaufträge an die Polizei unzulässig sind.
+[9]
+Omlin, Basler Kommentar, Art. 309 StPO N 47
+[10]
+Art. 314 f. StPO
+[11]
+Vgl. Art. 315 Abs. 1 StPO: Die Staatsanwaltschaft nimmt von Amtes wegen eine sistierte Untersuchung wieder an die Hand, wenn der Grund der Sistierung weggefallen ist.
