@@ -1,0 +1,112 @@
+---
+decision_id: "tg_obergericht_RBOG_2017_Nr._2"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2017 Nr. 2"
+docket_2: "KES.2017.8"
+decided: "2017-03-15"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/913D8B2C-A0BC-769B-AC053D792BAAE791.html"
+cites_law: ["switzerland/bund/acts/210/art-273.md"]
+---
+
+# TG Obergericht RBOG 2017 Nr. 2
+
+## Regeste
+
+Hinzu kommt, dass sich X am Wohnort des Beschwerdeführers nicht auskennt und dieser ihr somit nicht vertraut ist. Entsprechend ist das Besuchsrecht des Beschwerdeführers an jedem zweiten Wochenende auszudehnen. Dadurch kann sich die Beziehung zwischen Vater und Tochter festigen; X kann Vertrauen zum Beschwerdeführer aufbauen, sein Umfeld sowie seine Wohnung kennenlernen und den Beschwerdeführer als Bezugsperson wahrnehmen.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 15.03.2017 RBOG 2017 Nr. 2 (KES.2017.8)
+Thurgovie Obergericht Rechenschaftsbericht 15.03.2017 RBOG 2017 Nr. 2 (KES.2017.8)
+Turgovia Obergericht Rechenschaftsbericht 15.03.2017 RBOG 2017 Nr. 2 (KES.2017.8)
+
+Hinzu kommt, dass sich X am Wohnort des Beschwerdeführers nicht auskennt und dieser ihr somit nicht vertraut ist. Entsprechend ist das Besuchsrecht des Beschwerdeführers an jedem zweiten Wochenende auszudehnen. Dadurch kann sich die Beziehung zwischen Vater und Tochter festigen; X kann Vertrauen zum Beschwerdeführer aufbauen, sein Umfeld sowie seine Wohnung kennenlernen und den Beschwerdeführer als Bezugsperson wahrnehmen.
+
+RBOG 2017 Nr. 2
+RBOG 2017 Nr. 2
+Übernachtungen von Kleinkindern beim besuchsberechtigten Elternteil; räumliche Distanz der elterlichen Wohnorte
+(Art. 273 Abs. 1 ZGB)
+1.   a)   Gemäss Art. 273 Abs. 1 ZGB haben derjenige Elternteil, dem die elterliche Obhut oder Sorge nicht zusteht, und das minderjährige Kind gegenseitig Anspruch auf angemessenen persönlichen Verkehr. Die Beziehung des Kindes zu beiden Elternteilen ist von elementarer Bedeutung und kann eine entscheidende Rolle in seiner Persönlichkeitsfindung spielen. Als oberste Richtschnur für die Ausgestaltung des Besuchsrechts gilt das Kindeswohl, das anhand der Umstände des konkreten Einzelfalls zu beurteilen ist; allfällige Interessen der Eltern haben zurückzustehen
+[1]
+.
+b)   Von besonderer Bedeutung bei der Festlegung des Besuchsrechts sind insbesondere das Alter des Kindes, die körperliche und geistige Gesundheit des Kindes und des Berechtigten, die Persönlichkeit und Bedürfnisse der Beteiligten, die Beziehung des Kindes zum Berechtigten, die Beziehung der Eltern untereinander, die zeitliche Verfügbarkeit aller Beteiligten, die Entfernung und Erreichbarkeit der Wohnorte, die Wohnverhältnisse beim besuchsberechtigten Elternteil sowie die berechtigten Wünsche und Meinungen des urteilsfähigen Kindes
+[2]
+. Bei der Berücksichtigung des Willens des Kindes ist zunächst dessen Alter beziehungsweise dessen Fähigkeit zu autonomer Willensbildung, welche ungefähr ab dem 12. Altersjahr anzunehmen ist, sodann aber auch das Aussageverhalten und namentlich die Konstanz des geäusserten Willens zentral
+[3]
+.
+c)   Die Häufigkeit und Dauer der Besuche sind dem Einzelfall anzupassen: Bei einem kleinen Kind sind grundsätzlich eher kurze, daher häufigere Besuche angezeigt (wenige Stunden bis zu einem halben Tag); bei einem Schulkind hingegen sind Wochenendbesuche die Regel
+[4]
+. Bei einem Kleinkind bis zum dritten Lebensjahr werden ein bis zwei kurze Besuche pro Woche als optimal, wenn auch nicht essentiell betrachtet, vorausgesetzt, es bestehen keine Spannungen zwischen den interagierenden Eltern beziehungsweise Beteiligten. Mit der zunehmenden Reife des Kindes im Vorschulalter wird die Häufigkeit der Kontakte weniger wichtig; entscheidender sind die Regelmässigkeit und die Qualität der Interaktionen mit dem besuchsberechtigten Elternteil
+[5]
+. Eine echte Bindung zwischen dem Kind und dem Elternteil setzt ein gegenseitiges Kennenlernen, Kontinuität sowie zeitliche und qualitative Intensität in der Beziehung voraus. Für ein Kind ist es grundsätzlich von Vorteil, wenn es von mehreren Bezugspersonen betreut wird, weil es so mehrere Vorbilder hat, die anders mit ihm umgehen. Das Kind kann so eine grössere Variationsbreite an Erfahrung sammeln und wird offener. Unter anderem deshalb erachten es heute zahlreiche Eltern als Gewinn, wenn ihr (Klein-)Kind bereits im Vorschulalter beispielsweise zwei Tage pro Woche in eine Krippe geht oder manchmal bei Grosseltern oder bei Freunden übernachtet. Die Vorstellung, (Klein-)Kinder dürften nur während ganz weniger begrenzter Stunden von der Hauptbezugsperson (das heisst der Mutter) getrennt werden, hat soweit ersichtlich keine wissenschaftliche Grundlage und pflegt damit einen biologistischen Muttermythos
+[6]
+. Die Scheidungsforschung wies nach, dass es nicht vor allem die Trennung an sich ist, woran Kinder leiden, sondern der Verlust eines Elternteils im Alltag
+[7]
+. Gerade unter Berücksichtigung der expliziten Stossrichtung des neuen Rechts, Vätern eine prominentere Rolle in der Kinderbetreuung einzuräumen, ist eine Modifikation der bisherigen Praxis angezeigt. Für die Festlegung des Besuchsrechts beziehungsweise der Betreuungsanteile bei gemeinsamer elterlicher Sorge sollten dem Gericht die Lebensverhältnisse der Familie bekannt sein, damit es möglich ist, eine kindgerechte Regelung für getrennt lebende Familien vorzuschlagen und notfalls festzusetzen. Erst auf Basis einer solchen Sachverhaltserforschung ist eine massgeschneiderte Lösung möglich
+[8]
+.
+d)   Die Vorstellungen darüber, was in durchschnittlichen Verhältnissen als angemessenes Besuchsrecht zu gelten habe, gehen allerdings in Lehre und Praxis auseinander, wobei regionale Unterschiede festzustellen sind und eine Tendenz zur Ausdehnung des Besuchsrechts besteht
+[9]
+. Ab Schulbeginn sind im Kanton Zürich zwei Besuchswochenenden pro Monat und ein Ferienbesuchsrecht von zwei bis vier Wochen üblich. Der Deutschschweizer Durchschnitt scheint bei mindestens einem Besuchswochenende pro Monat und 14 Ferientagen pro Jahr zu liegen. Bei Spannungen zwischen den Eltern kann das Besuchsrecht bis um die Hälfte eingeschränkt werden, wobei das Bundesgericht einem eingeschränkten Automatismus eine Absage erteilte
+[10]
+. Es hielt dazu fest, dass Konfliktsituationen, wie sie in jeder Scheidung - analog auch bei der Auflösung eines Konkubinats - auftreten können, nicht zu einer einschneidenden Beschränkung des Besuchsrechts auf unbestimmte Zeit führen dürfen, wenn das Verhältnis zwischen dem besuchsberechtigten Elternteil und dem Kind gut ist, weil es unhaltbar wäre, wenn der obhutsberechtigte Elternteil es in der Hand hätte, gewissermassen durch Zwistigkeiten mit dem anderen Teil den Umfang des Besuchsrechts zu steuern
+[11]
+. Gerade wo ein elterlicher Streit zu schlichten ist, kann das Regelbesuchsrecht jedenfalls für eine erste Phase und gegebenenfalls durchaus auch länger gute Dienste leisten. Mit der Anordnung des Üblichen und dem Hinweis auf die gängige Praxis statt ellenlanger, diskutierbarer Abwägungen verliert kein Elternteil und keiner gewinnt - dem Kindeswohl kann so durchaus am meisten gedient sein
+[12]
+. Eine Einschränkung des Besuchsrechts kann angezeigt sein, wenn das Kind sonst überfordert wäre
+[13]
+.
+e)   Übernachtungen als Bestandteil des Besuchsrechts sind für das Kind wichtig, weil die Rituale des Zubettgehens und Wiederaufstehens ihm in besonderem Mass das Gefühl vermitteln, auch beim Vater zuhause zu sein. Die Erfahrung des Übernachtens lässt gerade ein jüngeres Kind spüren, dass der Vater am anderen Morgen noch da ist. Ab welchem Alter Übernachtungen im Kindeswohl liegen, wird unterschiedlich beantwortet. Während die einen solche erst ab dem Kindergartenalter befürworten, empfehlen andere Fachleute Übernachtungen schon im Kleinkindalter
+[14]
+. Aus psychologischer Sicht sind Übernachtungen schon bei Kleinkindern zwischen zwei und drei Jahren möglich, für eine gesunde kindliche Entwicklung aber (noch) nicht unbedingt erforderlich
+[15]
+. Übernachtungen können demnach auch bei kleineren Kindern angeordnet werden, namentlich, wenn sie mit dem Aufenthaltsort schon vertraut sind. Sie sind insbesondere problemlos, wenn schon vorher ein regelmässiger Umgang zwischen Kind und Besuchsberechtigtem stattfand und eine gute Beziehungsqualität besteht. Letztere ist sehr entscheidend
+[16]
+. Diese Richtlinien entsprechen der Erfahrungstatsache, dass auch kleine Kinder aus ungetrennten Ehen oder Partnerschaften regelmässig auswärts übernachten, sei es bei Grosseltern oder Göttis und Gottis, ohne dass deswegen Bindungsstörungen zu beobachten wären. Vielmehr können solche Erfahrungen den Kindern regelmässig zusätzliche Sicherheit bieten, weil sie spüren dürfen, dass sie auch andernorts als "nur" bei Mami oder Papi ein Zuhause haben. In jedem Fall ist die Frage des Übernachtens aber nicht theoretisch, sondern individuell bezogen auf das konkrete Kind zu beantworten. Massgebend sind allein die Interessen des Kindes
+[17]
+. Entwicklungspsychologisch betrachtet erwirbt das Kind im Alter zwischen drei und vier Jahren die emotionalen, kognitiven und sprachlichen Voraussetzungen für eine Mentalisierung und wird dadurch fähig, Trennungserfahrungen (einschliesslich Trennungen von der primären Bezugsperson) funktional zu verarbeiten. Fachleute weisen darauf hin, dass wiederholte Übernachtungen beim anderen Elternteil noch für viele Vierjährige zu früh seien und der Einzelfall fachpsychologisch beurteilt werden müsse. Grundsätzlich könne davon ausgegangen werden, dass die Konsolidierung der primären Bindungsbeziehung und eine gesunde Sprachentwicklung bessere Indikatoren für die Bereitschaft des Kindes für regelmässige nächtliche Trennungen von der primären Bezugsperson seien als das Alter des Kindes. Abgesehen von der Theorie und den entsprechenden klinischen Erfahrungen existiert bisher keine einzige Studie, die darauf hinweist, dass das Schlafen eines Kleinkinds bei einem Elternteil die Wahrscheinlichkeit für die Bindungssicherheit erhöht. Indessen zeigt die Erfahrung, dass oft ein beträchtliches Ausmass an Trost und Sicherheitsvermittlung nötig ist, um ein Kind bei nächtlichem Stress zu beruhigen. Selbst in intakten Familien mit zwei hochengagierten Eltern ist in diesen Situationen oft nur die Mutter in der Lage, das Kleinkind zu beruhigen. Gerade die Nacht stellt eine bindungssensible Situation für das Kind dar, weil Dunkelheit und Alleinsein das Bindungssystem aktivieren. Nicht von ungefähr leiden 30% aller Kleinkinder an Schlafstörungen
+[18]
+.
+2.   a)   X vollendete im Januar 2017 ihr zweites Altersjahr. Bei Kleinkindern bis zum dritten Lebensjahr werden in der Praxis grundsätzlich noch keine Besuche mit Übernachtungen verfügt. Das Übernachten beim besuchsberechtigten Elternteil setzt in jedem Fall voraus, dass das Kind mit dem Aufenthaltsort vertraut ist, schon vorher ein regelmässiger Umgang zwischen Kind und Besuchsberechtigem stattfand sowie eine gute Beziehungsqualität besteht. Diese Bedingungen sind aktuell nicht erfüllt, weshalb ein Besuchsrecht mit Übernachten derzeit noch nicht in Frage kommt. Bisher verbrachte der Beschwerdeführer mit X zu wenig Zeit allein, so dass noch kein Beziehungsaufbau in der notwendigen Qualität hätte stattfinden können. Hinzu kommt, dass sich X am Wohnort des Beschwerdeführers nicht auskennt und dieser ihr somit nicht vertraut ist.
+b)   Die Vorinstanz berechtigte den Beschwerdeführer, X jedes Wochenende, entweder am Samstag oder am Sonntag von 12.00 bis 17.00 Uhr (ohne Fahrtwege) zu sich auf Besuch zu nehmen. Es ist nachvollziehbar, dass der Beschwerdeführer diese Besuche am Wohn­ort von X durchführt. Er muss mit einer Fahrzeit von rund zwei Stunden pro Weg rechnen, da Stausituationen nicht ausgeschlossen werden können. Wollte der Beschwerdeführer die Tochter zu sich nach Hause nehmen, so sässe er acht und X vier Stunden pro Besuchstag im Auto. Für die zweijährige X dürften diese wöchentlichen Fahrzeiten anspruchsvoll sein, zumal die Fahrten an fixen Zeiten zu erfolgen haben und nicht auf ihren (Schlaf-)Rhythmus Rücksicht genommen werden kann. Es erscheint nicht sinnvoll, den Besuch beim Vater durch solche Strapazen mit negativen Eindrücken für das Mädchen zu verbinden. Die momentane Regelung, nämlich dass der Beschwerdeführer X bis zu ihrem dritten Geburtstag nur tageweise und am Nachmittag besuchen darf, ermöglicht ihm somit nicht, seine Tochter zu sich zu nehmen. X kann sich folglich nicht mit der dortigen Umgebung vertraut machen. Damit X diese kennenlernen kann, bevor dort Übernachtungen stattfinden, sollte sie mindestens zweimal pro Monat einen ganzen Tag dort verbringen können. Entsprechend ist das Besuchsrecht des Beschwerdeführers an jedem zweiten Wochenende auszudehnen. Ein Besuchsrecht von 10.00 bis 17.00 Uhr erscheint dabei angemessen. Es gilt zu berücksichtigen, dass X nach der vorinstanzlichen Regelung von 10.00 bis 19.00 Uhr mit dem Vater zusammen wäre, wobei sie davon aber vier Stunden im Auto verbringen müsste. Mit der neuen Regelung kann X insgesamt sieben Stunden mit dem Vater verbringen, ohne dass ein Teil des Besuchs auf zwei lange Autofahrten fällt. Dadurch kann sich die Beziehung zwischen Vater und Tochter festigen; X kann Vertrauen zum Beschwerdeführer aufbauen, sein Umfeld sowie seine Wohnung kennenlernen und den Beschwerdeführer als Bezugsperson wahrnehmen. Dass eine solche Regelung das Wohl von X gefährden könnte, ist nicht ersichtlich. Im Gegenteil erweist sich der regelmässige Kontakt zum Vater für die Entwicklung von X vielmehr als vorteilhaft. Der Vater stellt eine weitere Bezugsperson und mithin ein weiteres Vorbild in ihrem Leben dar. Sie lernt, dass Bezugspersonen unterschiedlich mit ihr umgehen und kann so eine grössere Variationsbreite an Erfahrungen sammeln. Ausserdem hat sie ein Recht darauf, ihre Wurzeln zu kennen.
+c)   Die Beschwerdegegnerin bot bereits mehrfach an, einen Transportdienst zu übernehmen. In der Beschwerdeduplik erklärt sie sich bereit, X abwechselnd (jedes zweite Mal) zu den jeweiligen Wochenendbesuchstagen zu bringen und am gleichen Tag wieder abzuholen. Dass die Beschwerdegegnerin X jedes zweite Wochenende zum Beschwerdeführer bringt und dort wieder abholt, rechtfertigt sich auch mit Blick darauf, dass die Beschwerdegegnerin aufgrund ihres Umzugs für die grosse räumliche Distanz zwischen dem Beschwerdeführer und X verantwortlich ist. Eine solche Regelung liegt im Wohl von X und führt dazu, dass der Besuchstag für Vater und Tochter nicht zur übermässigen Belastung wird. Es steht dabei der Beschwerdegegnerin frei, bereits am Vortag zu ihrer Mutter, die einige Kilometer vom Wohnort des Beschwerdeführers entfernt lebt, zu fahren, damit X nicht vier Stunden am Tag im Auto verbringen muss. Für die restlichen Wochenenden erscheint die Regelung der Vorinstanz angemessen. Entgegen der Auffassung der Beschwerdegegnerin rechtfertigt es sich nicht, das Wochenendbesuchsrecht auf jedes zweite Wochenende zu beschränken, da eine gewisse Quantität und Regelmässigkeit der Besuche für den Beziehungsaufbau zwischen Vater und Tochter wichtig ist und auch im Kindeswohl liegt. Dementsprechend ist der Beschwerdeführer berechtigt, X ab sofort bis zu ihrem dritten Geburtstag jedes zweite Wochenende alternierend am Samstag oder Sonntag von 10.00 bis 17.00 Uhr und an den restlichen Wochenenden alternierend am Samstag oder Sonntag von 12.00 bis 17.00 Uhr zu oder mit sich auf Besuch zu nehmen. Die Beschwerdegegnerin ist verpflichtet, X jedes zweite Wochenende auf 10.00 Uhr an den Wohnort des Vaters zu bringen und um 17.00 Uhr dort wieder abzuholen. An den anderen beiden Wochenenden hat der Beschwerdeführer die Besuche selber zu organisieren, wobei es ihm frei steht, ob er die Besuche am Wohnort von X oder bei sich zu Hause ausüben will. Wie die Vorinstanz den angefochtenen Entscheid zutreffend erläuterte, werden die Fahrtwege nicht an die Dauer der Besuche angerechnet.
+d)   Ab wann X beim Vater übernachten kann, hängt grundsätzlich davon ab, wann die Beziehung zwischen Vater und Tochter die notwendige Vertrautheit aufweist und X auch mit dem Wohnort des Beschwerdeführers vertraut ist. Dafür ist insbesondere auch die Gestaltung und Umsetzung des Besuchsrechts massgeblich. Mit der hier festgelegten Regelung wird X durch die Ausübung des Besuchsrechts nunmehr eine Beziehung und Vertrauen zu ihrem Vater aufbauen können und lernt auch dessen Zuhause sowie Umfeld kennen. Es ist davon auszugehen, dass die Vater-Tochter-Bindung bis zum dritten Lebensjahr von X derart gefestigt ist, dass diese jedes zweite Wochenende eine Nacht beim Vater verbringen kann. Übernachtungen sind gerade im Hinblick auf die Festigung der Beziehung zwischen X und ihrem Vater von grosser Bedeutung. Der Beschwerdeführer ist somit berechtigt, X ab deren drittem Lebensjahr jedes zweite Wochenende von Samstag 09.00 Uhr bis Sonntag 18.00 Uhr zu sich auf Besuch zu nehmen. Eine solche Regelung entschärft die Problematik des langen Anfahrtswegs, weshalb auch die Transportdienste der Beschwerdegegnerin entfallen. Überdies entspricht ein Besuchsrecht jedes zweite Wochenende mit Übernachtung der Praxis.
+Obergericht, 1. Abteilung, 15. März 2017, KES.2017.8
+[1]
+BGE 130 III 587 f.; BGE vom 19. Januar 2005, 5C.199/2004, nicht in BGE 131 III 209 publizierte Erw. 2
+[2]
+Häfeli, Wegleitung für vormundschaftliche Organe, 4.A., S. 83 f.; Schwenzer/Cottier, Basler Kommentar, Art. 273 ZGB N 10
+[3]
+BGE vom 12. August 2015, 5A_367/2015, Erw. 5.1.3
+[4]
+Häfeli, S. 84
+[5]
+Staub, Bedeutung des Bindungskonzepts im interdisziplinären Diskurs, in: ZKE 2013 S. 249 f.
+[6]
+Bernard/Meyer Löhrer, Kontakte des Kindes zu getrennt lebenden Eltern - Skizze eines familienrechtlichen Paradigmenwechsels, in: Jusletter 12. Mai 2014, N 28
+[7]
+Bernard/Meyer Löhrer, N 30
+[8]
+Bernard/Meyer Löhrer, N 38, 41
+[9]
+BGE vom 19. Januar 2005, 5C.199/2004, nicht in BGE 131 III 209 publizierte Erw. 2
+[10]
+Bernard/Meyer Löhrer, N 4
+[11]
+BGE 130 III 589
+[12]
+Biderbost, Zu Besuch bei …, in: Kind und Scheidung (Hrsg.: Rumo-Jungo/ Pichonnaz), Zürich 2006, S. 155
+[13]
+BGE 131 III 212
+[14]
+Entscheid des Kantonsgerichts St. Gallen vom 12. Juli 2016, KES.2016.2, Erw. 7
+[15]
+Schreiner, in: FamKommentar Scheidung (Hrsg.: Schwenzer), 2.A., Anh. Psych N 171
+[16]
+Entscheid des Kantonsgerichts St. Gallen vom 12. Juli 2016, KES.2016.2, Erw. 8; Schwenzer/Cottier, Art. 273 ZGB N 14; Salzgeber/Schreiner, Kontakt- und Betreuungsmodelle nach Trennung und Scheidung, in: FamPra.ch 2014 S. 74 ff.
+[17]
+Entscheid des Kantonsgerichts St. Gallen vom 12. Juli 2016, KES.2016.2, Erw. 8
+[18]
+Staub, S. 247
