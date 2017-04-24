@@ -1,0 +1,71 @@
+---
+decision_id: "tg_obergericht_RBOG_2017_Nr._21"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2017 Nr. 21"
+docket_2: "SBR.2016.59"
+decided: "2017-04-24"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/A8A1E69F-FC28-8951-0707A3C8F6960B20.html"
+cites_law: ["switzerland/bund/acts/311.0/art-122.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/312.0/art-081.md", "switzerland/bund/acts/312.0/art-320.md"]
+---
+
+# TG Obergericht RBOG 2017 Nr. 21
+
+## Regeste
+
+b) Die Vorinstanz entschied in diesem Zusammenhang, der Berufungskläger sei nicht schuldig der schweren und der qualifizierten einfachen Körperverletzung. Der Berufungskläger sei folglich vom Vorwurf der versuchten schweren Körperverletzung freizusprechen. Kommt eine Verurteilung wegen schwerer Körperverletzung nicht in Frage und ist betreffend die einfache Körperverletzung bereits die Verjährung eingetreten, so ist im Dispositiv nur die Einstellung des Verfahrens wegen einfacher ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 24.04.2017 RBOG 2017 Nr. 21 (SBR.2016.59)
+Thurgovie Obergericht Rechenschaftsbericht 24.04.2017 RBOG 2017 Nr. 21 (SBR.2016.59)
+Turgovia Obergericht Rechenschaftsbericht 24.04.2017 RBOG 2017 Nr. 21 (SBR.2016.59)
+
+b) Die Vorinstanz entschied in diesem Zusammenhang, der Berufungskläger sei nicht schuldig der schweren und der qualifizierten einfachen Körperverletzung. Der Berufungskläger sei folglich vom Vorwurf der versuchten schweren Körperverletzung freizusprechen. Kommt eine Verurteilung wegen schwerer Körperverletzung nicht in Frage und ist betreffend die einfache Körperverletzung bereits die Verjährung eingetreten, so ist im Dispositiv nur die Einstellung des Verfahrens wegen einfacher ...
+
+RBOG 2017 Nr. 21
+RBOG 2017 Nr. 21
+Formulierung des Dispositivs, wenn bezüglich eines einzigen Lebenssachverhalts die schwere Körperverletzung zu verneinen und die einfache Körperverletzung bereits verjährt ist
+(Art. 81 Abs. 4 StPO; Art. 97, 122, 123 StGB)
+1.   a)   In der Anklageschrift warf die Staatsanwaltschaft dem Berufungskläger insbesondere eine versuchte schwere Körperverletzung vor; der Berufungskläger habe im November 2007 mit einer metallenen Hantelstange gegen den Kopf seines Opfers geschlagen und dieses dabei im linken Schläfenbereich getroffen.
+b) Die Vorinstanz entschied in diesem Zusammenhang, der Berufungskläger sei nicht schuldig der schweren und der qualifizierten einfachen Körperverletzung. Im begründeten Entscheid erläuterte die Vorinstanz, es liege keine schwere Körperverletzung vor, denn es könne dem Berufungskläger nicht mit der notwendigen Überzeugung vorgeworfen werden, dass er das Opfer lebensgefährlich habe verletzen wollen oder dies zumindest in Kauf genommen habe. Der Berufungskläger sei folglich vom Vorwurf der versuchten schweren Körperverletzung freizusprechen. Der Tatbestand der einfachen Körperverletzung zum Nachteil des Opfers sei zwischenzeitlich verjährt, weshalb das Strafverfahren diesbezüglich einzustellen wäre; das Urteilsdispositiv sei diesbezüglich falsch. Da daraus niemand einen Nachteil erleide, erübrige sich eine Berichtigung von Amtes wegen; im Übrigen sei die Berufung bereits angemeldet worden, so dass das Obergericht, falls notwendig, eine Korrektur vornehmen könne.
+2.   Im Urteilsdispositiv ist stets über alle Teile der Anklage zu entscheiden; ein Freispruch in einem Anklagepunkt ist im Urteilsdispositiv grundsätzlich zum Ausdruck zu bringen
+[1]
+. Die abweichende rechtliche Beurteilung des Anklagesachverhalts durch das Gericht zieht aber keinen Freispruch oder Teilfreispruch hinsichtlich des angeklagten Tatbestands nach sich; es hat lediglich eine Verurteilung wegen des vom Gericht bejahten Tatbestands zu ergehen
+[2]
+. Erfüllt der in der Anklageschrift vorgehaltene Sachverhalt die rechtlichen Voraussetzungen für eine schwere Körperverletzung
+[3]
+nicht, sondern nur diejenigen für eine einfache Körperverletzung
+[4]
+, so wird daher im Dispositiv lediglich der Schuldspruch wegen einfacher Körperverletzung festgehalten; es erfolgt hingegen kein separater Freispruch wegen schwerer Körperverletzung.
+3.   Bei Eintritt der Verjährung erfolgt kein Freispruch, sondern eine Einstellung des Verfahrens, wobei die Verjährung die Schuld nicht auslöscht
+[5]
+. Eine Teileinstellung kommt grundsätzlich nur in Betracht, wenn mehrere Lebensvorgänge oder Taten im prozessualen Sinn zu beurteilen sind, die einer separaten Erledigung zugänglich sind. Soweit es sich hingegen nur um eine andere rechtliche Würdigung ein und desselben Lebensvorgangs handelt, scheidet eine teilweise Verfahrenseinstellung aus; es muss darüber einheitlich entschieden werden
+[6]
+. Jede Einstellung – nach welchem rechtlichen Gesichtspunkt auch immer – führt zur Einstellung des Verfahrens wegen des gesamten Lebensvorgangs. Grund dafür ist, dass sich die Rechtskraft und damit die Sperrwirkung des Urteils auf den gesamten einheitlichen Lebensvorgang bezieht und nicht auf eine bestimmte rechtliche Würdigung eben dieses Lebenssachverhalts. Die materielle Rechtskraft bestimmt sich also nach dem beurteilten Lebenssachverhalt und schliesst ein weiteres Strafverfahren zur erneuten Beurteilung desselben Lebenssachverhalts aus
+[7]
+.
+4.   Folglich muss gestützt auf den in der Anklageschrift enthaltenen Lebenssachverhalt ein einheitliches Urteil ergehen. Kommt eine Verurteilung wegen schwerer Körperverletzung nicht in Frage und ist betreffend die einfache Körperverletzung bereits die Verjährung eingetreten, so ist im Dispositiv nur die Einstellung des Verfahrens wegen einfacher Körperverletzung festzuhalten. Daher ist der Freispruch betreffend die versuchte schwere Körperverletzung zum Nachteil des Opfers von Amtes wegen aus dem Dispositiv zu streichen. Rechtlich ergibt sich daraus kein Unterschied, denn eine rechtskräftige Einstellungsverfügung kommt einem freisprechenden Endentscheid gleich
+[8]
+.
+Obergericht, 1. Abteilung, 24. April 2017, SBR.2016.59
+Eine dagegen erhobene Beschwerde wies das Bundesgericht am 5. Oktober 2017 ab, soweit es darauf eintrat (6B_864/2017).
+[1]
+Brüschweiler, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Hansjakob/Lieber), 2.A., Art. 81 N 11
+[2]
+BGE vom 27. August 2015, 6B_254/2015, Erw. 3.2; BGE vom 14. November 2012, 6B_99/2012, Erw. 5.5; Stohner, Basler Kommentar, Art. 81 StPO N 21; Schmid, Handbuch des Schweizerischen Strafprozessrechts, 2.A., N 1343 Fn. 138
+[3]
+Art. 122 StGB
+[4]
+Art. 123 StGB
+[5]
+Trechsel/Capus, in: Schweizerisches Strafgesetzbuch, Praxiskommentar (Hrsg.: Trechsel/Pieth), 2.A., Vor Art. 97 N 6
+[6]
+BGE vom 20. März 2014, 6B_653/2013
+,
+Erw. 3.2
+[7]
+Ackermann, Unzulässige Teileinstellung bei gleichem Lebenssachverhalt, in: forumpoenale 2017, S. 47
+[8]
+Art. 320 Abs. 4 StPO; BGE 143 IV 110
