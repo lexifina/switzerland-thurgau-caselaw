@@ -1,0 +1,71 @@
+---
+decision_id: "tg_obergericht_RBOG_2017_Nr._3"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2017 Nr. 3"
+docket_2: "ZBR.2016.51"
+decided: "2017-04-27"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/91459B69-C9AB-1538-382F8F06FA772D02.html"
+cites_law: ["switzerland/bund/acts/210/art-285.md"]
+---
+
+# TG Obergericht RBOG 2017 Nr. 3
+
+## Regeste
+
+2. Für die Bemessung des Betreuungsunterhalts weist die Botschaft auf die finanzielle Sicherstellung der Präsenz des betreuenden Elternteils hin. Erzielt dieser Elternteil zufolge seiner vollumfänglichen persönlichen Kinderbetreuung während der Erwerbszeit gar kein Einkommen und verfügt er auch nicht über sonstige Einkünfte, können für den Betreuungsunterhalt seine Lebenshaltungskosten beigezogen werden. Erzielt der betreuende Elternteil wegen Kinderbetreuung während Zeiten, in denen er ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 27.04.2017 RBOG 2017 Nr. 3 (ZBR.2016.51)
+Thurgovie Obergericht Rechenschaftsbericht 27.04.2017 RBOG 2017 Nr. 3 (ZBR.2016.51)
+Turgovia Obergericht Rechenschaftsbericht 27.04.2017 RBOG 2017 Nr. 3 (ZBR.2016.51)
+
+2. Für die Bemessung des Betreuungsunterhalts weist die Botschaft auf die finanzielle Sicherstellung der Präsenz des betreuenden Elternteils hin. Erzielt dieser Elternteil zufolge seiner vollumfänglichen persönlichen Kinderbetreuung während der Erwerbszeit gar kein Einkommen und verfügt er auch nicht über sonstige Einkünfte, können für den Betreuungsunterhalt seine Lebenshaltungskosten beigezogen werden. Erzielt der betreuende Elternteil wegen Kinderbetreuung während Zeiten, in denen er ...
+
+RBOG 2017 Nr. 3
+RBOG 2017 Nr. 3
+Bemessung des Betreuungsunterhalts
+(Art. 285 Abs. 1 und 2 ZGB)
+1.   Nach Art. 285 Abs. 1 ZGB soll der Unterhaltsbeitrag den Bedürfnissen des Kindes sowie der Lebensstellung und Leistungsfähigkeit der Eltern entsprechen; dabei sind das Vermögen und die Einkünfte des Kindes zu berücksichtigen. Der Unterhaltsbeitrag dient auch der Gewährleistung der Betreuung des Kindes durch die Eltern oder Dritte
+[1]
+. Das Gesetz schreibt keine bestimmte Berechnungsmethode für den Kindesunterhalt oder eine Rangordnung zwischen den verschiedenen Kriterien vor. Die Grundsätze des geltenden Rechts zur Bemessung der Unterhaltsbeiträge bleiben grundsätzlich auch mit der Einführung des Betreuungsunterhalts weiterhin anwendbar. Die Norm belässt den Gerichten den notwendigen Ermessensspielraum
+[2]
+.
+2.   Für die Bemessung des Betreuungsunterhalts weist die Botschaft auf die finanzielle Sicherstellung der Präsenz des betreuenden Elternteils hin. Diese Präsenz kann gewährleistet werden, indem die Lebenshaltungskosten des betreuenden Elternteils abgedeckt werden. Erzielt dieser Elternteil zufolge seiner vollumfänglichen persönlichen Kinderbetreuung während der Erwerbszeit gar kein Einkommen und verfügt er auch nicht über sonstige Einkünfte, können für den Betreuungsunterhalt seine Lebenshaltungskosten beigezogen werden. Für die Bemessung dieser Kosten ist der jeweilige Einzelfall entscheidend. Als Anhaltspunkt kann dabei vom betreibungsrechtlichen Existenzminimum (Grundbedarf) ausgegangen werden. Für die zu berücksichtigenden Erweiterungen sind die konkreten Verhältnisse im zu beurteilenden Einzelfall massgebend
+[3]
+. Dieser Ansatz der Lebenshaltungskosten wird auch von der herrschenden Lehre unterstützt
+[4]
+.
+a)   Uneinheitlich wird in der Lehre die Frage beantwortet, ob und gegebenenfalls wie allfälliges Einkommen des betreuenden Elternteils bei der Berechnung des Betreuungsunterhalts anzurechnen ist. So vertritt ein Teil der Lehre die Auffassung, das Einkommen des betreuenden Elternteils sei wie bereits vor der Revision bei der Methode des familienrechtlichen Grundbedarfs mit Überschussverteilung direkt anzurechnen
+[5]
+. Demgegenüber will der andere Teil der Lehre das Einkommen des betreuenden Elternteils nicht miteinbeziehen und nur jene Betreuungskosten berücksichtigen, die im Rahmen der Eigenbetreuungsquote entstehen
+[6]
+. Gemäss Botschaft ist bei Erwerbstätigkeit beider Elternteile für die Bemessung des Betreuungsunterhalts grundsätzlich jener Betrag massgebend, welcher dem Elternteil, der das Kind während der Erwerbszeit betreut, zur Deckung seiner Lebenshaltungskosten "unter Berücksichtigung seiner Leistungsfähigkeit" fehlt
+[7]
+. Diese Formulierung ist im Sinn der direkten Anrechnung des Einkommens zu verstehen. Erzielt der betreuende Elternteil wegen Kinderbetreuung während Zeiten, in denen er ansonsten einer Berufstätigkeit nachgehen würde, ein geringeres Einkommen als bei voller beruflicher Tätigkeit, so kann dies dazu führen, dass er die eigenen Lebenshaltungskosten auf dem relevanten Niveau nicht vollumfänglich bestreiten kann. Der Betreuungsunterhalt bezieht sich auf die Differenz zwischen "soll" und "ist". Erzielt der betreuende Elternteil hingegen trotz der Einschränkungen ein Einkommen, welches die eigenen Lebenshaltungskosten deckt, ist kein Betreuungsunterhalt geschuldet
+[8]
+.
+b)   Diese Berechnungsmethode berücksichtigt sowohl die Einnahmen als auch die Ausgaben aller Beteiligten. Sie ermittelt zunächst die Einnahmen, stellt sodann den Grundbedarf fest und verteilt nach Abzug einer nachgewiesenen Sparquote schliesslich einen allfälligen Überschuss. Zu den Einnahmen gehören die tatsächlichen oder hypothetischen Einkommen der Parteien. Alle Einkommen sind separat denjenigen Familienmitgliedern zuzuweisen, welche sie generieren. Kinderzulagen sind als Kindeseinkommen zu berücksichtigen. Den Einnahmen ist der Grundbedarf von Vater, Mutter und Kindern gegenüberzustellen. Das Existenzminimum der unterhaltspflichtigen Person ist nach wie vor unantastbar. Der Grundbedarf des Kindes, das heisst der Barbedarf, ist neu selbstständig, nach Ausscheidung von jenem des betreuenden Elternteils, zu ermitteln. Bei der Bemessung des Wohnkostenanteils von betreuendem Elternteil und Kindern ist eine Aufteilung nach "grossen und kleinen Köpfen" sachgerecht. Die auf die Steuerfaktoren der Kinder entfallenden Steueranteile sind ihnen zuzuordnen, im Mankofall allerdings bei allen Beteiligten ausser Acht zu lassen. Nur soweit nach der Deckung des Barbedarfs der minderjährigen unterhaltsberechtigten Kinder Einkommen überschüssig bleibt, besteht Raum für allfälligen Betreuungsunterhalt. Der Grundbedarf des betreuenden Elternteils ist im Übrigen wie bisher zu ermitteln. Der Betreuungsunterhalt entspricht quantitativ der Differenz zwischen der Eigenversorgungskapazität des betreuenden Elternteils, also namentlich dessen tatsächlichem oder hypothetischem Erwerbseinkommen, und seinem Grundbedarf
+[9]
+.
+Obergericht, 2. Abteilung, 27. April 2017, ZBR.2016.51
+[1]
+Art. 285 Abs. 2 ZGB
+[2]
+Botschaft zu einer Änderung des Schweizerischen Zivilgesetzbuches (Kindesunterhalt) vom 29. November 2013, BBl 2014 S. 575
+[3]
+Botschaft, S. 576
+[4]
+Jungo/Aebi-Müller/Schweighauser, Der Betreuungsunterhalt, in: FamPra.ch 2017 S. 172; Spycher, Betreuungsunterhalt, in: FamPra.ch 2017 S. 209; Allemann, Betreuungsunterhalt - Grundlagen und Bemessung, in: Jusletter 11. Juli 2016, N 55
+[5]
+Spycher, S. 212; Allemann, N 57
+[6]
+Jungo/Aebi-Müller/Schweighauser, S. 174 ff.; vgl. Spycher, S. 212 f.
+[7]
+Botschaft, S. 575
+[8]
+Spycher, S. 212
+[9]
+Allemann, N 55 ff.
