@@ -1,0 +1,42 @@
+---
+decision_id: "tg_obergericht_RBOG_2017_Nr._22"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2017 Nr. 22"
+decided: "2017-06-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2017-nr-22"
+cites_law: ["switzerland/bund/acts/312.0/art-107.md", "switzerland/bund/acts/312.0/art-108.md"]
+---
+
+# TG Obergericht RBOG 2017 Nr. 22
+
+## Regeste
+
+Einsicht in Akten eines Mitbeschuldigten
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2016 RBOG 2017 Nr. 22
+Thurgovie Obergericht Rechenschaftsbericht 2016 RBOG 2017 Nr. 22
+Turgovia Obergericht Rechenschaftsbericht 2016 RBOG 2017 Nr. 22
+
+RBOG 2017 Nr. 22
+Skip to main content
+Show navigation
+Einsicht in Akten eines Mitbeschuldigten
+Art. 107 Abs. 1 lit. a StPO
+,
+Art. 108 Abs. 1 lit. b StPO
+1. Das Obergericht erkannte im Entscheid RBOG 2016 Nr. 29[1], der Beschwerdeführer habe als Mitbeschuldigter grundsätzlich das Recht auf Einsicht in alle Akten des einheitlichen Strafverfahrens, das gegen ihn und den mitbeschuldigten Beschwerdegegner geführt werde. Der Anspruch auf rechtliches Gehör sei aber nicht unbegrenzt. Unter anderem könnten die Strafbehörden die Akteneinsicht gemäss Art. 108 Abs. 1 lit. b StPO einschränken, wenn dies zur Wahrung privater Geheimhaltungsinteressen erforderlich sei. Zu denken sei an medizinische Befunde sowie psychiatrische Gutachten. Einschränkungen des Akteneinsichtsrechts seien aber zurückhaltend und unter Beachtung des Verhältnismässigkeitsgrundsatzes anzuwenden[2]. Das Obergericht kam zum Schluss, demnach seien sämtliche Ausführungen (in einem psychiatrischen Gutachten), die sich auf die begangenen Straftaten bezögen, grundsätzlich den Mitbeschuldigten offenzulegen. Hingegen seien sanktionsbezogene Ausführungen - wie namentlich über Schuldfähigkeit und allfällige Massnahmen - der Privat- und Geheimsphäre zuzuordnen und dürften somit dem Mitbeschuldigten vorenthalten werden[3].
+2. In Bestätigung dieser Rechtsprechung des Obergerichts ist die Hierarchie zwischen Regel und Ausnahme klarzustellen: Grundregel ist die vollständige Akteneinsicht des (Mit-)Beschuldigten. Ausnahme ist die Beschränkung des Akteneinsichtsrechts gemäss Art. 108 Abs. 1 lit. b StPO. Die Ausnahme muss zur Wahrung privater Geheimhaltungsinteressen erforderlich sein, ist also zurückhaltend zu gewähren. Ein Geheimhaltungsinteresse allein genügt nicht. Vielmehr ist zu prüfen, ob das Geheimhaltungsinteresse die berechtigten Interessen des (Mit-)Beschuldigten an einer wirksamen Verteidigung offensichtlich überwiegt.
+Obergericht, 2. Abteilung, 1. Juni 2017, SW.2017.26
+[1] S. 275
+[2] RBOG 2016 Nr. 29, S. 275 f.
+[3] RBOG 2016 Nr. 29, S. 279
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
