@@ -1,0 +1,45 @@
+---
+decision_id: "tg_obergericht_TVR_2018_Nr._21"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2018 Nr. 21"
+decided: "2018-02-06"
+published: "2018-07-04"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2018-nr-21"
+cites_law: ["switzerland/bund/acts/210/art-641.md", "switzerland/bund/acts/210/art-684.md", "switzerland/bund/acts/272/art-001.md"]
+---
+
+# TG Obergericht TVR 2018 Nr. 21
+
+## Regeste
+
+Geltendmachung privatrechtlicher Einsprachegründe
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 04.07.2018 TVR 2018 Nr. 21
+Thurgovie Obergericht Rechenschaftsbericht 04.07.2018 TVR 2018 Nr. 21
+Turgovia Obergericht Rechenschaftsbericht 04.07.2018 TVR 2018 Nr. 21
+
+TVR 2018 Nr. 21
+Skip to main content
+Show navigation
+Geltendmachung privatrechtlicher Einsprachegründe
+§ 104 PBG
+,
+Art. 684 ZGB
+§ 104 PBG ist bundesrechtswidrig. Werden im baurechtlichen Verfahren privatrechtliche Einsprachegründe geltend gemacht, so ist auch für den Einwand, das Bauvorhaben erfülle den Tatbestand einer übermässigen Einwirkung gemäss Art. 684 ZGB, nach § 105 PBG zu verfahren. Dem Einsprecher ist eine Frist von 30 Tagen ab Zustellung des Einspracheentscheids anzusetzen, innert welcher er auf dem ordentlichen Weg gemäss ZPO auf Unterlassung des Bauvorhabens klagen muss.
+Die Politische Gemeinde A legte am 18. August 2017 ein von ihr selbst verfasstes Baugesuch für einen Pumptrack und Skaterpark auf der Liegenschaft Nr. XX mit den dazugehörigen Plänen öffentlich auf. Dagegen erhob B Einsprache, welche an das DBU überwiesen wurde. Mit Entscheid vom 6. Februar 2018 bewilligte das DBU das Baugesuch und wies gleichzeitig die Einsprache von B ab. Gegen diesen Entscheid erhob B beim Verwaltungsgericht Beschwerde, mit welcher er beantragte, der angefochtene Entscheid sei aufzuheben und die Baubewilligung aus öffentlich- und privatrechtlichen Gründen (Immissionen) zu verweigern. Das Verwaltungsgericht tritt hinsichtlich des geltend gemachten privatrechtlichen Immissionsschutzes nicht auf die Beschwerde ein, weist diese im Übrigen ab und hält fest, dass eine privatrechtliche Klage auf Unterlassung des Bauvorhabens wegen übermässiger Immissionen innert 30 Tagen ab Zustellung des Entscheids beim Friedensrichteramt C anhängig zu machen sei.
+Aus den Erwägungen:
+1.2
+1.2.1 Der Beschwerdeführer weist in seinen Eingaben immer wieder auf seine Betroffenheit als Nachbar durch das Bauvorhaben und auf mögliche Immissionen auf seiner Liegenschaft Nr. 47 durch Lärmbelastung oder unzulässiges Parkieren hin. Er beantragt auch, dass der Entscheid vom 6. Februar 2018 aufzuheben und die Baubewilligung aus öffentlich- und privatrechtlichen Gründen (Immissionen) zu verweigern sei. Damit macht er eine übermässige Einwirkung im Sinne von Art. 684 ZGB durch den Betrieb der geplanten Anlage auf seine Liegenschaft geltend. Laut § 104 PBG sind privatrechtliche Einsprachen gegen die Erstellung von Bauten und Anlagen, soweit der Tatbestand einer übermässigen Einwirkung auf fremdes Eigentum gemäss Art. 684 ZGB streitig ist, im öffentlich-rechtlichen Verfahren zu entscheiden. Die zuständige Behörde hat über die Einsprachen gleichzeitig mit dem Entscheid über die Baubewilligung zu entscheiden. Will ein Einsprecher an seiner Einsprache festhalten, soweit sie privatrechtlicher Natur ist und nicht den Tatbestand der übermässigen Einwirkung im Sinne von Art. 684 ZGB betrifft, hat er innert 30 Tagen auf Unterlassung des Bauvorhabens zu klagen. Die Frist beginnt mit der Zustellung des Entscheids, durch den das Bauvorhaben erstinstanzlich bewilligt wird (§ 105 Abs. 1 PGB). Auf den Klageweg nach § 105 PBG ist der Kläger im Entscheid der Vorinstanz vom 6. Februar 2018 hingewiesen worden. Der Beschwerdeführer macht jedoch vor allem übermässige Einwirkungen auf seine Liegenschaft geltend. Es stellt sich die Frage, wie in diesen Fällen zu verfahren ist, soweit privatrechtliche Abwehransprüche angerufen werden.
+1.2.2 Privatrechtliche Abwehransprüche ergeben sich in der Regel aus dem Eigentum oder einer Dienstbarkeit und typischerweise aus dem Nachbarrecht, insbesondere dem privatrechtlichen Immissionsschutz gemäss Art. 684 ff. ZGB. Macht ein Nachbar übermässige Einwirkungen auf sein Grundstück geltend, geht es um eine auf Art. 641 Abs. 2 ZGB gestützte Eigentumsfreiheitsklage. Diese stellt von Bundesrechts wegen eine streitige Zivilsache dar. Gemäss dem klaren Wortlaut von Art. 1 lit. a ZPO regelt das betreffende Gesetz für streitige Zivilsachen das Verfahren vor den kantonalen Instanzen in abschliessender Weise. Für die Definition der streitigen Zivilsache nach Art. 1 lit. a ZPO kann auf die bereits vor Inkrafttreten der ZPO gängige Definition der Zivilrechtsstreitigkeit zurückgegriffen werden. Eine Zivilrechtsstreitigkeit liegt demnach vor, wenn das dem Streit zugrunde liegende Rechtsverhältnis dem Zivilrecht angehört und das Verfahren kontradiktatorisch zwischen zwei oder mehreren natürlichen oder juristischen Personen in ihrer Eigenschaft als Träger privater Rechte oder zwischen einer solchen Person und einer Behörde, der das Zivilrecht Parteistellung zuerkennt, ausgetragen wird. Dies ist bei der Eigentumsfreiheitsklage offensichtlich der Fall. Dies hat zur Folge, dass die Kantone nicht mehr befugt sind, für die Geltendmachung zivilrechtlicher Abwehransprüche eine eigene Verfahrensordnung aufzustellen, mit welcher sie die im Bundesgesetz aufgestellte Ordnung derogieren. Insbesondere wäre es ihnen auch versagt, für die Geltendmachung von Zivilansprüchen dem Zivilverfahren gewissermassen ein verwaltungsrechtliches Präliminarverfahren voranzustellen (Urteil des Bundesgerichts 5A_948/2015 vom 12. April 2016 E. 3.1 bis 3.3). Privatrechtliche Ansprüche im Zusammenhang mit Bauprojekten müssen daher in den Formen und mit den Mitteln des vereinheitlichten Zivilprozesses durchgesetzt werden. Eine besondere kantonale Regelung in Verbindung mit dem Baubewilligungsverfahren bzw. der Bauausschreibung ist dementsprechend grundsätzlich nicht mehr zulässig (Marti, Urteilsbesprechung zum Urteil des Bundesgerichts 5A_948/2015 vom 12. April 2016, in ZBl 7/2017 S. 398 f.).
+1.2.3 Aus dem unter E. 1.2.2 Ausgeführten ergibt sich, dass die Regelung von § 104 PBG, wonach privatrechtliche Einsprachen gegen die Erstellung von Bauten und Anlagen, soweit der Tatbestand einer übermässigen Einwirkung auf fremdes Eigentum gemäss Art. 684 ZGB geltend gemacht wird, im öffentlich-rechtlichen Verfahren zu entscheiden sei, bundesrechtswidrig ist. § 104 PBG ist daher die Anwendung zu versagen. Zwar kann ein Einsprecher gegen eine Baubewilligung nach wie vor privatrechtliche Einsprachegründe erheben, doch ist in diesen Fällen immer nach § 105 Abs. 1 PBG zu verfahren. Es ist dem Einsprecher eine Frist von 30 Tagen ab Zustellung des Entscheids anzusetzen, innert welcher er auf dem ordentlichen Weg gemäss ZPO auf Unterlassung des Bauvorhabens klagen muss.
+Entscheid des Verwaltungsgerichts VG.2018.17/E vom 4. Juli 2018
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
