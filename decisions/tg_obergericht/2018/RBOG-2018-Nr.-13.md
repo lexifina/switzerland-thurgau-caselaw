@@ -1,0 +1,84 @@
+---
+decision_id: "tg_obergericht_RBOG_2018_Nr._13"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2018 Nr. 13"
+docket_2: "SW.2017.126"
+decided: "2018-02-27"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/045BB05B-0147-92CB-160165345FC98993.html"
+cites_law: ["switzerland/bund/acts/101/art-008.md", "switzerland/bund/acts/311.0/art-024.md", "switzerland/bund/acts/311.0/art-025.md", "switzerland/bund/acts/312.0/art-029.md", "switzerland/bund/acts/312.0/art-030.md", "switzerland/bund/acts/312.0/art-100.md", "switzerland/bund/acts/312.0/art-178.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-393.md"]
+---
+
+# TG Obergericht RBOG 2018 Nr. 13
+
+## Regeste
+
+Davon geht die Staatsanwaltschaft aus; die Beschwerdeführerin bestreitet dies. d) Gestützt auf die konkrete Handhabung des Verfahrens durch die Staatsanwaltschaft – separate Verfahrensnummern, keine einheitliche Eröffnungsverfügung, keine Vereinigungsverfügung, keine einheitliche Aktenführung sowie Akteneröffnung – ist davon auszugehen, dass die Staatsanwaltschaft gegen die Beschwerdeführerin, B, C und D noch getrennte Verfahren führt.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 27.02.2018 RBOG 2018 Nr. 13 (SW.2017.126)
+Thurgovie Obergericht Rechenschaftsbericht 27.02.2018 RBOG 2018 Nr. 13 (SW.2017.126)
+Turgovia Obergericht Rechenschaftsbericht 27.02.2018 RBOG 2018 Nr. 13 (SW.2017.126)
+
+Davon geht die Staatsanwaltschaft aus; die Beschwerdeführerin bestreitet dies. d) Gestützt auf die konkrete Handhabung des Verfahrens durch die Staatsanwaltschaft – separate Verfahrensnummern, keine einheitliche Eröffnungsverfügung, keine Vereinigungsverfügung, keine einheitliche Aktenführung sowie Akteneröffnung – ist davon auszugehen, dass die Staatsanwaltschaft gegen die Beschwerdeführerin, B, C und D noch getrennte Verfahren führt.
+
+RBOG 2018 Nr. 13
+RBOG 2018 Nr. 13
+Sind die Voraussetzungen eines einheitlichen Verfahrens gegen mehrere Beschuldigte in materieller Hinsicht erfüllt, ist erkennbar auch formell ein einheitliches Verfahren zu führen
+(Art. 29 f. StPO).
+1.     a)    Die Staatsanwaltschaft eröffnete unter der Verfahrensnummer SUV_1 gegen A eine Strafuntersuchung wegen Beschimpfung. Es soll auf einer Quartierstrasse zu Nachbarstreitigkeiten zwischen verschiedenen involvierten Personen gekommen sein. Auslöser der verbalen Auseinandersetzung seien der Fahrstil von B sowie der Standort ihres Fahrzeugs gewesen. Nachdem sich die Streitigkeiten zunächst auf B sowie das Ehepaar C und D bezogen hätten, sei im Verlauf des Streits A dazugekommen. Weil diese das Ganze mit ihrem Mobiltelefon habe aufnehmen wollen, seien anschliessend B und A aneinander geraten.
+Aufgrund desselben Vorfalls eröffnete die Staatsanwaltschaft gleichentags auch je eine Strafuntersuchung wegen Beschimpfung gegen C unter der Verfahrensnummer SUV_2 und gegen D unter der Verfahrensnummer SUV_3 sowie wegen Beschimpfung, Nötigung und Drohung eine Strafuntersuchung gegen B unter der Verfahrensnummer SUV_4. B "soll die Kinder von C und D abgepasst" und sie eingeschüchtert haben.
+b)    A ersuchte die Staatsanwaltschaft, die Verfahren gegen alle an diesem Vorfall beschuldigten Personen zu vereinigen und einen einzigen Aktenbestand zu bilden. Die Staatsanwaltschaft antwortete, alle genannten Verfahren würden durch dieselbe Staatsanwältin geleitet. Zudem werde praxisgemäss und insbesondere aus administrativen Gründen für jede einzelne beschuldigte Person eine separate Nummer vergeben sowie ein Aktensatz geführt. A erhob Beschwerde.
+2.     a)    Gemäss Art. 29 Abs. 1 lit. b StPO werden Straftaten unter anderem gemeinsam verfolgt und beurteilt, wenn Mittäterschaft oder Teilnahme vorliegt. Art. 29 StPO regelt den Grundsatz der Verfahrenseinheit. Nebst der Mittäterschaft werden von dieser Bestimmung ebenso die mittelbare Täterschaft und die Nebentäterschaft erfasst. Unter den Begriff der Teilnahme fallen die Anstiftung gemäss Art. 24 StGB und die Gehilfenschaft gemäss Art. 25 StGB. Der Grundsatz der Verfahrenseinheit bezweckt die Verhinderung sich widersprechender Urteile, sei dies bei der Sachverhaltsfeststellung, der rechtlichen Würdigung oder der Strafzumessung. Er gewährleistet somit das Gleichbehandlungsgebot nach Art. 8 BV. Überdies dient er der Prozessökonomie
+[1]
+. Nach Art. 30 StPO können die Staatsanwaltschaft und die Gerichte aus sachlichen Gründen Strafverfahren vereinen. Diese Möglichkeit bewirkt eine Ausdehnung der Verfahrenseinheit auf Konstellationen, die von Art. 29 StPO nicht erfasst werden. Für eine Vereinigung nach Art. 30 StPO spricht vor allem der enge Sachzusammenhang verschiedener Straftaten. Ein solcher besteht namentlich, wenn sich Beteiligte gegenseitig Straftaten beschuldigen, die sie im Rahmen der gleichen Auseinandersetzung begangen haben sollen
+[2]
+.
+b)    Die Beschwerdeführerin und die Staatsanwaltschaft sind sich einig, dass gegen die vier am Vorfall vom 3. Juli 2017 beteiligten Beschuldigten ein einheitliches Verfahren zu führen ist. Entgegen der Auffassung der Beschwerdeführerin erfolgt die Vereinigung jedoch nicht nach Art. 29 Abs. 1 lit. b StPO, sondern gestützt auf Art. 30 StPO. Eine Tatbegehung in Mittäterschaft ist auszuschliessen, da aufgrund der Akten nicht von einem bewussten und koordinierten Zusammenwirken der Beschuldigten auszugehen ist. Ebenso ist hier kein Fall von mittelbarer Täterschaft, Nebentäterschaft oder Teilnahme anzunehmen. Die Beschuldigten begingen vielmehr je eigene (gleichartige) Delikte und sind jeweils zugleich Opfer
+[3]
+. Die Beschwerdeführerin sowie B, C und D werfen sich gegenseitig Straftaten vor, die sie im Rahmen der gleichen Auseinandersetzung begangen haben sollen. Aufgrund des engen Sachzusammenhangs dieser Straftaten und zur Abklärung der wechselseitigen Vorwürfe drängt sich somit ein einheitliches Verfahren gegen die vier Beteiligten auf.
+c)     Uneinigkeit besteht zwischen den Parteien darüber, ob die Staatsanwaltschaft bis anhin bereits ein einheitliches Verfahren gegen die Beschwerdeführerin sowie B, C und D führte. Davon geht die Staatsanwaltschaft aus; die Beschwerdeführerin bestreitet dies. Es ist somit zu prüfen, ob die Staatsanwaltschaft ein einheitliches Strafverfahren gegen alle vier Beschuldigten führt, wobei dies aufgrund der konkreten Handhabung des Verfahrens durch die Staatsanwaltschaft zu beurteilen ist.
+3.     a)    Die Staatsanwaltschaft spricht von einer Mehrzahl von Verfahren, was auf getrennt geführte Verfahren hindeutet. Ein einheitlich geführtes Verfahren besteht nur aus einem einzigen Verfahren, welches gegebenenfalls in verschiedene Dossiers, Unter- oder Subverfahren unterteilt sein kann.
+b)    aa)   Die Staatsanwaltschaft brachte vor, sie führe praxisgemäss und aus administrativen Gründen für jede beschuldigte Person eine separate Verfahrensnummer. Bei separaten Verfahrensnummern liegt die Annahme nahe, dass für jede Verfahrensnummer ein einzelnes Strafverfahren geführt wird, weshalb separate Verfahrensnummern ein Indiz für die Führung getrennter Verfahren sind. Allerdings kann trotz separater Nummern ein einheitliches Verfahren geführt werden; insofern kann allein deshalb noch nicht auf getrennt geführte Verfahren geschlossen werden. Bei einem einheitlichen Verfahren mit separaten Nummern muss jedoch sofort klar erkennbar sein, dass es sich um ein einheitlich geführtes Verfahren handelt, da ansonsten grundsätzlich von getrennt geführten Verfahren auszugehen ist.
+bb)   Die Staatsanwaltschaft wies der Beschwerdeführerin, B, C und D je eine separate Nummer zu, wogegen grundsätzlich nichts einzuwenden ist. Allerdings gibt es keine sofort erkennbaren Anzeichen für eine einheitliche Verfahrensführung. So erliess die Staatsanwaltschaft gegen die vier Beschuldigten je eine separate Eröffnungsverfügung; eine Vereinigungsverfügung befindet sich nicht bei den Akten. Das Unterlassen einer Abtrennungsverfügung lässt entgegen der Auffassung der Staatsanwaltschaft ebenfalls nicht auf ein einheitlich geführtes Verfahren gegen alle vier beschuldigten Personen schliessen, da das Fehlen einer solchen nicht erkennbar ist. Die separaten Nummern deuten hier somit vielmehr auf getrennt geführte Verfahren hin.
+c)     aa)   Gemäss Art. 100 Abs. 1 StPO wird für jede Strafsache ein Aktendossier angelegt. Dieses enthält die Verfahrens- und Einvernahmeprotokolle (lit. a), die von der Strafbehörde zusammengetragenen Akten (lit. b) und die von den Parteien eingereichten Akten (lit. c). Zu einem einheitlichen Verfahren gehören alle Akten, die im Zusammenhang mit der Untersuchung gegen alle Beteiligten angelegt wurden – bei verschiedenen Dossiers, Unter- oder Subverfahren folglich alle Akten aller Dossiers, Unter- oder Subverfahren. Ein einheitlicher Aktenbestand ist in einem einheitlichen Verfahren gegen mehrere Beschuldigte zentral und zwingend, da er das wohl wichtigste Verfahrensinstrument ist. Da die Akten die verfahrensrelevanten Vorgänge und Umstände des bisherigen Verfahrens festhalten, stellen sie für sämtliche künftigen Verfahrensschritte und -stufen die Entscheidungsgrundlage dar. Sie dienen der Information der Verfahrensbeteiligten und ermöglichen den Parteien sowie den Rechtmittelinstanzen die Kontrolle, ob korrekt ermittelt und beurteilt wurde. Schliesslich sind die Akten die Grundlage einer effizienten Wahrnehmung der Verfahrensrechte und mithin des rechtlichen Gehörs. Nur die Kenntnis der bereits vorliegenden, in den Akten wiedergegebenen Untersuchungsergebnisse ermöglicht eine sinnvolle Reaktion auf die Vorwürfe und die Entwicklung einer Strategie
+[4]
+. Ferner ist der einheitliche Aktenbestand in einem (einheitlichen) Aktenverzeichnis zu erfassen
+[5]
+.
+bb)   Auch die Aktenführung sowie die Akteneröffnung deuten darauf hin, dass die Staatsanwaltschaft noch getrennte Verfahren führt.
+aaa)   In einem einheitlichen Verfahren gegen mehrere beschuldigte Personen sind alle mitbeschuldigten Personen zu allen Straftaten, an denen sie selber mutmasslich oder verdachtsweise beteiligt waren
+[6]
+, immer in der gleichen Rolle einzuvernehmen. Dieses Erfordernis ist hier erfüllt. Die Einvernahmen aller Beschuldigten sind zudem einheitlich unter "E: Einvernahmen beschuldigte Personen" abzulegen. Das ist bei gewissen Einvernahmen der Beschwerdeführerin nicht der Fall. Im Dossier der Beschwerdeführerin befinden sich diese Einvernahmen unter "E: Einvernahmen beschuldigte Personen", während sie in den anderen drei Dossiers unter "D: Einvernahmen von Dritten" abgelegt sind. Auch dies ist ein Indiz für getrennt geführte Verfahren.
+bbb)   Die Staatsanwaltschaft anerkannte, der Beschwerdeführerin lediglich das auf ihren Namen lautende Dossier mit der Nummer SUV_1 zur Einsicht zugestellt zu haben. In einem gegen alle vier beschuldigten Personen einheitlich geführten Verfahren wäre aber der gesamte einheitliche Aktenbestand zu eröffnen gewesen. Dies gilt bei einheitlichen Verfahren unabhängig davon, ob verschiedene Dossiers mit separaten Nummern geführt werden und wie viele Akten in den einzelnen Dossiers identisch sind. Auf ein einheitliches Verfahren hätte allenfalls gedeutet, wenn die Staatsanwaltschaft mit der Eröffnung des auf den Namen der Beschwerdeführerin lautenden Dossiers alle übrigen Verfahrensakten offengelegt und mit anfechtbarer Verfügung begründet hätte, weshalb diese Akten nicht oder noch nicht eröffnet würden. Das tat die Staatsanwaltschaft indessen nicht; es finden sich in ihren Schreiben an die Beschwerdeführerin keine Hinweise auf zusätzliche Akten.
+d)    Gestützt auf die konkrete Handhabung des Verfahrens durch die Staatsanwaltschaft – separate Verfahrensnummern, keine einheitliche Eröffnungsverfügung, keine Vereinigungsverfügung, keine einheitliche Aktenführung sowie Akteneröffnung – ist davon auszugehen, dass die Staatsanwaltschaft gegen die Beschwerdeführerin, B, C und D noch getrennte Verfahren führt. Die Staatsanwaltschaft ist demnach anzuweisen, gegen die vier beschuldigten Personen nunmehr ein einheitliches Verfahren zu führen.
+e)     Soweit die Staatsanwaltschaft an ihrer Praxis mit den separaten Verfahrensnummern für jede beschuldigte Person festhalten will, empfiehlt es sich, um jegliche Missverständnisse auszuräumen, dafür nicht den Ausdruck "Verfahrensnummer", sondern zum Beispiel "Dossiernummer", "Unterverfahrensnummer", "Personennummer", "Juris-Nummer" oder "Nummer" zu verwenden. Entscheidend ist, dass für alle Verfahrensbeteiligten und die Gerichte sofort klar erkennbar ist, dass ein einheitliches Verfahren geführt wird. Dies kann etwa durch den Erlass einer Verfügung erfolgen, aus welcher hervorgeht, dass und welche einzelnen Nummern als einheitliches Verfahren geführt werden. Das Nichterlassen einer Abtrennungsverfügung genügt den Anforderungen an die Erkennbarkeit nicht. Sofern bereits bei der Eröffnung der Strafuntersuchung klar ist, dass gegen mehrere beschuldigte Personen ein einheitliches Verfahren zu führen ist, kann schon eine einheitliche Eröffnungsverfügung erlassen werden. Diese hat alle beschuldigten Personen und die diesen zur Last gelegten Straftaten zu nennen
+[7]
+. In formeller Hinsicht sind in der Eröffnungsverfügung alle Nummern aufzuführen, wobei der Einfachheit und der Lesbarkeit halber eine kurze Variante gewählt werden kann
+[8]
+. Falls die Staatsanwaltschaft hingegen separate Eröffnungsverfügungen mit jeweils verschiedenen Verfahrensnummern erlässt, ist eine Vereinigungsverfügung erforderlich. Eine solche Vereinigungsverfügung ist im Gegensatz zur einheitlichen Eröffnungsverfügung anfechtbar
+[9]
+. Wird für jede beschuldigte Person eine separate Nummer geführt, ist ferner sicherzustellen, dass alle Dossiers sowie Akten auch die einheitliche Nummer des gesamten einheitlichen Verfahrens tragen. Zudem ist den identischen Akten in den einzelnen Dossiers die gleiche Aktennummer zuzuweisen. Dadurch wird für die Verfahrensbeteiligten und die Gerichte erkennbar, welche Akten in den verschiedenen Dossiers identisch sind und aus welchen Akten das gesamte einheitliche Verfahren besteht. Es ist den Verfahrensbeteiligten und den Gerichten nicht zumutbar zu prüfen, ob allenfalls identische Akten in den einzelnen Dossiers unter anderen Aktennummern abgelegt sind. Das hat zur Folge, dass Sachverhaltskomplexe (S) und entsprechend zugeordnete Einvernahmen (D, E) für das gesamte einheitliche Verfahren durchnummeriert werden und nicht pro Beschuldigtem oder pro Dossier separate Nummerierungen aufweisen. Schliesslich empfiehlt es sich, ein Aktenverzeichnis über den gesamten Aktenbestand zu erstellen.
+f)     Eine andere Möglichkeit wäre, statt für jeden Beschuldigten eine separate Nummer zu verwenden, lediglich eine Verfahrensnummer für ein einheitliches Verfahren zu vergeben und verschiedene Dossiers – zum Beispiel Beschuldigtendossiers (A, B, C etc.) und / oder Sachverhaltsdossiers (S1, S2, S3 etc.) – mit der gleichen einheitlichen Verfahrensnummer anzulegen. Dies würde jedoch ein Abrücken von der Praxis der Staatsanwaltschaft bedingen. Der Vorteil läge darin, dass identische Akten nur einmal abgelegt werden müssten, was Kopiermaterial und mithin Arbeitszeit einsparen würde. Ausserdem könnte eine solche Aktenführung auch der besseren Übersicht über die Akten dienen.
+4.     Zusammenfassend ist die Beschwerde zu schützen. Die Staatsanwaltschaft wird angewiesen, gegen die Beschwerdeführerin sowie B, C und D ein einheitliches Verfahren im Sinn der vorstehenden Erwägungen zu führen.
+Obergericht, 2. Abteilung, 27. Februar 2018, SW.2017.126
+[1]
+BGE 138 IV 31
+[2]
+BGE 138 IV 34
+[3]
+Vgl. BGE 138 IV 33
+[4]
+Schmutz, Basler Kommentar, Art. 100 StPO N 4 ff.
+[5]
+Vgl. Art. 100 Abs. 2 StPO
+[6]
+Anders für Einvernahmen zu Straftaten, an denen die befragte Person selber nicht beteiligt war; diesfalls gilt Art. 178 lit. e StPO.
+[7]
+Vgl. Art. 309 Abs. 3 StPO
+[8]
+Hier zum Beispiel SUV_1.2.3.4
+[9]
+Art. 309 Abs. 3, Art. 393 StPO
