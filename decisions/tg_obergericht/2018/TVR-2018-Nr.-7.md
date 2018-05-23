@@ -1,0 +1,60 @@
+---
+decision_id: "tg_obergericht_TVR_2018_Nr._7"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2018 Nr. 7"
+decided: "2018-05-23"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2018-nr-7"
+cites_law: ["switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/741.01/art-052.md", "switzerland/bund/acts/741.11/art-094.md", "switzerland/bund/acts/741.11/art-095.md"]
+---
+
+# TG Obergericht TVR 2018 Nr. 7
+
+## Regeste
+
+Drittlegitimation zur Beschwerdeerhebung gegen die Bewilligung zur Durchführung einer Motocrossveranstaltung; Kostenverteilung bei ungehörigem Verhalten einer Partei
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 23.05.2018 TVR 2018 Nr. 7
+Thurgovie Obergericht Rechenschaftsbericht 23.05.2018 TVR 2018 Nr. 7
+Turgovia Obergericht Rechenschaftsbericht 23.05.2018 TVR 2018 Nr. 7
+
+TVR 2018 Nr. 7
+Skip to main content
+Show navigation
+Drittlegitimation zur Beschwerdeerhebung gegen die Bewilligung zur Durchführung einer Motocrossveranstaltung; Kostenverteilung bei ungehörigem Verhalten einer Partei
+Art. 52 Abs. 2 SVG
+,
+§ 44 Ziff. 1 VRG
+,
+§ 78 Abs. 1 VRG
+,
+§ 80 Abs. 2 VRG
+,
+Art. 94 Abs. 3 VRV
+,
+Art. 95 VRV
+1. Zur Beschwerde legimitiert ist eine Drittperson, wenn sie über eine spezifische Beziehungsnähe zur Streitsache verfügt und ihre Situation durch den Ausgang des Verfahrens in direkter Weise beeinflusst wird (E. 2.1).
+2. Das wichtigste Kriterium für die Beurteilung eines besonderen Berührtseins ist in der Praxis die räumliche Distanz zu einem Vorhaben. Gemäss der bundesgerichtlichen Rechtsprechung ist die Legitimation aufgrund der räumlichen Nähe anzuerkennen, wenn die Liegenschaft des Nachbarn unmittelbar an das (Bau-)Grundstück angrenzt oder nur durch einen Verkehrsträger davon getrennt ist. Als Faustregel gilt dabei ein Abstand von 100 m (E. 2.2).
+3. Bei Lärmimmissionen aus dem Bau oder Betrieb einer Anlage liegt eine Beschwerdelegitimation des Nachbarn nur vor, wenn diese deutlich wahrnehmbar sind. Bei bloss temporären Lärmquellen ist die Beschwerdelegitimation aufgrund der geringen zeitlichen Belastung nur in Ausnahmefällen gegeben (E. 2.4).
+4. Bei ungehörigem Verhalten können einem Beteiligten vom Gericht Kosten auferlegt werden (E. 3.3). Zudem kann bei ungehörigem Verhalten ein Anspruch auf Ersatz der ausseramtlichen Kosten verwirken (E. 4).
+Am 15. Februar 2018 erteilte das DJS die Bewilligung zur Durchführung einer Motocrossveranstaltung gestützt auf Art. 52 Abs. 2 SVG sowie Art. 94 Abs. 3 lit. a und 95 VRV unter diversen Auflagen. Auf die dagegen von A erhobene Beschwerde tritt das Verwaltungsgericht nicht ein. Es auferlegt der Verfahrensbeteiligten die hälftigen Gerichtskosten wegen ungehörigen Verhaltens und verweigert ihr eine ausseramtliche Entschädigung.
+Aus den Erwägungen:
+2.
+2.1 Im öffentlichen Verfahrensrecht kann grundsätzlich zwischen zwei Kategorien von Beschwerdeberechtigten unterschieden werden, nämlich zwischen den Verfügungsadressaten und Dritten. Als Verfügungsadressaten gelten diejenigen Personen, gegenüber denen die Verwaltung eine Verfügung erlässt bzw. gegenüber denen die Verwaltung direkt Rechte und Pflichten verbindlich im konkreten Einzelfall festlegt. Die Verfügungsadressaten sind in der Regel ohne weiteres materiell beschwert und damit zur Rechtsmittelerhebung legitimiert (vgl. dazu auch Fedi/Meyer/Müller, Kommentar zum Gesetz über die Verwaltungsrechtspflege des Kantons Thurgau, Basel 2014, § 44 Rz. 7). Als Dritte gelten diejenigen Personen, deren materiell-rechtliche Rechtsstellung die Verfügung indirekt - im Sinne einer „Drittwirkung“ - in schutzwürdigen Interessen besonders berührt, obwohl ihnen durch die Verfügung weder direkt Rechte eingeräumt noch direkt Pflichten auferlegt werden. Da Dritte nicht zu den Adressaten einer Verfügung gehören, bedarf ihre Beschwerdeberechtigung einer speziellen Rechtfertigung und es kommt insbesondere den Kriterien der materiellen Beschwer - besonderes Berührtsein und schutzwürdiges Interesse - eine besondere Bedeutung zu. Der beschwerdeführende Dritte muss über eine spezifische Beziehungsnähe zur Streitsache verfügen und seine Situation muss durch den Ausgang des Verfahrens in direkter Weise beeinflusst werden (Wiederkehr/Eggenschwiler, Die allgemeine Beschwerdebefugnis Dritter, Bern 2018, Rz. 1 ff.). Besonders berührt ist eine Drittperson, wenn sie in einer beachtenswerten, nahen Beziehung zur Streitsache steht (Wiederkehr/Eggenschwiler, a.a.O., Rz. 9 mit Verweis auf BGE 139 II 279 E. 2.3 und Urteil des Bundesgerichts 2C_762/2010 vom 2. Februar 2011 E. 4.4). Das schutzwürdige Interesse besteht im Umstand, einen Nachteil zu vermeiden, den der angefochtene Entscheid ansonsten mit sich bringen würde. Dabei genügt ein tatsächliches (faktisches), wirtschaftliches oder ideelles Interesse, wobei konkrete persönliche Nachteile hinter dem Rechtsschutzanliegen zu stehen haben; es genügt nicht, wenn lediglich allgemeine Nachteile drohen, die jedermann treffen (Wiederkehr/Eggenschwiler, a.a.O., Rz. 12 mit Verweis auf BGE 135 II 145 E. 6.1).
+2.2 Das wichtigste Kriterium für die Beurteilung eines besonderen Berührtseins ist in der Praxis die räumliche Distanz zu einem Vorhaben. Gemäss der bundesgerichtlichen Rechtsprechung ist die Legitimation aufgrund der räumlichen Nähe anzuerkennen, wenn die Liegenschaft des Nachbarn unmittelbar an das (Bau-)Grundstück angrenzt oder nur durch einen Verkehrsträger davon getrennt ist. Als Faustregel gilt dabei ein Abstand von 100 m (Wiederkehr/Eggenschwiler, a.a.O., Rz. 27 mit Verweis auf die bundesgerichtliche Rechtsprechung, welche jedoch von den Autoren bezüglich der Distanz teilweise kritisiert wird; vgl. Rz. 74). Als Nachbarn gelten nicht nur die jeweiligen Eigentümer der Liegenschaft, sondern auch beschränkt dinglich und obligatorisch Berechtigte wie beispielsweise Mieter oder Pächter (Wiederkehr/Eggen­schwiler, a.a.O., Rz. 21).
+2.3 Wie die Verfahrensbeteiligte zu Recht festhält, befindet sich die vom Beschwerdeführer bewohnte Liegenschaft im B nicht in direkter Nachbarschaft zum Gelände der Anlage „C“. Vielmehr liegen dazwischen diverse, teils auch massive, Gebäude sowie die Hauptstrasse und die Bahnlinie, welche den geforderten engen Beziehungszusammenhang unterbrechen. Ebenso wenig befindet sich die Liegenschaft in einem Abstand von maximal 100 m zum betroffenen Gelände. Dies wird denn auch vom Beschwerdeführer nicht geltend gemacht. Vielmehr spricht der Beschwerdeführer selber von 250 m, währenddem die Verfahrensbeteiligte von 300 m ausgeht.
+2.4 Bei Lärmimmissionen aus dem Bau oder Betrieb einer Anlage liegt eine Beschwerdelegitimation des Nachbarn zudem nur vor, wenn diese deutlich wahrnehmbar sind. Wie es sich damit verhält, kann im vorliegenden Fall jedoch offen gelassen werden, nachdem bei bloss temporären Lärmquellen die Beschwerdelegitimation aufgrund der geringen zeitlichen Belastung nur in Ausnahmefällen gegeben ist (Wiederkehr/Eggenschwiler, a.a.O., Rz. 82 f.). Im vorliegenden Fall findet die Veranstaltung am 18. August 2018 von 7.00 Uhr bis 18.30 Uhr und am 19. August 2018 von 8.00 Uhr bis 12.00 Uhr und von 13.00 bis 18.00 Uhr, also nicht während sensiblen Zeiten, statt. Daneben bestehen am 17. August 2018 Trainingsmöglichkeiten von 16.00 bis 18.00 Uhr. Der Campingplatz ist ab 16. August 2018 12.00 Uhr geöffnet. Dort herrscht zwischen 22.00 und 6.00 Uhr polizeilich kontrollierte Nachtruhe. Hinzu kommt der Auf- und Abbau, welcher jedoch ebenfalls über Tag durchgeführt werden dürfte. Der Beschwerdeführer als Bewohner der im Eigentum von D stehenden Liegenschaft Nr. XY ist zudem nicht direkt Anstösser der dadurch allenfalls vermehrt befahrenen Hauptstrasse. Der meiste Verkehr wird denn auch über den Autobahnanschluss „E“ abgewickelt werden können. Die aus der Richtung E kommenden Fahrzeuge werden bereits beim Kreisel bei der C in Richtung Motocrossgelände abbiegen, so dass auf dem Strassenabschnitt E-F auf der Höhe der vom Beschwerdeführer bewohnten Liegenschaft kaum mit zusätzlichem Verkehr zu rechnen sein wird. Weder vom Campingplatz noch vom Parkplatz her führen die Fusswege in der Nähe der vom Beschwerdeführer bewohnten Liegenschaft vorbei. Somit dürfte es aber auch nicht zu einer massgeblichen Erhöhung des durchschnittlichen Tagesverkehrs von mindestens 25% oder Lärm bzw. anderen Immissionen durch die Besucher des Motocross kommen (vgl. Wiederkehr/Eggenschwiler, a.a.O., Rz. 80). Zudem wäre, selbst wenn der Tagesverkehr stärker erhöht würde, wiederum zu berücksichtigen, dass es sich lediglich um eine temporäre Mehrbelastung handeln würde. Im Weiteren liegt die vom Beschwerdeführer bewohnte Liegenschaft nicht in einem reinen Wohngebiet, sondern schliesst sich an die Wohn- und Gewerbezone und (auf der anderen Seite der Hauptstrasse) an die Industriezone an. Die Bewilligung vom 15. Februar 2018 enthält zudem die Auflage, dass sämtliche Hindernisse und Einrichtungen nach der Veranstaltung umgehend zu entfernen sind. Die Verfahrensbeteiligte erklärte sich im Weiteren auch von vorneherein bereit, die Massnahmen zur Geräuschreduktion einzuhalten. Es liegen somit keine stichhaltigen Gründe vor, weshalb die Beschwerdebefugnis des Beschwerdeführers als Drittperson bei einer lediglich temporären Lärmimmission vorliegend ausnahmsweise zu bejahen wäre. Der Beschwerdeführer ist von den Immissionen auch nicht in einem stärkeren Ausmass betroffen als die übrigen Personen in der Umgebung des Veranstaltungsortes. Somit fehlt dem Beschwerdeführer sowohl die Legitimation zur Anfechtung des Entscheids der Vor­instanz vom 15. Februar 2018 „Bewilligung für die Durchführung der Veranstaltung G“ wie auch die Legitimation zur Geltendmachung eines mangelnden Baubewilligungsverfahrens in diesem Zusammenhang. Auf die Beschwerde ist daher nicht einzutreten. Der Entscheid der Vorinstanz vom 15. Februar 2018 ist folglich auch nicht materiell zu prüfen und es kann offen gelassen werden, ob für eine Veranstaltung in der vorliegenden Grössenordnung und den damit zusammenhängenden Arbeiten grundsätzlich die Durchführung eines Baubewilligungsverfahrens notwendig wäre oder nicht.
+3.
+3.1 - 3.2 (….)
+3.3 Gemäss § 78 Abs. 1 VRG können einem Beteiligten Kosten bei ungehörigem Verhalten auferlegt werden. Der Beschwerdeführer reichte dem Gericht ein Schreiben der Verfahrensbeteiligten ein. Darin drohte ihm diese mit einer Schadenersatzklage in Höhe von mindestens Fr. 800‘000.-- (zuzüglich der Gerichts- und Anwaltskosten von Fr. 100‘000.--), falls er die Beschwerde nicht zurückziehe und es zu einer Gutheissung komme. Ob dieses Schreiben den Tatbestand der Nötigung (Art. 181 StGB) erfüllt, kann offen gelassen werden und müsste gegebenenfalls in einem Strafverfahren beurteilt werden. Jedoch ist die Verfahrensbeteiligte - welche wohl ohne Absprache mit ihrem Rechtsvertreter gehandelt haben dürfte - unmissverständlich darauf hinzuweisen, dass es dem rechtsstaatlichen Prinzip entspricht, dass Entscheide der Verwaltungsbehörden von den Betroffenen an ein Gericht weitergezogen werden können und dürfen, und dass solche Drohungen klar zu unterlassen sind. Der Verfahrensbeteiligten ist daher ein klar ungehöriges Verhalten vorzuwerfen. In der Folge sind ihr in Anwendung von § 78 Abs. 1 VRG daher die hälftigen Kosten aufzuerlegen.
+4. Im Verfahren vor dem Verwaltungsgericht besteht in der Regel Anspruch auf Ersatz der ausseramtlichen Kosten (§ 80 VRG). Dabei gilt der Grundsatz, dass die Kosten nach Massgabe des Obsiegens und Unterliegens verlegt werden (Fedi/Meyer/ Müller, a.a.O., § 80 Rz. 12). Von dieser Regel kann bei ungehörigem Verhalten abgewichen werden (vgl. § 78 Abs. 1 VRG). Aufgrund ihres klar ungehörigen Verhaltens hat die Verfahrensbeteiligte vorliegend ihren Anspruch auf Ersatz der ausseramtlichen Kosten verwirkt und ihr entsprechendes Begehren ist abzuweisen.
+Entscheid des Verwaltungsgerichts VG.2018.26/E vom 23. Mai 2018
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
