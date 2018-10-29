@@ -1,0 +1,55 @@
+---
+decision_id: "tg_obergericht_TVR_2019_Nr._36"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2019 Nr. 36"
+decided: "2018-10-29"
+published: "2019-10-25"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2019-nr-36"
+cites_law: ["switzerland/bund/acts/642.11/art-033.md", "switzerland/bund/acts/642.14/art-009.md", "switzerland/bund/acts/831.40/art-001.md", "switzerland/bund/acts/831.40/art-010.md", "switzerland/bund/acts/831.40/art-047.md", "switzerland/bund/acts/831.40/art-081.md", "switzerland/bund/acts/831.40/art-082.md"]
+---
+
+# TG Obergericht TVR 2019 Nr. 36
+
+## Regeste
+
+Ausübung einer AHV-pflichtigen Erwerbstätigkeit als Voraussetzung für die Abzugsfähigkeit von Beiträgen an berufliche Vorsorgeeinrichtungen
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 25.10.2019 TVR 2019 Nr. 36
+Thurgovie Obergericht Rechenschaftsbericht 25.10.2019 TVR 2019 Nr. 36
+Turgovia Obergericht Rechenschaftsbericht 25.10.2019 TVR 2019 Nr. 36
+
+Ausübung einer AHV-pflichtigen Erwerbstätigkeit als Voraussetzung für die Abzugsfähigkeit von Beiträgen an berufliche Vorsorgeeinrichtungen
+
+TVR 2019 Nr. 36
+Skip to main content
+Show navigation
+Ausübung einer AHV-pflichtigen Erwerbstätigkeit als Voraussetzung für die Abzugsfähigkeit von Beiträgen an berufliche Vorsorge­einrichtungen
+Art. 81 Abs. 2 BVG
+,
+Art. 33 Abs. 1 lit. d DBG
+,
+§ 34 Abs. 1 Ziff. 6 StG
+,
+Art. 9 Abs. 2 lit. d StHG
+Der Abzug von Beiträgen an die zweite Säule setzt eine AHV-pflichtige Erwerbstätigkeit voraus. Gleiches gilt im Bereich der gebundenen Selbstvorsorge (Säule 3a).
+Die Ehefrau der Rekurrenten bzw. Beschwerdeführer (nachfolgend: Rekurrenten) ist zu 100% invalid und bezieht eine Rente der SVA X, der Pensionsversicherungsanstalt Y sowie der BVK Z. Gemäss Bescheinigung über die Vorsorgebeiträge vom 9. Oktober 2017 überwies sie im Kalenderjahr 2017 der BVK Z einen Beitrag von Fr. 50'000.--. Diesen Beitrag deklarierten die Rekurrenten in der Steuererklärung 2017 unter Ziff. 15.2. Die Veranlagungsbehörde liess im Veranlagungsentscheid vom 29. Oktober 2018 diesen Beitrag nicht zum Abzug zu. Dagegen erhoben die Rekurrenten am 20. November 2018 Einsprache, welche am 17. Januar 2019 abgewiesen wurde. Die Steuerrekurskommission weist den dagegen erhobenen Rekurs und die Beschwerde ebenfalls ab.
+Aus den Erwägungen:
+5. Gemäss Art. 81 Abs. 2 BVG sowie den dazugehörigen Ausführungsvorschriften von Art. 9 Abs. 2 lit. d StHG und § 34 Abs. 1 Ziff. 6 StG sowie Art. 33 Abs. 1 lit. d DBG sind die an berufliche Vorsorgeeinrichtungen nach Gesetz oder reglementarischen Bestimmungen geleisteten Beiträge bei den direkten Steuern des Bundes, der Kantone und Gemeinden abziehbar. Abzugsfähig sind nicht nur die ordentlichen Beiträge an die Vorsorgeeinrichtungen, sondern auch die Beiträge für den Einkauf in Lohnerhöhungen oder für verbesserte Leistungen sowie für den Einkauf von Beitragsjahren (Reich/von Ah/Brawand, in: Zweifel/Beusch [Hrsg.], Kommentar zum schweizerischen Steuerrecht, Bundesgesetz über die Harmoni­sierung der direkten Steuern der Kantone und Gemeinden, 3. A. Basel 2017, Art. 9 N. 41a, S. 315).
+Während nach Art. 81 Abs. 2 BVG die Berechtigung zum Abzug von Beiträgen nach dem Wortlaut ausdrücklich an eine AHV-pflichtige Erwerbs­tätigkeit geknüpft wird, ist in Art. 9 Abs. 2 lit. d StHG, § 34 Abs. 1 Ziff. 6 StG und Art. 33 Abs. 1 lit. d DBG das Erfordernis, dass nur die von Arbeitnehmern und selbständig Erwerbenden geleisteten Beiträge steuerlich abziehbar sind, nicht enthalten. Es stellt sich somit die Frage, ob der Abzug von Beiträgen an die zweite Säule eine AHV-pflichtige Erwerbs­tätigkeit voraussetzt.
+5.1 Art. 47 Abs. 1 BVG bestimmt, dass ein Versicherter, der aus der obligatorischen Vorsorge ausscheidet, die Vorsorge oder bloss die Altersvorsorge im bisherigen Umfang bei derselben Vorsorgeeinrichtung, wenn deren Reglement es zulässt, oder bei der Auffangeinrichtung weiterführen kann. Daraus zieht eine Lehrmeinung den Schluss, dass jede steuerpflichtige Person ungeachtet ihrer AHV-pflichtigen Erwerbstätigkeit die gemäss Gesetz, Statuten oder Reglement an eine Vorsorgeeinrichtung geleisteten Beiträge in Abzug bringen darf (vgl. Richner/Frei/ Kaufmann/Meuter, Kommentar zum Zürcher Steuergesetz, 3. Aufl., Zürich 2013, § 31 N. 68, S. 586; Richner/Frei/Kaufmann/Meuter, Handkommentar zum DBG, 3. Aufl., Zürich 2016, Art. 33 N. 72, S. 640).
+5.2 Eine solche uneingeschränkte Abzugsfähigkeit würde aber gegen grundlegende Prinzipien der beruflichen Vorsorge verstossen. Das BVG regelt gemäss Gesetzestitel und Zweckumschreibung in Art. 1 BVG die "berufliche Vorsorge" von unselbständig und selbständig Erwerbenden. Auch die Verfassungsgrundlagen des BVG sehen lediglich eine "berufliche Vorsorge" vor (vgl. Art. 111 und 113 BV). Die Vorsorge von Nichterwerbstätigen ist damit nicht mehr vom Regelungsbereich des BVG erfasst (StE 1996 B 27.1 Nr. 20, E. 2c). Dieser Umstand ergibt sich denn auch aus Art. 1 Abs. 2 BVG, wonach der in der beruflichen Vorsorge versicherbare Lohn das AHV-beitragspflichtige Einkommen nicht übersteigen dürfe. Zudem nennt Art. 10 BVG ausdrücklich den Antritt und die Auflösung des Arbeitsverhältnisses als Zeitpunkt des Beginns bzw. der Beendigung der Versicherungspflicht des Arbeit­nehmers. Überdies ist Art. 47 Abs. 1 BVG eng auszulegen und eine steuerlich begünstigte Weiterversicherungsmöglichkeit für Erwerbslose ohne AHV-pflichtiges Einkommen lediglich für vorübergehende Erwerbsunterbrüche von in der Regel nicht mehr als zwei Jahren oder bei Entlassungen kurz vor einer möglichen (vorzeitigen) Pensionierung anzunehmen (Hunziker/Mayer-Knobel, in: Zweifel/Beusch [Hrsg.], Kommentar zum schweizerischen Steuerrecht, Bundesgesetz über die direkte Bundessteuer, 3. Aufl., Basel 2017, Art. 33 N. 23m, S. 809 mit Hinweisen, insbesondere auf Entscheid des Verwaltungsgerichts Zürich SB.2013.00161 vom 2. April 2014 E. 5.6).
+Dementsprechend knüpft denn auch die vorherrschende Lehre und Praxis den Abzug von Beiträgen an die zweite Säule an die Voraussetzung einer AHV-pflichtigen Erwerbs­tätigkeit (Daniel Aeschbach, in: Klöti-Weber/Siegrist/Weber [Hrsg.], Kommentar zum Aargauer Steuergesetz, 4. Aufl., Muri-Bern 2015, § 40 N. 100, S. 758; Leuch/Schup Guignard, in: Leuch/Kästli/Langenegger [Hrsg.], Praxiskommentar zum Berner Steuergesetz, Bd. 1, Muri-Bern 2014, Art. 38 N. 63, S. 492; Zigerlig/Oertli/Hofmann, Das St. Gallische Steuerrecht, 7. Aufl., Muri-Bern 2014, Rz. 613, S. 156; Maute/Steiner/Rufener/Lang, Steuern und Versicherungen, 3. Aufl., Muri-Bern 2011, S. 164; Entscheid des Verwaltungsgerichts Zürich SB.2013.00161 vom 2. April 2014; KSGE 2009 Nr ; LGVE 2008 II Nr. 18). Dieser Auffassung ist zuzustimmen.
+5.3 Die Ehefrau der Rekurrenten ist unstreitig zu 100 % invalid und bezieht eine volle IV-Rente. Sie ist daher weder Arbeitnehmerin noch selbständig Erwerbende im Sinn von Art. 81 Abs. 2 BVG und erzielt kein Erwerbseinkommen. Als IV-Rentnerin hat sie ihren AHV-Beitrag denn auch als Nichterwerbstätige zu entrichten, was jedoch nicht dazu führt, dass das Rentenverhältnis als eine Erwerbstätigkeit zu qualifizieren wäre. Mangels einer AHV-pflichtigen Erwerbstätigkeit der Ehefrau der Rekurrenten hat die Vorinstanz den Abzug des an die BVK Z überwiesenen Beitrags von Fr. 50'000.-- somit zu Recht verweigert.
+5.4 Die Frage, ob die von Nichterwerbstätigen geleisteten Beiträge steuerlich abziehbar sind, stellt sich im Übrigen auch im Bereich der gebundenen Selbstvorsorge (sogenannte Säule 3a). Gemäss Art. 82 Abs. 1 BVG können Arbeitnehmer und selbständig Erwerbende Beiträge für weitere, ausschliesslich und unwiderruflich der beruflichen Vorsorge dienende, anerkannte Vorsorgeformen abziehen. Gemäss bundesgerichtlicher Recht­sprechung können Nichterwerbstätige nicht in den Genuss dieser Be­günstigung kommen. Nur wer berufs- bzw. erwerbstätig ist, kann im Rahmen der Säule 3a steuerlich privilegiert werden (BGE 119 Ia 241 E. 7 S. 248, Urteil des Bundesgerichts 2C_326/2010 vom 29. September 2010 E. 2.2 f., Urteil 2A.292/2006 vom 15. Januar 2007 E. 6.3). Der Zweck der Säule 3a besteht darin, die Leistungen der zweiten Säule zu ergänzen oder gar zu ersetzen. Die Säule 3a ist der beruflichen Vorsorge im engeren Sinn gleichgestellt. Weil die zweite Säule und die Säule 3a beide je in kollektiver bzw. individueller Ausprägung der beruflichen Vorsorge dienen, ist es folgerichtig, die damit verbundenen Begriffe sinngemäss gleich zu verwenden (Urteil des Bundesgerichts 2A.292/2006 vom 15. Januar 2007 E. 6.3 f.). Der Begriff des Arbeitnehmers bzw. des selbständig Erwerbenden ist deshalb in der zweiten Säule nicht weiter zu fassen als in der Säule 3a. Die zitierte Rechtsprechung des Bundesgerichts, wonach nur steuerlich zu privilegieren ist, wer berufs- bzw. erwerbstätig ist, kann demnach auch in Bezug auf Beiträge an die zweite Säule herangezogen werden.
+Auch vor diesem Hintergrund ist demnach festzuhalten, dass die Vorinstanz den von den Rekurrenten geleisteten Beitrag an die Pensionskasse der Ehefrau der Rekurrenten zu Recht nicht zum Abzug zugelassen hat.
+Entscheid der Steuerrekurskommission STRE.2019.18 und STRE.2019.19 vom 25. Oktober 2019
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
