@@ -1,0 +1,48 @@
+---
+decision_id: "tg_obergericht_TVR_2020_Nr._18"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2020 Nr. 18"
+decided: "2019-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2020-nr-18"
+---
+
+# TG Obergericht TVR 2020 Nr. 18
+
+## Regeste
+
+Rechtsmittel gegen Veranlagung einer Mehrwertabgabe
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2019 TVR 2020 Nr. 18
+Thurgovie Obergericht Rechenschaftsbericht 2019 TVR 2020 Nr. 18
+Turgovia Obergericht Rechenschaftsbericht 2019 TVR 2020 Nr. 18
+
+TVR 2020 Nr. 18
+Skip to main content
+Show navigation
+Rechtsmittel gegen Veranlagung einer Mehrwertabgabe
+§ 63 PBG
+,
+§ 70 PBG
+Die provisorische Mitteilung der Veranlagung einer Mehrwertabgabe nach einer planungsrechtlichen Massnahme (Umzonung) durch die Steuerverwaltung stellt, auch wenn sie zusammen mit einer Liegenschaftenschätzung zugestellt wird, lediglich eine Mitteilung dar, bezüglich welcher keine Rechtsmittelmöglichkeit besteht. Ein Rechtsmittel (Einsprache bzw. Rekurs) ist erst gegen die definitive Veranlagung einer Mehrwertabgabe gegeben.
+Die Politische Gemeinde G ist Eigentümerin mehrerer Liegenschaften auf dem Gemeindegebiet. Im Jahr 2018 erfolgte eine Umzonung einzelner Liegenschaften von der Zone für öffentliche Bauten und Anlagen in die Wohnzone 2.0. Am 1. Oktober 2018 wurden die Liegenschaften einer amtlichen Schätzung unterzogen. Für die Liegenschaft Nr. XX wurde neu ein Verkehrswert von Fr. 4'071'000.-- und für die Liegenschaft Nr. YY ein solcher von Fr. 1'072'000.-- erhoben. Die Schätzwerte wurden der Politische Gemeinde G - gleichzeitig mit der provisorischen Veranlagung der Mehrwertabgabe für die betreffenden Liegenschaften - mit Schreiben vom 2. Oktober 2018 mitgeteilt. In diesem Schreiben wurde darauf hingewiesen, sofern von der Politischen Gemeinde G nicht innert 30 Tagen eine Rückmeldung zur provisorischen Veranlagung der Mehrwertabgabe eingehe, erfolge die definitive Veranlagung mit Rechnungsstellung. Dagegen liess die Politische Gemeinde G am 29. Oktober 2018 Einsprache erheben. Mit Entscheid vom 5. Dezember 2018 wies die Steuerverwaltung (= verfahrensbeteiligtes Amt) darauf hin, dass sich die Einsprache auch gegen die provisorische Veranlagung der Mehrwertabgabe richte. Gegen diese könne jedoch keine Einsprache erhoben werden. Erst gegen den definitiven Veranlagungsentscheid der Steuerverwaltung sei die Rekursmöglichkeit gegeben. Dagegen liess die Politische Gemeinde G Rekurs erheben. Mit Entscheid vom 5. November 2019 wies die Steuerrekurskommission einen von der Politischen Gemeinde G erhobenen Rekurs ab, soweit sie auf diesen eintrat. Dagegen liess die Politische Gemeinde G Beschwerde erheben. Diese weist das Verwaltungsgericht ab, soweit es darauf eintritt.
+Aus den Erwägungen:
+2.
+2.1 Als Erstes ist auf die strittige Frage einzugehen, ob die Vorinstanz zu Recht nicht auf den Rekurs betreffend die Mehrwertabgabe eingetreten ist. Zur Begründung führte die Vorinstanz an, dass die Mehrwertabgabe noch nicht definitiv veranlagt sei. Erst gegen die definitive Veranlagung könnte gestützt auf § 70 PBG Rekurs erhoben werden.
+2.2 Die Beschwerdeführerin stellt sich ihrerseits auf den Standpunkt, die Frage, ob ein Bodenmehrwert durch eine planerische Massnahme eingetreten sei, müsse durch die Liegenschaftenschätzung beantwortet werden. Ansonsten würde nicht die Gesamtheit der wertbildenden Faktoren berücksichtigt. Die Vorinstanz irre, wenn sie der Auffassung sei, die Vorbringen der Beschwerdeführerin könnten bei der definitiven Veranlagung der Mehrwertabgabe noch gehört werden. Für eine Veranlagung der Mehrwertabgabe müsse die kantonale Steuerverwaltung auf die amtliche Liegenschaftenschätzung abstellen (§ 64 Abs. 3 PBG). Die Frage nach dem Bodenmehrwert werde durch die amtliche Liegenschaftenschätzung bereits verbindlich entschieden und könne nicht mehr Gegenstand eines Einsprache- oder Rechtsmittelverfahrens gegen die Mehrwertabgabe sein.
+2.3 Gemäss § 63 PBG gleichen Mehrwertabgaben Vorteile aus, die durch neue Zuweisung von Boden zu Bauzonen oder von öffentlichen Zonen zu übrigen Bauzonen entstehen. Die Höhe der Abgabe beträgt nach § 64 PBG 20% des Bodenmehrwerts. Laut Abs. 2 dieser Bestimmung bemisst sich dieser nach der Differenz zwischen den Verkehrswerten unmittelbar vor und nach der rechtskräftigen Zuweisung zu einer Bauzone. Gemäss § 64 Abs. 3 PBG wird der Bodenmehrwert durch eine amtliche Liegenschaftenschätzung gemäss SchäV bestimmt. Die Mehrwertabgabe entsteht zum Zeitpunkt der Rechtskraft der Zuweisung gemäss § 63 PBG, wird durch die Steuerverwaltung veranlagt und beim Grundeigentümer erhoben. Die Abgabe wird bei Handänderung oder mit Rechtskraft des Erschliessungsprojekts oder mit Rechtskraft der Baubewilligung fällig. Die Gemeindebehörde teilt der Steuerbehörde diesen Zeitpunkt mit (§ 65 Abs. 2 PBG). Das Verfahren richtet sich sinngemäss nach den Vorschriften des StG (vgl. § 65 Abs. 3 PBG). Nach § 70 PBG kann gegen Veranlagungsentscheide der Steuerverwaltung innert 30 Tagen ab Zustellung bei der Steuerrekurskommission Rekurs erhoben werden. Diese entscheidet, wie erwähnt, endgültig.
+2.4 Strittig ist vorliegend die Frage, ob die Beschwerdeführerin berechtigt war, bereits gegen die provisorischen Veranlagungen der Mehrwertabgabe vom 1. Oktober 2018 Rechtsmittel zu ergreifen oder ob entsprechende Rechtsmittel erst gegen die definitive Veranlagung gegeben sind. Gemäss § 65 Abs. 3 PBG richtet sich das Verfahren bei der Veranlagung der Mehrwertabgabe sinngemäss nach den Vorschriften des StG. Erläuternde Ausführungen dazu finden sich auf der Web-Seite des verfahrensbeteiligten Amtes. Unter "Grundeigentum", im Kapitel "Mehrwertabgabe" wird unter dem Titel "Veranlagung und Rechnungsstellung" (abrufbar unter: https://steuerverwaltung.tg.ch/grundeigentum/mehrwertabgabe/veranlagung-rechnungsstellung.html/2921) festgehalten, dass die Steuerverwaltung zur Feststellung des Bodenmehrwertes eine amtliche Liegenschaftenschätzung gemäss Schätzungsverordnung vornehme. Sobald die Liegenschaftenschätzung nach Umzonung in Rechtskraft erwachsen sei, lege die Steuerverwaltung die Mehrwertabgabe "provisorisch" fest und stelle diese den abgabepflichtigen Personen zu. Sofern bei der Steuerverwaltung nicht innert 30 Tagen eine "Rückmeldung" zur provisorischen Mehrwertabgabe-Veranlagung eingehe, erfolge die definitive Veranlagung mit Rechnungsstellung. Innert 30 Tagen seit Zustellung der definitiven Mehrwertabgabe-Veranlagung mit Rechnungsstellung könne die abgabepflichtige Person oder deren Vertreter/Vertreterin schriftlich Rekurs erheben (vgl. https://steuerverwaltung.tg.ch/grundeigentum/mehrwertabgabe/veranlagung-rechnungsstellung.html/2921). Auch im Begleitschreiben vom 2. Oktober 2018 zur provisorischen Veranlagung der Mehrwertabgabe wurde darauf hingewiesen, dass der m
+2
+-Preis nach der Umzonung den ebenfalls beiliegenden Generalrevisionen entnommen werden könne. Weiter wurde festgehalten, sofern von der Beschwerdeführerin nicht innert 30 Tagen eine "Rückmeldung" zur provisorischen Veranlagung eingehe, erfolge die definitive Veranlagung mit Rechnungsstellung.
+2.5 Ein eigentliches Einspracheverfahren hinsichtlich der provisorischen Mehrwertabgabe-Veranlagung ist nicht vorgesehen. Auch die §§ 63 ff. PBG, welche die Mehrwertabgabe regeln, enthalten keine Bestimmung, wonach zuerst eine provisorische und alsdann eine definitive Veranlagung der Mehrwertabgabe zu erfolgen habe. Gemäss § 70 PBG kann gegen Veranlagungsentscheide der Steuerverwaltung Rekurs erhoben werden. Vor diesem Hintergrund ist davon auszugehen, dass es sich bei der "provisorischen Veranlagung" der Mehrwertabgabe, wie sie auf der Web-Seite des verfahrensbeteiligten Amtes vorgesehen ist und worauf auch im Begleitschreiben vom 2. Oktober 2018 hingewiesen wurde, letztlich um eine Vorinformation handelt, zu welcher die pflichtige Person Stellung nehmen kann (…), dies quasi im Sinne einer Gewährung des rechtlichen Gehörs. Daraus wiederum ergibt sich, dass eine Rekursmöglichkeit erst gegen die in der Folge vorzunehmende definitive Veranlagung der Mehrwertabgabe, nicht aber bereits gegen die provisorische Veranlagung, gegeben ist.
+2.6 Die Vorinstanz ist damit zu Recht nicht auf den Rekurs eingetreten, soweit er sich gegen die provisorische Veranlagung der Mehrwertabgabe bzw. gegen den Einspracheentscheid des verfahrensbeteiligten Amtes vom 5. Dezember 2018 richtet, mit welchem festgestellt wurde, dass gegen die provisorische Veranlagung der Mehrwertabgabe keine Einsprache erhoben werden könne. Daran ändert auch der Hinweis der Beschwerdeführerin nichts, wonach im Verfahren betreffend Festsetzung der Mehrwertabgabe die Prüfung eines durch eine planerische Massnahme bewirkten Bodenmehrwertes untersagt sei. Es trifft zu, dass die Frage nach dem Bodenmehrwert bereits durch die amtlichen Liegenschaftenschätzungen präjudiziert wird. Entsprechend kann sich eine pflichtige Person auch gegen die betreffenden Liegenschaftenschätzungen mit Rechtsmitteln zur Wehr setzen. Umgekehrt würde es jedoch zu einer ungewollten Doppelspurigkeit führen, wenn Argumente/Einwände gegen die Bestimmung des Verkehrswertes sowohl im Verfahren betreffend Veranlagung/Festsetzung der Mehrwertabgabe einerseits und betreffend die Liegenschaftenschätzung andererseits vorgebracht werden könnten. Soweit sich die Beschwerde gegen das Nichteintreten der Vor­instanz auf den Rekurs betreffend die Mehrwertabgabe richtet, erweist sie sich als unbegründet.
+Entscheid des Verwaltungsgerichts VG.2019.215/E vom 25. März 202
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
