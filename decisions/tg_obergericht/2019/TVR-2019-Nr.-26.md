@@ -1,0 +1,41 @@
+---
+decision_id: "tg_obergericht_TVR_2019_Nr._26"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2019 Nr. 26"
+decided: "2019-10-30"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2019-nr-26"
+---
+
+# TG Obergericht TVR 2019 Nr. 26
+
+## Regeste
+
+Unentgeltliche Rechtspflege, eheliche Beistandspflicht und Prozesskostenvorschuss
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 30.10.2019 TVR 2019 Nr. 26
+Thurgovie Obergericht Rechenschaftsbericht 30.10.2019 TVR 2019 Nr. 26
+Turgovia Obergericht Rechenschaftsbericht 30.10.2019 TVR 2019 Nr. 26
+
+TVR 2019 Nr. 26
+Skip to main content
+Show navigation
+Unentgeltliche Rechtspflege, eheliche Beistandspflicht und Prozesskostenvorschuss
+§ 81 VRG
+Die Leistungen der unentgeltlichen Rechtspflege sind grundsätzlich subsidiär zu anderen Ansprüchen, die einem Mittellosen zur Prozessfinanzierung zur Verfügung stehen. Praktisch bedeutsam ist die eherechtliche Beistands- und Unterstützungspflicht, die dazu führt, dass ein verheirateter Gesuchsteller ohne eigene Mittel zunächst beim Ehegatten einen Prozesskostenvorschuss geltend machen muss und ihm die unentgeltliche Rechtspflege erst gewährt wird, wenn nachweislich keine Mittel erhältlich sind.
+A erhob mit Eingabe vom 29. Dezember 2018 beim Verwaltungsgericht als Versicherungsgericht Beschwerde gegen eine Verfügung der IV-Stelle, mit welcher ein Leistungsbegehren betreffend berufliche Massnahmen und Invalidenrente abgewiesen worden war. Am 15. Januar 2019 stellte A zudem das Gesuch um Gewährung der unentgeltlichen Prozessführung. Mit einem Zwischenentscheid weist das Verwaltungsgericht als Versicherungsgericht das Gesuch um unentgeltliche Prozessführung ab.
+Aus den Erwägungen:
+3.
+3.1 Die Leistungen der unentgeltlichen Rechtspflege sind grundsätzlich subsidiär zu anderen Ansprüchen, die einem Mittellosen zur Prozessfinanzierung zur Verfügung stehen. Praktisch bedeutsam ist die eherechtliche Beistands- und Unterstützungspflicht, die dazu führt, dass ein verheirateter Gesuchsteller ohne eigene Mittel zunächst beim Ehegatten einen Prozesskostenvorschuss geltend machen muss und ihm die unentgeltliche Rechtspflege erst gewährt wird, wenn nachweislich keine Mittel erhältlich sind (vgl. Meichssner, Aktuelle Praxis der unentgeltlichen Rechtspflege, in: Jusletter vom 7. Dezember 2009, Ziff. 1.5, unter Verweis auf das Urteil des Bundesgerichts 4A_412/2008 vom 27. Oktober 2008 E. 4.1).
+3.2 Die Beschwerdeführerin wurde vom verfahrensleitenden Gerichtspräsidenten bereits mit Schreiben vom 7. Februar 2019 aufgefordert, das Gericht über den Stand eines allfälligen familienrechtlichen Verfahrens in Kenntnis zu setzen. Mit Schreiben vom 15. Februar 2019 hielt der Gerichtspräsident - unter Verweis auf die von der Beschwerdeführerin mittlerweile eingereichte Vereinbarung betreffend Eheschutz vom 4. Juli 2016 (…) - fest, dass die Beschwerdeführerin bis zu jenem Zeitpunkt noch nicht geschieden sei. Entsprechend sei eine eheliche Beistandspflicht ihres damaligen Ehemannes für sie auch im vorliegenden Beschwerdeverfahren gegeben. (…) Mit Eingabe vom 6. September 2019 reichte die Beschwerdeführerin dem Gericht das Scheidungsurteil des Bezirksgerichts B (Einzelrichter) vom 11. Juli 2019 ein. Mit Schreiben vom 12. September 2019 stellte der verfahrensleitende Gerichtspräsident fest, dass die Beschwerdeführerin beim Bezirksgericht B im nunmehr abgeschlossenen Scheidungsverfahren keine unentgeltliche Rechtspflege beantragt habe. Es sei daher nicht nachvollziehbar, warum sie demgegenüber im vorliegenden Beschwerdeverfahren in den Genuss der unentgeltlichen Prozessführung gelangen wolle. Aufgrund der von ihr vorgelegten Scheidungskonvention verfüge der von ihr mittlerweile geschiedene Ehemann über ein monatliches Nettoeinkommen von Fr. 7'706.--. In Anbetracht dieser Einkommensverhältnisse ihres geschiedenen Ehemannes, welche die Beschwerdeführerin nunmehr erstmals durch die vorgelegte Scheidungskonvention offengelegt habe, hätte ihr die Möglichkeit offen gestanden, im Rahmen des Scheidungsverfahrens aufgrund der ehelichen Beistandspflicht für die Kosten des vorliegenden Beschwerdeverfahrens einen entsprechenden Kostenvorschuss zu verlangen. Sie habe dies - obwohl im Scheidungsverfahren anwaltlich vertreten - nicht vorgekehrt, sondern unter Hinweis auf die heikle Situation im Scheidungsverfahren das Einholen von Auskünften über die Einkommens- und Vermögensverhältnisse ihres Ehemannes verweigert. (…) Mit Eingabe vom 17. September 2019 erklärte die Beschwerdeführerin, sie habe im Scheidungsverfahren auf Anraten ihres Anwalts keinen Antrag auf unentgeltlichen Prozessführung gestellt, da sie formal Mitbesitzerin eines Hauses sei und dadurch Vermögen hätte. Das Vermögen sei gebunden, sie habe aber keinerlei Zugriff darauf. Zudem sei diese Wohnsituation die beste Lösung für alle Familienmitglieder und auch die einzige, die finanzierbar sei. Sie lebe nur von den monatlichen Unterhaltszahlungen ihres Ex-Ehemannes. Sie verfüge über keine finanziellen Mittel, um zusätzlich Gerichtskosten zu tragen.
+3.3 Obwohl die Beschwerdeführerin mit Schreiben des Gerichtspräsidenten vom 12. September 2019 ausdrücklich dazu aufgefordert worden war, erläuterte sie im Schreiben vom 17. September 2019 nicht, weshalb sie - obwohl anwaltlich vertreten - im Scheidungsverfahren gegenüber ihrem Ex-Ehemann kein Begehren um Leistung eines Prozesskostenvorschusses für das vorliegende Beschwerdeverfahren gestellt hatte. Angesichts des im Scheidungsurteil vom 11. Juli 2019 als Berechnungsgrundlage vermerkten Nettoeinkommens ihres Ex-Ehemannes von Fr. 7'706.-- pro Monat (…), ist davon auszugehen, dass der Beschwerdeführerin gegenüber ihrem Ex-Ehemann im Rahmen des Scheidungsverfahrens ein entsprechender Anspruch zugestanden hätte. Die Geltendmachung eines derartigen Anspruchs auf Leistung eines Prozesskostenvorschusses stellt ebenfalls eine Obliegenheit der gesuchstellenden Person dar, zumal damit die prozessuale Bedürftigkeit vermieden werden kann (vgl. E. 3.1 vorstehend). Ein triftiger Grund, weshalb die Beschwerdeführerin auf die Geltendmachung eines entsprechenden Anspruchs im Scheidungsverfahren verzichtet hat, ist nicht ersichtlich. Mit Bezug auf den unterlassenen Antrag auf Gewährung der unentgeltlichen Prozessführung im Scheidungsverfahren weist die Beschwerdeführerin lediglich darauf hin, dass sie formal Mitbesitzerin eines Hauses sei, dadurch Vermögen habe, dieses aber gebunden sei, sie darauf keinerlei Zugriff habe und die Wohnsituation die beste Lösung für alle Familienmitglieder darstelle. Es ist jedoch nicht nachvollziehbar, weshalb sie im Scheidungsverfahren auf die Stellung eines entsprechenden Antrags auf Gewährung der unentgeltlichen Prozessführung verzichtet hat, nicht aber im vorliegenden Beschwerdeverfahren, zumal sie auch in diesem verpflichtet ist, ihre Einkommens- und Vermögensverhältnisse umfassend darzulegen. Auch im Scheidungsverfahren hätte sie, wenn das Gericht ihr Begehren um unentgeltliche Rechtspflege unter Verweis auf die Verwertbarkeit der in ihrem Miteigentum stehenden Liegenschaft abgewiesen hätte, lediglich damit rechnen müssen, die Gerichtskosten (und - im Falle der Verweigerung eines allfälligen Antrags auf Gewährung der unentgeltlichen Rechtsverbeiständung - die Anwaltskosten) selbst zu tragen, was, mangels eines entsprechenden Begehrens, ohnehin der Fall war. Unter den gegebenen Umständen ist davon auszugehen, dass die Beschwerdeführerin selbst nicht von ihrer prozessualen Bedürftigkeit ausgegangen ist bzw. ausgeht und dass sie die finanziellen Mittel für die Bestreitung des vorliegenden Verfahrens - wie auch des Scheidungsverfahrens - anderweitig zu beschaffen in der Lage ist. Bereits unter diesem Gesichtspunkt ist die prozessuale Bedürftigkeit der Beschwerdeführerin nicht als ausgewiesen zu betrachten und folglich das Gesuch um Gewährung der unentgeltlichen Prozessführung im vorliegenden Beschwerdeverfahren aus diesem Grunde abzuweisen.
+Zwischenentscheid des Verwaltungsgerichts als Versicherungsgericht VV.2018.328/Z vom 30. Oktober 2019
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
