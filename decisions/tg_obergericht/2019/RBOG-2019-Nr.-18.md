@@ -1,0 +1,55 @@
+---
+decision_id: "tg_obergericht_RBOG_2019_Nr._18"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2019 Nr. 18"
+decided: "2019-11-13"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2019-nr-18"
+cites_law: ["switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-107.md", "switzerland/bund/acts/312.0/art-355.md", "switzerland/bund/acts/312.0/art-356.md"]
+---
+
+# TG Obergericht RBOG 2019 Nr. 18
+
+## Regeste
+
+Keine Rückzugsfiktion der Einsprache, wenn der Einsprecher die (eingeschrieben versandte) Vorladung mit der Belehrung über die Säumnisfolgen nicht abholt
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2016 RBOG 2019 Nr. 18
+Thurgovie Obergericht Rechenschaftsbericht 2016 RBOG 2019 Nr. 18
+Turgovia Obergericht Rechenschaftsbericht 2016 RBOG 2019 Nr. 18
+
+RBOG 2019 Nr. 18
+Skip to main content
+Show navigation
+Keine Rückzugsfiktion der Einsprache, wenn der Einsprecher die (eingeschrieben versandte) Vorladung mit der Belehrung über die Säumnisfolgen nicht abholt
+Art. 85 Abs. 4 lit. a StPO
+,
+Art. 355 Abs. 2 StPO
+,
+Art. 356 Abs. 4 StPO
+1. a) Die Staatsanwaltschaft sprach A mit Strafbefehl vom 14. August 2019 wegen Nichtgewährens des Vortritts bei der Einfahrt in einen Kreisverkehrsplatz und wegen mehrmaligen Unterlassens der Richtungsanzeige der einfachen Verletzung der Verkehrsregeln schuldig und büsste ihn mit Fr. 300.00. Am 19. August 2019 erhob A Einsprache gegen den Strafbefehl. Die Staatsanwaltschaft lud A am 20. August 2019 zur Einvernahme auf den 4. September 2019 vor. A erschien nicht zur Einvernahme, worauf die Staatsanwaltschaft das Verfahren zufolge Rückzugs der Einsprache abschrieb.
+b) Mit Beschwerde vom 18. Oktober 2019 beantragte A sinngemäss die Aufhebung der angefochtenen Verfügung und die Fortführung des Einspracheverfahrens.
+2. a) Die Staatsanwaltschaft hielt in der Abschreibungsverfügung fest, die Einsprache gelte durch das unentschuldigte Nichterscheinen zur Einvernahme vom 4. September 2019 als zurückgezogen. In der Beschwerdeantwort verwies sie auf Art. 355 Abs. 2 StPO; in der Abschreibungsverfügung fehlt der Hinweis auf diese Gesetzesbestimmung.
+b) Der Beschwerdeführer wendet dagegen ein, er erhebe zum zweiten Mal Einspruch gegen etwas, das er nicht gemacht habe. Ihm sei (zunächst) eine Handlung vorgeworfen worden, die er nicht begangen habe. Danach habe er fristgerecht Einsprache erhoben und nie wieder etwas gehört. Nun solle er zum zweiten Mal verurteilt werden, weil er einen angeblich zugestellten Brief bekommen haben solle, den er nie erhalten habe. Er wisse nicht, wo dieser angebliche Brief gelandet sei; bei ihm im Briefkasten sei zu keiner Zeit ein solcher Brief gewesen, weshalb dieser auch nicht als zugestellt gelte.
+3. a) Bleibt eine Einsprache erhebende Person trotz Vorladung einer Einvernahme unentschuldigt fern, gilt gemäss Art. 355 Abs. 2 StPO ihre Einsprache als zurückgezogen. Dieser strengen Bestimmung erwuchs in der - praktisch einhelligen[1] - Lehre Kritik, denn in einem ordentlichen Verfahren hat die beschuldigte Person auch im Fall der unentschuldigten Abwesenheit Anspruch auf Beurteilung durch ein Gericht, allenfalls in einem Abwesenheitsverfahren[2]. Das Bundesgericht trug dieser Kritik insofern Rechnung, als es den Anwendungsbereich stark einschränkte[3]. Zusammengefasst gilt gemäss bundesgerichtlicher Rechtsprechung Folgendes: Bei verfassungskonformer Gesetzesauslegung darf ein konkludenter (fiktiver) Rückzug der Einsprache gegen den Strafbefehl, wie ihn Art. 355 Abs. 2 und Art. 356 Abs. 4 StPO bei unentschuldigtem Fernbleiben vorsehen, nur angenommen werden, wenn sich aus dem gesamten Verhalten der betroffenen Person der Schluss aufdrängt, sie verzichte mit ihrem Desinteresse am weiteren Gang des Verfahrens bewusst auf den ihr zustehenden Rechtsschutz. Der vom Gesetz an das unentschuldigte Fernbleiben geknüpfte (fingierte) Rückzug der Einsprache setzt voraus, dass sich die beschuldigte Person der Konsequenzen ihrer Unterlassung bewusst ist und sie in Kenntnis der massgebenden Rechtslage auf die ihr zustehenden Rechte verzichtet[4]. Im Übrigen auferlegt das Gesetz den Strafbehörden ganz grundsätzlich die Verpflichtung, rechtsunkundige Parteien auf ihre Rechte aufmerksam zu machen[5].
+b) Die Staatsanwaltschaft setzt sich mit der restriktiven bundesgerichtlichen Praxis zur Anwendung von Art. 355 Abs. 2 StPO nicht auseinander. Vorliegend sind keine Anzeichen ersichtlich, dass der Beschwerdeführer auf die Beurteilung seiner Einsprache bewusst verzichten wollte. Zwar enthält die Vorladung der Staatsanwaltschaft vom 20. August 2019 zur Einvernahme vom 4. September 2019 auf der ersten Seite unten in nicht zu übersehender fetter Schrift den Hinweis, dass bei unentschuldigtem Nichterscheinen zur Einvernahme die Einsprache gemäss Art. 355 Abs. 2 StPO als zurückgezogen gelte, das Einspracheverfahren damit dahinfalle und der Strafbefehl rechtskräftig werde. Unter dem Aspekt des (fingierten) Rückzugs der Einsprache kommt es darauf an, ob der Beschwerdeführer tatsächlich Kenntnis der massgebenden Rechtslage und damit der Rechtsbelehrung durch die Staatsanwaltschaft hatte. Die Vorladung vom 20. August 2019 erreichte indessen den Beschwerdeführer nicht, sondern wurde der Staatsanwaltschaft von der Post mit dem Vermerk "Nicht abgeholt" zurückgeschickt. Der Beschwerdeführer nahm folglich die Rechtsbelehrung über die Bedeutung der Teilnahme oder Nichtteilnahme an der Einvernahme nicht zur Kenntnis.
+Die Zustellfiktion von Art. 85 Abs. 4 lit. a StPO hilft in diesem Zusammenhang nicht weiter. Laut dieser Bestimmung gilt die Zustellung bei einer eingeschriebenen Postsendung, die nicht abgeholt worden ist, als erfolgt am siebten Tag nach dem erfolglosen Zustellungsversuch, sofern die Person mit einer Zustellung rechnen musste. Gemäss bundesgerichtlicher Rechtsprechung rechtfertigt es sich indessen nicht, dem Beschwerdeführer, der Einsprache gegen einen Strafbefehl erhoben hat, eine doppelte Fiktion - Zustellung der Vorladung nach Art. 85 Abs. 4 lit. a StPO und Rückzug der Einsprache im Sinn von Art. 356 Abs. 4 beziehungsweise Art. 355 Abs. 2 StPO - entgegenzuhalten, wenn er über die Verhandlung - oder wie hier über die Einvernahme - nicht informiert war. Die Staatsanwaltschaft hätte dem Beschwerdeführer eine neue Vorladung zustellen müssen[6].
+c) Bei dieser Beurteilung braucht der Frage nicht nachgegangen zu werden, ob die Vorladung für die Einvernahme dem Beschwerdeführer zugegangen ist. Gemäss den Akten wurde dem Beschwerdeführer offenbar eine Abholungseinladung durch die Post in den Briefkasten gelegt und die Sendung vom 20. August 2019 an die Staatsanwaltschaft retourniert, nachdem sie nicht innert der gesetzten Frist abgeholt wurde.
+d) Es bleibt die Frage, wie zu verfahren ist, wenn der Beschwerdeführer weiteren Vorladungen zur Einvernahme nicht Folge leisten würde. Weil er mit diesem Beschwerdeentscheid – unter der Voraussetzung, dass dieser tatsächlich zugestellt wird – die Konsequenzen einer allfälligen Nichtteilnahme an einer Einvernahme und damit die massgebende Rechtslage kennt, würde eine unentschuldigte Nichtteilnahme dannzumal tatsächlich zum Rechtsverlust, zum fingierten Rückzug und zur Rechtskraft des Strafbefehls führen. Aufgrund dieses Verfahrens muss er damit rechnen, Post von der Staatsanwaltschaft - insbesondere eine Vorladung zur Einvernahme - zu erhalten; er muss deshalb seine Post auf allfällige Abholungseinladungen kontrollieren und entsprechende Sendungen der Staatsanwaltschaft innerhalb der Abholungsfrist auf der Poststelle abholen. Unterlässt er dies, würde die Zustellfiktion gemäss Art. 85 Abs. 4 lit. a StPO greifen und die Staatsanwaltschaft dürfte bei einer Nichtteilnahme an der Einvernahme von einer unentschuldigten Nichtteilnahme und damit vom Rückzug der Einsprache im Sinn von Art. 355 Abs. 2 StPO ausgehen.
+4. Zusammengefasst ist die angefochtene Verfügung aufzuheben und die Sache zur Weiterführung des Einspracheverfahrens an die Staatsanwaltschaft zurückzuweisen. Damit erweist sich die Beschwerde als begründet.
+Obergericht, 2. Abteilung, 13. November 2019, SW.2019.143
+[1] Pra 2013 Nr. 99 S. 768 in den Bemerkungen zum Entscheid
+[2] Riklin, Basler Kommentar, 2.A., Art. 355 StPO N. 2
+[3] Schmid/Jositsch, Schweizerische Strafprozessordnung, Praxiskommentar, 3.A., Art. 355 N. 4
+[4] BGE 142 IV 159 ff. (= Pra 2016 Nr. 94 S. 865 ff.); Pra 2013 Nr. 99 S. 767
+[5] Art. 107 Abs. 2 StPO
+[6] Pra 2016 Nr. 94 S. 868
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
