@@ -1,0 +1,49 @@
+---
+decision_id: "tg_obergericht_TVR_2022_Nr._15"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2022 Nr. 15"
+decided: "2019-12-16"
+published: "2022-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2022-nr-15"
+---
+
+# TG Obergericht TVR 2022 Nr. 15
+
+## Regeste
+
+Keine Pflicht zur gleichzeitigen Revision respektive zu gleichzeitigem Erlass von Baureglement und Zonenplan
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2022 TVR 2022 Nr. 15
+Thurgovie Obergericht Rechenschaftsbericht 2022 TVR 2022 Nr. 15
+Turgovia Obergericht Rechenschaftsbericht 2022 TVR 2022 Nr. 15
+
+TVR 2022 Nr. 15
+Skip to main content
+Show navigation
+Keine Pflicht zur gleichzeitigen Revision respektive zu gleichzeitigem Erlass von Baureglement und Zonenplan
+§ 4 PBG
+,
+§ 17 PBG
+,
+§ 18 PBG
+Es besteht keine Pflicht der Gemeinde zur gleichzeitigen Revision respektive zum gleichzeitigen Erlass von Baureglement und Zonenplan. Entscheidend ist, dass das neue Baureglement und der aktuelle Zonenplan übereinstimmen und dadurch ein kohärentes Normengefüge bilden (E. 3.4).
+Eine nachträgliche Überprüfung und Abänderung der kommunalen baurechtlichen Ordnung (Baureglement) kann nicht im Rahmen eines Baubewilligungsverfahrens verlangt werden (E. 3.5).
+A, B und C reichten ein Baugesuch für den Neubau eines Mehrfamilienhauses im Quartier F in der Politischen Gemeinde Gachnang ein. Die Einsprachen von G und H wurden von der Politischen Gemeinde Gachnang teilweise abgewiesen und A, B und C die Baubewilligung mit Auflagen und Bedingungen erteilt. Zuvor, am 8. April 2019, hatten G und H die Politische Gemeinde Gachnang um Überprüfung und Änderung der geltenden Bauvorschriften für das Einfamilienhausquartier F ersucht. Auf dieses Gesuch trat die Politische Gemeinde Gachnang mit Entscheid vom 16. Dezember 2019 nicht ein. A und B erhoben Rekurs gegen den Baubewilligungs- und Einspracheentscheid und ersuchten um Aufhebung der verfügten Auflagen und Bedingungen. G und H wiederum erhoben sowohl gegen den Baubewilligungs- und Einspracheentscheid vom 16. Dezember 2019 wie auch gegen den gleichentags erlassenen Nichteintretensentscheid betreffend den Antrag auf Überprüfung und Änderung der geltenden Bauvorschriften für das Einfamilienhausquartier F Rekurs. Das DBU vereinigte die drei Rekursverfahren, hiess den Rekurs von A und B gut und hob die im Baubewilligungs- und Einspracheentscheid erlassenen Auflagen und Bedingungen auf. Den Rekurs von G und H wies es ab. Das Verwaltungsgericht weist die Beschwerde von G und H ab.
+Aus den Erwägungen:
+3.4
+3.4.1 Nicht zu folgen ist dem Einwand der Beschwerdeführer, wonach eine gleichzeitige Revision respektive ein gleichzeitiger Erlass von Baureglement und Zonenplan Pflicht ist. Solches ergibt sich - wie die Vorinstanz zu Recht ausführt - weder aus § 4 PBG noch aus den Materialien zum PBG und dem RPG. Entscheidend ist vielmehr, dass das neue Baureglement und der aktuelle Zonenplan übereinstimmen und dadurch ein kohärentes Normengefüge bilden. Dies ist vorliegend der Fall. Aus der in Ziff. 5.1 des neuen BauR enthaltenen Vergleichstabelle geht klar hervor, dass das bisher zur Wohnzone W2 gehörende Baugrundstück Nr. XY neu der Wohnzone W2b zugeteilt ist. Diesbezüglich blieb im Übrigen unbestritten, dass in der neu geschaffenen Wohnzone W2b - gleich wie nach dem alten Baureglement - Ein- und Mehrfamilienhäuser zulässig sind und sich im Vergleich der Massvorschriften der Wohnzonen W2 und W2b nur geringfügige Massveränderungen erkennen lassen. Gemäss Planungsbericht zum BauR ist eine leicht höhere Nutzung realisierbar.
+3.4.2 Auch dem Urteil des Bundesgerichts 1C_492/2011 vom 23. Februar 2012 kann keine Pflicht zu gleichzeitiger Revision bzw. Erlass von Baureglement und Zonenplan entnommen werden. Beim erwähnten Urteil handelt es sich nicht um ein für den vorliegenden Fall einschlägiges Präjudiz. Dem besagten Urteil lag nicht wie vorliegend die Überprüfung eines Baubewilligungsentscheids, sondern ein Teilzonenplan zu Grunde, gegen den sich Nachbarn zur Wehr setzten, damit im Übrigen aber vor Bundesgericht unterlagen. Das Bundesgericht beanstandete zwar die fehlende Abstimmung zwischen Baureglement, welches kurz vor dem Erlass des Teilzonenplans revidiert worden war, und dem bis zum strittigen Teilzonenplan unverändert gebliebenen Zonenplan aus den 1980er-Jahren. Die entsprechende Rechtsunsicherheit war allerdings darin begründet, dass die Gemeindebehörde den Entscheid über die Zonenzugehörigkeit aufschob bzw. die Zuweisung zu mindestens zwei neuen Wohnzonen von einem Antrag der Grundeigentümer abhängig machte. Die Zonenzugehörigkeit hätte damit erst im Einzelfall geprüft werden sollen. Das Bundesgericht erwog (E. 4.2), es sei für Dritte überhaupt nicht klar, welcher Wohnzone ein Grundstück zugeteilt sei. Die Gemeinde habe im Rahmen der Nutzungsplanung verbindliche Angaben über die zulässige Nutzung der einzelnen Grundstücke zu machen. Vorliegend besteht im Gegensatz zum angerufenen Bundesgerichtsurteil aufgrund der aus der Vergleichstabelle in Ziff. 5.1 des neuen BauR keine Rechtsunsicherheit, welcher Zone das Baugrundstück Nr. XY zugehört.
+3.5 Im Übrigen ist es zumindest fraglich, ob eine nachträgliche Beanstandung des neuen, rechtskräftigen BauR im Rahmen des vorliegenden Rechtsmittelverfahrens betreffend eine Baubewilligung überhaupt zulässig ist (vgl. zur vorfrageweisen Überprüfung von Nutzungsplänen im Baubewilligungsverfahren BGE 145 II 83 E. 5.1; BGE 144 II 41 E. 5.1). Diesbezüglich ist den Beschwerdeführern insbesondere entgegenzuhalten, dass sie sich bei der Revision des Baureglements im Jahr 2018 nicht dagegen zur Wehr gesetzt haben und dabei insbesondere ein (angeblich) fehlendes Mitwirkungsverfahren nicht gerügt haben; eine nachträgliche Überprüfung und Abänderung der kommunalen baurechtlichen Ordnung kann nicht im Rahmen des vorliegenden Baubewilligungsverfahrens verlangt werden. Vor diesem Hintergrund kann auf den beantragten Beizug der im Zusammenhang mit den Baureglementen 2004 und 2018 stehenden Akten (Mitwirkungs-, Vorprüfung- und Erlassverfahren) verzichtet werden. Auch ist beizufügen, dass die Baureglementsänderung eine etwas bessere Ausnutzung der Liegenschaft Nr. XY ermöglicht, was den Planungsgrundsatz von Art. 3 Abs. 3 lit. a
+bis
+RPG umsetzt.
+Entscheid des Verwaltungsgerichts VG.2021.141/E vom 17. August 2022
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
