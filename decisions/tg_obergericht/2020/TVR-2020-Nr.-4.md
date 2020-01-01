@@ -1,0 +1,47 @@
+---
+decision_id: "tg_obergericht_TVR_2020_Nr._4"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2020 Nr. 4"
+decided: "2020-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2020-nr-4"
+cites_law: ["switzerland/bund/acts/210/art-712l.md", "switzerland/bund/acts/210/art-712m.md", "switzerland/bund/acts/210/art-712s.md", "switzerland/bund/acts/221.229.1/art-017.md"]
+---
+
+# TG Obergericht TVR 2020 Nr. 4
+
+## Regeste
+
+Beschwerdelegitimation der Stockwerkeigentümergemeinschaft
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2020 TVR 2020 Nr. 4
+Thurgovie Obergericht Rechenschaftsbericht 2020 TVR 2020 Nr. 4
+Turgovia Obergericht Rechenschaftsbericht 2020 TVR 2020 Nr. 4
+
+TVR 2020 Nr. 4
+Skip to main content
+Show navigation
+Beschwerdelegitimation der Stockwerkeigentümergemeinschaft
+§ 44 Ziff. 1 VRG
+,
+Art. 712 l ZGB
+Rechtsmittellegitimation der Stockwerkeigentümergemeinschaft, einen Entscheid der Gebäudeversicherung oder der Rekurskommission für die Gebäudeversicherung mit Rechtsmitteln anzufechten, bejaht.
+Gegen einen Entscheid der Rekurskommission für die Gebäudeversicherung des Kantons Thurgau erhob RA B beim Verwaltungsgericht Beschwerde, wobei in der Beschwerdeschrift unter anderem die "Stockwerkeigentümergesellschaft E" als Beschwerdeführerin bezeichnet wurde. Das Verwaltungsgericht tritt auf die Beschwerde ein und weist diese ab.
+Aus den Erwägungen:
+1.2
+1.2.1 Zur Beschwerde ist berechtigt, wer durch einen Entscheid berührt ist und ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat (§ 44 i.V. mit § 62 VRG). Grundvoraussetzung für die Beschwerdeberechtigung ist die Partei- und die Prozessfähigkeit. Die Parteifähigkeit ist die Fähigkeit, im Rekursverfahren als Partei aufzutreten. Parteifähig ist, wer rechtsfähig ist. Prozessfähigkeit ist das prozessuale Gegenstück zur zivilen Handlungsfähigkeit. Sie ist die Fähigkeit, einen Prozess selbst zu führen oder durch einen gewählten Vertreter führen zu lassen (Fedi/Meyer/Müller, Kommentar zum Gesetz über die Verwaltungsrechtspflege des Kantons Thurgau, Basel 2014, § 44 N. 2).
+1.2.2 (…)
+1.3
+1.3.1 Die Gemeinschaft der Stockwerkeigentümer erwirbt unter ihrem eigenen Namen das sich aus ihrer Verwaltungstätigkeit ergebende Vermögen, wie namentlich die Beitragsforderungen und die aus ihnen erzielten verfügbaren Mittel, wie den Erneuerungsfond. Die Gemeinschaft der Stockwerkeigentümer kann unter ihrem Namen klagen und betreiben sowie beklagt und betrieben werden (Art. 712l ZGB). Die Stockwerkeigentümergemeinschaft kann im Rahmen der Gebäudeverwaltung Rechte erwerben und sich verpflichten. Ihre Prozessfähigkeit ist somit durch diesen Zweck begrenzt. Ihre Fähigkeit zu klagen oder beklagt zu werden besteht lediglich - aber immerhin - im Rahmen der Verwaltung des Stockwerkeigentums (Wermelinger, in: Schmid [Hrsg.], Zürcher Kommentar zum Schweizerischen Zivilrecht, Schweizerisches Zivilgesetzbuch, Teilband IV/1c, Das Stockwerkeigentum, Zürich/Basel/Genf 2010, Art. 712l N. 125). Der wichtigste Vermögensbestandteil der Stockwerkeigentümergemeinschaft ist in der Regel die Beitragsforderung an gemeinschaftliche Kosten und Lasten. Darüber hinaus kann jedoch die Stockwerkeigentümergemeinschaft eine Vielzahl anderer Forderungen erwerben, die im Rahmen ihrer Verwaltungstätigkeit anfallen (Wermelinger, a.a.O., Art. 712l N. 63).
+1.3.2 Die Gebäude im Kanton Thurgau sind, soweit versicherungspflichtig, bei der Gebäudeversicherung zu versichern und dürfen für die versicherten Gefahren nicht anderweitig in Deckung gegeben werden (§ 4 GebG). Die Befugnis zur Erfüllung dieser gesetzlichen Pflicht liegt bei der Versammlung der Stockwerkeigentümer (Art. 712m Abs. 1 Ziff. 6 ZGB). Zu vollziehen ist diese gesetzliche Pflicht durch den Verwalter (Art. 712s Abs. 1 ZGB). Ein in Stockwerkeigentum aufgeteiltes Mehrfamilienhaus gilt denn auch in seiner Gesamtheit als Gebäude. Die Versicherung eines solchen Gebäudes wird durch die Gemeinschaft der Stockwerkeigentümer abgeschlossen, wobei eine einzige Police für alle Eigentümer ausgestellt wird (Strauss, in: Glaus/Honsell [Hrsg.], Gebäudeversicherung, Basel 2009, S. 114, Rz. 30). Der einzelne Stockwerkeigentümer ist der Versicherte hinsichtlich der Sonderrechtsräumlichkeiten, während die Stockwerkeigentümergemeinschaft Versicherungsnehmerin ist und durch den Verwalter vertreten wird. In Analogie zu den Bestimmungen des VVG gelten in solchen Fällen der Drittversicherung durch Umkehrschluss aus Art. 17 Abs. 2 VVG sowohl der Versicherungsnehmer als auch der versicherte Dritte als anspruchsberechtigt (Nef, in: Honsell/Vogt/Schnyder [Hrsg.], Kommentar zum Bundesgesetz über den Versicherungsvertrag, Basel 2001, Art. 38 Rz. 3). Dabei ist zwischen dem materiellen Anspruch und dessen Geltendmachung zu unterscheiden. Auch wenn letztlich der Anspruch auf die Versicherungsleistung dem versicherten Stockwerkeigentümer zusteht, kann in Analogie zu Art. 17 Abs. 2 VVG auch die Stockwerkeigentümergemeinschaft als Versicherungsnehmerin diesen Anspruch geltend machen, da ihr - wie vorstehend dargelegt - eine gesetzliche Pflicht zum Abschluss der Gebäudeversicherung obliegt (Hasenböhler, in: Honsell/Vogt/Schnyder [Hrsg.], Kommentar zum Bundesgesetz über den Versicherungsvertrag, Basel 2001, Art. 17 N. 27 ff.). In diesem Sinne führt auch Wermelinger als Beispiel für eine Forderung, welche die Gemeinschaft unter ihrem eigenen Namen im Sinne von Art. 712l Abs. 1 ZGB erwirbt, die Forderung gegenüber der Gebäudeversicherung zufolge eines Brandes auf (Wermelinger, a.a.O., Art. 712l, N. 66).
+1.3.3 Gemäss der Police 2017 hat die Verfahrensbeteiligte das gesamte Gebäude auf der Liegenschaft Nr. YY versichert. Als Eigentümerin ist die "StWE-Gemeinschaft" aufgeführt. Damit ist die Beschwerdeführerin 1 offensichtlich Versicherungsnehmerin. Im Aktenstück "Elementarschaden/Schadenaufnahme" vom 2. August 2017 wird wiederum die "StWE-Gemeinschaft", vertreten durch die X AG als Verwalterin, als Eigentümerin aufgeführt. Der Beschwerdeführerin 1 steht deshalb gestützt auf Art. 712l ZGB Handlungsfähigkeit und somit Prozessfähigkeit betreffend die geltend gemachten Ansprüche zu. Gemäss der Präzisierung des Zirkularbeschlusses der Beschwerdeführerin 1 vom 12. März 2018 ermächtigte die Gemeinschaft der Stockwerkeigentümer die Verwaltung, die bereits für das Rekursverfahren ausgesprochene Prozessführungsbefugnis auch auf das Beschwerdeverfahren vor dem Verwaltungsgericht auszuweiten. Die Beschwerdeführerin 1 ist somit zur Prozessführung vor dem Verwaltungsgericht bevollmächtigt. Der Präsident der Vorinstanz hatte zudem in einer elektronischen Nachricht zuhanden der Rechtsvertreterin der Beschwerdeführer bestätigt, dass mit dem Entscheid der Vorinstanz vom 6. September 2019 das Verfahren für sämtliche Rekurrenten abgeschlossen und im vorinstanzlichen Verfahren die Beschwerdeführerin 1 ebenfalls als Rekurrentin betrachtet worden sei. Somit ist die Beschwerdeführerin 1 durch den angefochtenen Entscheid vom 16. September 2019 beschwert und daher legitimiert, ihn beim Verwaltungsgericht anzufechten.
+Entscheid des Verwaltungsgerichts VG.2019.210/E vom 27. August 2020
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
