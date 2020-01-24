@@ -1,0 +1,82 @@
+---
+decision_id: "tg_obergericht_RBOG_2020_Nr._28"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2020 Nr. 28"
+decided: "2020-01-24"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2020-nr-28"
+cites_law: ["switzerland/bund/acts/311.0/art-069.md", "switzerland/bund/acts/312.0/art-080.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-241.md", "switzerland/bund/acts/312.0/art-246.md", "switzerland/bund/acts/312.0/art-247.md", "switzerland/bund/acts/312.0/art-248.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-264.md", "switzerland/bund/acts/312.0/art-265.md", "switzerland/bund/acts/312.0/art-267.md", "switzerland/bund/acts/312.0/art-273.md"]
+---
+
+# TG Obergericht RBOG 2020 Nr. 28
+
+## Regeste
+
+Keine Beschlagnahme vor der Durchsuchung und gegebenenfalls Entsiegelung
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 08.08.2019 RBOG 2020 Nr. 28
+Thurgovie Obergericht Rechenschaftsbericht 08.08.2019 RBOG 2020 Nr. 28
+Turgovia Obergericht Rechenschaftsbericht 08.08.2019 RBOG 2020 Nr. 28
+
+RBOG 2020 Nr. 28
+Skip to main content
+Show navigation
+Keine Beschlagnahme vor der Durchsuchung und gegebenenfalls Entsiegelung
+Art. 246 f. StPO
+,
+Art. 263 StPO
+1. Die Staatsanwaltschaft eröffnete eine Strafuntersuchung gegen den Beschwerdeführer; sie verdächtigt ihn unter anderem, einen Brand gelegt und Fr. 24'000.00 entwendet zu haben. Sie beschlagnahmte ein Mobiltelefon iPhone 8. Dieses diene als Beweismittel, zumal im Verlauf der Strafuntersuchung die beim Beschuldigten sichergestellten und zum Teil schon beschlagnahmten Mobiltelefone ausgelesen worden seien. Gegen diese Beschlagnahme erhob der Beschuldigte Beschwerde.
+2. a) aa) Gegenstände und Vermögenswerte einer beschuldigten Person oder einer Drittperson können gemäss Art. 263 Abs. 1 lit. a StPO unter anderem beschlagnahmt werden, wenn sie voraussichtlich als Beweismittel gebraucht werden. Entscheidend für die Beschlagnahme eines Gegenstands zu Beweiszwecken ist seine Eignung, Beweis für einen entscheidwesentlichen Umstand im genannten Umfang zu erbringen[1].
+bb) Die Beschlagnahme ist eine Zwangsmassnahme. Sie ist laut Art. 197 Abs. 1 StPO nur zulässig, wenn sie gesetzlich vorgesehen ist, ein hinreichender Tatverdacht vorliegt, die damit angestrebten Ziele nicht durch mildere Massnahmen erreicht werden können und die Bedeutung der Straftat die Zwangsmassnahme rechtfertigt. Ist der Grund für die Beschlagnahme weggefallen, hebt die Staatsanwaltschaft oder das Gericht die Beschlagnahme auf und händigt die Gegenstände oder Vermögenswerte der berechtigten Person aus[2].
+cc) Gerade bei duplizierbaren Beweisgegenständen – etwa Geschäftsunterlagen – erlangt das Prinzip der Erforderlichkeit und Verhältnismässigkeit praktische Bedeutung[3]. Das Bundesgericht erkannte - allerdings im Zusammenhang mit der Sicherungseinziehung gemäss Art. 69 StGB -, der mit der Trennung zwischen deliktischen und nicht-deliktischen Daten verbundene Aufwand könne nicht als unverhältnismässig eingestuft werden. Das Prinzip der Subsidiarität gebiete es, einzig die deliktischen Daten unwiderruflich zu löschen und dem Inhaber anschliessend die Datenträger samt den darauf enthaltenen legalen Daten wieder zurückzugeben[4]. Daraus folgt, dass bei Geräten mit Speichermedien die für die Beweisführung erforderlichen Daten in der Regel zu kopieren sind, und das Gerät anschliessend – vorbehältlich einer Einziehungsbeschlagnahme – dem Inhaber zurückzugeben ist[5].
+b) aa) Zu keinen Diskussionen Anlass geben können hier die gesetzliche Grundlage und der hinreichende Tatverdacht. Zudem rechtfertigen die dem Beschwerdeführer vorgeworfenen Straftaten die Beschlagnahme eines Mobiltelefons zu Beweiszwecken ohne weiteres.
+bb) Indessen legte die Staatsanwaltschaft weder im Beschlagnahmebefehl noch in der Beschwerdeantwort dar, weshalb sie dieses beschlagnahmte Mobiltelefon zu Beweiszwecken braucht. Sie erklärte nur, weil dem Beschwerdeführer bereits ab anderen Mobiltelefonen Daten hätten vorgezeigt werden müssen, sei nicht auszuschliessen, dass auch dieses Mobiltelefon als Beweismittel benötigt werde. Der pauschale Hinweis genügt nicht, zumal die Untersuchung nicht mehr in einer Anfangsphase ist. Die Beschwerde ist damit bereits mangels genügender Begründung zu schützen.
+3. a) Das von der Staatsanwaltschaft beschlagnahmte Mobiltelefon dient sodann (soweit ersichtlich) nicht als solches (als körperlicher Gegenstand) zu Beweiszwecken. Vielmehr will die Staatsanwaltschaft allenfalls dem Beschwerdeführer die darin gespeicherten Daten vorhalten.
+b) Wenn Smartphones und andere digitale Kommunikationsgeräte physisch beschlagnahmt oder vorläufig sichergestellt werden und die Staatsanwaltschaft die gespeicherten Daten auswerten will (Kontaktnummern, Verbindungsdaten, vom Empfänger abgerufene SMS- und E–Mail-Nachrichten usw.), liegt nach der Praxis des Bundesgerichts grundsätzlich keine Fernmeldeüberwachung[6] vor und auch keine rückwirkende Randdatenerhebung[7]. Der Rechtsschutz erfolgt hier in der Weise, dass die betroffene Person die Siegelung[8] des edierten oder sichergestellten Geräts verlangen kann (wie zum Beispiel bei Computern, Notebooks, Servern usw.). Die Staatsanwaltschaft, welche die elektronischen Aufzeichnungen durchsuchen und beschlagnahmen will, muss dann beim Zwangsmassnahmengericht ein Entsiegelungsgesuch stellen[9].
+c) aa) Gestützt auf Art. 246 StPO dürfen Schriftstücke, Ton-, Bild- und andere Aufzeichnungen, Datenträger sowie Anlagen zur Verarbeitung und Speicherung von Informationen durchsucht werden, wenn zu vermuten ist, dass sich darin Informationen befinden, die der Beschlagnahme unterliegen. Dies gilt namentlich für Gegenstände, die als Beweismittel benötigt werden[10]. Von einer Durchsuchung von Aufzeichnungen gemäss Art. 246 StPO wird nach der Praxis des Bundesgerichts gesprochen, wenn die Schriftstücke oder Datenträger im Hinblick auf ihren Inhalt oder ihre Beschaffenheit durchgelesen beziehungsweise besichtigt werden, um ihre Beweiseignung festzustellen, sie allenfalls zu beschlagnahmen und zu den Akten zu nehmen[11].
+bb) Die Inhaberin oder der Inhaber kann sich vorgängig zum Inhalt der Aufzeichnungen äussern[12] und der Strafbehörde Kopien von Aufzeichnungen und Ausdrucke von gespeicherten Informationen zur Verfügung stellen, wenn dies für das Verfahren ausreicht[13]. Wie das Bundesgericht festhielt[14], sind sichernde Zwangsmassnahmen anstelle von blossen Editionsbefehlen[15] zulässig, wenn die Herausgabe verweigert wurde oder die Aufforderung zur Edition den Zweck der Massnahme vereiteln würde[16]. Ist Gefahr im Verzug, so kann die Polizei Gegenstände zuhanden der Staatsanwaltschaft oder der Gerichte vorläufig sicherstellen[17].
+cc) Aufzeichnungen und Gegenstände, die nach Angaben der Inhaberin oder des Inhabers wegen eines Aussage- oder Zeugnisverweigerungsrechts oder aus anderen Gründen nicht durchsucht oder beschlagnahmt werden dürfen, sind zu versiegeln und dürfen von den Strafbehörden weder eingesehen noch verwendet werden[18]. Stellt die Strafbehörde nicht innert 20 Tagen ein Entsiegelungsgesuch, so werden die versiegelten Aufzeichnungen und Gegenstände der berechtigten Person zurückgegeben[19].
+d) Gemäss der Rechtsprechung des Bundesgerichts sind zu durchsuchende gesiegelte Beweismittel (etwa abgerufene Fernmeldenachrichten auf sichergestellten Mobiltelefonen) erst nach erfolgter Entsiegelung und Durchsuchung förmlich zu beschlagnahmen. Vorher kann die Staatsanwaltschaft auch gar noch nicht im Detail wissen, was sie sichergestellt hat, was beweisrelevant ist und was sie überhaupt unter welchem Titel förmlich beschlagnahmen will[20]. Eine (vorsorglich) zusätzlich erfolgte «Beschlagnahme» und Durchsuchung des gesiegelten Geräts erweist sich im Hinblick auf das massgebliche Entsiegelungsverfahren als obsolet[21].
+4. a) aa) Durchsuchungen und Untersuchungen werden in einem schriftlichen Befehl angeordnet. In dringenden Fällen können sie mündlich angeordnet werden, sind aber nachträglich schriftlich zu bestätigen[22]. Der Befehl bezeichnet die zu durchsuchenden oder zu untersuchenden Personen, Räumlichkeiten, Gegenstände oder Aufzeichnungen, den Zweck der Massnahme und die mit der Durchführung beauftragten Behörden oder Personen[23].
+bb) Der Durchsuchungsbefehl hat, ausser bei Dringlichkeit, in Form der Verfügung, das heisst schriftlich und mit einer Begründung versehen, zu ergehen[24]. Er muss so abgefasst sein, dass der Betroffene die Tragweite der Verfügung erkennen und diese entsprechend anfechten kann. Es müssen wenigstens kurz die Überlegungen ersichtlich sein, von denen sich die anordnende Behörde leiten liess und auf die sie ihren Entscheid stützt. Dazu braucht es mindestens summarische Ausführungen zum vorgeworfenen Sachverhalt und zu der den Tatverdacht begründenden Faktenlage. Die Notwendigkeit inhaltlicher Mindestangaben erlaubt es, den Umfang der Zwangsmassnahme zu definieren. Sie bezweckt, eine Beweisausforschung (sogenannte «fishing expedition») zu verhindern, wo ohne hinreichenden Tatverdacht nach Beweisen für strafbares Verhalten gesucht wird. Der erforderliche Detaillierungsgrad der Angaben definiert sich nach der beschriebenen Begrenzungsfunktion und muss eine nachträgliche Überprüfung der Zwangsmassnahme erlauben. Er variiert von Fall zu Fall[25].
+cc) Nach der Praxis des Bundesgerichts hat die Untersuchungsbehörde, die Aufzeichnungen und Gegenstände vorläufig sicherstellt, deren Inhaber anlässlich der Hausdurchsuchung darüber zu informieren, dass er, falls er Geheimnisrechte geltend machen möchte, die einer Durchsuchung beziehungsweise Beschlagnahme der sichergestellten Unterlagen entgegenstehen könnten, deren Siegelung verlangen kann. Ebenso ist der Betroffene darüber in Kenntnis zu setzen, dass nach erfolgter Siegelung (und auf allfälliges Entsiegelungsgesuch der Untersuchungsbehörde hin) der Entsiegelungsrichter über die Zulässigkeit der Durchsuchung entscheidet, und dass der Betroffene mangels sofortigen Siegelungsgesuchs den Rechtsschutz verwirkt und mit der Durchsuchung der Unterlagen rechnen muss. Die Information des betroffenen Inhabers über seine Verfahrensrechte muss rechtzeitig und inhaltlich ausreichend erfolgen. Ohne den Nachweis einer ausreichenden Information des Betroffenen über seine Verfahrensrechte ist eine «konkludente» Einwilligung in die Durchsuchung nicht zu vermuten und liegt kein verspätetes Entsiegelungsgesuch vor[26].
+b) aa) Die Staatsanwaltschaft erliess einen Durchsuchungsbefehl für den dem Beschwerdeführer zur Verfügung gestellten Personenwagen. Dabei sei nach Bargeld, Effekten des Beschwerdeführers sowie Aufzeichnungen, Notizen, Daten etc. zu den dem Beschwerdeführer vorgeworfenen Straftaten zu suchen und diese sicherzustellen. Die allfällig sichergestellten Anlagen zur Verarbeitung und Speicherung von Informationen, Datenträger und Mobiltelefone seien auszuwerten. In der Empfangsbestätigung, die der Beschwerdeführer unterzeichnete, bestätigte er, den Durchsuchungsbefehl empfangen zu haben. Zudem wurde er auf diesem Formular auf sein Siegelungsrecht aufmerksam gemacht. Gemäss dem (ebenfalls vom Beschwerdeführer unterzeichneten) Durchsuchungs- und Sicherstellungsprotokoll wurde im Fahrzeug das im Beschlagnahmebefehl erwähnte Mobiltelefon gefunden.
+bb) Die Verteidigung hätte allerspätestens nach Erhalt der Akten die Siegelung verlangen müssen, was aber (soweit aus den Akten ersichtlich ist) weder sie noch der Beschwerdeführer taten. Folglich konnte die Staatsanwaltschaft die auf dem Mobiltelefon vorhandenen Daten durchsuchen, ohne dass ein Entsiegelungsverfahren durchzuführen war. Ausserdem geht aus der Beschwerdeschrift hervor, dass sich der Beschwerdeführer nicht generell gegen die Verwendung der auf dem Mobiltelefon gespeicherten Daten wehrt. Vielmehr macht er nur geltend, einerseits seien auf diesem Gerät keine beweisrelevanten Daten vorhanden, und andererseits brauche die Staatsanwaltschaft das Gerät selber nicht, weil sie schon über die gespiegelten Daten verfüge.
+c) aa) Aus den Akten ist nicht ersichtlich, ob die Staatsanwaltschaft bereits eine Durchsuchung des Mobiltelefons durchgeführt hat. Die Staatsanwaltschaft selber wies nicht auf eine Durchsuchung hin.
+bb) Falls die Staatsanwaltschaft die auf dem Mobiltelefon gespeicherten Daten im Strafverfahren gegen den Beschwerdeführer (weiterhin) verwenden will, hat sie zunächst eine Durchsuchung dieser Daten durchzuführen. Erst wenn die Staatsanwaltschaft das Mobiltelefon unter dem Aspekt ihres begründeten Tatverdachts untersucht hat, ist sie in der Lage, einen begründeten Beschlagnahmebefehl zu erlassen. Ist sie zu jenem Zeitpunkt immer noch der Auffassung, es sei neben den gesicherten Daten auch noch das Mobiltelefon zu beschlagnahmen, so hat sie dies in der Beschlagnahmeverfügung ebenfalls (genau) zu begründen.
+Obergericht, 2. Abteilung, 24. Januar 2020, SW.2019.155
+[1] Bommer/Goldschmid, Basler Kommentar, 2.A., Vor Art. 263-268 StPO N. 5
+[2] Art. 267 Abs. 1 StPO
+[3] Bommer/Goldschmid, Art. 264 StPO N. 23
+[4] BGE vom 16. Februar 2009, 6B_748/2008, Erw. 4.5.3
+[5] BGE vom 31. Mai 2010, 6B_1067/2009, Erw. 3.2; Bommer/Goldschmid, Art. 263 StPO N. 27 Fn. 33
+[6] Art. 269-279 StPO
+[7] Art. 273 StPO
+[8] Art. 248 Abs. 1 StPO
+[9] BGE 143 IV 274; vgl. BGE 140 IV 184, 188
+[10] Art. 263 Abs. 1 lit. a StPO
+[11] BGE 144 IV 77, 143 IV 273
+[12] Art. 247 Abs. 1 StPO
+[13] Art. 247 Abs. 3 StPO
+[14] BGE 144 IV 77, 143 IV 272
+[15] Art. 265 StPO
+[16] Art. 265 Abs. 4 StPO
+[17] Art. 263 Abs. 3 StPO; vgl. auch Art. 241 Abs. 1 Satz 2 und Abs. 3 StPO
+[18] Art. 248 Abs. 1 StPO
+[19] Art. 248 Abs. 2 StPO
+[20] BGE 144 IV 78
+[21] BGE vom 22. Juni 2018, 1B_555/2017, Erw. 3.2; vgl. BGE 144 IV 80 f.
+[22] Art. 241 Abs. 1 StPO
+[23] Art. 241 Abs. 2 StPO
+[24] Art. 241 Abs. 1 i.V.m. Art. 80 StPO
+[25] BGE vom 6. Oktober 2016, 1B_243/2016, Erw. 4.4.2; BGE vom 26. Februar 2013, 1B_726/2012, Erw. 5.2
+[26] BGE vom 8. August 2019, 1B_85/2019, Erw. 4.2; BGE vom 4. August 2016, 1B_91/2016, Erw. 4.5
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
