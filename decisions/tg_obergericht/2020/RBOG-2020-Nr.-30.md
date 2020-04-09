@@ -1,0 +1,81 @@
+---
+decision_id: "tg_obergericht_RBOG_2020_Nr._30"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2020 Nr. 30"
+docket_2: "SW.2020.24"
+decided: "2020-04-09"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/8A8A235E-E8EF-F2C1-AFB77087E38E22DB.html"
+cites_law: ["switzerland/bund/acts/311.0/art-138.md", "switzerland/bund/acts/311.0/art-146.md", "switzerland/bund/acts/311.0/art-312.md", "switzerland/bund/acts/311.0/art-313.md", "switzerland/bund/acts/312.0/art-011.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-397.md"]
+---
+
+# TG Obergericht RBOG 2020 Nr. 30
+
+## Regeste
+
+Damit wie auch mit den weiteren Erwägungen äusserte sich die Staatsanwaltschaft, wie der Beschwerdeführer in der Beschwerdeschrift zu Recht monierte, nicht zum Vorwurf des Beschwerdeführers, durch ihr Verhalten hätten sich Funktionäre des Veterinäramts auch des Betrugs nach Art. Damit wäre, würde die Beschwerde abgewiesen, die Strafanzeige und der damit angezeigte Lebenssachverhalt generell nicht anhand genommen, obwohl das Verhalten von Funktionären des Veterinäramts nach Dafürhalten des ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 09.04.2020 RBOG 2020 Nr. 30 (SW.2020.24)
+Thurgovie Obergericht Rechenschaftsbericht 09.04.2020 RBOG 2020 Nr. 30 (SW.2020.24)
+Turgovia Obergericht Rechenschaftsbericht 09.04.2020 RBOG 2020 Nr. 30 (SW.2020.24)
+
+Damit wie auch mit den weiteren Erwägungen äusserte sich die Staatsanwaltschaft, wie der Beschwerdeführer in der Beschwerdeschrift zu Recht monierte, nicht zum Vorwurf des Beschwerdeführers, durch ihr Verhalten hätten sich Funktionäre des Veterinäramts auch des Betrugs nach Art. Damit wäre, würde die Beschwerde abgewiesen, die Strafanzeige und der damit angezeigte Lebenssachverhalt generell nicht anhand genommen, obwohl das Verhalten von Funktionären des Veterinäramts nach Dafürhalten des ...
+
+RBOG 2020 Nr. 30
+RBOG 2020 Nr. 30
+Nichtanhandnahme und Einstellung des Strafverfahrens beziehen sich auf Sachverhalte, nicht auf Straftatbestände; keine teilweise Nichtanhandnahme respektive Einstellung bei gleichem Sachverhalt.
+(Art. 310 Abs. 1 lit. a, 319 f., 11 StPO)
+1.    a)    Die Staatsanwaltschaft verfügt gemäss Art. 310 Abs. 1 lit. a StPO die Nichtanhandnahme einer Strafuntersuchung, sobald aufgrund der Strafanzeige feststeht, dass die fraglichen Straftatbestände eindeutig nicht erfüllt sind. Nach dem klaren Wortlaut dieser Gesetzesbestimmung kommt daher der Erlass einer Nichtanhandnahmeverfügung erst und nur in Betracht, wenn schon aufgrund der Strafanzeige feststeht, dass sämtliche infrage kommenden Straftatbestände eindeutig nicht erfüllt sind.
+b)    Art. 11 StPO konkretisiert das Verbot der doppelten Strafverfolgung
+[1]
+. Demgemäss darf niemand wegen der gleichen Straftat erneut verfolgt werden, der in der Schweiz rechtskräftig verurteilt oder freigesprochen worden ist. Aus dieser Bestimmung ergibt sich der Grundsatz der Sperrwirkung der abgeurteilten Sache
+[2]
+. Das Vorliegen eines rechtskräftigen Entscheids ist für ein neues Verfahren mit dem gleichen Gegenstand ein Verfahrenshindernis, das in jeder Lage von Amtes wegen zu beachten ist
+[3]
+. Das gilt grundsätzlich auch bei einer Nichtanhandnahmeverfügung
+[4]
+. Dementsprechend kann wegen ein und derselben Tat im prozessualen Sinn nicht aus einem rechtlichen Gesichtspunkt verurteilt beziehungsweise ein Verfahren eröffnet und aus einem anderen das Verfahren eingestellt beziehungsweise nicht anhand genommen werden. Es muss darüber einheitlich entschieden werden. Tatidentität liegt vor, wenn mehreren fraglichen Straftatbeständen identische oder im Wesentlichen gleiche Tatsachen zugrunde liegen. Auf die rechtliche Qualifikation dieser Tatsachen kommt es nicht an
+[5]
+. Als einheitlicher Lebenssachverhalt gilt ein Komplex konkreter, tatsächlicher Umstände, welche denselben Beschuldigten betreffen und in räumlicher sowie zeitlicher Hinsicht unlösbar miteinander verknüpft sind. Grundlage für die Anwendung des Doppelbestrafungsverbots bildet demnach die sogenannte einfache Tatidentität; die rechtliche Qualifikation oder das Konkurrenzverhältnis zwischen den anwendbaren Strafnormen bleiben ohne Bedeutung
+[6]
+.
+c)    Dementsprechend muss sich eine Nichtanhandnahmeverfügung ebenso wie eine Einstellungsverfügung auf einen konkreten Sachverhalt beziehen und nicht auf einzelne Straftatbestände. Zweck des Strafverfahrens ist die Ermittlung des Sachverhalts und die Prüfung, ob das Verhalten des Beschuldigten beziehungsweise der ermittelte Sachverhalt unter einen Straftatbestand, unter eine Strafnorm, fällt. Die Parteien (Beschuldigter und Privatkläger) haben Anspruch auf eine formelle Erledigung aller erhobenen Tatvorwürfe. Die Staatsanwaltschaft hat alle Tatvorwürfe im Dispositiv des Entscheids formell zu erledigen und in den Erwägungen die Art der Erledigung rechtsgenüglich zu begründen. Die Begründung soll gemäss konstanter bundesgerichtlicher Rechtsprechung verhindern, dass sich die Behörde von unsachlichen Motiven leiten lässt, und dem Betroffenen ermöglichen, die Verfügung gegebenenfalls sachgerecht anzufechten. Dies ist nur möglich, wenn sowohl der Betroffene wie auch die Rechtsmittelinstanz sich über die Tragweite des Entscheids ein Bild machen können. In diesem Sinn müssen wenigstens kurz die Überlegungen genannt werden, von denen sich die Behörde hat leiten lassen, und auf die sich ihr Entscheid stützt. Dies bedeutet indessen nicht, dass sie sich ausdrücklich mit jeder tatsächlichen Behauptung und jedem rechtlichen Einwand auseinandersetzen muss. Vielmehr kann sie sich auf die für den Entscheid wesentlichen Gesichtspunkte beschränken
+[7]
+. Umfang und Tiefe der Begründung haben sich an der Eingriffsintensität des Entscheids sowie dessen Bedeutung für Parteien und Verfahren zu orientieren. Die Begründungspflicht ist nicht nur ein bedeutsames Element transparenter Entscheidfindung, sondern dient zugleich auch der wirksamen Selbstkontrolle der Behörde
+[8]
+. Die Staatsanwaltschaft kann somit ihre Begründungsdichte an der Qualität der erhobenen Vorwürfe, insbesondere deren Begründung, ausrichten. Es bleibt ihr beispielsweise unbenommen, haltlose Vorwürfe bloss mit einer Kurzbegründung zu erledigen
+[9]
+. Im Dispositiv müssen somit die einzelnen Sachverhalte erkennbar aufgeführt und damit erledigt werden, beispielsweise durch eine kurze Umschreibung oder Verweise auf Strafanzeigen (soweit diese den Sachverhalt genügend klar umschreiben). Nur so ist für alle Beteiligten ersichtlich, welche Tatvorwürfe erledigt sind und welche nicht.
+2.    a)    Der Beschwerdeführer erstattete Strafanzeige wegen Delikten gegen das Vermögen beziehungsweise Veruntreuung. Später hielt er an seiner Strafanzeige fest, wobei er mit den Worten «Man müsste sich schon fast fragen, ob hier eine gewisse Täuschung und Arglist zu erkennen ist» den Verdacht des Betrugs nach Art. 146 StGB äusserte sowie neu den Vorwurf des Amtsmissbrauchs sowie der Gebührenüberforderung gemäss den Art. 312 und 313 StGB erhob. Die von ihm bezahlten Kostenvorschüsse seien bis heute nicht korrekt abgerechnet worden, da nie ein Entscheid über die Gebühren ergangen sei.
+b)    Die Staatsanwaltschaft nahm gestützt auf diese Anzeige des Beschwerdeführers umfassend und abschliessend keine Strafuntersuchung gegen Unbekannt beziehungsweise das Amt für Veterinärwesen an die Hand. Wie sich indes aus dem Betreff «Veruntreuung gemäss Art. 138 Ziff. 1 StGB» sowie der Begründung ergibt, prüfte die Staatsanwaltschaft den angezeigten Lebenssachverhalt nur hinsichtlich des Tatbestands der Veruntreuung, wobei sie zum Schluss kam, der Tatbestand sei, wie sich aus den Akten ergebe, eindeutig nicht erfüllt. Die Beträge seien dem Beschwerdeführer zu Recht in Rechnung gestellt worden und damit dem Veterinäramt gar nicht anvertraut gewesen. Zudem seien die Beträge ordentlich verbucht worden, womit keine Veruntreuung zum Nachteil des Veterinäramts (richtig: des Beschwerdeführers) vorliege. Damit wie auch mit den weiteren Erwägungen äusserte sich die Staatsanwaltschaft, wie der Beschwerdeführer in der Beschwerdeschrift zu Recht monierte, nicht zum Vorwurf des Beschwerdeführers, durch ihr Verhalten hätten sich Funktionäre des Veterinäramts auch des Betrugs nach Art. 146 StGB, des Amtsmissbrauchs nach Art. 312 StGB und der Gebührenüberforderung nach Art. 313 StGB schuldig gemacht. Damit wäre, würde die Beschwerde abgewiesen, die Strafanzeige und der damit angezeigte Lebenssachverhalt generell nicht anhand genommen, obwohl das Verhalten von Funktionären des Veterinäramts nach Dafürhalten des Beschwerdeführers noch andere Straftatbestände als die Veruntreuung erfüllt, auf welche die Staatsanwaltschaft in der angefochtenen Verfügung mit keinem Wort einging, also auch nicht mit einer grundsätzlich genügenden Kurzbegründung.
+c)    Die blosse Nichtanhandnahme wegen Veruntreuung ist ungenügend, denn damit wird nur eine Rechtsnorm anstatt ein Sachverhalt bezeichnet, und es wird der angezeigte Lebenssachverhalt nur gestützt auf diese Strafbestimmung nicht anhand genommen, obwohl der Beschwerdeführer durch den gleichen Lebenssachverhalt noch weitere Strafnormen als erfüllt erachtet. Somit ist der angefochtene Entscheid aufzuheben und die Sache zur korrekten Erledigung durch die Staatsanwaltschaft an diese zurückzuweisen
+[10]
+. Eine Heilung durch die Beschwerdeinstanz kommt nicht in Betracht, weil das Obergericht diesfalls die Arbeit der Staatsanwaltschaft machte.
+3.    Damit ist die Beschwerde zu schützen.
+Obergericht, 2. Abteilung, 9. April 2020, SW.2020.24
+[1]
+Ebenso Art. 4 des Protokolls Nr. 7 zur Konvention zum Schutz der Menschenrechte und Grundfreiheiten (SR 0.101.07); Art. 14 Abs. 7 des internationalen Pakts über bürgerliche und politische Rechte (SR 0.103.2)
+[2]
+Grundsatz «ne bis in idem»
+[3]
+Tag, Basler Kommentar, 2.A., Art. 11 StPO N. 13
+[4]
+Art. 320 Abs. 4 i.V.m. 310 Abs. 2 StPO; vgl. BGE 141 IV 197 f.
+[5]
+BGE vom 9. Dezember 2019, 6B_888/2019, Erw. 1.3; BGE 142 IV 381 f.; vgl. ferner BGE vom 27. Februar 2018, 6B_654/2017, Erw. 2.3;
+RBOG 2018 Nr. 10
+Erw. 2.b
+[6]
+BGE vom 17. Mai 2018, 6B_1053/2017, 6B_1096/2017, Erw. 4; siehe auch BGE vom 17. Mai 2017, 6B_482/2017, Erw. 4.2; zum Ganzen: Ackermann, Unzulässige Teileinstellung bei gleichem Lebenssachverhalt, in: forumpoenale 2017 S. 46 ff.; Erni, Strafbefehl und Teileinstellungsverfügung bei gleichem Sachverhalt – Übersicht über die bundesgerichtliche Rechtsprechung und Erörterung möglicher Folgen für die Staatsanwaltschaft und die Privatklägerschaft, in: forumpoenale 2020 S. 55 ff.
+[7]
+BGE 133 I 277, 129 I 236, 126 I 102 f.
+[8]
+RBOG 2014 Nr. 16
+Erw. 2.b
+[9]
+Dies gilt etwa, wenn offensichtlich ein objektives oder subjektives Tatbestandsmerkmal fehlt, wenn ein Vorwurf erhoben wird, der keinen Tatbestand erfüllt, oder wenn «Tatbestände» genannt werden, die nicht Bestandteil des Strafrechts, sondern des Zivilrechts sind, oder die es nicht gibt.
+[10]
+Art. 397 Abs. 2 StPO
