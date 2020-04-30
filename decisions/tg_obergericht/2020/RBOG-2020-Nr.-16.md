@@ -1,0 +1,133 @@
+---
+decision_id: "tg_obergericht_RBOG_2020_Nr._16"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2020 Nr. 16"
+docket_2: "ZBR.2019.27"
+decided: "2020-04-30"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/7AAD6BA0-C897-C6EF-D61027C19817DE4E.html"
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/272/art-055.md", "switzerland/bund/acts/272/art-057.md", "switzerland/bund/acts/272/art-310.md", "switzerland/bund/acts/272/art-311.md", "switzerland/bund/acts/272/art-312.md"]
+---
+
+# TG Obergericht RBOG 2020 Nr. 16
+
+## Regeste
+
+Im Vorentwurf zur ZPO wurde von der «Begründungslast» des Berufungsklägers gesprochen, was als Einführung des Rügeprinzips verstanden und als zu streng kritisiert wurde. e) Damit muss der Berufungskläger für die Berufungsinstanz nachvollziehbar darlegen, welche Punkte des angefochtenen Entscheids aus welchem Grund falsch sein sollen; insofern sind auch entsprechende Verweise auf die nach Auffassung des Berufungsklägers unzutreffenden Erwägungen der Vorinstanz unerlässlich.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 30.04.2020 RBOG 2020 Nr. 16 (ZBR.2019.27)
+Thurgovie Obergericht Rechenschaftsbericht 30.04.2020 RBOG 2020 Nr. 16 (ZBR.2019.27)
+Turgovia Obergericht Rechenschaftsbericht 30.04.2020 RBOG 2020 Nr. 16 (ZBR.2019.27)
+
+Im Vorentwurf zur ZPO wurde von der «Begründungslast» des Berufungsklägers gesprochen, was als Einführung des Rügeprinzips verstanden und als zu streng kritisiert wurde. e) Damit muss der Berufungskläger für die Berufungsinstanz nachvollziehbar darlegen, welche Punkte des angefochtenen Entscheids aus welchem Grund falsch sein sollen; insofern sind auch entsprechende Verweise auf die nach Auffassung des Berufungsklägers unzutreffenden Erwägungen der Vorinstanz unerlässlich.
+
+RBOG 2020 Nr. 16
+RBOG 2020 Nr. 16
+Anforderung an die Berufungs- und Anschlussberufungsbegründung
+(Art. 310, 311 Abs. 1, 55, 57 ZPO)
+1.    Mit Berufung kann gemäss Art. 310 ZPO sowohl unrichtige Rechtsanwendung als auch unrichtige Feststellung des Sachverhalts geltend gemacht werden. Die Berufungsinstanz kann eine freie Sachverhaltsprüfung vornehmen. Sie ist nicht an die Sachverhaltsprüfung der Vorinstanz gebunden. Sie hat aber die Verhandlungs- beziehungsweise die Dispositionsmaxime zu beachten. Eine unrichtige Feststellung des Sachverhalts liegt vor, wenn das Gericht seinen Entscheid auf einen Sachverhalt stützt, der aktenmässig nicht sauber belegt ist
+[1]
+.
+2.    a)    Gemäss Art. 311 Abs. 1 ZPO ist die Berufung schriftlich und begründet einzureichen. Sie hat die Berufungsanträge zu enthalten
+[2]
+. Der Berufungskläger hat sich zudem mit den Entscheidgründen, das heisst mit der Begründung des erstinstanzlichen Entscheids, im Einzelnen auseinanderzusetzen
+[3]
+. Die Parteien haben die Beanstandungen am angefochtenen Entscheid innert der Berufungs- beziehungsweise Berufungsantwortfrist vollständig vorzutragen; ein allfälliger zweiter Schriftenwechsel oder die Ausübung des Replikrechts dienen nicht dazu, die bisherige Kritik zu vervollständigen oder gar neue Beanstandungen vorzutragen
+[4]
+.
+Diese und die anschliessend dargelegten Grundsätze gelten auch für die Anschlussberufungsbegründung.
+b)    Mit der Begründung erläutert der Berufungskläger, weshalb er das erstinstanzliche Urteil bezüglich der angefochtenen Punkte für unrichtig hält beziehungsweise worauf er die gestellten Berufungsanträge stützt. Die Begründung enthält somit tatsächliche und/oder rechtliche Erörterungen, indem dargelegt wird, auf welche Sachverhaltselemente beziehungsweise Rechtsgrundlagen sich die Berufungsanträge stützen. Allerdings hat weder die Berufungsschrift noch die Klageschrift zwingend eine rechtliche Begründung zu enthalten. Dies ergibt sich aus dem Grundsatz der Rechtsanwendung von Amtes wegen im Sinn von Art. 57 ZPO. Aufgrund des Prinzips «iura novit curia» gilt im schweizerischen Zivilprozessrecht, dass eine Partei keine Nachteile erleidet, wenn sie von der Möglichkeit, dem Gericht ihre Rechtsauffassung darzulegen, keinen Gebrauch macht
+[5]
+. Die Partei hat sich aber in ihrer Rechtsschrift substantiiert mit den Urteilserwägungen in den angefochtenen Punkten auseinanderzusetzen. Eine allgemein gehaltene Bestreitung genügt nicht. Es ist Aufgabe des Berufungsklägers, im Rahmen der Begründung seiner Rechtsschrift die Umstände genau zu bezeichnen und allenfalls dafür konkrete Beweise anzubieten, aus denen er seine Kritik ableitet beziehungsweise aus denen eine von der Vorinstanz abweichende Rechtsfindung resultieren soll
+[6]
+.
+c)    Nach Art. 57 ZPO wendet das Gericht das Recht von Amtes wegen an. Die Rechtsanwendung besteht in der Feststellung des anzuwendenden Rechts und in der Anwendung dieses objektiven Rechts auf den konkreten Sachverhalt. Dies gilt auch im Berufungsverfahren. Das Berufungsgericht behandelt grundsätzlich aber nur die geltend gemachten Rügen, sofern die rechtlichen Mängel nicht geradezu offensichtlich sind. Demgegenüber ist es Sache der Parteien, dem Gericht die Tatsachen, auf die sie ihre Begehren stützen, darzulegen und die Beweise anzugeben
+[7]
+. Welche Tatsachen zu behaupten sind, hängt vom Tatbestand der Norm ab, auf den der geltend gemachte Anspruch abgestützt wird. Ein Berufungsverfahren zeichnet sich sodann dadurch aus, dass bereits eine gerichtliche Beurteilung der Sache vorliegt. Mit Blick auf die Begründungspflicht nach Art. 311 ZPO muss in diesem Verfahren daher aufgezeigt werden, inwieweit der angefochtene Entscheid fehlerhaft ist. Entsprechend ist anhand der erstinstanzlich festgestellten Tatsachen oder der daraus gezogenen rechtlichen Schlüsse aufzuzeigen, inwiefern sich die Überlegungen des erstinstanzlichen Gerichts nicht aufrechterhalten lassen. Die Berufungsantwort hat den gleichen Begründungsanforderungen zu genügen wie die Berufung
+[8]
+.
+d)    In der Begründung ist somit darzulegen, aus welchen Gründen der angefochtene Entscheid falsch ist und deshalb abgeändert werden muss. Im Vorentwurf zur ZPO wurde von der «Begründungslast» des Berufungsklägers gesprochen, was als Einführung des Rügeprinzips verstanden und als zu streng kritisiert wurde. Das Erfordernis einer Begründung darf nicht mit dem Rügeprinzip verwechselt werden. Es geht in der Begründung nicht darum, dass der Berufungskläger bestimmte Normen präzis anruft und konkret aufzeigt, inwiefern die angerufenen Normen verletzt worden sind, sondern darum, dass er der Rechtsmittelinstanz durch zusätzliche Ausführungen zu den Berufungsanträgen seine Überlegungen hinsichtlich des angefochtenen Entscheids mitteilt und so zu einer effizienten Justiz beiträgt. Die Anforderungen sind abhängig von der Verfahrensart, auf welcher der angefochtene Entscheid beruht. Im vereinfachten Verfahren genügt eine kurze und einfache Begründung. Im ordentlichen Verfahren darf eine etwas ausführlichere Begründung verlangt werden. Sie soll sich sachbezogen mit der Begründung des angefochtenen Entscheids auseinandersetzen und nicht einzig die eigenen Ausführungen vor der ersten Instanz wiederholen. Rein appellatorische Kritik, wonach der angefochtene Entscheid falsch oder rechtswidrig oder man damit nicht einverstanden sei, ist ungenügend. Für das Ausmass der Begründung ist auch von Bedeutung, wie das vorinstanzliche Verfahren durchgeführt und wie ausführlich der vorinstanzliche Entscheid begründet wurde. Für Laien gelten nicht gleich strenge Anforderungen wie für Anwälte
+[9]
+. Gestützt auf den Grundsatz «iura novit curia» muss die Berufungsinstanz ihre Überprüfung indessen nicht darauf beschränken, ob die vom Berufungskläger geltend gemachten Mängel im Einzelnen vorhanden sind beziehungsweise ob die Berufungsanträge in zutreffender Weise begründet wurden. Vielmehr hat die Berufungsinstanz von Amtes wegen zu entscheiden, ob die Berufungsanträge im Ergebnis begründet sind oder nicht. Die Berufungsinstanz kann somit sämtliche noch im Streit liegenden Punkte frei beziehungsweise unbeschränkt prüfen und auf Gesichtspunkte eingehen, die von den Parteien nicht genannt wurden
+[10]
+. Das Obergericht ist aber nicht gehalten, den erstinstanzlichen Entscheid losgelöst von konkreten Anhaltspunkten in der Berufungsbegründung von sich aus in jede Richtung hin auf mögliche Mängel zu untersuchen, die eine Gutheissung des Rechtsmittels ermöglichen könnten
+[11]
+. Es hat sich – abgesehen von offensichtlichen Mängeln – grundsätzlich auf die Beurteilung der in der schriftlichen Begründung
+[12]
+gegen das erstinstanzliche Urteil erhobenen Beanstandungen zu beschränken
+[13]
+.
+e)    Damit muss der Berufungskläger für die Berufungsinstanz nachvollziehbar darlegen, welche Punkte des angefochtenen Entscheids aus welchem Grund falsch sein sollen; insofern sind auch entsprechende Verweise auf die nach Auffassung des Berufungsklägers unzutreffenden Erwägungen der Vorinstanz unerlässlich. Ob die Vorinstanz bei der Fällung ihres Entscheids einen Fehler beging, lässt sich häufig nur anhand der Ausführungen der Parteien vor der Vorinstanz beurteilen. Der Berufungskläger hat deshalb auch mittels klarer und sauberer Verweisungen auf die Ausführungen vor der Vorinstanz zu zeigen, wo er die massgebenden Behauptungen, Erklärungen, Bestreitungen und Einreden erhoben hat. Es ist nämlich nicht Sache der Rechtsmittelinstanz, die Akten und die Rechtsschriften der Vorinstanz zu durchforsten, um festzustellen, was welche Partei wo ausführte. Damit ist gesagt, dass die Berufungsschrift weder eine pauschale Verweisung auf die bei der Vorinstanz eingereichten Rechtsschriften noch eine neuerliche Darstellung der Sach- oder Rechtslage enthalten darf, welche nicht darauf eingeht, was vor der Vorinstanz vorgebracht wurde
+[14]
+. Die Begründung muss also hinreichend genau und eindeutig sein, um von der Berufungsinstanz mühelos verstanden werden zu können. Dies setzt voraus, dass der Berufungskläger im Einzelnen die vorinstanzlichen Erwägungen bezeichnet, die er anficht, und die Aktenstücke nennt, auf denen seine Kritik beruht
+[15]
+. Dabei sind die Beanstandungen am angefochtenen Entscheid binnen der Berufungs- beziehungsweise Berufungsantwortfrist vollständig vorzutragen; ein allfälliger zweiter Schriftenwechsel oder die Ausübung des Replikrechts dienen nicht dazu, die bisherige Kritik zu vervollständigen oder gar neue vorzutragen
+[16]
+.
+f)     Allerdings gilt nicht das strenge Rügeprinzip. Anders als das bundesgerichtliche Beschwerdeverfahren setzt das kantonale Berufungsverfahren nicht voraus, dass in gedrängter Form dargelegt wird, inwiefern der angefochtene Akt Recht verletzt
+[17]
+. Es genügt gerade bei Rechtsunkundigen eine sinngemässe Auseinandersetzung, aus der ersichtlich ist, was ihrer Auffassung nach am vorinstanzlichen Entscheid falsch ist und korrigiert werden soll. Die Beanstandung muss nicht detailliert sein
+[18]
+.
+g)    Die Berufungsinstanz muss bei ungenügender Begründung nicht Frist zur Behebung des Mangels ansetzen. Die Begründungspflicht oder Begründungslast geht aber nicht so weit wie das Rügeprinzip. Ist die Begründung zwar nicht gerade ungenügend, aber in der Substanz mangelhaft, lässt dies zwar das Eintreten auf die Berufung unberührt, kann sich aber in der materiellen Beurteilung zum Nachteil des Berufungsklägers auswirken
+[19]
+.
+3.    a)    Die allgemeinen Bemerkungen in der Anschlussberufung enthalten keine Verweise auf das angefochtene Urteil. Sie setzen sich auch nicht konkret mit den erstinstanzlichen Erwägungen auseinander, sondern stellen die abweichende Sicht der Architektin dar. Die dargelegten Anforderungen an eine rechtsgenügliche Begründung vermögen sie daher nicht zu erfüllen. Dasselbe gilt für die Ausführungen zum Thema «Keine Vertragsverletzung». Auch hier nimmt die Architektin nicht konkret auf den angefochtenen Entscheid Bezug. Der Hinweis auf beklagtische Akten allein reicht nicht aus, ebensowenig wie der blosse Hinweis auf das angefochtene Urteil ohne weitere Aktenverweise. Auch im folgenden Abschnitt «Keine Erkennbarkeit einer Vertragsverletzung» fehlt eine konkrete Bezugnahme auf das vorinstanzliche Urteil.
+b)    Beim Thema «Kein Abweichen von den geforderten Standards» verweist die Architektin ausnahmsweise auf den angefochtenen Entscheid mit konkreten Seitenzahlen. Sie macht geltend, dass die Vorinstanz sich mit einer blossen Analyse der Vereinbarkeit der Wortwahl «am Limit» mit der von der Bauherrin angeblich geforderten «Top-Qualität» und dem Eingehen «keiner Experimente» begnügt habe. Letztere habe die Bauherrin gar nie behauptet, es handle sich um eine aus dem Kontext gerissene Protokollaussage der Architektin anlässlich einer Sitzung mit Drittbeteiligten. Die Vorinstanz habe ferner nicht in Betracht gezogen, dass die Ausdrücke «machbar» und «umsetzbar» der Architektin durchaus so hätten verstanden werden dürfen, dass es sich bei der Konstruktion nicht um ein Experiment, sondern um eine machbare Sache gehandelt habe. Wäre es ein Experiment gewesen, hätten die Ingenieurin und die Bauphysikerin stärkere Begrifflichkeiten verwenden müssen, wie etwa «es wird von der vorgeschlagenen Konstruktion abgeraten», «für die Umsetzung kann keine Gewähr übernommen werden», oder dergleichen.
+Dazu bringt die Bauherrschaft vor, die Architektin sei dabei zu behaften, dass sie von den anderen Planern eine Top-Qualität und keine Experimente verlangt habe. Dies habe die Bauherrin bereits in der Streitverkündungsklage vorgetragen und bewiesen. Dies sei mehr als ein gewöhnlicher Standard. Im Übrigen handle es sich bei der entsprechenden Begründung der Vorinstanz nur um eine Eventualbegründung. Ihre Hauptbegründung halte fest, die Architektin müsse sich anrechnen lassen, dass sie das mit dem Baustoff «M» und der vorgeschlagenen Konstruktion verbundene erhöhte Risiko von Beginn an gekannt habe.
+Die Kritik der Architektin am vorinstanzlichen Entscheid bleibt indessen an der Oberfläche. Insbesondere erschliesst sich aus der Anschlussberufungsschrift selbst nicht, um welches Protokoll es sich handeln soll, an dem die Bauherrschaft «Top-Qualität» und «keine Experimente» gefordert habe. Dies ergibt sich erst aus dem angefochtenen Entscheid. Ebenso erwähnt lediglich die Vorinstanz die Vorbringen der Architektin vor Vorinstanz. Auch die Überlegungen im Zusammenhang mit den Aussagen der Ingenieurin sind ungenau und enthalten weder einen Verweis auf das angefochtene Urteil noch einen Aktenhinweis. Damit sind die Ausführungen in der Anschlussberufung lediglich in allgemeiner Form gehalten, womit sich auch bei deren Berücksichtigung (Kritik an der Auslegung der Vorinstanz am Wort «Limit») nichts ändern würde. Abgesehen davon erscheint die Schlussfolgerung der Vorinstanz vertretbar, eine Konstruktion «am Limit» lasse sich offensichtlich nicht mit den von der Bauherrin an die Konstruktion gestellten hohen Anforderungen («Top-Qualität» und «keine Experimente») vereinbaren. Diese hohen Anforderungen übersteigen einen «gewöhnlichen Standard», wie die Bauherrschaft zutreffend festhielt, und sie vertragen sich – ohne weitere Abklärungen bei den Spezialisten – nicht mit der Auskunft einer Konstruktion «am Limit». Die Vorinstanz würdigte ferner die diversen Sitzungsprotokolle auch im zeitlichen Kontext ausführlich und insbesondere zutreffend. Darauf geht die Architektin nicht oder nicht in der geforderten Tiefe ein. Allgemein gehalten ist ebenso ihre Kritik über allfällige Abmahnungspflichten gegenüber der Bauherrschaft, auch wenn der allgemeinen Aussage, wo keine Aufklärungspflicht bestehe, auch keine Abmahnungspflicht gegeben sein könne, grundsätzlich zuzustimmen ist. Allerdings stellte die Vorinstanz eben gerade fest, es habe eine Informations- und Aufklärungspflicht bestanden.
+c)    In den folgenden Ausführungen zum unzulässigen Rückschluss vom Schaden auf eine Sorgfaltspflichtverletzung nimmt die Architektin wiederum nicht oder nicht konkret auf den angefochtenen Entscheid Bezug.
+Unter dem Titel «Reduktion der Aufklärungspflicht durch bauseitiges Fachwissen» bringt die Architektin zwar den Bauherrenberater und die Kenntnisse der Bauherrin ins Spiel, nimmt aber weder konkret auf den angefochtenen Entscheid Bezug noch führt sie aus, weshalb die Bauherrin über genügend Erfahrung und/oder Fachwissen verfügt habe, um die Risiken abschätzen zu können. Über welche besonderen Kenntnisse der Bauherrenberater verfügt habe, macht die Architektin ebenfalls nicht geltend. Dass dieser 22 Jahre lang Projektleiter war, ergibt sich nur aus seiner Zeugenbefragung. Im Jahr 2008, als er kurze Zeit Bauherrenberater war, war er 68 Jahre alt. Es hätte daher auch substantiiert dargelegt werden müssen, dass er damals (2008) auf dem aktuellsten Stand bezüglich des Baustoffs «M» war.
+d)    Schliesslich ist festzuhalten, dass die Ausführungen oder Schlussfolgerungen in der Anschlussberufungsbegründung ungenau oder falsch sind. Als Beispiel diene die Behauptung, die Vorinstanz habe die Klage betreffend Schaden, Kausalzusammenhang und Verschulden als offensichtlich unsubstantiiert erachtet und daher das Vorliegen eines Schadenersatzanspruchs verneint. Diese Behauptung ist schlicht aktenwidrig.
+e)    Zusammengefasst ist auf die Anschlussberufung der Architektin mangels rechtsgenüglicher Begründung nicht einzutreten; damit sind ihre Vorbringen in der Anschlussberufungsschrift nicht zu hören. Die Ausführungen der Architektin in der Anschlussberufungsreplik sind nur soweit massgeblich, als sie sich auf neue relevante Vorbringen der Bauherrin in der Anschlussberufungsantwort beziehen. Die Ausübung des Replikrechts dient nicht dazu, die bisherige Kritik zu vervollständigen oder neue vorzutragen und Unterlassenes – das heisst die konkrete Bezugnahme auf den angefochtenen Entscheid und die Angabe von Aktenstücken sowie Belegstellen – nachzuholen
+[20]
+. Letzteres ist hier aber offensichtlich der Fall.
+Obergericht, 2. Abteilung, 30. April 2020, ZBR.2019.27/28
+Eine dagegen erhobene Beschwerde ist beim Bundesgericht hängig (4A_601/2020).
+[1]
+Spühler, Basler Kommentar, 3.A., Art. 310 ZPO N. 7 ff.
+[2]
+Sterchi, Berner Kommentar, Bern 2012, Art. 311 ZPO N. 14; Reetz/Theiler, in: Kommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Hasenböhler/Leuenberger), 3.A., Art. 311 N. 34; Seiler, Die Berufung nach ZPO, Zürich/Basel/Genf 2013, N. 872;
+RBOG 2015 Nr. 15
+Erw. 2a
+[3]
+Reetz/Theiler, Art. 311 ZPO N. 36
+[4]
+BGE 142 III 417; BGE vom 6. September 2016, 5A_111/2016, Erw. 5.3; Hungerbühler/Bucher, in: Schweizerische Zivilprozessordnung (Hrsg.: Brunner/Gasser/Schwander), 2.A., Art. 311 N. 33
+[5]
+Seiler, N. 893
+[6]
+Seiler, N. 896 f.
+[7]
+Art. 55 Abs. 1 ZPO
+[8]
+BGE vom 12. Februar 2020, 5A_71/2019, Erw. 3.3.2
+[9]
+Hungerbühler/Bucher, Art. 311 ZPO N. 30 ff.
+[10]
+Seiler, N. 433
+[11]
+BGE vom 6. September 2016, 5A_111/2016, Erw. 5.3; BGE vom 21. Juni 2016, 5A_635/2015, Erw. 5.2
+[12]
+Art. 311 Abs. 1 und Art. 312 Abs. 1 ZPO
+[13]
+BGE vom 12. Februar 2020, 5A_71/2019, Erw. 3.3.2; BGE vom 8. Januar 2018, 4A_418/2017, Erw. 2.3; BGE 142 III 416 f.
+[14]
+Hungerbühler/Bucher, Art. 311 ZPO N. 39 f.
+[15]
+BGE vom 7. Februar 2013, 4A_651/2012, Erw. 4.2, mit Verweis auf BGE 138 III 375 f.;
+RBOG 2015 Nr. 15
+Erw. 2a und Fn. 170
+[16]
+BGE 142 III 417
+[17]
+Art. 42 Abs. 2 BGG
+[18]
+Seiler, N. 893
+[19]
+Spühler, Art. 311 ZPO N. 15
+[20]
+Vgl. Erw. 2.a, e und g
