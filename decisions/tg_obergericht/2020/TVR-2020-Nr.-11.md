@@ -1,0 +1,51 @@
+---
+decision_id: "tg_obergericht_TVR_2020_Nr._11"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2020 Nr. 11"
+decided: "2020-05-13"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2020-nr-11"
+---
+
+# TG Obergericht TVR 2020 Nr. 11
+
+## Regeste
+
+Zuweisung in eine Sonderschule; aufschiebende Wirkung eines Rekurses
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 13.05.2020 TVR 2020 Nr. 11
+Thurgovie Obergericht Rechenschaftsbericht 13.05.2020 TVR 2020 Nr. 11
+Turgovia Obergericht Rechenschaftsbericht 13.05.2020 TVR 2020 Nr. 11
+
+TVR 2020 Nr. 11
+Skip to main content
+Show navigation
+Zuweisung in eine Sonderschule; aufschiebende Wirkung eines Rekurses
+§ 65 a Abs. 2 VSG
+,
+§ 48 Abs. 1 VRG
+Der Entscheid des Amtes für Volksschule, mit welchem ein Schüler/eine Schülerin einer Sonderschule zugewiesen bzw. eine separative Sonderschulung angeordnet wird, stellt keine "Versetzung" im Sinne von § 65a VG dar. Folglich ist auch § 65a Abs. 2 VG nicht anwendbar, womit einem Rekurs gegen die betreffende Anordnung aufgrund von § 48 Abs. 1 VRG von Gesetzes wegen aufschiebende Wirkung zukommt.
+Aufgrund von Problemen in der Primarschule F und nach einer Gefährdungsmeldung an die KESB wurde der 10-jährige A schulpsychologisch untersucht. Mit Bericht vom 10. April 2019 wurde festgestellt, dass bei A ein Sonderschulbedarf vorliege und der Förderbedarf die Möglichkeiten der Regelschulung übersteige.
+Am 8. Juli 2019 entschied die Primarschulgemeinde F, dass keine integrative Sonderschulung von A in der Regelschule durchgeführt werde. Gegen diesen Entscheid liess A am 26. Juli 2019 Rekurs erheben.
+Mit Entscheid des Amtes für Volksschule (AV) vom 6. August 2019 wurde A der Sonderschule B zugewiesen. Auch dagegen liess A Rekurs erheben.
+Im Rekursverfahren betreffend die durch das AV verfügte Zuweisung von A in die Sonderschule B erliess das DEK am 3. September 2019 einen Zwischenentscheid. Mit diesem wies das DEK einen Antrag von A auf Einräumung der aufschiebenden Wirkung ab. Zur Begründung führte das DEK aus, dass einem Rekurs gegen den Zuweisungsentscheid aufgrund von § 65a Abs. 1 VG keine aufschiebende Wirkung zukomme. Der von A gestellte Antrag auf Erlass vorsorglicher Massnahmen (im Sinne einer Wiederbeschulung in der Regelklasse während des hängigen Rekursverfahrens) sei sinngemäss als Gesuch um Einräumung der aufschiebenden Wirkung entgegenzunehmen. Gegen diesen Zwischenentscheid liess A am 9. September 2019 Beschwerde beim Verwaltungsgericht erheben.
+Mit (End-) Entscheid vom 18. September 2019 wies das DEK den Rekurs von A gegen den Entscheid der Primarschulgemeinde F vom 8. Juli 2019, mit welchem eine integrative Sonderbeschulung in der Regelklasse abgelehnt worden war, ab. Dagegen erhob A Beschwerde beim Verwaltungsgericht. Mit einem weiteren (End-) Entscheid vom 23. September 2019 wies das DEK den gegen den Entscheid des AV vom 6. August 2019 erhobenen Rekurs betreffend Zuweisung von A in die Sonderschule B ab. Auch dieser Rekursentscheid wurde von A angefochten.
+Mit Entscheid vom 13. Mai 2020 schreibt das Verwaltungsgericht die gegen den Zwischenentscheid des DEK vom 3. September 2019 erhobene Beschwerde zufolge Gegenstandslosigkeit am Protokoll ab, soweit es darauf eintritt, wobei im Hinblick auf die Regelung der Kosten- und Entschädigungsfolgen der mutmassliche Ausgang des Beschwerdeverfahrens in materieller Hinsicht beurteilt wird.
+Aus den Erwägungen:
+3.2 Am 23. September 2019 erliess die Vorinstanz im betreffenden Rekursverfahren einen Endentscheid, mit welchem der Rekurs abgewiesen wurde (…). Nach Erlass dieses Endentscheids ist das Rechtsschutzinteresse des Beschwerdeführers an einer Beurteilung seiner gegen den Zwischenentscheid gerichteten Beschwerde entfallen. Das vorliegende Beschwerdeverfahren ist demnach - soweit darauf einzutreten ist - zufolge Gegenstandslosigkeit am Protokoll abzuschreiben (§ 52 Abs. 1 i.V. mit § 62 VRG; vgl. auch Fedi/Meyer/Müller, Kommentar zum Gesetz über die Verwaltungsrechtspflege des Kantons Thurgau, Basel 2014, § 52 N. 4).
+4.
+4.1 Allerdings ist im Hinblick auf die Regelung der Kosten- und Entschädigungsfolgen der mutmassliche Ausgang des Beschwerdeverfahrens in materieller Hinsicht zu beurteilen (vgl. Urteil des Bundesgerichts 2C_878/2019 vom 13. März 2020 E. 1.2 sowie Fedi/Meyer/Müller, a.a.O., 52 N. 6 und § 77 N. 7).
+4.2 Vorweg ist auf die strittige, formell-rechtliche Frage einzugehen, ob einem Rechtsmittel gegen den Entscheid betreffend Zuweisung eines Schülers in eine Sonderschule von Gesetzes wegen aufschiebende Wirkung zukommt oder nicht.
+4.2.1 Die Vorinstanz stellte sich im vorliegend angefochtenen Zwischenentscheid vom 3. September 2019 und im (End-)Entscheid vom 23. September 2019 (…) auf den Standpunkt, dass die Zuweisung in eine separative Sonderschulung als "Versetzung" im Sinne von § 65a Abs. 1 VG aufzufassen sei. Demnach komme einem Rekurs gegen den Zuweisungsentscheid nach § 65a Abs. 1 VG grundsätzlich keine aufschiebende Wirkung zu; die aufschiebende Wirkung könne auf Antrag hin eingeräumt werden (§ 65a Abs. 2 VG). Der Beschwerdeführer macht demgegenüber geltend, dass die Zuweisung in eine separative Sonderschule keine Versetzung im Sinne von § 65a Abs. 1 VG darstelle. Bei einer Zuweisung in eine separative Sonderschule handle es sich um eine Massnahme im Sinne von § 11a SonderschulV, bei einer Versetzung hingegen um eine disziplinarische Massnahme innerhalb der Regelschule. Entsprechend habe es - entgegen der Auffassung der Vorinstanz - auch keines Entscheides darüber bedurft, ob dem Rekurs vom 26. August 2019 aufschiebende Wirkung einzuräumen sei, da dem Rekurs von Gesetzes wegen aufschiebende Wirkung zukomme. (…)
+4.2.2 Für die Beurteilung der strittigen Frage, ob die Zuweisung des Beschwerdeführers in die Sonderschule B, das heisst in eine separative Sonderschule, als eine Massnahme - insbesondere als "Versetzung" - im Sinne von § 65a Abs. 1 VG zu qualifizieren ist, lässt sich allein aus dem Wortlaut dieser Bestimmung nichts Aussagekräftiges ableiten. Auch die Materialien geben hierzu keinen weitergehenden Aufschluss. So wurde in der Botschaft des Regierungsrates an den Grossen Rat vom 19. Februar 2008 zur Änderung des Gesetzes über die Verwaltungsrechtspflege vom 23. Februar 1981 (abrufbar in der Geschäftsdatenbank des Grossen Rates, GRGEKO, Register-Nr. 4/GE 35/425) zum neu eingeführten § 65a VG (vgl. S. 9 der Botschaft) ausgeführt, dass diese Bestimmung die sogenannten Schülerlaufbahnentscheide betreffe, also Entscheide über Aufnahme, Beförderungen, Repetitionen oder Versetzungen. Zudem seien Arbeitseinsätze und die vorübergehende Wegweisung in diese Regelung einbezogen, weil die Schule, damit ein pädagogischer Gewinn entstehen könne, auf einen baldigen Vollzug angewiesen sei. Ob auch eine Zuweisung in eine separative Sonderschule unter diese Bestimmung fällt, lässt sich weder der Botschaft noch den übrigen Materialien zu dieser Gesetzesbestimmung entnehmen. In TVR 2002 Nr. 15 wurde unter anderem festgestellt, dass der Zuteilungsentscheid, mit welchem ein Schüler (aufgrund von Auseinandersetzungen zwischen seinen Eltern und dem Hauptlehrer) einer anderen Schulgemeinde zugeteilt wurde, keine "Versetzung" im Sinne des damals geltenden VKG darstelle. Daraus liesse sich ableiten, dass auch unter dem heute geltenden VG die Zuweisung eines Schülers in eine separative Sonderschule nicht als "Versetzung" im Sinne von § 65a Abs. 1 VG zu verstehen ist. Allerdings ging es im erwähnten Entscheid aus dem Jahr 2002 um die Frage der Anfechtbarkeit des Zuteilungsentscheids beim Verwaltungsgericht (vgl. TVR 2002 Nr. 15 E. 1a). Im Kommentar zum VRG (Fedi/Meyer/Müller, a.a.O.) wird festgehalten, dass § 65a Abs. 1 VG (im Kommentar noch als "VSG" bezeichnet) insbesondere nicht anwendbar sei bei der Zuteilung eines Schülers oder einer Schülerin von einer Regel- zu einer Sonderklasse (Fedi/Meyer/Müller, a.a.O., § 48 N. 13 / FN 872). Vor diesem Hintergrund ist eher davon auszugehen, dass mit der "Versetzung" eine disziplinarische Massnahme gemeint ist, währenddem es bei der "Zuweisung" in eine separative Sonderschule gestützt auf § 11a SonderschulV nicht um eine "Versetzung" im Sinne von § 65a Abs. 1 VG geht.
+4.2.3 Gemäss § 48 Abs. 1 VRG i.V. mit § 62 VRG kommt einem Rekurs bzw. einer Beschwerde grundsätzlich aufschiebende Wirkung zu. Der Entzug der aufschiebenden Wirkung durch die anordnende Behörde stellt die Ausnahme dar; ein derartiger Entzug darf nur bei Vorliegen von besonderen Gründen erfolgen, wobei es sich um besonders qualifizierte und zwingende Gründe handeln muss, ohne dass aber für den Entzug der aufschiebenden Wirkung ganz ausserordentliche Umstände vorliegen müssen (vgl. Fedi/Meyer/Müller, a.a.O., § 48 N. 7). Daraus ist zu folgern, dass eine gesetzliche Bestimmung wie § 65a Abs. 1 VG, aufgrund welcher für bestimmte Fälle einem Rechtsmittel bereits von Gesetzes wegen keine aufschiebende Wirkung zukommen soll, als Ausnahmebestimmung eng auszulegen ist. Solche Ausnahmetatbestände müssen klar geregelt sein. Hinsichtlich der Frage, ob eine Zuweisung in eine externe Sonderschule eine "Versetzung" im Sinne von § 65a Abs. 1 VG darstellt, fehlt eine klare Regelung, weshalb eine solche Zuweisung nicht unter diese Bestimmung subsumiert werden kann. Folglich kam dem Rekurs gegen den Entscheid des verfahrensbeteiligten Amtes vom 6. August 2019 gemäss § 48 Abs. 1 VRG aufschiebende Wirkung zu, was allerdings nicht ausschliesst, dass das verfahrensbeteiligte Amt (oder gestützt auf § 48 Abs. 3 VRG die Rekursinstanz) bei gegebenen Voraussetzungen (Vorliegen besonders qualifizierter und zwingender Gründe bzw. Dringlichkeit, überwiegendes Interesse an der sofortigen Vollstreckbarkeit der Anordnung) einem Rekurs die aufschiebende Wirkung entziehen kann, was aber im Dispositiv anzuordnen und rechtsgenüglich zu begründen ist (zur Rechtslage im Kanton Zürich vgl. Entscheid des Verwaltungsgerichts des Kantons Zürich VB.2019.00693 vom 28. November 2019).
+Entscheid des Verwaltungsgerichts VG.2019.154/E vom 13. Mai 2020
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
