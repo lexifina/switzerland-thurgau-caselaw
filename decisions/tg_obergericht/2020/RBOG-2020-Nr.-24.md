@@ -1,0 +1,109 @@
+---
+decision_id: "tg_obergericht_RBOG_2020_Nr._24"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2020 Nr. 24"
+docket_2: "SW.2020.39"
+decided: "2020-06-04"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/8A889BB3-0C4F-17AE-8D05C4EDCF3A5DC5.html"
+cites_law: ["switzerland/bund/acts/220/art-068.md", "switzerland/bund/acts/220/art-398.md", "switzerland/bund/acts/312.0/art-133.md", "switzerland/bund/acts/312.0/art-134.md", "switzerland/bund/acts/312.0/art-135.md"]
+---
+
+# TG Obergericht RBOG 2020 Nr. 24
+
+## Regeste
+
+Rechtsanwalt X ist nicht ein Beauftragter, der den Auftrag an Rechtsanwalt Y weitergibt, sondern er ist gegenüber Rechtsanwalt Y Auftraggeber und wird durch diesen vertreten. d) Rechtsanwalt Y, dessen Tätigkeit mit der geforderten Entschädigung abgegolten werden soll, ist hingegen nicht Partei dieses Beschwerdeverfahrens, und in Bezug auf das Honorar von Rechtsanwalt Y wäre Rechtsanwalt X nicht beschwerdelegitimiert.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 04.06.2020 RBOG 2020 Nr. 24 (SW.2020.39)
+Thurgovie Obergericht Rechenschaftsbericht 04.06.2020 RBOG 2020 Nr. 24 (SW.2020.39)
+Turgovia Obergericht Rechenschaftsbericht 04.06.2020 RBOG 2020 Nr. 24 (SW.2020.39)
+
+Rechtsanwalt X ist nicht ein Beauftragter, der den Auftrag an Rechtsanwalt Y weitergibt, sondern er ist gegenüber Rechtsanwalt Y Auftraggeber und wird durch diesen vertreten. d) Rechtsanwalt Y, dessen Tätigkeit mit der geforderten Entschädigung abgegolten werden soll, ist hingegen nicht Partei dieses Beschwerdeverfahrens, und in Bezug auf das Honorar von Rechtsanwalt Y wäre Rechtsanwalt X nicht beschwerdelegitimiert.
+
+RBOG 2020 Nr. 24
+RBOG 2020 Nr. 24
+Keine eigenmächtige Übertragung der amtlichen Verteidigung
+(Art. 132 f. StPO; Art. 398 Abs. 3, 68 OR)
+1.    a)    Das Bezirksgericht sprach den Beschuldigten (amtlich verteidigt durch Rechtsanwalt X, dieser substituiert durch Rechtsanwalt Y) der qualifiziert groben Verletzung der Verkehrsregeln schuldig und verurteilte ihn zu einer bedingten Freiheitsstrafe sowie zu einer Busse. Der amtliche Verteidiger wurde einschliesslich Barauslagen und Mehrwertsteuer, abzüglich der von der Staatsanwaltschaft bereits ausbezahlten Summe, aus der Staatskasse entschädigt.
+b)    Rechtsanwalt X, substituiert durch Rechtsanwalt Y, erhob Beschwerde gegen die Festsetzung des Honorars.
+2.    a)    Die Rechtsmittellegitimation von Rechtsanwalt X als amtlicher Verteidiger hinsichtlich der Festsetzung seines Honorars ergibt sich aus Art. 135 Abs. 3 lit. a StPO. Danach steht der amtlichen Verteidigung gegen den Entschädigungsentscheid die Beschwerde in eigenem Namen offen
+[1]
+.
+b)    Beschwerdegegenstand ist somit die Höhe des Honorars von Rechtsanwalt X als amtlicher Verteidiger. Weil Rechtsanwalt X nicht als amtlicher Verteidiger für den Beschuldigten Beschwerde führt, sondern um seinen eigenen Anspruch streitet und selber Partei ist, kann er sich im Beschwerdeverfahren durch einen anderen Rechtsanwalt vertreten lassen. Eine Substitution, also eine Übertragung eines übernommenen Auftrags durch den Beauftragten an einen Dritten
+[2]
+, ist indessen begrifflich nicht möglich, da es nicht um einen von Rechtsanwalt X übernommenen Auftrag geht, sondern um seinen eigenen Anspruch. Rechtsanwalt X ist nicht ein Beauftragter, der den Auftrag an Rechtsanwalt Y weitergibt, sondern er ist gegenüber Rechtsanwalt Y Auftraggeber und wird durch diesen vertreten.
+3.    Zu prüfen ist indessen die Substitution von Rechtsanwalt X durch Rechtsanwalt Y im Verfahren vor der Vorinstanz.
+a)    aa)  Rechtsanwalt X nahm am 26. Januar 2019 als Pikettverteidiger an der delegierten polizeilichen Einvernahme des Beschuldigten teil und erhielt am 14. Mai 2019 die Parteimitteilung der Staatsanwaltschaft. Am 27. Mai 2019 meldete sich Rechtsanwalt X bei der Staatsanwaltschaft, dankte für die Parteimitteilung vom 14. Mai 2019 und teilte mit, nach seiner Verbeiständung des Beschuldigten am 26. Januar 2019 als Pikettverteidiger habe er nichts mehr gehört. Der Beschuldigte sei wohl notwendig zu verteidigen. Weiter ersuchte er um Akteneinsicht und um Erstreckung der Frist für allfällige Beweisanträge. Mit Verfügung vom 29. Mai 2019 setzte die Staatsanwaltschaft Rechtsanwalt X in Anwendung von Art. 132 i.V.m. Art. 133 StPO mit Wirkung ab 26. Januar 2019 als amtlichen Verteidiger des Beschuldigten ein. Beweisanträge stellte Rechtsanwalt X innert erstreckter Frist nicht. Am 4. September 2019 nahm Rechtsanwalt X an der staatsanwaltschaftlichen Einvernahme des Beschuldigten teil. Am 11. Oktober 2019 erging die Anklageschrift an das Bezirksgericht mit Kopie an Rechtsanwalt X.
+bb)  Am 28. Oktober 2019 eröffnete die Vizepräsidentin des Bezirksgerichts den Parteien Frist, um die Abnahme weiterer Beweise zu beantragen und zu begründen. Am 15. November 2019 teilte Rechtsanwalt Y dem Bezirksgericht mit, da «Kollege X» sich unter immenser Arbeitsbelastung befinde, werde er «Kollege X» im vorliegenden Verfahren substituieren. Er bitte, davon Vormerk zu nehmen. Mit Schreiben vom 18. November 2019 teilte die Vizepräsidentin des Bezirksgerichts mit, sie nehme davon Vormerk, dass Rechtsanwalt Y «Kollege X» substituiere. In der Folge wurde der Beschuldigte durch Rechtsanwalt Y verteidigt.
+cc)  Es fand also ein Verteidigerwechsel statt; dass der Wechsel zwischen zwei Anwälten aus dem gleichen Anwaltsbüro erfolgte, ist nicht von Belang.
+b)    aa)  Der Begriff der Substitution ist ein Begriff, der im Zusammenhang mit der Möglichkeit von Leistungen durch Dritte verwendet wird. Der Schuldner überträgt die Leistungsabwicklung dem Dritten und wird selber nicht mehr tätig; in der Regel ist der Substitut in der «Organisation» der Leistungserbringung selbstständig
+[3]
+. Die Möglichkeit der Substitution ergibt sich aus der widerlegbaren gesetzlichen Vermutung von Art. 68 OR, dass der Schuldner nur dann verpflichtet ist, persönlich zu erfüllen, wenn es bei der Leistung auf seine Persönlichkeit ankommt
+[4]
+. In Abweichung zu dieser gesetzlichen Vermutung hat der Beauftragte gemäss Art. 398 Abs. 3 OR das Geschäft persönlich zu besorgen, ausgenommen, wenn er zur Übertragung an einen Dritten ermächtigt oder durch die Umstände genötigt ist, oder wenn eine Vertretung übungsgemäss als zulässig betrachtet wird. Diese auftragsrechtliche gesetzliche Vermutung bleibt unter anderem für den Anwaltsvertrag unwiderlegt
+[5]
+. Rechtsanwälte lassen sich deshalb in der Regel routinemässig durch eine entsprechende Vertragsklausel durch den Mandanten zur Substitution ermächtigen.
+bb)  Die von Rechtsanwalt X im Beschwerdeverfahren eingereichte Vereinbarung «Auftrag und Vollmacht» enthält nicht nur eine Substitutionsklausel für die Rechtsanwältinnen und Rechtsanwälte des Anwaltsbüros von Rechtsanwalt X. Vielmehr beauftragte der Beschuldigte sowohl Rechtanwalt X als auch Rechtsanwalt Y. Auftragsrechtlich stünde somit einer Substitution nichts im Weg, und im Rahmen einer Wahlverteidigung läge kein Problem vor.
+c)    aa)  Indessen geht es hier nicht um ein auftragsrechtlich geschuldetes Honorar, sondern um die Entschädigung des amtlichen Verteidigers. Der amtliche Anwalt erfüllt eine staatliche Aufgabe, welche durch das kantonale öffentliche Recht geregelt wird. Mit seiner Einsetzung entsteht zwischen ihm und dem Staat ein besonderes Rechtsverhältnis. Gestützt darauf hat der Anwalt eine öffentlich-rechtliche Forderung gegen den Staat auf Entschädigung im Rahmen der anwendbaren kantonalen Bestimmungen
+[6]
+. Die Ernennung zum amtlichen Verteidiger gilt für die eingesetzte Person, nicht für irgendwelche andere Anwälte, auch nicht für Büropartner
+[7]
+.
+bb)  Eine einmal bestellte amtliche Verteidigung kann vor Ende des Verfahrens nur auf zwei Arten beendet werden
+[8]
+: Fällt der Grund für die amtliche Verteidigung dahin, so widerruft die Verfahrensleitung das Mandat
+[9]
+. Ist das Vertrauensverhältnis zwischen der beschuldigten Partei und ihrer amtlichen Verteidigung erheblich gestört oder eine wirksame Verteidigung aus anderen Gründen nicht mehr gewährleistet, so überträgt die Verfahrensleitung die amtliche Verteidigung einer anderen Person
+[10]
+. Widerruf und Wechsel der amtlichen Verteidigung sind somit nur durch die Verfahrensleitung möglich. Die Kompetenz für einen Wechsel der amtlichen Verteidigung liegt bei der Verfahrensleitung, nicht beim eingesetzten amtlichen Verteidiger
+[11]
+.
+d)    aa)  Weder war somit Rechtsanwalt X befugt, sich als amtlicher Verteidiger durch Rechtsanwalt Y substituieren zu lassen, noch war Rechtsanwalt Y befugt, dem Bezirksgericht mitzuteilen, er werde den amtlichen Verteidiger im vorliegenden Verfahren substituieren
+[12]
+.
+bb)  Rechtsanwalt X, der eingesetzte amtliche Verteidiger, hätte vielmehr gemäss den gesetzlichen Vorgaben ein formelles, begründetes Gesuch um Entlassung als amtlicher Verteidiger stellen müssen. Er hätte konkret darlegen müssen, dass eine wirksame Verteidigung wegen seiner «immensen Arbeitsbelastung» nicht mehr gewährleistet sei. Dabei wäre es ihm unbenommen gewesen, Rechtsanwalt Y als neuen amtlichen Verteidiger vorzuschlagen. Dieses Gesuch hätte danach die Verfahrensleitung – in jenem Verfahrensstadium war das nicht mehr der verfahrensleitende Staatsanwalt, sondern die verfahrensleitende Vizepräsidentin des Bezirksgerichts – auf seine Stichhaltigkeit prüfen und beurteilen müssen. Danach wäre Rechtsanwalt X entweder im Amt verblieben, oder es wäre ein neuer amtlicher Verteidiger ernannt worden.
+e)    aa)  Nichts ableiten kann Rechtsanwalt X aus dem Schreiben der Vizepräsidentin des Bezirksgerichts an Rechtsanwalt Y, es werde davon Vormerk genommen, dass er «Kollege X» substituiere.
+bb)  Es könnte zwar argumentiert werden, mit dem Schreiben hätten die beiden Anwälte von einer zumindest stillschweigenden Bewilligung des Wechsels in der amtlichen Verteidigung ausgehen können. Allerdings darf von Strafverteidigern erwartet werden, dass sie die gesetzlichen Regelungen rund um die amtliche Verteidigung kennen. Dies gilt erst recht für einen erfahrenen Strafverteidiger wie Rechtsanwalt X; diesem musste klar sein, dass es nicht in seiner Kompetenz liegt, die amtliche Verteidigung wie eine Wahlverteidigung an seinen Büropartner zu übertragen und diese Übertragung mit der Bitte um Vormerknahme durch den Büropartner bewerkstelligen zu lassen.
+cc)  Die Bitte um Vormerknahme und die Vormerknahme lassen sich zudem nicht als ein Gesuch und die Bewilligung eines Gesuchs qualifizieren. Die Bitte um Vormerknahme ist kein Antrag, sondern eine blosse, höfliche Mitteilung. Über eine Bitte um Vormerknahme muss denn auch, anders als über einen begründeten Antrag, nicht formell und begründet entschieden werden.
+4.    a)    Zusammengefasst erfolgte eine eigenmächtige und damit unzulässige Übertragung der amtlichen Verteidigung durch den eingesetzten amtlichen Verteidiger auf Rechtsanwalt Y. Anders als eine Wahlverteidigung kann eine amtliche Verteidigung nicht einfach «bürointern» übertragen werden. Um eine Substitution durch einen Anwaltspraktikanten beziehungsweise eine Anwaltssubstitutin im Sinn von § 13 AnwG
+[13]
+kann es sich sodann nicht handeln, da Rechtsanwalt Y patentierter Anwalt ist, nicht Anwaltspraktikant. Diese Substitutionsmöglichkeit ist nur im vorgesehenen, eng umschriebenen gesetzlichen Umfang zu Ausbildungszwecken möglich
+[14]
+.
+b)    Mangels formell gültiger Einsetzung als amtlicher Verteidiger hat Rechtsanwalt Y für seine Tätigkeit grundsätzlich keine Ansprüche gegenüber dem Staat. Vielmehr müsste er sich an seinen Mandanten halten, von dem er formell korrekt beauftragt wurde.
+c)    Selbst wenn man zugunsten von Rechtsanwalt X von einer Bewilligung eines Wechsels in der amtlichen Verteidigung (von Rechtsanwalt X zu Rechtsanwalt Y) ausgehen würde, könnte Rechtsanwalt X daraus materiell nichts zu seinen Gunsten ableiten, denn sein Aufwand als amtlicher Verteidiger ist mit dem zugesprochenen Betrag bereits mehr als gedeckt.
+d)    Rechtsanwalt Y, dessen Tätigkeit mit der geforderten Entschädigung abgegolten werden soll, ist hingegen nicht Partei dieses Beschwerdeverfahrens, und in Bezug auf das Honorar von Rechtsanwalt Y wäre Rechtsanwalt X nicht beschwerdelegitimiert.
+5.    Zusammengefasst ist die Beschwerde abzuweisen, soweit auf sie einzutreten ist.
+Obergericht, 2. Abteilung, 4. Juni 2020, SW.2020.39
+[1]
+BGE 140 IV 215 f., 139 IV 202
+[2]
+Art. 398 Abs. 3 OR; Oser/Weber, Basler Kommentar, 7.A., Art. 398 OR N. 2; Weber, Berner Kommentar, 2.A., Art. 68 OR N. 37
+[3]
+Weber, Art. 68 OR N. 37
+[4]
+Schroeter, Basler Kommentar, 7.A., Art. 68 OR N. 6
+[5]
+Schroeter, Art. 68 OR N. 16; Gauch/Schluep/Schmid/Emmenegger, Schweizerisches Obligationenrecht, AT II, 10.A., N. 2042
+[6]
+BGE 141 I 124
+[7]
+Ruckstuhl, Basler Kommentar, 2.A., Art. 133 StPO N. 4d
+[8]
+Vgl. BGE vom 22. Juli 2013, 1B_110/2013, Erw. 5.1.3
+[9]
+Art. 134 Abs. 1 StPO
+[10]
+Art. 134 Abs. 2 StPO
+[11]
+Lieber, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Hansjakob/Lieber), 2.A., Art. 134 N. 11
+[12]
+Anders wie dargelegt bei einer Wahlverteidigung als Auftrag, wo eine Substitution als Ausnahme im Rahmen von Art. 398 Abs. 3 OR möglich ist.
+[13]
+Anwaltsgesetz, RB 176.1
+[14]
+§ 63 Abs. 2 und 3 ZSRV
