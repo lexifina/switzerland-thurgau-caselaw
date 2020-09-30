@@ -1,0 +1,82 @@
+---
+decision_id: "tg_obergericht_TVR_2020_Nr._24"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2020 Nr. 24"
+decided: "2020-09-30"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2020-nr-24"
+cites_law: ["switzerland/bund/acts/220/art-725.md", "switzerland/bund/acts/814.01/art-032d.md"]
+---
+
+# TG Obergericht TVR 2020 Nr. 24
+
+## Regeste
+
+Sicherstellung der Kosten für Untersuchung, Überwachung und Sanierung eines belasteten Standorts
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 30.09.2020 TVR 2020 Nr. 24
+Thurgovie Obergericht Rechenschaftsbericht 30.09.2020 TVR 2020 Nr. 24
+Turgovia Obergericht Rechenschaftsbericht 30.09.2020 TVR 2020 Nr. 24
+
+TVR 2020 Nr. 24
+Skip to main content
+Show navigation
+Sicherstellung der Kosten für Untersuchung, Überwachung und Sanierung eines belasteten Standorts
+Art. 32 d Abs. 1 bis USG
+1. Eine Verpflichtung zur Sicherstellung der Kosten nach Art. 32dbis Abs. 1 USG setzt das Vorliegen eines Begünstigten, eines Sicherstellenden und eines belasteten Standortes mit erwartungsgemäss schädlichen oder lästigen Einwirkungen voraus (E. 3.2).
+2. Weiter wird - obschon dies der Gesetzestext nicht ausdrücklich verlangt - ein Ausfallrisiko vorausgesetzt (E. 3.4).
+3. Die Höhe der Sicherstellung muss dem Verhältnismässigkeitsprinzip entsprechen. Daher ist es nicht möglich, sich von vornherein auf ein Worst-case-Szenario zu stützen bzw. die höchstmögliche Summe für eine Sanierung zu fordern. Demzufolge muss die Höhe der Sicherstellung entsprechend den voraussichtlichen Kosten festgesetzt werden, die gemäss Kenntnisstand und auf der Grundlage vergleichbarer Fälle aufgestellt werden. Die Behörde muss die Höhe der Kosten der erforderlichen Massnahmen anhand einer nachvollziehbaren Schätzung plausibel darlegen. Allerdings sind an derartige Schätzungen in einem frühen Stadium keine allzu hohen Forderungen zu stellen, da dies dem Zweck der Sicherstellung zuwiderlaufen würde. Dazu kommt, dass letztlich die effektiven Sanierungskosten massgebend sein werden, welche im Zeitpunkt des Entscheids über die Sicherstellung in der Regel noch nicht bekannt sind. Bei neuen Erkenntnissen betreffend die mutmasslichen Kosten ist die Sicherheitsleistung gegebenenfalls anzupassen (E. 4).
+Die A AG ist Eigentümerin der Liegenschaft Nr. XX. Ursprünglich befand sich die Liegenschaft im Eigentum der B AG, welche später mit der A AG fusionierte. Der Standort Register-Nr. ZZZ auf der Liegenschaft Nr. XX ist mit prioritärem Untersuchungsbedarf im Kataster der belasteten Standorte (KbS) des Kantons Thurgau eingetragen. Gemäss einer historischen Untersuchung aus dem Jahr 2014 erfolgte in den 80er-Jahren eine Kontamination des Erdreichs und des Grundwassers. Mit Entscheid vom 14. März 2018 verpflichtete das AfU die B AG zur Sicherstellung von 100% der Kosten für notwendige Massnahmen zur Untersuchung, Überwachung und Sanierung des KbS-Standorts im Umfang von Fr. 2'500'000.--. Die B AG wurde aufgefordert, eine unwiderrufliche Zahlungsverpflichtung für die Dauer von mindestens fünf Jahren vorzulegen. Dabei wurde festgehalten, die B AG müsse als Zustands- und Verhaltensstörerin voraussichtlich sämtliche für altlastenrechtlich notwendige Massnahmen anfallenden Kosten übernehmen und es bestünden Anhaltspunkte für ein Ausfallrisiko.
+Gegen diesen Entscheid liess die B AG Rekurs erheben. Aufgrund von Verkaufsverhandlungen wurde das Rekursverfahren mehrfach formlos sistiert. Mit Amtsbericht vom 4. Dezember 2019 hielt die Finanzverwaltung des Kantons Thurgau auf Anfrage des DBU unter anderem fest, dass anhand der vorhandenen Unterlagen von einer Zahlungsunfähigkeit der B AG auszugehen sei. In der Folge übernahm die A AG sämtliche Aktiven und Passiven der B AG, welche daraufhin im Handelsregister gelöscht wurde.
+Am 6. April 2020 wies das DBU den Rekurs ab. Dagegen erhob die A AG Beschwerde, welche vom Verwaltungsgericht ebenfalls abgewiesen wird.
+Aus den Erwägungen:
+3.
+3.1 In materieller Hinsicht ist strittig, ob die durch das verfahrensbeteiligte Amt mit Entscheid vom 14. März 2018 von der Beschwerdeführerin verlangte Sicherstellung der Kosten für notwendige Massnahmen zur Untersuchung, Überwachung und Sanierung der Liegenschaft Nr. XX im Umfang von Fr. 2'500'000.-- recht- und verhältnismässig ist.
+3.2
+3.2.1 Gemäss Art. 32d Abs. 1 USG trägt der Verursacher die Kosten für notwendige Massnahmen zur Untersuchung, Überwachung und Sanierung belasteter Standorte. Das zuständige Gemeinwesen trägt den Kostenanteil der Verursacher, die nicht ermittelt werden können oder zahlungsunfähig sind (Art. 32d Abs. 3 USG). Zahlungsunfähig gilt nach Lehre und Rechtsprechung, wer weder über die Mittel zur Erfüllung fälliger Verbindlichkeiten noch über den Kredit zur Beschaffung solcher Mittel verfügt (vgl. Griffel/Rausch, Kommentar zum Umweltschutzgesetz, Ergänzungsband zur 2. Aufl., Zürich/Basel/Genf 2011, Art. 32d N. 14 mit Hinweis auf BGE 111 II 206).
+3.2.2 Gemäss Art. 32d
+bis
+Abs. 1 USG kann die Behörde vom Verursacher verlangen, die Deckung seines voraussichtlichen Anteils an den Kosten für Untersuchung, Überwachung und Sanierung in geeigneter Form sicherzustellen, wenn von einem belasteten Standort schädliche oder lästige Einwirkungen zu erwarten sind. Art. 32d
+bis
+Abs. 1 USG setzt das Vorliegen eines Begünstigten, eines Sicherstellenden und eines belasteten Standortes mit erwartungsgemäss schädlichen oder lästigen Einwirkungen voraus. Weiter wird - obschon dies der Gesetzestext nicht ausdrücklich verlangt - ein Ausfallrisiko vorausgesetzt. Die Höhe der Sicherstellung muss dem Verhältnismässigkeitsprinzip entsprechen. Daher ist es nicht möglich, sich von vornherein auf ein Worst-case-Szenario zu stützen bzw. die höchstmögliche Summe für eine Sanierung zu fordern. Demzufolge muss die Höhe der Sicherstellung entsprechend den voraussichtlichen Kosten festgesetzt werden, die gemäss Kenntnisstand und auf der Grundlage vergleichbarer Fälle aufgestellt werden. Die Behörde muss die Höhe der Kosten der erforderlichen Massnahmen anhand einer nachvollziehbaren Schätzung plausibel darlegen. Sofern sich die Umstände ändern, muss die Sicherstellung an diese angepasst werden (vgl. Romy/Zufferey, Sicherstellung der Deckung der Ausfallkosten, Erklärungen und Anmerkungen zu Art. 32d
+bis
+Abs. 1 und 2 USG, Zürich/Freiburg 2014, S. 11 ff., [Studie im Auftrag des Bundesamtes für Umwelt BAFU, abrufbar unter https://www.bafu.admin.ch/bafu/de/home/themen/alt­lasten/fachinformationen/altlastenfinanzierung.html, "Weiterführende Informationen/ Dokumente"], vgl. auch Urteil des Bundesgerichts 1C_17/2019 vom 29. Juli 2019 E. 3.2 und Entscheid des Verwaltungsgerichts des Kantons Zürich VB.2018.00144 vom 15. November 2018 E. 4.2 sowie Entscheid des Baurekursgerichts Zürich BRGE II Nr. 0013/2018 vom 6. Februar 2018, in: BEZ 2019 Nr. 28).
+3.2.3 Art. 32d
+bis
+Abs. 1 USG schreibt keine Form der Sicherstellung vor. Verlangt wird lediglich eine Sicherstellung "in geeigneter Form ". Denkbar ist eine Sicherstellung durch Versicherung, Bankgarantie oder in anderer, gleichwertiger Form wie beispielsweise die Hinterlegung einer Kaution (vgl. Bericht der Kommission für Umwelt, Raumplanung und Energie des Ständerates zur Parlamentarischen Initiative "Haftung der Unternehmen für die Kosten der Altlastensanierung", in: BBl 2012 9391, S. 939, Ziff. 3.1.1). Den Behörden kommt damit ein gewisser Ermessenspielraum zu. Zu bevorzugen ist eine Sicherstellung, die sich durch die Merkmale "solidarisch" und "unabhängig" auszeichnet. Die Behörde muss im Einzelfall prüfen, welche Sicherstellung für die gegebenen Umstände am meisten geeignet ist. Bei der Wahl der Form der Sicherstellung hat sie zudem den Grundsatz der Verhältnismässigkeit anzuwenden. Eine staatliche Massnahme ist verhältnismässig, wenn sie zur Erreichung des im öffentlichen Interesse stehenden Ziels geeignet, erforderlich und zumutbar ist. Danach hat die Behörde diejenige Form der Sicherstellung zu bestimmen, die einerseits für den Betroffenen am wenigsten einschneidend ist und andererseits das festgestellte wirtschaftliche Risiko vollumfänglich abdeckt (vgl. Romy/Zufferey, a.a.O., S. 20 ff.).
+3.3 (…)
+3.4 Folglich kann eine Sicherstellung vorliegend nur dann verfügt werden, wenn die Beschwerdeführerin als zahlungsunfähig im Sinne von 32d
+bis
+USG betrachtet werden muss. Als zahlungsunfähig gilt, wer weder über die Mittel zur Erfüllung finanzieller Verbindlichkeiten noch über den Kredit zur Beschaffung solcher Mittel verfügt. Zahlungsunfähig gemäss 32d
+bis
+USG bedeutet also nicht (nur) Überschuldung im Sinne von Art. 725 OR (vgl. hierzu Romy/Zufferey, a.a.O., S. 8 ff.). Es wird dabei auch nicht an einen bestimmten Status im Verfahren nach dem SchKG angeknüpft. Der Begriff der Zahlungsunfähigkeit im vorliegend massgeblichen Sinne setzt das während unbestimmter Zeit bestehende tatsächliche Unvermögen voraus, seinen finanziellen Verpflichtungen nachzukommen. Vorübergehende Liquiditätsengpässe sind nicht massgeblich. Die Überschuldung muss sich vielmehr darin ausdrücken, dass die Aktiven des Inhabers es nicht mehr erlauben, alle Forderungen der Gläubiger zu decken, soweit sie fällig sind oder mit grosser Wahrscheinlichkeit in naher Zukunft fällig werden (vgl. Rausch, Kommentar zum Umweltschutzgesetz, 2. Aufl., Zürich/Basel/ Genf 2004, Art. 32 N 26, sowie Griffel/Rausch, a.a.O., Art. 32d N. 14).
+3.4.1 Mit Bezug auf die finanzielle Situation der B AG als Rechtsvorgängerin der Beschwerdeführerin gilt es zu berücksichtigen, dass vormals auch eine Stilllegung der Gesellschaft zur Diskussion gestanden hatte, wobei das Unternehmen vor 2016 offenbar hohe Verluste schrieb (Jahresverlust 2015: Fr. 411'360.82, Verlustvortrag per Ende 2016: Fr. 7'583'191.27). Auffallend ist auch, dass im Anhang zur Jahresrechnung 2016 für Sanierungsmassnahmen Eventualverbindlichkeiten von Fr. 3'000'000.-- aufgeführt werden, wobei unklar ist und nicht erläutert wird, wie diese Verbindlichkeiten dereinst finanziert bzw. gedeckt werden sollen. Auch mit Blick auf die Stilllegungsvarianten wird dies nicht klar. Bei der berechneten Variante würde ein hoher Verlust resultieren. Zudem bestand per Ende 2016 eine Überschuldung im Sinne von Art. 725 OR. Daran änderte sich per Ende 2018 nichts. Für das Jahr 2018 wurde ein massiver Bilanzverlust von weit über Fr. 8'000'000.-- festgestellt und ein deutlich negatives Eigenkapital ausgewiesen (…).
+3.4.2 Im Zusammenhang mit der Zahlungsfähigkeit der Beschwerdeführerin ist die Finanzverwaltung des Kantons Thurgau am 4. Dezember 2019 davon ausgegangen, dass auch nach der Fusion der Beschwerdeführerin mit der B AG keine Verbesserung der finanziellen Verhältnisse eingetreten ist. Die liquiden Mittel und das Umlaufvermögen müssen als relativ bescheiden bezeichnet werden. Dagegen verfügt die Beschwerdeführerin über Liegenschaften in relativ erheblichem Umfang, wobei deren Belastung unklar ist. Unklar ist auch, ob die bestehenden stillen Reserven aktiviert wurden bzw. werden können. Aufgrund der Beurteilung durch die Finanzverwaltung ist eher nicht davon auszugehen. Ausserdem ist offenbar lediglich möglich, dass die Beschwerdeführerin ihren finanziellen Verpflichtungen inskünftig nachkommen kann. Die Finanzverwaltung hat klar festgehalten, dass auch nach der Fusion nicht genügend Mittel vorlägen, um die Sicherstellungssumme zu gewährleisten, weshalb empfohlen wurde, eine Bankgarantie einzufordern.
+3.4.3 Aufgrund der aktuellen finanziellen Situation ist davon auszugehen, dass die laufenden Kosten für die Detailuntersuchung gedeckt werden können bzw. konnten. Unklar ist aber nach wie vor, wie die Beschwerdeführerin inskünftig die anfallenden Sanierungskosten zu decken gedenkt. Dies wird von ihr auch im Rahmen des vorliegenden Rechtsmittelverfahrens nicht dargelegt. Eine Kreditaufnahme dürfte schwierig sein. Es ist auch nicht auszuschliessen, dass die Beschwerdeführerin einen Teil ihrer Liegenschaften verkaufen muss, um dereinst die Sanierung überhaupt finanzieren zu können, wobei sich weder aus den Akten ergibt noch von der Beschwerdeführerin nachvollziehbar dargelegt wird, in welchem Umfang diese Liegenschaften bereits belehnt sind und wie hoch ein allfälliger Erlös erzielt werden könnte.
+3.4.4 Aufgrund der aktuellen finanziellen Verhältnisse der Beschwerdeführerin und der Beurteilung der Finanzverwaltung ist davon auszugehen, dass die Beschwerdeführerin mit Blick auf die anstehenden Massnahmen betreffend die Sanierung der Liegenschaft Nr. XX zahlungsunfähig im Sinne von Art. 32d
+bis
+USG ist. Jedenfalls ist unklar, wie dereinst die Sanierungskosten finanziert werden sollen. Daran ändert auch nichts, dass die Beschwerdeführerin bislang die Untersuchungskosten übernommen hat, wobei die Untersuchungskosten im Verhältnis zu den mutmasslichen Sanierungskosten beinahe vernachlässigbar sind. (…)
+3.5 Im Sinne eines Zwischenergebnisses ist festzuhalten, dass seitens der Beschwerdeführerin eine Zahlungsunfähigkeit im Sinne von Art. 32d
+bis
+USG vorliegt und die Voraussetzungen für eine Sicherstellung erfüllt sind, und zwar ungeachtet dessen, dass die Beschwerdeführerin kooperiert und ihr kein böser Wille unterstellt werden kann.
+4.
+4.1 Strittig und zu prüfen ist weiter, ob die verlangte Sicherheit in Höhe von Fr. 2'500'000.-- (betragsmässig) recht- bzw. verhältnismässig ist.
+4.2 Der vom verfahrensbeteiligten Amt festgelegte Betrag von Fr. 2'500'000.-- basiert auf folgender Schätzung: Von der Gesamtfläche der Liegenschaft Nr. XX von insgesamt rund 19'000 m
+2
+müssen voraussichtlich 8'000 m
+2
+saniert werden. Aufgrund der Erfahrungen des verfahrensbeteiligten Amtes dürften hierfür pro m
+2
+Fr. 300.-- anfallen, was einem Betrag von Fr. 2'400'000.-- entspricht. Dazu kommen zusätzliche Kosten für Untersuchungen im Umfang von Fr. 100'000.--. Dies führt zum Gesamtbetrag von Fr. 2'500'000.-- (…).
+4.3 Gemäss Lehre und Rechtsprechung ist eine nachvollziehbare Schätzung der Sicherheitsleistung erforderlich (vgl. E. 3.2.2 vorstehend). Zwar erscheint die Schätzung des verfahrensbeteiligten Amtes relativ pauschal. Zu beachten ist jedoch, dass an derartige Schätzungen in einem frühen Stadium keine allzu hohen Forderungen gestellt werden, da dies dem Zweck der Sicherstellung zuwiderlaufen würde. Dazu kommt, dass letztlich die effektiven Sanierungskosten massgebend sein werden, welche derzeit noch nicht bekannt sind. Bei neuen Erkenntnissen betreffend die mutmasslichen Kosten ist die Sicherheitsleistung gegebenenfalls anzupassen (vgl. Urteil des Bundesgerichts 1C_17/2019 vom 29. Juli 2019 E. 3.2). Die Beschwerdeführerin hat in keiner Weise dargetan, inwiefern die Schätzung des verfahrensbeteiligten Amtes falsch sein soll. Mit Eingabe vom 13. August 2020 reichte das verfahrensbeteiligte Amt die Detailuntersuchung der Firma F vom 31. Juli 2020 ein. Dieser Detailuntersuchung kann entnommen werden, dass für den betreffenden KbS-Standort ein Sanierungsbedarf bezüglich des Schadstoffs Q vorliegt. Aktuell ist der Standort aufgrund von fünf Grundwasserpumpen offenbar gesichert. Zudem ist seit Juni 2020 eine neue Reinigungsanlage installiert. Die Ableitung des Schadstoffs Q genügt allerdings für eine Sanierung innert einer bis zwei Generationen nicht. Die Sanierungsdringlichkeit ist klein. Die Sanierung kann im Zusammenhang mit einem Bauvorhaben durchgeführt werden. Die Gesamtkosten für eine Totalsanierung liegen gemäss Detailuntersuchung bei ungefähr Fr. 3'000'000.-- ohne Mehrwertsteuer. Bei einer Totalsanierung im Rahmen eines Bauprojekts dürften bauseitige Ohnehinkosten von ca. Fr. 400'000.-- bis Fr. 500'000.-- wegfallen (…).
+4.4 Aufgrund der Detailuntersuchung ergibt sich, dass die Schätzung des verfahrensbeteiligten Amtes nicht zu beanstanden ist. Dieses ging mithin auch nicht von einem Worst-case-Szenario aus. Der festgelegte sicherzustellende Betrag von Fr. 2'500'000.-- erweist sich als angemessen. Es ist davon auszugehen, dass die Gesamtkosten für eine Sanierung mit Fr. 3'000'000.-- sogar deutlich über diesem Betrag liegen. Werden dagegen Ohnehinkosten abgezogen, wenn die Sanierung im Rahmen einer Arealentwicklung erfolgt, dann dürften die Sanierungskosten ungefähr dem sicherzustellenden Betrag entsprechen.
+Entscheid des Verwaltungsgerichts VG.2020.52/E vom 30. September 2020
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
