@@ -1,0 +1,70 @@
+---
+decision_id: "tg_obergericht_RBOG_2020_Nr._21"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2020 Nr. 21"
+docket_2: "SW.2020.106"
+decided: "2020-10-22"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/7AAD6AC3-CF56-DA2E-E5EE6436446BCBB2.html"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/311.0/art-054.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/311.0/art-303.md", "switzerland/bund/acts/312.0/art-002.md", "switzerland/bund/acts/312.0/art-319.md"]
+---
+
+# TG Obergericht RBOG 2020 Nr. 21
+
+## Regeste
+
+b) Die Beschwerdegegnerin hatte davor bereits Strafanzeige gegen den Beschwerdeführer wegen sexueller Belästigung erstattet. Der Vorwurf der Beschwerdegegnerin an den Beschwerdeführer, sie sexuell belästigt zu haben, ist ehrverletzend, ebenso die Weiterverbreitung dieses Vorwurfs; entscheidend ist somit ein allfälliger Entlastungsbeweis[3]. Zudem legte die Staatsanwaltschaft mit konkreten Argumenten dar, weshalb die Ausführungen der Beschwerdegegnerin rund um den Vorwurf der sexuellen ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 22.10.2020 RBOG 2020 Nr. 21 (SW.2020.106)
+Thurgovie Obergericht Rechenschaftsbericht 22.10.2020 RBOG 2020 Nr. 21 (SW.2020.106)
+Turgovia Obergericht Rechenschaftsbericht 22.10.2020 RBOG 2020 Nr. 21 (SW.2020.106)
+
+b) Die Beschwerdegegnerin hatte davor bereits Strafanzeige gegen den Beschwerdeführer wegen sexueller Belästigung erstattet. Der Vorwurf der Beschwerdegegnerin an den Beschwerdeführer, sie sexuell belästigt zu haben, ist ehrverletzend, ebenso die Weiterverbreitung dieses Vorwurfs; entscheidend ist somit ein allfälliger Entlastungsbeweis[3]. Zudem legte die Staatsanwaltschaft mit konkreten Argumenten dar, weshalb die Ausführungen der Beschwerdegegnerin rund um den Vorwurf der sexuellen ...
+
+RBOG 2020 Nr. 21
+RBOG 2020 Nr. 21
+Ausnahmsweise kann bei der üblen Nachrede für den Vorwurf einer strafbaren Handlung der Wahrheitsbeweis ohne Verurteilung erbracht werden; Verfahrenseinstellung erfolgte zu Recht.
+(Art. 173 Ziff. 2 StGB; Art. 319 Abs. 1 StPO)
+1.    a)    Der Beschwerdeführer erstattete Strafanzeige gegen die Beschwerdegegnerin wegen übler Nachrede, Verleumdung sowie Anstiftung zur üblen Nachrede und Verleumdung. Der Vorwurf des Beschwerdeführers lautete, dass die Beschwerdegegnerin ihn bei ihrem Vermieter sowie bei weiteren Mitmieterinnen der sexuellen Belästigung beschuldigt habe, obwohl sich gar nichts zugetragen habe, dies mit dem Ziel, ihn aus dem Wohnblock zu bekommen.
+b)    Die Beschwerdegegnerin hatte davor bereits Strafanzeige gegen den Beschwerdeführer wegen sexueller Belästigung erstattet. Dieses Verfahren war indessen eingestellt worden, weil die Strafanzeige erst nach Ablauf der Strafantragsfrist von drei Monaten eingereicht worden war.
+c)    Das gegen die Beschwerdegegnerin (unter anderem) wegen übler Nachrede und Verleumdung eröffnete Verfahren stellte die Staatsanwaltschaft in der Folge ebenfalls ein. Gegen diesen Entscheid erhob der Beschwerdeführer Beschwerde.
+2.    Die Staatsanwaltschaft erwog in der Einstellungsverfügung betreffend üble Nachrede zusammengefasst, da die Tatbestandsvoraussetzungen gegeben seien, sei die Beschwerdegegnerin zum Entlastungsbeweis zuzulassen. Es liege bezüglich der dem Beschwerdeführer vorgeworfenen sexuellen Belästigung keine rechtskräftige Verurteilung vor. Insgesamt seien die Äusserungen der Beschwerdegegnerin aber plausibel und glaubhaft. Aufgrund dieser Umstände würde bei einer Anklage mit sehr hoher Wahrscheinlichkeit ein Freispruch der Beschwerdegegnerin resultieren. In diesem Sinn gelinge der Beschwerdegegnerin der Wahrheitsbeweis, womit sie sich weder der Verleumdung noch der üblen Nachrede noch der Anstiftung hierzu schuldig gemacht habe. Entsprechend sei das Strafverfahren gegen sie einzustellen.
+3.    Die Staatsanwaltschaft verfügt gemäss Art. 319 Abs. 1 StPO die vollständige oder teilweise Einstellung des Verfahrens, wenn kein Tatverdacht erhärtet ist, der eine Anklage rechtfertigt (lit. a), wenn kein Straftatbestand erfüllt ist (lit. b), oder wenn Rechtfertigungsgründe einen Straftatbestand unanwendbar machen (lit. c). Für eine Einstellung der Strafuntersuchung braucht es eine Prognose über die Wahrscheinlichkeit eines Freispruchs. Bei der Frage, ob ein Strafverfahren über eine definitive Verfahrenseinstellung durch die Untersuchungsbehörde erledigt werden kann, gilt der Grundsatz «im Zweifel für die Anklageerhebung»
+[1]
+. Dieser Grundsatz ist nicht ausdrücklich in der StPO geregelt; er ergibt sich aber gestützt auf Art. 5 Abs. 1 BV und Art. 2 Abs. 1 StPO i.V.m. Art. 319 Abs. 1 und 324 Abs. 1 StPO aus dem Legalitätsprinzip
+[2]
+.
+4.    a)    Die rechtlichen Erwägungen der Staatsanwaltschaft und die von ihr dargelegte Ausgangslage sind zutreffend. Der Vorwurf der Beschwerdegegnerin an den Beschwerdeführer, sie sexuell belästigt zu haben, ist ehrverletzend, ebenso die Weiterverbreitung dieses Vorwurfs; entscheidend ist somit ein allfälliger Entlastungsbeweis
+[3]
+. Zudem legte die Staatsanwaltschaft mit konkreten Argumenten dar, weshalb die Ausführungen der Beschwerdegegnerin rund um den Vorwurf der sexuellen Belästigung klar glaubhafter sind als diejenigen des Beschwerdeführers. Diese Erwägungen der Staatsanwaltschaft können als zutreffend qualifiziert werden.
+b)    Gemäss konstanter Rechtsprechung des Bundesgerichts kann allerdings der Wahrheitsbeweis hinsichtlich des Vorwurfs einer strafbaren Handlung grundsätzlich nur durch eine Verurteilung erbracht werden. Diesen Beweis kann die Beschwerdegegnerin nicht erbringen, weil sie den Strafantrag gegen den Beschwerdeführer erst nach Ablauf der Strafantragsfrist von drei Monaten gestellt hat, und weil deswegen das Strafverfahren gegen den Beschwerdeführer eingestellt worden ist. Die Staatsanwaltschaft erwog dazu, es könne kaum im Interesse des Gesetzgebers sein, dass ein Opfer eines sexuellen Übergriffs mit niemandem über das Erlebte sprechen könne, ohne selber mit strafrechtlichen Konsequenzen rechnen zu müssen, nur weil der Täter des Sexualdelikts nicht verurteilt werde – sei dies aus Gründen der Beweislosigkeit, oder weil das Opfer gar keine Strafanzeige eingereicht habe, zumal Opfer sexueller Übergriffe häufig infolge Scham, Schuldgefühlen oder psychischer Belastung keine Strafanzeige erstatteten.
+c)    Es stellt sich die Frage, ob es Sache der Staatsanwaltschaft ist, gestützt auf eine Ausnahme
+[4]
+zum Grundsatz der bundesgerichtlichen Rechtsprechung ein Strafverfahren einzustellen, oder ob dies nicht Sache des Gerichts ist. Nicht nur bei zweifelhafter Beweislage, sondern auch bei zweifelhafter Rechtslage hat das Gericht zu entscheiden, nicht die Staatsanwaltschaft
+[5]
+. Daraus folgt, dass ohne zusätzliche Begründung, aus der sich eine nicht mehr zweifelhafte Rechtslage ergäbe, eine Einstellung nicht haltbar wäre.
+d)    Ausgangslage dafür ist, dass es vom Grundsatz, wonach der Wahrheitsbeweis für den Vorwurf einer strafbaren Handlung durch eine Verurteilung zu erbringen ist, gemäss Lehre und Rechtsprechung verschiedene Ausnahmen gibt. Missverständlich und unzutreffend, zumindest jedoch unpräzis, ist deshalb die häufig verwendete Formulierung, der Wahrheitsbeweis könne «nur» durch eine Verurteilung erbracht werden. Richtig wäre der Begriff «grundsätzlich», wie dies das Bundesgericht im grundlegenden BGE 106 IV 117 tat. In BGE 132 IV 112 erwog das Bundesgericht, der Wahrheitsbeweis hinsichtlich des Vorwurfs, jemand habe eine strafbare Handlung begangen, könne auf andere Weise als durch eine Verurteilung erbracht werden, wenn die mit der angeblich strafbaren Handlung befasste Behörde das Verfahren bis zum Abschluss des Ehrverletzungsprozesses sistiert habe. Es fasste zusammen, eine Ausnahme könne etwa gemacht werden für den Fall, dass wegen der Verjährung kein Strafverfahren mehr habe durchgeführt werden können. Am Prinzip sei im Hinblick auf die Unschuldsvermutung festzuhalten, aber es gebe Ausnahmen von diesem Prinzip. Der Wahrheitsbeweis könne auch durch ein erst nach den ehrverletzenden Äusserungen gefälltes Urteil erbracht werden. Bereits in BGE 106 IV 114 führte es als mögliche Ausnahme von der Regel an, dass etwa ein Strafverfahren nicht oder nicht mehr durchgeführt werden könne. Das Bundesgericht verweist auf Vorbehalte der Lehre. Gemäss Trechsel könne ein Nichteröffnungsbeschluss den Wahrheitsbeweis nicht in jedem Fall ausschliessen. Er unterstreiche, dass der Angeklagte nicht auf den Weg strafrechtlicher Schritte verwiesen werden könne, um den Wahrheitsbeweis zu erbringen. Auch Riklin sei der Auffassung, diese Rechtsprechung gehe insofern sehr weit, als ein Verzicht auf die Einleitung einer Strafuntersuchung jeden Wahrheitsbeweis verunmögliche. Seiner Auffassung nach sei diese Konsequenz allerdings nur von Belang, wenn die betreffenden Entscheidungen im Moment der Ehrverletzung schon ergangen seien. Wenn ein solcher Entscheid fehle, dürfe der Täter nicht auf den Strafprozessweg oder den Ausgang eines inzwischen hängigen Strafprozesses verwiesen werden. Gemäss Stratenwerth und Jenny dürfe nicht ausser Acht bleiben, dass der Strafrichter auch bei Ehrverletzungen die materielle Wahrheit zu erforschen habe. Schliesslich stelle Corboz fest, die Rechtsprechung stütze sich zwar auf eine vernünftige Begründung, jedoch könne man sich angesichts fehlender klarer Gesetzesbestimmungen fragen, was den Beschuldigten daran hindere, im Strafverfahren gegen ihn den Wahrheitsbeweis zu erbringen
+[6]
+.
+e)    Der dieser bundesgerichtlichen Rechtsprechung zugrunde liegende Hauptgedanke darf bei der Beantwortung der sich stellenden Frage nicht ausser Acht gelassen werden. Es geht darum, sich widersprechende Urteile zu vermeiden
+[7]
+. Unter Würdigung der Lehre und Rechtsprechung zum Grundsatz und der Ausnahme sowie unter Berücksichtigung von Sinn und Zweck des Erfordernisses der Verurteilung für den Wahrheitsbeweis ist hier der Schluss berechtigt, der Wahrheitsbeweis dürfe auch mit anderen Mitteln erbracht werden. Einerseits gab es im Zeitpunkt der ehrverletzenden Äusserungen kein Urteil und kein laufendes Verfahren bezüglich des Tatvorwurfs der sexuellen Belästigung. Es durfte von der Beschwerdegegnerin andererseits gerade aus den Überlegungen, welche die Staatsanwaltschaft in ihrer einschlägigen Erwägung machte, nicht verlangt werden, dass sie einen Strafprozess einleitet, allein um den Wahrheitsbeweis für ihre Äusserungen zu führen, zumal sie, wie dargelegt, diese Äusserungen aus glaubhaften Motiven machte. Ferner war der Wahrheitsbeweis durch Verurteilung nach Ablauf der Strafantragsfrist nicht mehr möglich. Schliesslich kann man die Einstellung des Strafverfahrens gegen die Beschwerdegegnerin und die Einstellung des Strafverfahrens gegen den Beschwerdeführer nicht als sich widersprechende Entscheide qualifizieren, weil im Entscheid gegen den Beschwerdeführer eine materielle Prüfung zufolge des Ablaufs der Strafantragsfrist gerade nicht erfolgte, und da die vorliegende Einstellung nur im Sinn einer Prognose über die Wahrscheinlichkeit einer Verurteilung der Beschwerdegegnerin erging.
+f)     Zusammengefasst kann nicht mehr von einer zweifelhaften, sondern von einer klaren Rechtslage ausgegangen werden. Ausnahmsweise kann hier für den Wahrheitsbeweis oder die Prognose darüber betreffend den Vorwurf einer strafbaren Handlung von einer Verurteilung abgesehen werden. Die Staatsanwaltschaft stellte das Strafverfahren gegen die Beschwerdegegnerin somit zu Recht ein. Damit ist die Beschwerde abzuweisen.
+Obergericht, 2. Abteilung, 22. Oktober 2020, SW.2020.106
+[1]
+«In dubio pro duriore»
+[2]
+BGE 138 IV 190; BGE 138 IV 91; BGE 137 IV 227
+[3]
+Art. 173 Abs. 2 StGB
+[4]
+Die sich auf kein Präjudiz stützt.
+[5]
+BGE 138 IV 91
+[6]
+BGE 132 IV 118 f.; Es verhält sich ähnlich wie beim Tatbestand der falschen Anschuldigung gemäss Art. 303 StGB. Nicht schuldig ist die Person, welche die behauptete strafbare Handlung nicht begangen hat. Als solche gilt auch diejenige, deren Nichtschuld – vorbehältlich einer Wiederaufnahme des Verfahrens – durch Freispruch oder Einstellungsbeschluss verbindlich festgestellt worden ist. Ein früheres Urteil oder ein Einstellungsbeschluss bindet im neuen Verfahren, in dem über die falsche Anschuldigung zu befinden ist, jedoch nur insoweit, als dieser sich über Schuld oder Nichtschuld der angeschuldigten Person ausspricht. Soweit das frühere Verfahren aus Opportunitätsgründen oder gestützt auf Art. 54 StGB eingestellt worden ist, hindert dies im Verfahren der falschen Anschuldigung nicht, über die Schuld der angeschuldigten Person erneut zu befinden (BGE 136 IV 176; BGE vom 4. Dezember 2006, 6P.196/2006, Erw. 7.2).
+[7]
+BGE 132 IV 119
