@@ -1,0 +1,57 @@
+---
+decision_id: "tg_obergericht_RBOG_2020_Nr._2"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2020 Nr. 2"
+docket_2: "ZBS.2020.30"
+decided: "2020-11-24"
+language: "de"
+source_url: "http://ogbuch.tg.ch/html/7AAD67E4-FFF1-CEEE-1EC508243836B328.html"
+cites_law: ["switzerland/bund/acts/210/art-125.md", "switzerland/bund/acts/281.1/art-093.md"]
+---
+
+# TG Obergericht RBOG 2020 Nr. 2
+
+## Regeste
+
+1. Basis für die Bedarfsberechnung sind die Positionen, wie sie auch für die betreibungsrechtliche Existenzminimumsberechnung verwendet werden. Verfügen die Ehegatten über genügend Mittel, ist der Bedarf fallspezifisch um weitere Positionen zu ergänzen[2]. Dabei sind stets die familienrechtlichen Schutzzwecke im Auge zu behalten. Die Rechtsprechung des Obergerichts des Kantons Thurgau hat verschiedentlich die Steueransätze für anwendbar erklärt[5]. Diese Praxis erweist sich als sachgerecht ...
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 24.11.2020 RBOG 2020 Nr. 2 (ZBS.2020.30)
+Thurgovie Obergericht Rechenschaftsbericht 24.11.2020 RBOG 2020 Nr. 2 (ZBS.2020.30)
+Turgovia Obergericht Rechenschaftsbericht 24.11.2020 RBOG 2020 Nr. 2 (ZBS.2020.30)
+
+1. Basis für die Bedarfsberechnung sind die Positionen, wie sie auch für die betreibungsrechtliche Existenzminimumsberechnung verwendet werden. Verfügen die Ehegatten über genügend Mittel, ist der Bedarf fallspezifisch um weitere Positionen zu ergänzen[2]. Dabei sind stets die familienrechtlichen Schutzzwecke im Auge zu behalten. Die Rechtsprechung des Obergerichts des Kantons Thurgau hat verschiedentlich die Steueransätze für anwendbar erklärt[5]. Diese Praxis erweist sich als sachgerecht ...
+
+RBOG 2020 Nr. 2
+RBOG 2020 Nr. 2
+Eheschutz: Fahrkosten als Berufsauslagen, Anwendung der Steuerpraxis
+(Art. 125, 163 ZGB)
+1.    Basis für die Bedarfsberechnung sind die Positionen, wie sie auch für die betreibungsrechtliche Existenzminimumsberechnung verwendet werden. Nach betreibungsrechtlichen Grundsätzen sind bei einem Fahrzeug mit Kompetenzcharakter die veränderlichen und festen Kosten ohne Amortisation zu berechnen
+[1]
+. Der familienrechtliche Bedarf unterscheidet sich indes vom betreibungsrechtlichen Existenzminimum. Nur in sehr knappen finanziellen Verhältnissen sind betreibungsrechtliches Existenzminimum und familienrechtlicher Grundbedarf deckungsgleich. Verfügen die Ehegatten über genügend Mittel, ist der Bedarf fallspezifisch um weitere Positionen zu ergänzen
+[2]
+. Dabei sind stets die familienrechtlichen Schutzzwecke im Auge zu behalten. Während das Betreibungsrecht nur gegenwärtige Forderungen schützt, schliesst die Unterhaltsschuld die Verpflichtung ein, rechtzeitig das Nötige vorzukehren, um die Unterhaltspflicht gegenüber den Angehörigen auch inskünftig erfüllen zu können. Die Rechtsprechung des Bundesgerichts geht deshalb davon aus, die Amortisation erwerbsnotwendiger Kompetenzgüter sei zum Bedarf des Unterhaltsverpflichteten zu rechnen
+[3]
+.
+2.    Mit zunehmender Anzahl gefahrener Kilometer pro Jahr werden die auf einen Kilometer umgerechneten Fahrkosten geringer. In einigen Kantonen werden die anrechenbaren Fahrkosten pauschalisiert und limitiert. Die Literatur fordert zwar teilweise eine einheitliche Obergrenze von Fr. 600.00
+[4]
+. Eine solche Limite kann aber angesichts unterschiedlicher geografischer Verhältnisse und Lebenshaltungskosten nicht Allgemeingültigkeit beanspruchen. Die Rechtsprechung des Obergerichts des Kantons Thurgau hat verschiedentlich die Steueransätze für anwendbar erklärt
+[5]
+. Diese Praxis erweist sich als sachgerecht und führt zu angemessenen Ergebnissen: Steuerrechtlich abzugsfähig sind die notwendigen Auslagen für Fahrten zwischen Wohn- und Arbeitsstätte
+[6]
+, womit dem im Unterhaltsrecht geltenden Effektivitätsgrundsatz Rechnung getragen wird. Die Steuerpraxis sieht sodann eine Abstufung der Ansätze pro gefahrenem Kilometer vor, was die sinkenden Kosten pro Mehrkilometer konkreten Umstände des Einzelfalls anzupassen; so fallen etwa Amortisationskosten bei einem geliehenen Fahrzeug vollständig weg.
+Obergericht, 1. Abteilung, 24. November 2020, ZBS.2020.30
+[1]
+BGE 140 III 342; Richtlinien für die Berechnung des betreibungsrechtlichen Existenzminimums (Notbedarf) nach Art. 93 SchKG der schweizerischen Konferenz der Betreibungs- und Konkursbeamten vom 1. Juli 2009
+[2]
+Vgl. Gloor/Spycher, Basler Kommentar, 6.A., Art. 125 ZGB N. 36
+[3]
+BGE vom 12. Juli 2016, 5A_779/2015, Erw. 5.3.3.2
+[4]
+Vgl. Six, Eheschutz, 2.A, N. 2.120
+[5]
+Merz, Die Praxis zum Eheschutz, Sulgen 2005, S. 133 f.
+[6]
+§ 29 Abs. 1 Ziff. 1 StG (Steuergesetz, RB 640.1)
