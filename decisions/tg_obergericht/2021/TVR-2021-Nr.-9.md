@@ -1,0 +1,66 @@
+---
+decision_id: "tg_obergericht_TVR_2021_Nr._9"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2021 Nr. 9"
+decided: "2021-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2021-nr-9"
+cites_law: ["switzerland/bund/acts/210/art-566.md", "switzerland/bund/acts/642.11/art-022.md", "switzerland/bund/acts/831.425/art-015.md"]
+---
+
+# TG Obergericht TVR 2021 Nr. 9
+
+## Regeste
+
+Besteuerung von Kapitalleistungen aus Vorsorge, keine Abzugsfähigkeit von Erbgangsschulden; Entscheid über Gesuch um unentgeltliche Rechtspflege in Zwischen- oder Endentscheid; Unzulässigkeit einer bedingten Rechtsmittelerhebung
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2021 TVR 2021 Nr. 9
+Thurgovie Obergericht Rechenschaftsbericht 2021 TVR 2021 Nr. 9
+Turgovia Obergericht Rechenschaftsbericht 2021 TVR 2021 Nr. 9
+
+Besteuerung von Kapitalleistungen aus Vorsorge, keine Abzugsfähigkeit von Erbgangsschulden; Entscheid über Gesuch um unentgeltliche Rechtspflege in Zwischen- oder Endentscheid; Unzulässigkeit einer bedingten Rechtsmittelerhebung
+
+TVR 2021 Nr. 9
+Skip to main content
+Show navigation
+Besteuerung von Kapitalleistungen aus Vorsorge, keine Abzugsfähigkeit von Erbgangsschulden; Entscheid über Gesuch um unentgeltliche Rechtspflege in Zwischen- oder End­entscheid; Unzulässigkeit einer bedingten Rechtsmittelerhebung
+Art. 22 DBG
+,
+Art. 15 FZV
+,
+§ 24 StG
+,
+§ 35 VRG
+,
+§ 81 VRG
+1. Kapitalleistungen aus Vorsorge bzw. Freizügigkeitsleistungen werden separat besteuert und fallen nicht in den Nachlass. Damit sind auch Erbgangsschulden bzw. Aufwendungen im Zusammenhang mit dem Erbgang steuerlich nicht im Rahmen der entsprechenden Sonderbesteuerung abziehbar (E. 4).
+2. Eine Behörde hat dann im Rahmen eines Zwischenentscheids über ein Gesuch um unentgeltliche Rechtspflege zu befinden, wenn der Rechtsvertreter nach Einreichung des Gesuchs gehalten ist, weitere Verfahrensschritte zu unternehmen. In diesen Fällen ist es unabdingbar, dass die Behörden über das Gesuch umgehend entscheiden, damit Klient und Rechtsvertreter sich über das finanzielle Verfahrensrisiko Klarheit verschaffen können, bevor der Gesuchsteller weitere, in erheblichem Masse Kosten verursachende prozessuale Schritte unternimmt. Dagegen ist die Beurteilung eines Gesuchs um unentgeltliche Rechtspflege zusammen mit dem Endentscheid bzw. im Rahmen der Kostenregelung in denjenigen Fällen nicht zu beanstanden, in denen das Gesuch mit der Eingabe in der Hauptsache verbunden wird und keine weiteren Vorkehren des Rechtsvertreters erforderlich sind (E. 5.4).
+3. Die Erhebung eines Rechtsmittels unter der Bedingung, dass das gleichzeitig gestellte Gesuch um unentgeltliche Rechtspflege bzw. unentgeltliche Prozessführung bewilligt werde, ist unzulässig, da Rechtsmittel grundsätzlich bedingungsfeindlich sind (E. 5.4).
+A wurde am 24. Juli 2019 ein Betrag von Fr. 6'431.30 aus einem Freizügigkeitskonto ihrer Schwester ausbezahlt, nachdem diese am 12. April 2018 verstorben war. Der ausgerichtete Betrag wurde mit Sonderveranlagung vom 17. Oktober 2019 sowohl bei den Staats- und Gemeindesteuern 2018 als auch bei der direkten Bundessteuer 2018 als steuerbare Kapitalleistung besteuert. Dies entsprach einer einfachen Steuer von Fr. 128.-- bei der Staats- und Gemeindesteuer bzw. Fr. 0.-- bei der direkten Bundessteuer. Eine dagegen erhobene Einsprache wies die Steuerverwaltung ab; hinsichtlich der Sonderveranlagung der direkten Bundessteuer wurde auf die Einsprache nicht eingetreten. Mit Entscheid vom 26. März 2021 wies die Steuerrekurskommission den Rekurs bzw. die Beschwerde ab; das von A gestellte Gesuch um Gewährung der unentgeltlichen Prozessführung wurde ebenfalls abgewiesen. Dagegen erhob A Beschwerde. Das Verwaltungsgericht weist die Beschwerde ab.
+Aus den Erwägungen:
+4.
+4.1 Gemäss § 24 StG sind alle Einkünfte aus Alters-, Hinterlassenen- und Invalidenversicherung, aus Einrichtungen der beruflichen Vorsorge und aus anerkannten Formen der gebundenen Selbstvorsorge steuerbar, mit Einschluss der Kapitalabfindungen und Rückzahlungen von Einlagen, Prämien und Beiträgen (Abs. 1). Als Einkünfte aus beruflicher Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus Spar-, oder Gruppenversicherungen sowie aus Freizügigkeitspolicen (Abs. 2). Art. 22 Abs. 1 und 2 DBG stimmt mit § 24 StG inhaltlich überein. Kapitalleistungen aus Vorsorgeeinrichtungen gemäss § 24 StG bzw. Art. 22 DBG werden gesondert besteuert. Sie unterliegen einer vollen Jahressteuer für das Kalenderjahr, in dem sie zugeflossen sind (§ 39 Abs. 1 StG, Art. 38 Abs. 1 und 1
+bis
+DBG). Massgebender Zeitpunkt für die Beurteilung des Zuflusses ist die Fälligkeit des Anspruchs auf die Kapitalleistung. Diese tritt in der Regel im Versicherungsfall ein, das heisst bei Erreichen der Altersgrenze, bei Invalidität oder beim Tod des Vorsorgenehmers (Baumgartner, in: Zweifel/Beusch, Kommentar zum schweizerischen Steuerrecht, DBG, 3. Auflage, Basel 2017, Art. 38 N. 10a). Die Besteuerung erfolgt am Wohnsitz bzw. Steuerdomizil der begünstigten Person (vgl. BGE 130 I 205 E. 9.4). Die Leistungen der beruflichen Vorsorge fallen nicht in den Nachlass. Gleiches gilt für Freizügigkeitsleistungen, welche im Erbfall an die in Art. 15 FZV aufgeführten Destinatäre ausbezahlt werden (BGE 129 III 305; vgl. auch BGE 130 I 205 E. 8).
+4.2 Am 12. April 2018 verstarb die Schwester der Beschwerdeführerin. Diese verfügte über ein Freizügigkeitskonto bei der Bank B. Am 24. Juli 2019 wurde der Beschwerdeführerin daraus ein Betrag von Fr. 6'431.30 überwiesen. Die Freizügigkeitsleistung fiel gemäss der einschlägigen bundesgerichtlichen Rechtsprechung (vgl. BGE 129 III 305, BGE 130 I 205 E. 8) nicht in den Nachlass, sondern direkt den begünstigten Personen gemäss Art. 15 FZV zu gleichen Teilen zu. Diese Kapitalleistung unterliegt einer vollen Jahressteuer, wobei massgebend die Fälligkeit per Todestag am 12. April 2018 ist (vgl. E. 4.1 vorstehend). Die Sonderveranlagungen vom 17. Oktober 2019 erfolgten somit zu Recht.
+4.3 Die dagegen von der Beschwerdeführerin vorgebrachten Einwände sind unbegründet.
+4.3.1 Unerheblich ist, weshalb und unter welchen Umständen die Beschwerdeführerin Erbin geworden ist. Offensichtlich hat sie das Erbe angetreten, womit sie in jedem Fall Erbin im Sinne von Art. 15 Abs. 1 lit. b Ziff. 4 FZV ist. Ungeachtet dessen hätte sie infolge des Ablebens ihrer Schwester auch dann Anspruch auf die Freizügigkeitsleistung gehabt, wenn sie die Erbschaft ausgeschlagen hätte, nachdem die Freizügigkeitsleistung nicht in den Nachlass fällt (vgl. BGE 129 III 305 E. 3.5 und 4).
+4.3.2 Die der Beschwerdeführerin ausgerichtete Freizügigkeitsleistung ist folglich steuerrechtlich unabhängig vom Nachlass zu behandeln. Die Übernahme von Erbschafts- und Erbgangsschulden ist mit dem Nachlass verbunden. Nachdem Freizügigkeitsleistungen nicht in den Nachlass fallen, können bei der Besteuerung der entsprechenden Kapitalleistung Erbschafts-, Erbgangsschulden, Bestattungskosten bzw. - wie von der Beschwerdeführerin geltend gemacht - "zwangsverbundene Auslagen" nicht abgezogen bzw. berücksichtigt werden. Die Auffassung der Beschwerdeführerin, sie habe die Freizügigkeitsleistung nur deshalb erhalten, weil sie sich vorgängig durch Erbannahme zur Übernahme von Kosten (Todesfallkosten etc.) verpflichtet habe, trifft nicht zu. So hätte sie - etwa zur Vermeidung einer entsprechenden Kostentragung - das Erbe auch ausschlagen können und hätte trotzdem Anspruch auf die Kapitalleistung gehabt. Die Hinterlassenenansprüche aus der beruflichen Vorsorge stehen auf der Grundlage von Art. 19 f. BVG den Hinterbliebenen aus eigenem Recht zu, gehören somit nicht zum Nachlass und bleiben von einer allfälligen Ausschlagung der Erbschaft im Sinne von Art. 566 ff. ZGB unberührt (vgl. Riemer-Kafka, Sozialversicherungsrecht: seine Verknüpfungen mit dem ZGB; Stellung der Erben und des Willensvollstreckers im Sozialversicherungsrecht, in: LBR - Luzerner Beiträge zur Rechtswissenschaft, Band/Nr. 112, Zürich 2016, S. 151, sowie Hürzeler, System und Dogmatik der Hinterlassenensicherung im Sozialversicherungs- und Haftpflichtrecht, Bern 2014, S. 421, und BGE 131 V 27 E. 3.1). Die Begünstigtenordnung gemäss Art. 15 FZV kann nicht abgeändert werden; eine Begünstigte erwirbt das FZG-Guthaben auch dann, wenn sie die Erbschaft ausschlägt (Trachsel, Schnittstellen zwischen Güter- und Erbrecht, mit einem Seitenblick auf die Behandlung von Guthaben in der Zweiten und in der gebundenen Dritten Säule, in: AJP 2013 S. 169 ff., S. 179). Die von der Beschwerdeführerin geltend gemachten Auslagen in Form von Todesfallkosten und dergleichen sind daher nicht mit der ihr ausgerichteten Kapitalleistung "zwangsverbunden".
+4.3.3 (…)
+4.3.4 In diesem Zusammenhang ist auch unerheblich, ob und wie eine Miterbin im Kanton Zürich besteuert wurde oder nicht, nachdem die Kantone in der Gestaltung der Tarife frei sind und es durchaus denkbar ist, dass im Kanton Zürich bei der Besteuerung des entsprechenden Betrags (wie bei der direkten Bundessteuer) keine Steuer resultierte. Wie es sich damit verhält, kann vorliegend dahingestellt bleiben, da nicht die Besteuerung im Kanton Zürich, sondern einzig diejenige im Kanton Thurgau Streitgegenstand bildet. Dementsprechend liegt auch keine Verletzung des Gleichbehandlungsgebots vor.
+4.4 Vor diesem Hintergrund ist die Sonderveranlagung vom 17. Oktober 2019 betreffend das ausgerichtete Vorsorgekapital in der Höhe von Fr. 6'431.30 nicht zu beanstanden. Die Beschwerde ist in dieser Hinsicht unbegründet und abzuweisen.
+5.
+5.1 Strittig und zu prüfen ist sodann, ob die Vorinstanz das Gesuch der Beschwerdeführerin um Gewährung der unentgeltlichen Prozessführung zu Recht abgewiesen hat.
+5.2, 5.2.1 - 5.2.3 und 5.3 (…)
+5.4 (…) Sodann war die Vor­instanz auch nicht gehalten, vor dem Endentscheid im Rahmen eines separaten, vorgezogenen Zwischenentscheids über das Gesuch um unentgeltliche Rechtspflege zu befinden. Gemäss bundesgerichtlicher Rechtsprechung hat eine Behörde dann im Rahmen eines Zwischenentscheids über ein Gesuch um unentgeltliche Rechtspflege zu befinden, wenn der Rechtsvertreter (also ein Rechtsanwalt/eine Rechtsanwältin, für welchen/welche gemäss § 81 Abs. 2 VRG ein Gesuch um Bewilligung als unentgeltlicher Anwalt/unentgeltliche Anwältin gestellt wurde) nach Einreichung des Gesuchs gehalten ist, weitere Verfahrensschritte zu unternehmen. In diesen Fällen ist es unabdingbar, dass die Behörden über das Gesuch umgehend entscheiden, damit Klient und Rechtsanwalt sich über das finanzielle Verfahrensrisiko Klarheit verschaffen können, bevor der Gesuchsteller weitere, in erheblichem Masse Kosten verursachende prozessuale Schritte unternimmt. Dagegen ist die Beurteilung eines Gesuchs um unentgeltliche Rechtspflege zusammen mit dem Endentscheid bzw. im Rahmen der Kostenregelung in denjenigen Fällen nicht zu beanstanden, in denen das Gesuch mit der Eingabe in der Hauptsache verbunden wird und keine weiteren Vorkehren des Rechtsvertreters erforderlich sind (vgl. Urteile des Bundesgerichts 9C_423/2017 vom 10. Juli 2017 E. 4.1 und 8C_911/2011 vom 4. Juli 2012 E. 6.1). Die Beschwerdeführerin war im vorinstanzlichen Verfahren (wie auch im vorliegenden Beschwerdeverfahren) nicht anwaltlich vertreten. Bei ihrem Vertreter handelt(e) es sich vielmehr um ihren Lebenspartner und nicht um einen Rechtsvertreter im Sinne der zitierten Rechtsprechung. Entsprechend waren insbesondere auch nach Aufforderung zur Stellungnahme vom 28. Oktober 2020 keine (weiteren) Vorkehrungen eines Rechtsvertreters erforderlich. Damit ist nicht zu beanstanden, dass die Vorinstanz über das Gesuch um Gewährung der unentgeltlichen Rechtspflege nicht vorweg im Rahmen eines separaten Zwischenentscheids, sondern erst mit dem Endentscheid befunden hat. Ergänzend ist darauf hinzuweisen, dass es auch unzulässig wäre, ein Rechtsmittel unter der Bedingung zu erheben, dass das gleichzeitig gestellte Gesuch um unentgeltliche Rechtspflege bzw. unentgeltliche Prozessführung bewilligt werde, da Rechtsmittel grundsätzlich bedingungsfeindlich sind. Die Zulassung eines mit dem Vorbehalt der Gewährung des Kostenerlasses bedingten Rechtsmittels ist abzulehnen (vgl. Entscheid des Obergerichts des Kantons Zürich vom 26. Oktober 2017 E. 3, in: ZR 116/2017 Nr. 77, S. 260 f., unter Verweis auf BGE 134 III 332 E. 2.2).
+Entscheid des Verwaltungsgerichts VG.2021.75/E vom 23. Juni 2021
+Das Bundesgericht hat eine dagegen erhobene Beschwerde in öffentlich-rechtlichen Angelegenheiten mit Urteil 2C_738/2021 vom 23. Dezember 2021 abgewiesen.
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
