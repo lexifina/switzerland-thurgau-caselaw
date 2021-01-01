@@ -1,0 +1,56 @@
+---
+decision_id: "tg_obergericht_TVR_2021_Nr._37"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2021 Nr. 37"
+decided: "2021-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2021-nr-37"
+cites_law: ["switzerland/bund/acts/220/art-324.md", "switzerland/bund/acts/220/art-324a.md"]
+---
+
+# TG Obergericht TVR 2021 Nr. 37
+
+## Regeste
+
+Änderung des Dienstverhältnisses; einseitige Reduktion der Entlöhnung aufgrund weggefallener Einsatzstunden
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2021 TVR 2021 Nr. 37
+Thurgovie Obergericht Rechenschaftsbericht 2021 TVR 2021 Nr. 37
+Turgovia Obergericht Rechenschaftsbericht 2021 TVR 2021 Nr. 37
+
+TVR 2021 Nr. 37
+Skip to main content
+Show navigation
+Änderung des Dienstverhältnisses; einseitige Reduktion der Entlöhnung aufgrund weggefallener Einsatzstunden
+§ 63 RSV
+Die Arbeitgeberin kann grundsätzlich eine Reduktion des Beschäftigungsgrades anordnen, wenn die betrieblichen Verhältnisse dies verlangen. Eine solche Änderung ist indes unter Einhaltung analoger Fristen und Termine zur ordentlichen Kündigung mitzuteilen sowie zu begründen, und die betroffenen Mitarbeitenden sind anzuhören (E. 2.3). Ferner gilt zwar der Grundsatz "ohne Arbeit kein Lohn". Dieser Grundsatz kennt aber Ausnahmen. So trägt der Arbeitgeber grundsätzlich das Betriebsrisiko als Teil des Unternehmerrisikos. Zum Betriebsrisiko gehört die Schliessung des Betriebes auf behördliche Anweisung hin. In diesen Fällen haben die Arbeitnehmenden Anspruch auf Lohnfortzahlung. Ist nicht genügend Arbeit vorhanden und bietet der Arbeitnehmer seine Arbeit an, gerät der Arbeitgeber in Annahmeverzug; er schuldet weiterhin den Lohn (E. 2.4).
+Die Rekurrenten H und S sind seit Dezember 2013 bei der Schule R als Hauswarte angestellt. Sie arbeiten beide zu je 100% und werden zusätzlich von einer festangestellten Reinigungshilfe unterstützt (mit einem Pensum von 35%). Darüber hinaus stehen beiden gemeinsam 313 Stunden im Jahr für Zusatzreinigungsarbeiten zur Verfügung. Diese Zusatzstunden bezeichnen die Parteien als "Pool Reinigungshilfen"; sie sind gedacht für ausserordentliche Arbeiten wie Frühlingsputz, Zwischenreinigung bei Beginn der Schulferien im Sommer und Fensterreinigung im Herbst. Diese Stunden können H und S selbst erbringen oder Drittpersonen dafür einsetzen. Die Abrechnung erfolgt jeweils jährlich.
+Mit Entscheid vom 8. Januar 2021 betreffend "Pool für Reinigungshilfen / Abrechnung 2020" eröffnete die Schule R den Rekurrenten H und S die Schlussabrechnung für die "Pool Reinigungshilfen" für das Jahr 2020. Dabei nahm die Schule R eine Reduktion der Poolstunden um 120 Stunden vor, was der Hälfte der gesamten Reinigungsstunden für die Aula entsprach. Die Reduktion erfolge, weil im "Corona-Jahr" 2020 die Belegung der Aula und damit auch der Reinigungsaufwand massiv tiefer ausgefallen sei.
+Gegen diese Schlussrechnung führten H und S Rekurs; sie beantragten die volle Entlöhnung der 313 Zusatzstunden aus dem "Pool Reinigungshilfen". Davon seien nur die von Dritten erbrachten Stunden abzuziehen, die übrig bleibenden Stunden seien - ohne Wenn und Aber - den Rekurrenten zu bezahlen.
+Die Schule R beantragte die Abweisung des Rekurses. Sie brachte vor, dass die Rekurrenten den Beweis erbringen müssten, dass sie mehr als die anerkannten Arbeitsstunden gearbeitet hätten. Die Reduktion der Arbeitsstunden beziehe sich auf die Reinigung der Aula. Im Jahr 2020 sei der Belegungsplan der Aula von durchschnittlich 125 Belegungstagen auf 80 Tage zurückgegangen. Zudem sei die Aula während mehreren Wochen fix bestuhlt gewesen. Deshalb sei im Jahr 2020 von einem deutlich tieferen Reinigungsaufwand auszugehen. Zudem sei das Recht auf Poolstunden ein Stellvertretungsmandat, welches jederzeit eingeschränkt oder entzogen werden könne.
+Die Personalrekurskommission heisst den Rekurs gut und spricht den Rekurrenten die volle Entschädigung aus dem "Pool für Reinigungshilfen" zu.
+Aus den Erwägungen:
+2. Entlöhnung aus dem "Pool Reinigungshilfen"
+2.1. Die Rekurrenten verlangen im Wesentlichen eine Entlöhnung aus dem "Pool Reinigungshilfen", ohne die dafür geleistete Arbeit nachweisen zu müssen. Die Schule R stellt sich demgegenüber auf den Standpunkt, dass die Rekurrenten beweispflichtig dafür seien, mehr als die ihnen zugestandenen Stunden für die Zusatzreinigungen geleistet zu haben. Einen grundsätzlichen Rechtsanspruch auf eine volle Entlöhnung aus dem "Pool Reinigungshilfen" hätten sie nicht.
+2.2. Das Gesamtpensum der von H betreuten Areale beträgt laut Anstellungsentscheid total 2'729 Stunden. Davon entfallen 1'936 Stunden auf die Haupttätigkeit als Hauswart. Weitere 581 Stunden werden für die Reinigungshilfe gerechnet und 212 Stunden für Grund- und Zusatzreinigungsstunden. Vorliegend umstritten sind namentlich die letztgenannten Grund- und Zusatzreinigungsstunden. Aus dem Anstellungsentscheid geht indes nicht hervor, wie diese Stunden konkret gehandhabt werden.
+Noch unklarer ist das Anstellungsverhältnis von S. Im Recht liegt lediglich ein Anstellungsentscheid vom 31. Oktober 2013. S war demnach - zumindest ursprünglich - nur zu 30 % angestellt. Dass sie inzwischen zu 100 % arbeitet, ist unbestritten. Die weiteren Einzelheiten ihrer Anstellung, namentlich betreffend die Zusatzreinigungsstunden, sind überhaupt nicht dokumentiert.
+Die umstrittene Kernfrage, ob die Rekurrenten einen grundsätzlichen Anspruch auf Entlöhnung der 313 Stunden aus dem "Pool Reinigungshilfen" haben, wird damit weder in den Anstellungsentscheiden noch in anderen Dokumenten beantwortet. Zu prüfen sind daher die tatsächlichen Umstände.
+2.3. Die Schule R kürzte in der Schlussabrechnung 2020 die Reinigungsstunden der Rekurrenten für die Aula um die Hälfte des gesamten Reinigungspensums bzw. um 120 Stunden mit der Begründung, dass im Corona-Jahr 2020 die Belegung der Aula massiv tiefer ausgefallen sei. Die Arbeitgeberin kann grundsätzlich eine Reduktion des Beschäftigungsgrades anordnen, wenn die betrieblichen Verhältnisse dies verlangen (§ 63 Abs. 2 RSV). Eine solche Änderung ist indes unter Einhaltung analoger Fristen und Termine zur ordentlichen Kündigung mitzuteilen sowie zu begründen, und die betroffenen Mitarbeitenden sind anzuhören (§ 63 Abs. 3 RSV).
+Vorliegend wurden die Rekurrenten vor Erlass der Schlussabrechnung angehört. So führte der Schulsekretär mit ihnen am 11. Dezember 2020 ein Gespräch und teilte ihnen die beabsichtigte Stundenkürzung mit. Das Gespräch ist nicht dokumentiert, wird seitens der Rekurrenten aber anerkannt. Die Rekurrenten waren mit der Kürzung nicht einverstanden und gelangten daher an den Schulpräsidenten, der sich die Einwände der Rekurrenten ebenfalls anhörte. Entgegen den Vorbringen der Rekurrenten setzt das rechtliche Gehör nicht deren Schriftlichkeit voraus. Entscheidend ist vielmehr, dass die Behörde vor Erlass ihrer Verfügung die Betroffenen anhört und in Kenntnis ihrer Argumente eine Entscheidung trifft. Zudem hatten die Rekurrenten nach den Gesprächen genügend Zeit, sich nochmals und schriftlich zur beabsichtigen Kürzung zu äussern. Die Schule R kannte somit die Argumente der Rekurrenten und fällte ihren Entscheid in Kenntnis dieser Einwände. Das rechtliche Gehör wurde damit hinreichend gewährt.
+2.4. Die Schule R hielt indes die gesetzliche Frist für die einseitige Änderung der Vertragsverhältnisse nicht ein (§ 63 Abs. 3 RSV); die Frist betrug in beiden Fällen 3 Monate. Fraglich ist allerdings, ob diese Frist auch bei Zusatzleistungen einzuhalten ist.
+Hierbei ist zunächst zu berücksichtigen, dass die Schule R den Rekurrenten die Zusatzstunden aus dem "Pool Reinigungshilfen" bislang stets ausbezahlt hat, ohne dass die Rekurrenten hierfür die geleisteten Stunden nachweisen mussten. Einzig die Leistungen von Dritten wurden zuvor abgezogen, der Rest wurde den Rekurrenten ausbezahlt. Dies hat die Schule R selbst bestätigt. Damit gehörten diese Zusatzstunden zum (variablen) Grundlohn der Rekurrenten. Die Auszahlung dieser Stunden kann die Schule R daher nicht ohne Weiteres und nach eigenem Ermessen einseitig abändern.
+Es gilt zwar der Grundsatz "ohne Arbeit kein Lohn". Dieser Grundsatz kennt aber Ausnahmen, wie zum Beispiel in Krankheitsfällen (Art. 324a OR) oder wenn die Arbeit infolge Verschuldens des Arbeitgebers nicht geleistet werden kann (Art. 324 OR). So trägt der Arbeitgeber grundsätzlich das Betriebsrisiko als Teil des Unternehmerrisikos. Er hat das Risiko von Betriebsstörungen selbst zu tragen. In diesem Fall ist der Lohn weiterhin geschuldet, auch wenn der Arbeitgeber den Arbeitnehmenden nicht genügend Arbeit anbieten kann - wie zum Beispiel bei fehlender Rohstofflieferung oder Unterbrechung der Energieversorgung. Auch die Schliessung des Betriebes auf behördliche Anweisung hin gehört zum Betriebsrisiko. In diesen Fällen haben die Arbeitnehmenden Anspruch auf Lohnfortzahlung. Ist nicht genügend Arbeit vorhanden und bietet der Arbeitnehmer seine Arbeit an, gerät der Arbeitgeber in Annahmeverzug; er schuldet weiterhin den Lohn.
+Vorliegend gab es in der Aula infolge der Corona-Massnahmen offenbar weniger Arbeit. Da nichts Anderes vereinbart war und die Schule R den Rekurrenten bis dahin ohne Nachweis von Arbeitsstunden die 313 Stunden für die Reinigung der Aula ausbezahlt hatte, trug die Schule R das Betriebsrisiko. Es wäre an ihr gelegen, den Rekurrenten stattdessen andere Arbeiten zuzuweisen oder sie hätte die vertraglichen Bestimmungen zu diesen Zusatzstunden deutlicher regeln müssen.
+2.5. Die Arbeitsverhältnisse der Rekurrenten sind letztlich komplex. So wird unterschieden zwischen Hauswartarbeiten als Haupttätigkeit und Grund- und Zusatzreinigungsstunden als Nebentätigkeit. Die Rekurrenten werden zudem für das "Littering" und für "Zusatzstunden Aula / Mehrzweckraum" zusätzlich entschädigt. Für Aussenstehende sind die Arbeitsverhältnisse und das Abrechnungssystem nicht ohne Weiteres verständlich und nachvollziehbar. Gerade in solchen Konstellationen obliegt es der Schule R als Arbeitgeberin, die Verhältnisse klar zu regeln und zu dokumentieren. Wenn sie dies - wie hier - nicht tut und die Rekurrenten während Jahren ohne Nachweis der geleisteten Stunden vollumfänglich entschädigt, ist davon auszugehen, dass diese Regelung (auch weiterhin) Gültigkeit hat. Diese Regelung kann die Schule R nicht irgendwann und ohne Einhaltung der gesetzlichen Voraussetzungen einseitig anpassen.
+Hinzu kommt, dass die Kürzung um die Hälfte der Reinigungsstunden nicht nachvollziehbar begründet wird und daher offenbar rein willkürlich erfolgte. Wie die Schule R selbst aufzeigt, ist die Belegung der Aula von durchschnittlich 125 Tagen auf 80 Tage zurückgegangen, was freilich nicht der Hälfte entspricht.
+Damit besteht für die einseitig vorgenommene Reduktion aus dem "Pool Reinigungshilfen" rechtlich keine hinreichende Grundlage. Den Rekurrenten steht bis auf Weiteres ein grundsätzlicher Anspruch auf Entlöhnung aus dem "Pool Reinigungshilfen" zu, abzüglich der von Dritten geleisteten Arbeitsstunden. Der Rekurs ist somit gutzuheissen.
+Entscheid der Personalrekurskommission vom 9. Juli 2021, A.2021.4, § 8 / 2021
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
