@@ -1,0 +1,69 @@
+---
+decision_id: "tg_obergericht_TVR_2022_Nr._1"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2022 Nr. 1"
+decided: "2022-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2022-nr-1"
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/101/art-010.md", "switzerland/bund/acts/210/art-028.md", "switzerland/bund/acts/210/art-268c.md", "switzerland/bund/acts/210/art-272.md"]
+---
+
+# TG Obergericht TVR 2022 Nr. 1
+
+## Regeste
+
+Einsicht in Akten der Vormundschaftsbehörde
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2022 TVR 2022 Nr. 1
+Thurgovie Obergericht Rechenschaftsbericht 2022 TVR 2022 Nr. 1
+Turgovia Obergericht Rechenschaftsbericht 2022 TVR 2022 Nr. 1
+
+TVR 2022 Nr. 1
+Skip to main content
+Show navigation
+Einsicht in Akten der Vormundschaftsbehörde
+Art. 8 EMRK
+,
+Art. 10 Abs. 2 BV
+,
+Art. 28 ZGB
+,
+Art. 272 ZGB
+,
+Art. 7 Abs. 1 UN-KRK
+,
+§ 20 TG DSG
+,
+§ 21 Abs. 1 TG DSG
+,
+§ 14 VRG
+,
+§ 19 Abs. 1 ArchivG
+Der Anspruch auf Erforschung der eigenen Herkunft gehört nach allgemeiner Auffassung zum von Art. 28 ZGB gewährleisteten Schutz der Identität (BGE 134 III 241).
+Das Recht auf Einsicht in Akten, die persönliche Angaben enthalten, geht gemäss der Rechtsprechung auch aus dem Verfassungsrecht der persönlichen Freiheit hervor (Art. 10 Abs. 2 BV). Art. 7 Abs. 1 UN-KRK gewährt jedem Kind das Recht, "soweit wie möglich, seine Eltern zu kennen und von ihnen betreut zu werden". Art. 8 EMRK gewährleistet zudem das Recht auf Achtung des Privat- und Familienlebens.
+Vorliegend steht ein Gesuch um Einsicht in die Akten der Vormundschaftsbehörde betreffend Vaterschaftsabklärung (und nicht ein Gesuch um Einsichtnahme in "reine" Vormundschaftsakten) zur Diskussion. In diesem Verfahren betreffend Vaterschaftsabklärung war die Beschwerdeführerin Klägerin. Das der Beschwerdeführerin als damalige Klägerin in jenem Zeitpunkt vollumfänglich zustehende und zugestandene Akteneinsichtsrecht ihr nun im Nachhinein abzusprechen und ihr die (nochmalige) Einsicht in jene Informationen, die ihr über ihren Beistand bereits damals zugänglich waren, zu verweigern, lässt sich nicht rechtfertigen.
+Die Beschwerdeführerin wurde im Jahr 1964 geboren. Ihre Mutter mit Jahrgang 1938 war ledig. Für das Kind wurde ein Beistand bestellt. Die Mutter machte zum Zeitpunkt der Geburt keine Angaben zum Vater und weigerte sich in der Folge, sich und das Kind erbbiologisch begutachten zu lassen. Zudem verzichtete sie in ihrem Namen und in demjenigen ihres Kindes auf eine Weiterverfolgung der Vaterschaft. Das Bezirksgericht schrieb eine eingereichte Vaterschaftsklage zufolge Rückzugs ab. Der in Betracht gezogene Vater hat die Vaterschaft stets bestritten.
+Am 10. Dezember 2021 stellte die Beschwerdeführerin beim Staatsarchiv des Kantons Thurgau ein Gesuch um Einsicht in die Akten der Vormundschaftsbehörde A. Sie begründete dies damit, dass sie Angaben über ihren leiblichen Vater suche. Das Staatsarchiv wies das Gesuch ab. Die Beschwerdeführerin gelangte mittels Rekurs ans DIV. Dieses bestätigte den angefochtenen Entscheid. Das Verwaltungsgericht heisst die von der Beschwerdeführerin hiergegen erhobene Beschwerde gut.
+Aus den Erwägungen:
+2.
+2.1 Der Anspruch auf Erforschung der eigenen Herkunft gehört nach allgemeiner Auffassung zum von Art. 28 ZGB gewährleisteten Schutz der Identität (BGE 134 III 241). Sodann entspringt aus der zwischen Eltern und Kindern geltenden Beistandspflicht gemäss Art. 272 ZGB die Pflicht zur gegenseitigen Information, soweit diese zur Wahrung schutzwürdiger Interessen erforderlich ist (Schwenzer, in: Geiser/Fountoulakis [Hrsg.], Basler Kommentar, Zivilgesetzbuch I, 6. Aufl., 2018, Art. 272 N. 5). Auch wenn die Pflichten aus Art. 272 ZGB grundsätzlich nicht klagbar sind (Schwenzer, a.a.O., Art. 272 N. 9), so ergibt sich aus dieser Leitbildnorm und einer grundrechtskonformen Auslegung des privatrechtlichen Schutzes der Identität, dass sich das Kind zur Geltendmachung seines Anspruchs auf Kenntnis der eigenen Abstammung auf das Persönlichkeitsrecht berufen kann (BGE 134 III 241 E. 5.3.1). Dies wurde auch in Art. 268c ZGB (Auskunft über die Adoption und die leiblichen Eltern sowie deren Nachkommen) konkretisiert.
+2.2 Das Recht auf Einsicht in Akten, die persönliche Angaben enthalten, geht gemäss der Rechtsprechung auch aus dem Verfassungsrecht der persönlichen Freiheit hervor (Art. 10 Abs. 2 BV), welche nicht nur die Gewährleistung der Bewegungsfreiheit oder den Schutz der persönlichen Unversehrtheit bezweckt, sondern auch allgemein die Achtung der Persönlichkeit garantiert (BGE 126 I 112 ff. und BGE 125 I 257 E. 3b mit weiteren Hinweisen). Das Sammeln, die Bearbeitung und die Aufbewahrung von Personendaten gehören auch zum Anwendungsbereich von Art. 8 EMRK (Entscheide des Europäischen Gerichtshofs für Menschenrechte vom 7. Juli 1989 i.S. Gaskin, Serie A, Bd. 160, § 37, und vom 26. März 1987 i. S. Leander, Serie A, Bd. 116, § 48; BGE 125 I 257 E. 3b; BGE 122 I 153 E. 6b/cc), der indes im hier interessierenden Zusammenhang nicht über den Gehalt der persönlichen Freiheit hinausgeht, wie sie durch die Bundesverfassung gewährleistet ist (vgl. etwa BGE 126 I 112 E. 3a mit Hinweisen). Im Entscheid Gaskin erklärte der Gerichtshof, eine Person, die nicht in der eigenen Familie aufgewachsen sei, habe an sich ein von der Konvention geschütztes Recht, über die Kindheit und die Jahre der Entwicklung Auskunft zu erhalten, und es gehe nicht an, die Akteneinsicht einzig von der Zustimmung von Informanten abhängig zu machen (BGE 128 I 63 E. 3.1).
+2.3 Die UN-KRK wurde von der Schweiz im Jahr 1997 ratifiziert. Art. 7 Abs. 1 UN-KRK gewährt jedem Kind "soweit möglich das Recht, seine Eltern zu kennen und von ihnen betreut zu werden". Art. 8 EMRK gewährleistet zudem das Recht auf Achtung des Privat- und Familienlebens. Der Schutz dieser Bestimmung umfasst vielfältige Lebensbereiche und wurde durch die Praxis des Europäischen Gerichtshofs allmählich näher definiert (Büchler/Ryser, Das Recht des Kindes auf Kenntnis seiner Abstammung, FamPra.ch-2009-6 f. vom 17. Februar 2009; vgl. auch BGE 125 I 257 und BGE 128 I 63 E. 3.2.2).
+2.4 Grundlage für die Einsichtnahme in Akten bzw. Daten kantonaler Behörden bildet im Kanton Thurgau zudem auch das TG DSG. Gemäss § 20 TG DSG kann jedermann vom verantwortlichen Organ Einsicht in Daten verlangen, die über ihn in einer im Register enthaltenen Datensammlung vorhanden sind. Die Einsicht in Personendaten kann eingeschränkt oder verweigert werden, wenn wichtige öffentliche oder schutzwürdige private Interessen dies erfordern (§ 21 Abs. 1 TG DSG). Ein Akteneinsichtsrecht ist zudem auch in § 14 VRG statuiert. Demgemäss hat jedermann Anspruch auf Einsicht in die Akten, die ihn betreffen, soweit nicht überwiegende öffentliche oder private Interessen entgegenstehen. Dies wird auch in § 14 Abs. 2 KV unter den Verfahrensgarantien so festgehalten.
+2.5 Nicht anwendbar ist hingegen das BGÖ und das ÖffG (zeitlicher Geltungsbereich). Das für Akten, die älter als 20 Jahre sind, anwendbare kantonale ArchivG sieht für Akten mit besonders schützenswerten Personendaten eine Schutzfrist von 100 Jahren vor (§ 18 Abs. 2 ArchivG i. V. mit § 3 Abs. 2 Ziff. 2 TG DSG). Das zuständige Archiv kann auf Gesuch hin vor Ablauf der Schutzfrist Zugang zu Archivgut gewähren, wenn keine gesetzlichen Vorschriften der Einsichtnahme entgegenstehen und wenn die angeführten Gründe die öffentlichen oder schützenswerten privaten Interessen überwiegen oder die betroffene Person in die Einsichtnahme einwilligt (§ 19 Abs. 1 ArchivG).
+2.6 Zusammengefasst hat die Beschwerdeführerin somit ein Anrecht auf Einsicht in die sich beim Staatsarchiv befindenden Akten der Vormundschaftsbehörde A, sofern dem nicht überwiegende öffentliche oder private Interessen entgegenstehen. Es hat somit eine umfassende Interessensabwägung zu erfolgen und es ist insbesondere zu prüfen, ob dem persönlichkeitsrechtlichen Interesse der Beschwerdeführerin an der Erforschung der eigenen Herkunft sowie ihrem Recht auf Einsicht in Akten, die persönliche Angaben enthalten, ein überwiegendes Interesse des Persönlichkeitsschutzes von anderen Personen entgegensteht (vgl. auch Art. 28 Abs. 2 ZGB; BGE 134 III 241 E. 5.4).
+3.
+3.1 Die Mutter der Beschwerdeführerin wollte dieser die Identität des Vaters nie mitteilen, auch nicht nach ihrer Rückkehr nach E. Es liegt somit klarerweise nicht im Interesse der Mutter, dass die Beschwerdeführerin nunmehr Einsicht in die Akten der Vormundschaftsbehörde erthält. (…)
+3.2 Der Vater der Beschwerdeführerin konnte nie festgestellt werden. Zwar fand im Dezember 1964 vor dem Friedensrichter eine Einigungsverhandlung statt und es wurde in der Folge vor Bezirksgericht eine Vaterschaftsklage erhoben. Diese wurde jedoch am 16. Februar 1968 zufolge Rückzugs der Klage am Protokoll abgeschrieben. Dazu war vorgängig die Einwilligung des Konsulates von E eingeholt worden. Der damalige Beklagte hatte die Vaterschaft stets und von Anfang an bestritten. Aus den Akten ergeben sich keinerlei Anhaltspunkte, weshalb dieser überhaupt als mutmasslicher Vater in Betracht gezogen wurde. Es gibt keine klaren Anzeichen oder Beweise, die seine Vaterschaft in irgendeiner Weise belegen oder diese plausibel machen würden. Insofern unterscheidet sich der vorliegende Sachverhalt von den Fällen nach einer Adoption, wo sichere Kenntnis der leiblichen Eltern besteht (vgl. BGE 128 I 63). Es ist nicht bekannt, in welcher Beziehung der mutmassliche Vater zur Mutter der Beschwerdeführerin stand (…). Der Persönlichkeitsschutz dieses Mannes - von dem nichts weiter bekannt ist - ist mit zu berücksichtigen.
+3.3 Vorliegend fällt allerdings entscheidend ins Gewicht, dass ein Gesuch um Einsicht in die Akten der Vormundschaftsbehörde betreffend Vaterschaftsabklärung (und nicht ein Gesuch um Einsichtnahme in "reine" Vormundschaftsakten) zur Diskussion steht. In diesem Verfahren betreffend Vaterschaftsabklärung war die Beschwerdeführerin Klägerin. Der Umstand, dass für die Führung des Verfahrens eine Beistandschaft für die Beschwerdeführerin (die damals noch ein kleines Kind war) ernannt wurde, ändert hieran nichts. Im Zeitpunkt der Einleitung bzw. Hängigkeit dieses Verfahrens waren die Akten dem für die Beschwerdeführerin handelnden Beistand unbestrittenermassen ohne jegliche Einschränkung zugänglich. Das gilt auch für die Identität des Beklagten. Das der Beschwerdeführerin als damalige Klägerin in jenem Zeitpunkt vollumfänglich zustehende und zugestandene Akteneinsichtsrecht ihr nun im Nachhinein abzusprechen und ihr die (nochmalige) Einsicht in jene Informationen, die ihr über ihren Beistand bereits damals zugänglich waren, zu verweigern, lässt sich nicht rechtfertigen. Vielmehr ist kein überzeugender Grund ersichtlich, der Beschwerdeführerin das, was sie vor mehr als 50 Jahren ohne Einschränkungen via ihren damaligen Beistand wissen durfte und wissen konnte, jetzt im Erwachsenenalter vorzuenthalten. Die Interessenabwägung fällt unter den gegebenen Umständen daher zugunsten der Beschwerdeführerin aus.
+4. Demzufolge ist die Beschwerde gutzuheissen und der Beschwerdeführerin ist Einsicht in die vollständigen sie betreffenden Akten der Vormundschaftsbehörde A betreffend Vaterschaftsabklärung zu gewähren.
+Entscheid des Verwaltungsgerichts VG.2022.68/E vom 31. August 2022
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
