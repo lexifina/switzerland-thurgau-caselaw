@@ -1,0 +1,78 @@
+---
+decision_id: "tg_obergericht_RBOG_2022_Nr._17"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2022 Nr. 17"
+decided: "2022-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2022-nr-17"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/210/art-276.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-118.md", "switzerland/bund/acts/272/art-119.md"]
+---
+
+# TG Obergericht RBOG 2022 Nr. 17
+
+## Regeste
+
+Berücksichtigung von Unterhaltszahlungen als Einkommensbestandteil bei der unentgeltlichen Rechtspflege
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 17
+Thurgovie Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 17
+Turgovia Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 17
+
+Berücksichtigung von Unterhaltszahlungen als Einkommensbestandteil bei der unentgeltlichen Rechtspflege
+
+RBOG 2022 Nr. 17
+Skip to main content
+Show navigation
+Berücksichtigung von Unterhaltszahlungen als Einkommensbestandteil bei der unent­geltlichen Rechtspflege
+Art. 117 lit. a ZPO
+Art. 29 Abs. 3 BV
+a)    Der Vater hat drei minderjährige Kinder, zwei Kinder aus einer im Jahr 2022 geschiedenen Ehe und den Beschwerdeführer, der aus einer früheren Beziehung stammt. Der Vater klagte beim Bezirksgericht auf Aufhebung beziehungsweise Reduktion der Unterhaltszahlung an den Beschwerdeführer, da sich seine finanziellen Verhältnisse aufgrund der Scheidung wesentlich verändert hätten.
+b)    Der Beschwerdeführer, vertreten durch seine Mutter, stellte ein Gesuch um unentgeltliche Rechtspflege, welches vom Einzelrichter des Bezirksgerichts abgewiesen wurde. Im Bedarf des Beschwerdeführers und seiner Mutter rechnete er den (noch) vom Vater geschuldeten Kindesunterhalt von Fr. 852.00 als Einkommen an. Es resultierte ein Überschuss von knapp Fr. 1'300.00 monatlich. Damit sei es dem Beschwerdeführer möglich, die anfallenden Prozess- und Anwaltskosten innert eines Jahres zu bezahlen. Er sei somit nicht bedürftig. Dagegen erhob der Beschwerdeführer Beschwerde.
+a)    Die Prozesskosten eines minderjährigen Kindes gehören zur Unterhaltspflicht der Eltern gemäss Art. 276 Abs. 1 ZGB. Diese sind gehalten, für die Prozesskosten ihrer minderjährigen Kinder aufzukommen[1]. Jede Person, die nicht über die erforderlichen Mittel verfügt, hat Anspruch auf unentgeltliche Rechtspflege, wenn ihr Rechtsbegehren nicht aussichtslos erscheint[2]. Die unentgeltliche Rechtspflege nach Art. 29 Abs. 3 BV und Art. 117 ff. ZPO dient dem Zugang zum Gericht. Mit dem Anspruch auf unentgeltliche Rechtspflege soll eine nicht über genügend finanzielle Mittel verfügende Partei in den Stand versetzt werden, zur Durchsetzung ihrer Rechte einen Prozess zu führen. Es soll ihr, gleich wie einer vermögenden Partei, der Zugang zum Gericht ungeachtet ihrer Bedürftigkeit gewährleistet sein[3]. Soweit es zur Wahrung ihrer Rechte notwendig ist, hat sie ausserdem Anspruch auf einen unentgeltlichen Rechtsbeistand[4]. Als bedürftig gilt eine Person dann, wenn sie die Kosten eines Prozesses nicht aufzubringen vermag, ohne jene Mittel anzugreifen, die für die Deckung des eigenen notwendigen Lebensunterhalts und desjenigen ihrer Familie erforderlich sind[5]. Die prozessuale Bedürftigkeit beurteilt sich grundsätzlich nach der gesamten wirtschaftlichen Situation des Rechtsuchenden im Zeitpunkt der Einreichung des Gesuchs. Dazu gehören einerseits sämtliche finanziellen Verpflichtungen und anderseits die Einkommens- und Vermögensverhältnisse[6]. Soweit das Vermögen einen angemessenen Notgroschen übersteigt, ist es der gesuchstellenden Partei ‑ ungeachtet der Art der Vermögensanlage ‑ grundsätzlich zuzumuten, dieses Vermögen zur Finanzierung des Prozesses zu verwenden[7]. Das Institut des Notgroschens soll verhindern, dass eine Person zur Führung eines Prozesses auch ihre letzten finanziellen Notreserven aufbrauchen muss[8]. Mittellosigkeit im Sinn von Art. 117 lit. a ZPO ist kein absoluter, sondern ein relativer Begriff, der sich jeweils aufgrund der konkreten wirtschaftlichen Verhältnisse der gesuchstellenden Person und im Hinblick auf die jeweilige Streitsache beurteilt[9]. Ein allfälliger Überschuss zwischen dem Einkommen und dem Notbedarf sowie im Vermögen der gesuchstellenden Person ist mit den für den konkreten Fall zu erwartenden Gerichts- und Anwaltskosten in Beziehung zu setzen[10]. Der Überschuss sollte eine Tilgung der Prozesskosten innerhalb von einem beziehungsweise bei aufwändigeren Prozessen innerhalb von zwei Jahren ermöglichen[11].
+b)    Massgebend sind die wirtschaftlichen Verhältnisse im Zeitpunkt der Einreichung des Gesuchs[12]. Bei bereits vor dem Zeitpunkt der Gesuchstellung rechtskräftigen Unterhaltsverpflichtungen ist entscheidend, ob und inwieweit Zahlungen erfolgen. Nach dem Effektivitätsgrundsatz[13] können der gesuchstellenden Person nur Ausgaben angerechnet werden, die tatsächlich und regelmässig anfallen; dasselbe gilt spiegelbildlich für Einnahmen[14]. Der Nachweis der effektiven Bezahlung kann etwa durch Kontoauszüge, Einzahlungsscheine oder ähnliche Dokumente erbracht werden[15]. Auf der Aktivseite bewirkt der Effektivitätsgrundsatz, dass dem Gesuchsteller ‑ mit Ausnahme von Fällen des Rechtsmissbrauchs ‑ kein hypothetisches oder zukünftiges Einkommen angerechnet werden darf[16]. Die Berücksichtigung von Vermögen setzt voraus, dass dieses im Zeitpunkt der Einreichung des Gesuchs tatsächlich vorhanden und verfügbar ist[17]. Jegliche Aufrechnung von hypothetischem Vermögen oder zukünftigem Vermögensanfall ist unzulässig[18].
+c)    Der Entscheid über die Gewährung oder Verweigerung der unentgeltlichen Rechtspflege erwächst als prozessleitende Verfügung nur in formelle, nicht jedoch in materielle Rechtskraft[19]. Eine Behörde ist daher verpflichtet, auf ein neues Gesuch einzutreten, wenn die Umstände sich seit dem ersten Entscheid wesentlich geändert haben oder wenn der Gesuchsteller erhebliche Tatsachen und Beweismittel namhaft macht, die ihm im früheren Verfahren nicht bekannt waren oder die schon damals geltend zu machen für ihn rechtlich oder tatsächlich unmöglich war oder keine Veranlassung bestand[20]. Beim Vorliegen von echten Noven steht es daher frei, ein neues Gesuch um unentgeltliche Rechtspflege zu stellen[21].
+d)    aa)    Bezüglich der Berücksichtigung der Unterhaltszahlungen zugunsten des Beschwerdeführers als Bestandteil des Einkommens seiner Mutter gibt es im Grundsatz zwei Berechnungsmethoden: Bei der ausgabenvermindernden Methode bleibt der Barunterhalt auf der Aktivseite unberücksichtigt, weil er für die Auslagen des Kindes zweckgebunden ist. Spiegelbildlich dazu werden auf der Passivseite die Auslagen für das Kind[22], zu deren Zweck der Unterhaltsbeitrag ausgerichtet wird, ausgeblendet. Bei der einkommensvermehrenden Methode wird der Barunterhalt auf der Aktivseite zwar berücksichtigt; bei der Bedarfsberechnung werden dafür die Auslagen für das Kind aufgeführt[23].
+bb)    Je nach Sachverhalt ist zu unterscheiden[24]: Im Mankofall ist es sachgerechter, den Kinderunterhaltsbeitrag zum Einkommen aufzurechnen und auf der anderen Seite im Rahmen der Gesamtrechnung auch die höheren Kosten für das Kind zum erweiterten Existenzminimum des Gesuchstellers zu berücksichtigen. Diese einkommensvermehrende Lösung entspricht den realen Verhältnissen und ist gegenüber der ausgabenvermindernden Methode zu bevorzugen, weil bei jener sämtliche Ausgaben für das Kind ausgeklammert werden, obwohl der vom anderen Ehegatten geleistete Unterhaltsbeitrag dazu nicht ausreicht und in der Realität der Gesuchsteller selber für die Kosten aufzukommen hat[25].
+cc)    Das Bundesgericht hat sich in einem Entscheid aus dem Jahr 1989[26] dafür ausgesprochen, dass ‑ ausser in wenigen Ausnahmefällen ‑ die ausgabenvermindernde Berechnungsmethode gilt, womit bei der Abklärung der Bedürftigkeit nur das Einkommen der gesuchstellenden Person selbst berücksichtigt werden darf[27]. Anders verhält es sich mit dem Betreuungsunterhalt, welcher zwar rechtlich einen Anspruch des Kindes darstellt, wirtschaftlich aber dem betreuenden Elternteil zukommen soll. Dieser Betreuungsunterhalt wird dem Einkommen der hauptsächlich betreuenden Person angerechnet[28]. Demgemäss ist im Grundsatz von der ausgabenvermindernden Berechnungsmethode auszugehen, wobei die Anwendung der einkommensvermehrenden Berechnungsmethode aber ebenso zielführend sein kann.
+a)    Soweit der Beschwerdeführer rügt, dass die Unterhaltsbeiträge nicht als Einkommen berücksichtigt werden dürften, wenn gerade dieser Kindesunterhalt umstritten sei, ist ihm nicht zu folgen. Aufgrund der Scheidung und der in der Hauptsache hängigen Klage auf Abänderung des Unterhaltsvertrags und Aufhebung beziehungsweise Anpassung der Unterhaltsbeiträge für den Beschwerdeführer ist eine Veränderung zwar wahrscheinlich, beziehungsweise es ist damit zu rechnen. Die Vorinstanz hat mit dem Scheidungsurteil Kenntnis vom Bedarf der anderen beiden Kinder erhalten und ebenso von der Tatsache, dass sich der Vater verpflichtete, den Barbedarf eines Kindes vollumfänglich und den Barbedarf seines anderen Kindes im Umfang von Fr. 500.00 monatlich zu tragen. Unter Berücksichtigung des Grundsatzes der Gleichbehandlung der Kinder[29] werden die Unterhaltsbeiträge für den Beschwerdeführer jedoch nicht vollständig entfallen. Ab welchem Zeitpunkt und in welchem Umfang sich diese Veränderungen auswirken, ist jedoch nicht klar und war für die Vorinstanz im Zeitpunkt des Entscheids über die unentgeltliche Rechtspflege auch nicht absehbar. Sollte sich die Unterhaltsverpflichtung in massgeblichem Umfang reduzieren, wäre auf den Entscheid zurückzukommen.
+b)    Auf der Einkommensseite des Beschwerdeführers und seiner Mutter wurde mit Gesuch um unentgeltliche Rechtspflege neben dem Erwerbseinkommen der Mutter unter der Position sonstige Einkünfte (Kinderalimente) der Betrag von Fr. 852.00 deklariert. Aus dem Kontoauszug der Mutter des Beschwerdeführers geht hervor, dass dieser Betrag, der sich auf den rechtskräftigen Unterhaltsvertrag stützt, für die Monate Januar bis März 2022 effektiv eingegangen ist. Daran ändern auch die Verlustscheine gegen den Vater für die von der Gemeinde bevorschussten Unterhaltsbeiträge für die Zeit von Mai 2018 bis Februar 2021 nichts. Dieser Unterhaltsbeitrag gilt einstweilen weiter und gestützt darauf kann der Beschwerdeführer auch die ihm zustehenden Unterhaltsbeiträge bei allfälliger Nichtbezahlung bevorschussen lassen.
+c)    Daher hat die Vorinstanz weder geltendes Recht verletzt noch den Sachverhalt willkürlich festgestellt, indem sie die Unterhaltsbeiträge des Beschwerdeführers als Einkommensposition berücksichtigt hat.
+Obergericht, 1. Abteilung, 6. Juli 2022, ZR.2022.28
+[1]  BGE 127 I 206
+[2]  Art. 117 ZPO; RBOG 2012 Nr. 13 Erw. 3.a
+[3]  BGE 144 III 537
+[4]  Art. 118 Abs. 1 lit. c ZPO
+[5]  BGE 135 I 223; BGE 128 I 232
+[6]  BGE 135 I 223; BGE vom 13. September 2016, 5A_279/2016, Erw. 5.3; BGE vom 26. Februar 2015, 5A_761/2014, Erw. 3.1; RBOG 2012 Nr. 8 Erw. 2.a
+[7]  BGE 144 III 537; RBOG 2012 Nr. 8 Erw. 2.b
+[8]  BGE vom 28. April 2017, 5A_216/2017, Erw. 2.4; BGE vom 26. Oktober 2010, 5A_612/2010, Erw. 2.3; Emmel, in: Kommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Hasenböhler/Leuenberger), 3.A., Art. 117 N. 7
+[9]  Huber, in: Schweizerische Zivilprozessordnung (Hrsg.: Brunner/Gasser/Schwander), 2.A., Art. 117 N. 16
+[10] BGE 118 Ia 370 f.; BGE vom 28. Januar 2008, 5A_663/2007, Erw. 3.1; RBOG 2018 Nr. 6
+[11] BGE vom 13. September 2016, 5A_279/2016, Erw. 5.3; BGE vom 28. Januar 2008, 5A_663/2007, Erw. 3.1; BGE vom 11. September 2007, 4A_87/2007, Erw. 2.1; RBOG 2018 Nr. 6; Huber, Art. 117 ZPO N. 17
+[12] BGE 135 I 223; BGE 122 I 6; BGE vom 26. Februar 2015, 5A_761/2014, Erw. 3.1; Huber, Art. 117 ZPO N. 20
+[13] Emmel, Art. 117 ZPO N. 5; Huber, Art. 117 ZPO N. 19
+[14] BGE 135 I 227; BGE vom 14. Mai 2020, 2C_274/2020, Erw. 3.4; BGE vom 19. August 2016, 5D_49/2016, Erw. 2.3; BGE vom 8. April 2014, 5A_32/2014, Erw. 3.3; BGE vom 31. Juli 2013, 4A_319/2013, Erw. 2.2; Emmel, Art. 117 ZPO N. 11; Huber, Art. 117 ZPO N. 19 i.V.m. 26
+[15] Wuffli/Fuhrer, Handbuch unentgeltliche Rechtspflege im Zivilprozess, Zürich/St. Gallen 2019, N. 134
+[16] Wuffli, Die unentgeltliche Rechtspflege in der Schweizerischen Zivilprozessordnung, Diss. Bern 2015, N. 133
+[17] BGE 118 Ia 370 f.
+[18] Wuffli, N. 134
+[19] BGE vom 27. Februar 2019, 5A_872/2018, Erw. 3.3.2
+[20] Bühler, Berner Kommentar, Bern 2012, Art. 119 ZPO N. 68c f.
+[21] BGE vom 20. März 2018, 5A_886/2017, Erw. 3.3.2; BGE vom 29. September 2015, 5D_112/2015, Erw. 4.4.2
+[22] Erweiterter Grundbedarf, Krankenkasse, Wohnkostenanteil
+[23] Bühler, Die Prozessarmut, in: Gerichtskosten, Parteikosten, Prozesskaution, unentgeltliche Prozessführung (Hrsg.: Schöbi), Bern 2001, S. 148; Wuffli, N. 227; Wuffli/Fuhrer, N. 238 ff.
+[24] Bühler, Prozessarmut, S. 148; Huber, Art. 117 ZPO N. 33; Wuffli, N. 230. f.; Wuffli/Fuhrer, N. 243 f.
+[25] Wuffli, N. 230. f.; Wuffli/Fuhrer, N. 243 f.
+[26] BGE 115 Ia 325
+[27] BGE 115 Ia 325 (Regeste); BGE vom 23. Mai 2018, 5A_726/2017, Erw. 4.4.2; BGE vom 15. Januar 2014, 5A_661/2013, Erw. 4.3; BGE vom 24. März 2005, 7B.35/2005, Erw. 4.2; vgl. aber BGE vom 27. Juni 2008, 4A_231/2008, Erw. 4.2, in welchem das Bundesgericht die von der Vorinstanz angewendete einkommensvermehrende Berechnungsmethode geschützt hat.
+[28] BGE vom 23. Mai 2018, 5A_726/2017, Erw. 4.4.3; Jent-Sørensen, in: Schweizerische Zivilprozessordnung, Kurzkommentar (Hrsg.: Oberhammer/Domej/Haas), 3.A., Art. 117 N. 28; Wuffli/Fuhrer, N. 246
+[29] Vgl. BGE 137 III 59 (Regeste)
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
