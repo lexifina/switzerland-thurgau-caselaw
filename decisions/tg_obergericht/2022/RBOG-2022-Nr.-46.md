@@ -1,0 +1,48 @@
+---
+decision_id: "tg_obergericht_RBOG_2022_Nr._46"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2022 Nr. 46"
+decided: "2022-01-06"
+published: "2022-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2022-nr-46"
+cites_law: ["switzerland/bund/acts/312.0/art-107.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-318.md"]
+---
+
+# TG Obergericht RBOG 2022 Nr. 46
+
+## Regeste
+
+Formelle Anforderungen an einen Beweisantrag
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 46
+Thurgovie Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 46
+Turgovia Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 46
+
+RBOG 2022 Nr. 46
+Skip to main content
+Show navigation
+Formelle Anforderungen an einen Beweisantrag
+Art. 318 Abs. 1 StPO
+Art. 318 Abs. 2 StPO
+Art. 107 Abs. 1 lit. e StPO
+a)    Der Beschwerdeführer ist beschuldigte Person in einem bei der Staatsanwaltschaft X hängigen Strafverfahren.
+b)    Die Staatsanwaltschaft Y führt in diesem Zusammenhang ein weiteres Strafverfahren gegen verschiedene Personen, wobei sich der Beschwerdeführer in jenem Strafverfahren als Privatkläger konstituierte. Gestützt auf einen Hausdurchsuchungsbefehl durchsuchten die Untersuchungsbehörden die Räumlichkeiten des Amtes A und stellten Unterlagen und Gegenstände sicher und beschlagnahmten sie. Später hob die Staatsanwaltschaft Y diese Beschlagnahmeverfügung wieder auf und ordnete die Retournierung der beschlagnahmten Unterlagen und Gegenstände an das Amt A sowie die Vernichtung aller nicht potentiell verfahrensrelevanter Daten und Datenträger an. Auf eine vom Beschwerdeführer dagegen erhobene Beschwerde trat das Obergericht nicht ein[1].
+c)    In der Folge stellte der Beschwerdeführer bei der Staatsanwaltschaft X den Beweisantrag, es seien die von der Staatsanwaltschaft Y in der Verfügung betreffend Aufhebung der Beschlagnahme bezeichneten Unterlagen und Gegenstände sowie elektronischen Daten und Datenträger unverzüglich zu beschlagnahmen. Die Staatsanwaltschaft X wies diesen Beweisantrag ab. Dagegen erhob der Beschwerdeführer Beschwerde.
+a)    Eine antizipierte Beweiswürdigung ist nur möglich, anfechtbar und überprüfbar, wenn ein genügend konkret begründeter Beweisantrag vorliegt. Das ergibt sich zum einen aus dem Begriff des Beweisantrags als Antrag, ein bestimmtes Beweismittel zum Nachweis eines bestimmten Umstands (sogenannte Beweistatsache) zu verwenden[2]. Zum anderen geht auch aus Art. 318 Abs. 2 StPO selber hervor, dass mit den Beweisanträgen die Beweiserhebung über Tatsachen verlangt wird. Die Staatsanwaltschaft kann einen Beweisantrag demzufolge nur beurteilen, wenn er genügend konkret begründet ist und insbesondere die Tatsachen nennt, über welche Beweis erhoben werden soll.
+b)    Der Beschwerdeführer nannte in seiner Begründung die Tatsachen nicht, über die hätte Beweis erhoben werden sollen. Er hätte zumindest ansatzweise dartun müssen, wonach gesucht werden soll, also welche Dokumente, Gegenstände oder Daten weshalb im gegen ihn geführten Strafverfahren inwiefern eine Bedeutung haben könnten. Er hätte insbesondere ausführen müssen, welche Tatvorwürfe gegen ihn mit welchen zu beschlagnahmenden Dokumenten, Gegenständen oder Daten entkräftet oder relativiert werden sollten. Es gilt dabei zu beachten, dass der abgelehnte Beweisantrag auf Beschlagnahme von unzähligen Dokumenten und Daten lautete. Die Staatsanwaltschaft kann nicht unbesehen irgendwelche Dokumente und Daten beschlagnahmen, unabhängig davon, ob sie es von Amtes wegen tut oder auf Antrag einer Partei. Vielmehr muss sie sich an die Voraussetzungen der Beschlagnahme gemäss Art. 263 ff. StPO halten. So darf sie Gegenstände und Vermögenswerte unter anderem nur beschlagnahmen, wenn sie voraussichtlich als Beweismittel gebraucht werden[3]. Der Antrag des Beschwerdeführers auf Beschlagnahme der gesamten von der Staatsanwaltschaft Y freigegebenen Unterlagen, Gegenstände, Daten und Datenträger mit der Begründung, diese könnten enorm viel potentiell entlastendes Material für seine Verteidigung enthalten, erweist sich folglich als zu pauschal, weshalb ihn die Staatsanwaltschaft X nicht beurteilen konnte. Die Umsetzung eines solchen Antrags ohne Konkretisierung würde im Grunde genommen zu einer Beschlagnahme aufs Geratewohl und somit zu einer verbotenen Beweisausforschung[4] führen und jegliche Strafverfolgung lahmlegen. Es ist dabei unerheblich, dass die Dokumente, Gegenstände und Daten von einer anderen Strafverfolgungsbehörde in einem anderen Strafverfahren gegen andere Beschuldigte mit anderen Tatvorwürfen schon einmal beschlagnahmt wurden. Auch der Umstand, dass der Beschwerdeführer in jenem Strafverfahren Privatkläger ist, entbindet ihn nicht davon, Beweisanträge, die er im Verfahren vor der Staatsanwaltschaft X gegen ihn als Beschuldigten stellt, konkret zu begründen. Dafür muss er sich mit den ihm angelasteten Tatvorwürfen auseinandersetzen und bezogen darauf Beweisanträge stellen. Im Fall hier dagegen hat die Staatsanwaltschaft keine Ahnung, wonach sie suchen soll.
+Obergericht, 2. Abteilung, 6. Januar 2022, SW.2021.122
+Eine dagegen erhobene Beschwerde wies das Bundesgericht am 10. Oktober 2022 ab, soweit es darauf eintrat (1B_108/2022).
+[1]  RBOG 2021 Nr. 27
+[2]  Vest/Horber, Basler Kommentar, 2.A., Art. 107 StPO N. 33
+[3]  Art. 263 Abs. 1 lit. a StPO
+[4]  "Fishing Expedition"
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
