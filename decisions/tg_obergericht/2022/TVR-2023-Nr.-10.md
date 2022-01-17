@@ -1,0 +1,53 @@
+---
+decision_id: "tg_obergericht_TVR_2023_Nr._10"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2023 Nr. 10"
+decided: "2022-01-17"
+published: "2023-01-18"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2023-nr-10"
+cites_law: ["switzerland/bund/acts/0.101/art-005.md", "switzerland/bund/acts/142.20/art-076a.md", "switzerland/bund/acts/220/art-047.md", "switzerland/bund/acts/220/art-049.md", "switzerland/bund/acts/312.0/art-431.md"]
+---
+
+# TG Obergericht TVR 2023 Nr. 10
+
+## Regeste
+
+Entschädigung für widerrechtliche Ausschaffungshaft.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 18.01.2023 TVR 2023 Nr. 10
+Thurgovie Obergericht Rechenschaftsbericht 18.01.2023 TVR 2023 Nr. 10
+Turgovia Obergericht Rechenschaftsbericht 18.01.2023 TVR 2023 Nr. 10
+
+TVR 2023 Nr. 10
+Skip to main content
+Show navigation
+Entschädigung für widerrechtliche Ausschaffungshaft.
+§ 4 VerantwG
+,
+Art. 5 Ziff. 5 EMRK
+Bei widerrechtlicher Haft besteht ein Entschädigungsanspruch. Die Bemessung erfolgt unter Berücksichtigung der Besonderheiten des Einzelfalls, unter anderem der Lebenshaltungskosten im Heimatland sowie des Verhaltens der anspruchsberechtigten Person im Rahmen des Ausschaffungsverfahrens (E. 4). Bestätigung der Rechtsprechung gemäss TVR 2022 Nr. 7.
+Auf Anordnung des Migrationsamtes wurde der Kläger am 15. Juli 2021 für sechs Wochen in Dublin-Ausschaffungshaft (Art. 76a AIG) versetzt. Die erste geplante Ausschaffung musste aufgrund verweigerter Covid-Tests abgesagt werden. Der Kläger wurde aus der Ausschaffungshaft entlassen. Die geplante Überstellung auf dem Landweg konnte mangels Erscheinen des Klägers nicht erfolgen. Am 5. Januar 2022 ordnete das Migrationsamt erneut eine Dublin-Ausschaffungshaft an. Das Zwangsmassnahmengericht (ZMG) hielt mit Entscheid vom 17. Januar 2022 fest, dass die zulässige Haftdauer von höchstens sechs Wochen mit der Haft vom 15. Juli 2021 bis 26. August 2021 bereits erreicht worden sei und ordnete die unverzügliche Haftentlassung an. Am 2. Februar 2022 wurde der Kläger nach Deutschland ausgeschafft. Am 31. März 2022 erhob der Kläger Staatshaftungsklage gegen den Staat Thurgau und beantragte für die zu Unrecht erlittene Haft vom 5. bis 18. Januar 2022 eine Genugtuung im Betrag von Fr. 2'800.-- zuzüglich Zins von 5%. Das Verwaltungsgericht heisst die Klage teilweise gut.
+Aus den Erwägungen:
+4.
+4.1 Bei der Bemessung des Entschädigungsanspruchs im Rahmen des Staatshaftungsrechts wird die Praxis zur deliktsrechtlichen Genugtuung herangezogen. Besteht eine öffentlich-rechtliche Entschädigungspflicht im Zusammenhang mit prozessualen Massnahmen, ist die Genugtuung ebenfalls nach den zu Art. 49 Abs. 1 OR entwickelten Grundsätzen festzulegen (Landolt, Genugtuungsrecht, 2. Aufl. 2022, Rz. 65). Im Übrigen verweist auch § 13 VerantwG auf die Bestimmungen des OR. Auch im Rahmen der - vorliegend zwar nicht anwendbaren - strafprozessualen Bestimmungen nach Art. 429 Abs. 1 lit. c und Art. 431 Abs. 1 StPO beurteilt sich der Genugtuungsanspruch nach Art. 49 OR (BGE 146 IV 231 E. 2.3.1; Wehrenberg/Frank, in: Niggli/Heer/Wiprächtiger [Hrsg.], Basler Kommentar [BSK], Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, 2. Aufl. 2014, Art. 431 N. 9).
+4.2
+4.2.1 Die Festlegung der Genugtuungssumme beruht auf der Würdigung sämtlicher Umstände und richterlichem Ermessen (BGE 146 IV 231 E. 2.3.1). Bemessungskriterien sind vor allem die Art und Schwere der Verletzung, die Intensität und Dauer der Auswirkungen auf die Persönlichkeit des Betroffenen, der Grad des Verschuldens des Haftpflichtigen, ein allfälliges Selbstverschulden des Geschädigten sowie die Aussicht auf Linderung des Schmerzes durch die Zahlung eines Geldbetrags. Abzustellen ist auf einen Durchschnittsmassstab (BGE 146 IV 231 E. 2.3.1; vgl. auch Brehm, Berner Kommentar Obligationenrecht [BK OR], Die Entstehung durch unerlaubte Handlungen, Art. 41-61 OR, 5. Aufl. 2021, Art. 49 N. 7). Je schwerwiegender die Umstände sind und je intensiver die Unbill auf den Anspruchsteller eingewirkt hat, desto höher ist grundsätzlich die Genugtuungssumme (Kessler, in: Widmer Lüchinger/Oser [Hrsg.], Basler Kommentar Obligationenrecht I [BSK OR I], 7. Aufl. 2020, Art. 47 N. 20).
+4.2.2 Das Bundesgericht lehnt einheitliche Tagessätze ab, gleichwohl misst es der Dauer der Inhaftierung entscheidende Bedeutung zu. Eine kurzzeitige Inhaftierung wirke sich gewöhnlich stärker aus als eine langfristige Inhaftierung, bei der die nachteilige Wirkung mit zunehmender Haftdauer abnehme ("degressive Wirkung des Freiheitsentzuges"). Die Tagessätze bei kürzerer Haft sind regelmässig höher als diejenigen bei längerfristiger Haft. Längerfristig sei eine Inhaftierung von 58 Tagen (Landolt, a.a.O., Rz. 690). Ein Rückschluss von den finanziellen Verhältnissen der anspruchsberechtigten Person auf die Höhe der immateriellen Unbill sei abzulehnen (Landolt, a.a.O., Rz. 492; Kessler, BSK OR I, a.a.O., Art. 49 N. 22). Auf die Lebenshaltungskosten am Wohnort der anspruchsberechtigten Person sei grundsätzlich bei der Bemessung der Genugtuung nicht abzustellen. Vielmehr sei die Geldsumme nach dem am Gerichtsstand geltenden Recht zu bemessen, grundsätzlich ohne Rücksicht darauf, ob die klagende Person im In- oder Ausland lebe. Ausnahmen kämen in Betracht, wenn die wirtschaftlichen und sozialen Gegebenheiten von den hiesigen Verhältnissen markant abwichen und dies zu einer krassen und nach den Umständen im Ergebnis unbilligen Besserstellung des Berechtigten führen würde (Kessler, BSK OR I, a.a.O., Art. 49 N. 22; vgl. hierzu auch Urteile des Bundesgerichts 6B_502/2020 vom 6. Mai 2021 E. 2.2.2 mit Hinweisen [zu Art. 429 und 431 StPO] sowie 9C_423/2017 vom 10. Juli 2017 E. 3.3 [Prüfung der Bedürftig-keit im Rahmen der unentgeltlichen Rechtspflege]). Im Rahmen von Art. 47 OR spricht sich Brehm für die Berücksichtigung der Lebenshaltungskosten aus (Brehm, BK OR, a.a.O., Art. 47 N. 11e ff.).
+4.3
+4.3.1 Für widerrechtlichen Freiheitsentzug - ohne konkrete Erwähnung der ausländerrechtlichen Haft - wird in der Genugtuungslehre nach der einen Lehrmeinung ein Betrag von Fr. 100.-- bis Fr. 200.-- pro Tag gefordert. Nach einer anderen Lehrmeinung werden Fr. 500.-- pro Tag für die erste Woche, Fr. 200.-- pro Tag für den ersten Monat und nachher Fr. 100.-- pro Tag verlangt (Landolt, a.a.O., Rz. 689 mit Hinweisen). Businger erachtet bei der ausländerrechtlichen Haft eine Entschädigung von Fr. 100.-- bis Fr. 150.-- pro Hafttag als angemessen (Businger, Ausländer-rechtliche Haft, 2015, S. 90).
+4.3.2 Die bundesgerichtliche Rechtsprechung zur Haftentschädigung im Rahmen der Staatshaftung und damit ausserhalb des Strafprozessrechts ist rar. Der Kanton Bern sprach in einem Staatshaftungsverfahren eine Genugtuung von Fr. 100.-- pro Hafttag zu (vgl. Urteil des Bundesgerichts 2C_99/2012 vom 14. August 2012 E. 3.2). Im Falle einer strafprozessualen ungerechtfertigten Inhaftierung (Art. 431 Abs.1 StPO) erachtet das Bundesgericht grundsätzlich einen Betrag von Fr. 200.-- pro Tag als angemessen, sofern nicht aussergewöhnliche Umstände vorliegen, die eine höhere oder geringere Entschädigung rechtfertigen. In einem zweiten Schritt seien auch die Besonderheiten des Einzelfalles zu berücksichtigen wie die Dauer des Freiheitsentzugs, die Auswirkungen des Strafverfahrens auf die betroffene Person und die Schwere der ihr vorgeworfenen Taten etc. (BGE 146 IV 231 E. 2.3.2).
+4.4 Eine blosse Feststellung von Konventionsverletzungen kann in Frage kommen, falls es an den Voraussetzungen für Schadenersatz und Genugtuung mangels ei-nes eigentlichen Schadens oder einer besonderen Schwere der Persönlichkeitsverletzung fehlt (BGE 125 I 394 E. 5c, z. B. bei Verletzung von Art. 5 Abs. 1 Ziff. 4 EMRK). Dies trifft vorliegend nicht zu (…).
+4.5 Der vom Kläger - gestützt auf die strafprozessuale Rechtsprechung zu Art. 431 Abs. 1 StPO - geltend gemachte Basis-Tagessatz von Fr. 200.-- rechtfertigt sich (vorliegend) nicht, zumal der ausländerrechtlichen Haft keine Anschuldigung einer begangenen Straftat zugrunde liegt, was einen seelischen Schmerz verursachen kann. Vielmehr erscheint unter Berücksichtigung der Schwere der Verletzung, der persönlichen Umstände des Klägers, der markant tieferen Lebenshaltungskosten im Heimatland des Klägers (vgl. vorstehend E. 4.2.2 sowie Bundesamt für Statistik, Preisniveauindizes im weltweiten Vergleich, 2017, Kamerun und Schweiz) sowie des Verhaltens des Klägers, der seine Ausschaffung zweimal vereitelt hat, ein Betrag von Fr. 80.-- pro Tag gerechtfertigt. Für die Haftdauer von 14 Tagen (5. Januar 2022 bis 18. Januar 2022), ist dem Kläger demnach eine Genugtuung im Betrag von Fr. 1'120.-- (14 Tage à Fr. 80.--) zuzusprechen.
+4.6 Der Genugtuungsbetrag ist ab Schadensereignis zu 5% zu verzinsen (Kessler, BSK OR I, a.a.O., Art. 47 N. 24 i.V. mit Art. 49 N. 16). Der Genugtuungsbetrag von Fr. 1'120.-- ist somit zu 5% seit 12. Januar 2022 (mittlerer Verfall) zu verzinsen.
+4.7 Die Klage ist somit teilweise gutzuheissen. Der Beklagte hat dem Kläger für die unrechtmässige Ausschaffungshaft vom 5. Januar 2022 bis 18. Januar 2022 einen Genugtuungsbetrag von Fr. 1'120.-- zuzüglich Zins zu 5% seit 12. Januar 2022 zu bezahlen.
+Entscheid des Verwaltungsgerichts VG.2022.52/E vom 18. Januar 2023
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
