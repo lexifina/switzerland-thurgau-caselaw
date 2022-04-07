@@ -1,0 +1,53 @@
+---
+decision_id: "tg_obergericht_RBOG_2022_Nr._31"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2022 Nr. 31"
+decided: "2022-04-07"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2022-nr-31"
+cites_law: ["switzerland/bund/acts/311.0/art-056.md", "switzerland/bund/acts/311.1/art-012.md", "switzerland/bund/acts/311.1/art-018.md", "switzerland/bund/acts/312.0/art-391.md"]
+---
+
+# TG Obergericht RBOG 2022 Nr. 31
+
+## Regeste
+
+Keine Geltung des Verschlechterungsverbots in Bezug auf Schutzmassnahmen gemäss Jugendstrafgesetzbuch
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 31
+Thurgovie Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 31
+Turgovia Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 31
+
+RBOG 2022 Nr. 31
+Skip to main content
+Show navigation
+Keine Geltung des Verschlechterungsverbots in Bezug auf Schutzmassnahmen gemäss Jugendstrafgesetzbuch
+Art. 12 ff. JStG
+Art. 391 Abs. 2 StPO
+Das Bezirksgericht sprach den Berufungskläger nach JStG mehrerer teilweise schwerer Delikte schuldig und ordnete für ihn (unter anderem) die Schutzmassnahmen der offenen Unterbringung und der ambulanten Behandlung an. Gegen diesen Entscheid erhob der Berufungskläger Berufung. In der Folge wurde er wegen des Verdachts auf Begehung weiterer Straftaten festgenommen. An der Berufungsverhandlung eröffnete die Verfahrensleitung den Parteien, dass sich im Hinblick auf die bisherige Entwicklung des Berufungsklägers die Frage stellen könnte, ob anstelle einer offenen Unterbringung auch eine geschlossene Unterbringung zu prüfen sei, sofern an der Massnahme festhalten werde.
+a)    Art. 391 Abs. 2 StPO verankert das Verschlechterungsverbot[1]. Die Rechtsmittel­instanz darf Entscheide nicht zum Nachteil der beschuldigten oder verurteilten Person abändern, wenn das Rechtsmittel nur zu deren Gunsten ergriffen worden ist. Vorbehalten bleibt eine strengere Bestrafung aufgrund von Tatsachen, die dem erstinstanzlichen Gericht nicht bekannt sein konnten[2], was vorliegend jedoch nicht der Fall ist. Das Verschlechterungsverbot ist ein Institut des schweizerischen Strafprozessrechts. Es findet keine Grundlage in der EMRK[3] oder dem UNO-Pakt II[4]. Der Sinn des Verschlechterungsverbots besteht darin, dass die beschuldigte Person nicht durch die Befürchtung, strenger angefasst zu werden, von der Ausübung eines Rechtsmittels abgehalten wird[5]. Ob eine unzulässige Verschlechterung vorliegt, bestimmt sich durch Vergleich des Dispositivs des angefochtenen Entscheids mit demjenigen im Rechtsmittelverfahren[6]. Dabei geht die bundesgerichtliche Rechtsprechung von einer weiten Auslegung des Verschlechterungsverbots aus. Art. 391 Abs. 2 Satz 1 StPO untersagt nicht nur die Verschärfung der Sanktion, sondern auch eine härtere rechtliche Qualifikation der Tat[7].
+b)    Zum Umfang des Verschlechterungsverbots im Massnahmenrecht nimmt die Lehre uneinheitlich Stellung[8]. Ein Teil der Lehre scheint davon auszugehen, Art. 391 Abs. 2 StPO sei vollumfänglich anwendbar[9]. Verhängt die Berufungsinstanz erstmals und zusätzlich zu einer Strafe eine Massnahme, verletzt sie nach diesem Ansatz das Verschlechterungsverbot[10]. Andere Lehrmeinungen halten dafür, das Verschlechterungsverbot gelte im Massnahmenrecht nicht absolut[11]. Sie differenzieren nach Art und Wirkung der neu verhängten Massnahme. Bezweckt die neue Massnahme primär die Sicherung der Gesellschaft, kann sie nach dieser Ansicht eine unzulässige Verschlechterung bewirken, wenn im Ergebnis ein längerer Freiheitsentzug droht als von der Vor­instanz angeordnet. Andere Massnahmen, die in erster Linie auf Behandlung und Besserung des Täters zielen, sollen hingegen keine Schlechterstellung bewirken[12]. Jedenfalls zulässig ist nach der Rechtsprechung die sogenannte Massnahmensubstitution: Das Berufungsgericht kann eine ambulante Massnahme in eine stationäre umwandeln, denn das Gesetz selbst sieht die nachträgliche Anordnung einer stationären Massnahme vor, und es wäre wenig effizient, dem Gericht im Rechtsmittelverfahren eine Befugnis abzusprechen, die ihm der Gesetzgeber nach Rechtskraft des Urteils ohne weiteres einräumt[13].
+c)    Vorliegend ordnete die Vorinstanz die Schutzmassnahme der offenen Unterbringung an. Die geschlossene Unterbringung stellt eine besondere Modalität der offenen Unterbringung dar. Überdies lässt Art. 18 Abs. 1 JStG die spätere Umwandlung der Massnahme ausdrücklich zu. Damit liegt eine mit der Massnahmensubstitution vergleichbare Ausgangslage vor. Es wäre nicht nachvollziehbar, wenn das Verschlechterungsverbot im Berufungsverfahren für eine Frage gelten würde, auf die nach Rechtskraft des Urteils gestützt auf Art. 18 Abs. 1 JStG zurückgekommen werden dürfte. Das Verschlechterungsverbot stünde der Anordnung einer geschlossenen Massnahme demnach nicht entgegen.
+Obergericht, 1. Abteilung, 7. April 2022, SBR. 2021.87
+[1]  "Reformatio in peius"
+[2]  Art. 391 Abs. 2 StPO
+[3]  BGE 146 IV 182
+[4]  Internationaler Pakt über bürgerliche und politische Rechte, SR 0.103.2
+[5]  BGE 144 IV 200; BGE 144 IV 43; BGE 142 IV 90 f.
+[6]  BGE 142 IV 136; BGE 139 IV 289
+[7]  BGE 139 IV 282 (Regeste)
+[8]  Vgl. Heer, Basler Kommentar, 4.A., Art. 56 StGB N. 23
+[9]  Schmid/Jositsch, Schweizerische Strafprozessordnung, Praxiskommentar, 3.A., Art. 391 N. 3; in diesem Sinn wohl auch Ziegler/Keller, Basler Kommentar, 2.A., Art. 391 StPO N. 3a
+[10] Heer, Art. 56 StGB N. 29 mit Verweis auf Schmid/Jositsch, Handbuch des schweizerischen Strafprozessrechts, 3.A., N. 1492 ff.
+[11] Oberholzer, Grundzüge des Strafprozessrechts, 4.A., N. 2151 mit Verweis auf die Bundesgerichtspraxis
+[12] Lieber, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Lieber/Summers/Wohlers), 3.A., Art. 391 N. 16
+[13] BGE 144 IV 117
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
