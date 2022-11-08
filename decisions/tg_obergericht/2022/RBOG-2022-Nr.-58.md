@@ -1,0 +1,65 @@
+---
+decision_id: "tg_obergericht_RBOG_2022_Nr._58"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2022 Nr. 58"
+decided: "2022-11-08"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2022-nr-58"
+cites_law: ["switzerland/bund/acts/101/art-042.md", "switzerland/bund/acts/210/art-028.md", "switzerland/bund/acts/210/art-028b.md", "switzerland/bund/acts/272/art-308.md", "switzerland/bund/acts/272/art-310.md", "switzerland/bund/acts/272/art-311.md", "switzerland/bund/acts/272/art-314.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# TG Obergericht RBOG 2022 Nr. 58
+
+## Regeste
+
+Abgrenzung des Persönlichkeitsschutzes nach dem PolG und nach Art. 28 ff. ZGB; Rechtsmittel gegen Entscheid über polizeiliche Massnahmen nach § 60 Abs. 2 PolG
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 58
+Thurgovie Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 58
+Turgovia Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 58
+
+RBOG 2022 Nr. 58
+Skip to main content
+Show navigation
+Abgrenzung des Persönlichkeitsschutzes nach dem PolG und nach Art. 28 ff. ZGB; Rechtsmittel gegen Entscheid über polizeiliche Massnahmen nach § 60 Abs. 2 PolG
+§§ 56 ff. PolG
+Art. 28 ff. ZGB
+§ 60 Abs. 2 PolG
+Art. 308 Abs. 1 lit. b ZPO
+a) Die Kantonspolizei Thurgau erliess gegen den Ehemann einen Entscheid betreffend Wegweisung, Rückkehrverbot und Kontaktsperre, mit welchem er für 14 Tage aus der ehelichen Wohnung weggewiesen und ihm ein Kontaktverbot zu seiner Ehefrau sowie zu den beiden gemeinsamen Kindern auferlegt wurde. Am darauffolgenden Tag ersuchte er das Bezirksgericht um richterliche Überprüfung dieses Entscheids.
+b) In der Folge stellte die Ehefrau bei demselben Bezirksgericht ein Eheschutzgesuch.
+c) Die Einzelrichterin des Bezirksgerichts hob das polizeilich angeordnete Kontaktverbot des Ehemanns gegenüber den Kindern auf; die polizeilich angeordnete Wegweisung, das Rückkehrverbot sowie die Kontaktsperre gegenüber der Ehefrau wurden bis zur rechtskräftigen Erledigung des Eheschutzverfahrens aufrechterhalten. Gegen diesen Entscheid erhob der Ehemann Beschwerde.
+a) Gegenstand des Verfahrens ist die polizeiliche Anordnung betreffend Wegweisung, Rückkehrverbot und Kontaktsperre. Dabei handelt es sich um Massnahmen der Polizei zum Schutz gegen häusliche Gewalt. Die Rechtsgebiete des Straf-, Polizei- und Zivilrechts nehmen hinsichtlich der Bekämpfung von häuslicher Gewalt unterschiedliche Funktionen wahr. Es ist von wesentlicher Bedeutung, sie entsprechend voneinander zu unterscheiden, um die polizeilichen Normen über die Wegweisung korrekt auszulegen[1]. Die Rechtsetzung und Rechtanwendung des Polizeirechts steht gemäss der verfassungsmässigen Kompetenzordnung den Kantonen zu[2]. Das kantonale Polizeirecht dient dem unmittelbaren Schutz einer gewaltbetroffenen Person vor Ort. Sicherheitspolizeiliche Massnahmen sind in zeitlicher Hinsicht regelmässig eng beschränkt und verschaffen der gewaltbetroffenen Person eine gewisse Schonfrist, um sich über die persönlichen Umstände klar zu werden und entscheiden zu können, ob allenfalls zivilrechtliche oder strafrechtliche Schritte gegen die gefährdende Person eingeleitet werden sollen[3]. Deshalb gehen polizeiliche Massnahmen vielfach zivilrechtlichen Massnahmen ‑ wie beispielsweise jenen nach Art. 28b ZGB ‑ zeitlich vor.
+b) Vorliegend wurde eine polizeiliche Schutzmassnahme angeordnet. Die Berufungsbeklagte stellte in der Folge zwar ein Eheschutzgesuch, allerdings keinen Antrag beziehungsweise keine Klage oder kein Gesuch um Persönlichkeitsschutz. Ein Verfahren betreffend eine zivilrechtliche Massnahme gegen häusliche Gewalt wurde somit nicht anhängig gemacht. Die von der Vor­instanz verfügte Verlängerung der Wegweisung und Kontaktsperre findet ihren Ursprung im kantonalen PolG[4]. Konkret wird gemäss § 60 PolG die Dauer der polizeilichen Massnahme von Gesetzes wegen erstreckt, nicht jedoch eine zivilrechtliche Massnahme eingeleitet. Schliesslich stehen hier mangels Gesuch um zivilrechtliche Massnahmen ausschliesslich polizeirechtliche Massnahmen zur Diskussion, deren Rechtmässigkeit und Geltungsdauer umstritten sind.
+c) Das polizeiliche Handeln und damit deren Überprüfung richtet sich nach dem kantonal anwendbaren Verfahrensrechtspflegegesetz. So ist die einschlägige kantonale Gesetzgebung, namentlich §§ 56 bis 61 PolG, massgebend[5]. Demnach hat die Überprüfung einer polizeilichen Mass­nahme auf Gesuch hin durch die Einzelrichterin oder den Einzelrichter im summarischen Verfahren gemäss der ZPO zu erfolgen. Der Entscheid ist innert drei Arbeitstagen zu eröffnen[6]. Dabei ist die Rechtmässigkeit der Massnahme zum Zeitpunkt ihres Erlasses zu beurteilen. Vor diesem Hintergrund war die Vorinstanz zur Überprüfung der polizeilichen Verfügung angehalten, woraufhin sie den angefochtenen Entscheid erliess.
+Der Berufungskläger erhob Beschwerde gegen den angefochtenen Entscheid.
+a) Mit Berufung sind unter anderem erstinstanzliche Entscheide über vorsorgliche Mass­nahmen anfechtbar[7]. Die Beschwerde stellt das Rechtsmittel gegen nicht berufungsfähige erstinstanzliche Endentscheide, Zwischenentscheide und Entscheide über vorsorgliche Massnahmen dar[8]. Nichtvermögensrechtliche Streitigkeiten sind immer berufungsfähig[9]. Mit der Berufung kann die unrichtige Rechtsanwendung und unrichtige Feststellung des Sachverhalts geltend gemacht werden[10]. Gegen einen im summarischen Verfahren ergangenen Entscheid beträgt die Frist zur Einreichung der Berufung und Berufungsantwort je zehn Tage[11]. Eine Falschbezeichnung der Berufung schadet nicht, wenn die übrigen Anforderungen an die Berufung erfüllt sind[12]. Die Berufung muss einen Antrag (Rechtsbegehren) und eine Begründung enthalten. Der Antrag ist genau zu substantiieren und es muss ersichtlich sein, welche Ziffern des vorinstanzlichen Dispositivs angefochten werden und inwiefern sie zu ändern sind[13].
+b) Die polizeilichen Massnahmen gegen häusliche Gewalt gemäss §§ 56 ff. PolG dienen dem unmittelbaren Schutz einer gewaltbetroffenen Person vor Ort. Die polizeilichen Massnahmen stellen eine sofort nötige Krisenintervention für eine beschränkte Dauer dar. Sie stehen im Vorfeld möglicher gerichtlicher Massnahmen und sollen einen möglichst nahtlosen Übergang zu solchen Massnahmen schaffen[14].
+c) Mit dem angefochtenen Entscheid wurde die polizeiliche Massnahme überprüft, welche auf beschränkte Dauer angeordnet wurde. Dabei handelt es sich um einen erstinstanzlichen Entscheid über eine vorsorgliche Massnahme. Dieser nicht vermögensrechtliche Entscheid ist entgegen der Rechtsmittelbelehrung der Vorinstanz mit Berufung anfechtbar[15]. Die vom Berufungskläger innert Frist von zehn Tagen angehobene Beschwerde enthält Anträge und Begründung. Vor diesem Hintergrund ist auf die als "Beschwerde" bezeichnete Rechtsmitteleingabe als (fristgerecht erhobene) Berufung im Sinn von Art. 311 f. und Art. 314 ZPO einzutreten.
+Obergericht, 1. Abteilung, 8. November 2022, ZR.2022.42
+[1]  Tiefenthal, Kantonales Polizeirecht der Schweiz, Zürich/Basel/Genf 2018, § 16 N. 5
+[2]  Tiefenthal, § 2 N. 10; Art. 42 ff. BV
+[3]  Tiefenthal, § 16 N. 7; Hrubesch-Millauer/Vetterli, Häusliche Gewalt: die Bedeutung des Artikels 28b ZGB, in:
+http://FamPra.ch
+2009 S. 553
+[4]  Polizeigesetz, RB 551.1
+[5]  Manetsch-Imholz, Polizeiliche Schutzmassnahmen bei häuslicher Gewalt, in: Opferhilferecht (Hrsg.: Gomm/Zehntner), 4.A., N. 60 und 116 ff.; Tiefenthal, § 16 N. 26
+[6]  § 60 Abs. 2 PolG
+[7]  Art. 308 Abs. 1 lit. b ZPO
+[8]  Art. 319 lit. a ZPO
+[9]  Spühler, Basler Kommentar, 3.A., Art. 308 ZPO N. 8
+[10] Art. 310 ZPO
+[11] Art. 314 Abs. 1 ZPO
+[12] Spühler, Art. 311 ZPO N. 9
+[13] Spühler, Art. 311 ZPO N. 12.
+[14] Botschaft zur Änderung des Polizeigesetzes (RB 551.1) vom 21. August 2006, S. 11; Botschaft für ein neues Polizeigesetz (RB.551.1) vom 8. Februar 2011, wobei der Gesetzestext von §§ 18a-18f aPolG nach der Revision des ZGB vom 18. Dezember 2008 unverändert in den Gesetzestext von §§ 56-61 des neuen Polizeigesetzes vom 9. November 2011 übernommen wurde; Tiefenthal, § 16 N. 7
+[15] Art. 308 ZPO
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
