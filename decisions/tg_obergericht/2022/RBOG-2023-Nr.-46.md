@@ -1,0 +1,72 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._46"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 46"
+decided: "2022-12-06"
+published: "2023-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-46"
+cites_law: ["switzerland/bund/acts/311.0/art-110.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-115.md", "switzerland/bund/acts/312.0/art-116.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-121.md", "switzerland/bund/acts/312.0/art-122.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 46
+
+## Regeste
+
+Beschwerdelegitimation der Eltern eines verstorbenen Opfers
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 46
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 46
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 46
+
+RBOG 2023 Nr. 46
+Skip to main content
+Show navigation
+Beschwerdelegitimation der Eltern eines verstorbenen Opfers
+Art. 322 Abs. 2 StPO
+Art. 310 Abs. 2 StPO
+Art. 121 Abs. 1 StPO
+Art. 121 Abs. 2 StPO
+Art. 116 Abs. 2 StPO
+Zusammenfassung des Sachverhalts:
+Nachdem der Sohn der Beschwerdeführer aus einer fürsorgerischen Unterbringung aus der Klinik A entlassen worden war, begab er sich in das "Bed & Breakfast" von B. Dort erlitt er einen Zusammenbruch infolge des Konsums grösserer Mengen Betäubungsmittel und verstarb wenige Tage später. Die Strafverfahren gegen B und Unbekannt wegen Unterlassung der Nothilfe nahm die Staatsanwaltschaft nicht an Hand; das Verfahren betreffend den aussergewöhnlichen Todesfall stellte sie ein. Dagegen erhoben die Eltern des Verstorbenen Beschwerde.
+Aus den Erwägungen:
+1.
+Die Beschwerdeführer sind die Eltern des Verstorbenen. Es stellt sich somit vorab die Frage der Beschwerdelegitimation der Beschwerdeführer.
+1.1.
+1.1.1.
+Zur Anfechtung einer Einstellungsverfügung berechtigt sind gemäss Art. 322 Abs. 2 StPO die Parteien. Aufgrund des Verweises in Art. 310 Abs. 2 StPO verhält es sich ebenso bei der Anfechtung einer Nichtanhandnahmeverfügung. Art. 382 Abs. 1 StPO hält für das Rechtsmittelverfahren fest, dass die Partei, um ein Rechtsmittel ergreifen zu können, ein rechtlich geschütztes Interesse an der Aufhebung oder Änderung eines Entscheids haben muss. Partei ist neben der beschuldigten Person und der Staatsanwaltschaft (im Haupt- und Rechtsmittelverfahren) auch die Privatklägerschaft[1]. Gemäss Art. 118 Abs. 1 StPO gilt als Privatklägerschaft die geschädigte Person, die ausdrücklich erklärt, sich am Strafverfahren als Straf- oder Zivilklägerin oder -kläger zu beteiligen. Der Begriff der geschädigten Person wird in Art. 115 Abs. 1 StPO definiert. Es handelt sich dabei um die Person, die durch die Straftat in ihren Rechten unmittelbar verletzt worden ist. In der Regel kann sich nur der Inhaber des Rechtsguts, das durch die verletzte Strafbestimmung geschützt ist, auf eine direkte Beeinträchtigung berufen[2]. Die Rechtsnachfolger einer verletzten natürlichen oder juristischen Person sind als indirekt Geschädigte zu betrachten, die grundsätzlich (vorbehaltlich der Ausnahmen in Art. 121 Abs. 1 und 2 StPO) nicht als Privatkläger im Strafverfahren auftreten können[3].
+1.1.2.
+Art. 121 StPO regelt den Übergang der Rechte der Privatklägerschaft. Stirbt die geschädigte Person, ohne auf ihre Verfahrensrechte als Privatklägerschaft verzichtet zu haben, so gehen gemäss Art. 121 Abs. 1 StPO ihre Rechte auf die Angehörigen im Sinn von Art. 110 Abs. 1 StGB in der Reihenfolge der Erbberechtigung über. Es spielt dabei keine Rolle, ob die geschädigte Person als Folge der Straftat oder später während oder allenfalls noch vor der Einleitung des Strafverfahrens aus welchem Grund auch immer stirbt[4]. Zu den Angehörigen einer Person im Sinn von Art. 110 Abs. 1 StGB zählen ihr Ehegatte, ihre eingetragene Partnerin oder ihr eingetragener Partner, ihre Verwandten gerader Linie, ihre vollbürtigen und halbbürtigen Geschwister, ihre Adoptiveltern, ihre Adoptivgeschwister und Adoptivkinder. Die Angehörigen sind zur Zivilklage oder (kumulativ oder alternativ) auch zur Strafklage berechtigt[5]. Art. 121 Abs. 1 StPO stellt daher eine Ausnahme des Prinzips dar, gemäss dem nur die direkt geschädigte Person die Stellung der Privatklägerschaft einnehmen kann[6].
+1.1.3.
+Nicht massgebend ist, dass der Verstorbene als Folge der vorgeworfenen Straftaten verstarb und dessen Tod somit Anlass beziehungsweise Gegenstand der Strafuntersuchung ist. Die Beschwerdeführer sind die Eltern des Verstorbenen. Dieser hat weder Nachkommen noch einen Ehegatten oder eingetragenen Partner. Insofern sind die Beschwerdeführer die ersten Erbberechtigten des Verstorbenen und als solche an sich Rechtsnachfolger im Sinn von Art. 121 Abs. 1 StPO. Da sie allerdings die Erbschaft ausgeschlagen haben, werden sie vom Gesetz so behandelt, wie wenn sie den Erbfall nicht erlebt hätten. Hier erfolgte die Einstellung des Konkursverfahrens mangels Aktiven, nachdem die Erbschaft von allen nächsten gesetzlichen Erben ausgeschlagen worden und sie überschuldet war. Aufgrund der Ausschlagung der Erbschaft verloren die Beschwerdeführer ihre Erbberechtigung, womit die Rechte des Verstorbenen nicht im Sinn von Art. 121 Abs. 1 StPO auf sie übergehen können.
+1.1.4.
+Nicht einschlägig ist sodann Art. 121 Abs. 2 StPO, der die strafprozessrechtliche Nachfolge bei Subrogation in die (oder Legalzession der) privatrechtlichen, mit der Straftat konnexen Ansprüche vorsieht. Massgebend ist, dass der Anspruch von Gesetzes wegen an Personen übergeht, die selbst nicht geschädigte Personen im Sinn von Art. 115 StPO sind[7]. Ein solcher Fall liegt hier nicht vor.
+1.2.
+1.2.1.
+Da der Verstorbene durch die im Raum stehenden Straftaten in seiner körperlichen Integrität unmittelbar beeinträchtigt wurde, gilt er nach Art. 116 Abs. 1 StPO als Opfer. Angehörige des Opfers sind gestützt auf Art. 116 Abs. 2 StPO unter anderem dessen Eltern, also die Beschwerdeführer. Nach Art. 122 Abs. 2 StPO können sie daher adhäsionsweise eigene Zivilansprüche gegenüber den beschuldigten Personen geltend machen. Vom Adhäsionsprozess ausgeschlossen sind öffentlich-rechtliche Ansprüche[8].
+1.2.2.
+Die Beschwerdeführer kündigten in der Beschwerdeschrift an, eine Adhäsionsklage einreichen zu wollen. Gegen B und Unbekannt (mithin weitere Personen, die Nothilfe hätten leisten müssen) ist die Einreichung einer Adhäsionsklage mit eigenen zivilrechtlichen Ansprüchen ohne Weiteres möglich, weshalb die Beschwerdeführer zur Beschwerde gegen die beiden Nichtanhandnahmeverfügungen insofern legitimiert sind.
+1.2.3.
+Die Beschwerde gegen die Einstellungsverfügung richtet sich gegen die behandelnden Ärzte oder die Leitung der Klinik A. Die Beschwerdeführer werfen diesen sinngemäss vor, dass der Todesfall verhindert hätte werden können, wenn die fürsorgerische Unterbringung ihres Sohnes aufrechterhalten worden wäre. Die Beschwerdelegitimation ist bloss zu bejahen, wenn die Beschwerdeführer gegenüber der Klinik A oder deren Personal Zivilansprüche geltend machen können.
+1.2.4
+Bei den beschuldigten Personen handelt es sich um die behandelnden Ärzte oder die Leitung der Klinik A. Die Klinik A gehört zur C AG. Diese hat die Rechtsform einer Aktiengesellschaft des Obligationenrechts. Die Rechtsbeziehungen zwischen der C AG gegenüber Dritten sowie die Haftung der Gesellschaft, ihrer Organe und ihres Personals richten sich nach dem Privatrecht. Demnach können die Beschwerdeführer auch im Zusammenhang mit dem Sachverhaltskomplex des aussergewöhnlichen Todesfalls Zivilansprüche als Adhäsionsklage geltend machen, weshalb sie zur Beschwerde auch gegen die Einstellungsverfügung legitimiert sind.
+[…]
+Obergericht, 2. Abteilung, 6. Dezember 2022, SW.2022.92
+[1]    Art. 104 Abs. 1 StPO
+[2]    BGE 148 IV 259 f.; BGE 141 IV 5
+[3]    BGE 148 IV 260; BGE 146 IV 80; BGE 140 IV 166
+[4]    Mazzucchelli/Postizzi, Basler Kommentar, 2.A., Art. 121 StPO N. 7
+[5]    BGE 146 IV 80; BGE 142 IV 84 f.
+[6]    BGE 146 IV 80 f.
+[7]    Mazzucchelli/Postizzi, Art. 121 StPO N. 13
+[8]    BGE 141 IV 384; Schmid/Jositsch, Schweizerische Strafprozessordnung, Praxiskommentar, 3.A., Art. 318 N. 2
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
