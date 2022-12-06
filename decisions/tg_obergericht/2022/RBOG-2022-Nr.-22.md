@@ -1,0 +1,42 @@
+---
+decision_id: "tg_obergericht_RBOG_2022_Nr._22"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2022 Nr. 22"
+decided: "2022-12-06"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2022-nr-22"
+cites_law: ["switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# TG Obergericht RBOG 2022 Nr. 22
+
+## Regeste
+
+Noven im Beschwerdeverfahren gegen eine Konkurseröffnung ohne vorgängige Betreibung sind bis zum Ablauf der Beschwerdefrist zulässig.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 22
+Thurgovie Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 22
+Turgovia Obergericht Rechenschaftsbericht 2022 RBOG 2022 Nr. 22
+
+RBOG 2022 Nr. 22
+Skip to main content
+Show navigation
+Noven im Beschwerdeverfahren gegen eine Konkurseröffnung ohne vorgängige Betreibung sind bis zum Ablauf der Beschwerdefrist zulässig.
+Art. 174 SchKG
+Art. 190 ff. SchKG
+Art. 194 Abs. 1 SchKG
+Gemäss Art. 194 Abs. 1 SchKG ist Art. 174 SchKG auch auf die ohne vorgängige Betreibung erfolgte Konkurseröffnung anwendbar. Demnach kann diese mit Beschwerde nach der ZPO angefochten werden[1]. Zudem sind abweichend von Art. 326 Abs. 1 ZPO, der Noven im Beschwerdeverfahren ausschliesst, Noven im Beschwerdeverfahren gegen Entscheide des Konkursgerichts gemäss Art. 326 Abs. 2 ZPO i.V.m. Art. 174 Abs. 1 und 2 SchKG zulässig. Das Gesetz unterscheidet zwei Novengruppen: Die erste Gruppe bilden die unechten Noven, welche vor dem angefochtenen Entscheid entstanden sind. Ihre Regelung findet sich in Art. 174 Abs. 1 Satz 2 SchKG, wonach die Parteien neue Tatsachen geltend machen können, wenn diese vor dem erstinstanzlichen Entscheid eingetreten sind. Bei der zweiten Novengruppe handelt es sich um echte Noven, welche nach dem angefochtenen Entscheid entstanden sind[2]. Sie sind in Art. 174 Abs. 2 SchKG geregelt und stellen Konkurshinderungsgründe dar. Der Schuldner hat die Zahlungsfähigkeit mit der Beschwerde glaubhaft zu machen und mit dieser auch die Urkunden für den Beweis der Konkursaufhebungsgründe einzureichen, zumal sich gemäss der bundesgerichtlichen Praxis die Konkurshinderungsgründe innert der Rechtsmittelfrist verwirklicht haben und geltend gemacht werden müssen[3]. Gleichsam sind in Bezug auf die Frage der Zahlungseinstellung gemäss Art. 190 Abs. 1 Ziff. 2 SchKG Noven auch noch im Beschwerdeverfahren bis zum Ablauf der Beschwerdefrist zulässig, damit die Eröffnung eines nicht angebrachten Konkurses verhindert werden kann[4]. Nach Ablauf der Beschwerdefrist vorgebrachte Noven dagegen bleiben unberücksichtigt.
+Obergericht, 2. Abteilung, 6. Dezember 2022, BR.2022.40
+[1]  Art. 174 Abs. 1 SchKG
+[2]  Giroud/Theus Simoni, Basler Kommentar, 3.A., Art. 174 SchKG N. 17
+[3]  BGE 139 III 491 ff.; BGE 136 III 294 ff.
+[4]  Brunner/Boller/Fritschi, Basler Kommentar, 3.A., Art. 190 SchKG N. 29b
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
