@@ -1,0 +1,135 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._37"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 37"
+decided: "2023-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-37"
+cites_law: ["switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/311.0/art-122.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/311.0/art-125.md", "switzerland/bund/acts/311.0/art-126.md", "switzerland/bund/acts/832.30/art-041.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 37
+
+## Regeste
+
+Keine schematische Anknüpfung an die sozialversicherungsrechtliche Beurteilung im Strafrecht; Kausalität bei fahrlässiger Körperverletzung
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 37
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 37
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 37
+
+RBOG 2023 Nr. 37
+Skip to main content
+Show navigation
+Keine schematische Anknüpfung an die sozialversicherungsrechtliche Beurteilung im Strafrecht; Kausalität bei fahrlässiger Körperverletzung
+Art. 125 Abs. 1 StGB
+Art. 125 Abs. 2 StGB
+Art. 122 StGB
+Art. 123 StGB
+Zusammenfassung des Sachverhalts:
+1.
+Der Berufungskläger lud mit einem Gabelstapler, ohne im Besitz der Staplerprüfung zu sein, Stahlrohlinge und andere Materialien vom Lastwagen des Anschlussberufungsklägers ab. Der Berufungskläger fuhr, ohne dies zu bemerken, mit einem Rad des Gabelstaplers auf die über dem Material liegende und am anderen Ende nach wie vor befestigt Zurrgurte. Als er die Palette mit dem Material anhob, zerbarst diese. In der Folge wurde der Anschlussberufungskläger, der sich noch immer auf der Ladefläche des Lastwagens befand, von einem unbekannten Gegenstand am Kopf getroffen.
+2.
+Das Bezirksgericht sprach den Berufungskläger der fahrlässigen Körperverletzung im Sinn von Art. 125 Abs. 1 StGB schuldig. Dagegen erhob der Berufungskläger Berufung und verlangte einen Freispruch. Der Anschlussberufungskläger hingegen beantragte, den Berufungskläger der schweren fahrlässigen Körperverletzung schuldig zu sprechen.
+Aus den Erwägungen:
+[…]
+3.
+Fraglich ist, ob sich der Berufungskläger strafbar gemacht hat.
+3.1.
+3.1.1.
+Nach Art. 122 StGB macht sich der schweren Körperverletzung schuldig, wer vorsätzlich einen Menschen lebensgefährlich verletzt (Abs. 1), wer vorsätzlich den Körper, ein wichtiges Organ oder Glied eines Menschen verstümmelt oder ein wichtiges Organ oder Glied unbrauchbar macht, einen Menschen bleibend arbeitsunfähig, gebrechlich oder geisteskrank macht, das Gesicht eines Menschen arg und bleibend entstellt (Abs. 2), oder wer vorsätzlich eine andere schwere Schädigung des Körpers oder der körperlichen oder geistigen Gesundheit eines Menschen verursacht (Abs. 3). Schädigt der Täter das Opfer in anderer Weise an Körper oder Gesundheit, liegt eine einfache Körperverletzung vor[1]. Eine lebensgefährliche Körperverletzung im Sinn dieser Bestimmung darf nur angenommen werden, wenn die Verletzung zu einem Zustand geführt hat, in dem sich die Möglichkeit des Todes dermassen verdichtete, dass sie zur ernstlichen und dringlichen Wahrscheinlichkeit wurde, was aber nicht bedeutet, dass die Lebensgefahr notwendigerweise eine zeitlich unmittelbare, akute sein muss. Massgebend ist vielmehr die erhebliche Wahrscheinlichkeit des tödlichen Verlaufs[2]. Die schwere Körperverletzung ist aber auch zu bejahen, wenn eine körperliche Beeinträchtigung qualitativ und quantitativ schwer wiegt. Zu berücksichtigen sind eine lange Dauer des Spitalaufenthalts und der vollen oder teilweisen Arbeitsunfähigkeit, der Grad und die Dauer der Invalidität sowie nicht zuletzt auch die erlittenen Schmerzen. So kann, wenn zwar nicht direkt eine bleibende Arbeitsunfähigkeit oder eine irreversible gesundheitliche Beeinträchtigung vorliegt, dann auf schwere Körperverletzung erkannt werden, wenn der Grad der Beeinträchtigung doch erheblich ist, die wenigstens teilweise Heilung lange Zeit dauerte und überdies grosse Schmerzen verursachte. Insbesondere kann eine Kombination verschiedener Beeinträchtigungen, die für sich allein noch nicht als schwere Körperverletzung gelten könnten, diese Qualifikation in der gesamtheitlichen Würdigung rechtfertigen. Zu berücksichtigen sind auch Faktoren, welche zwar die berufliche Tätigkeit nicht erheblich beeinträchtigen, dem Betroffenen aber insofern eine Einbusse der Lebensqualität bringen, als er Hobbies nicht mehr ausüben kann[3].
+3.1.2.
+Die einfache Körperverletzung nach Art. 123 StGB erfasst objektiv alle Schädigungen der körperlichen Integrität und geistigen Gesundheit, die weder die Schwelle zur schweren Körperverletzung[4] erreichen noch unter den Tatbestand der Tätlichkeit[5] fallen. Es ist eine nicht mehr bloss harmlose Beeinträchtigung der körperlichen Integrität oder des gesundheitlichen Wohlbefindens erforderlich[6].
+3.1.3.
+3.1.3.1.
+Eine fahrlässige Körperverletzung begeht nach Art. 125 Abs. 1 StGB, wer fahrlässig einen Menschen am Körper oder an der Gesundheit schädigt. Fahrlässig begeht ein Verbrechen oder Vergehen, wer die Folge seines Verhaltens aus pflichtwidriger Unvorsichtigkeit nicht bedenkt oder darauf nicht Rücksicht nimmt. Pflichtwidrig ist die Unvorsichtigkeit, wenn der Täter die Vorsicht nicht beachtet, zu der er nach den Umständen und nach seinen persönlichen Verhältnissen verpflichtet ist[7].
+3.1.3.2.
+Sorgfaltswidrig ist ein Verhalten, wenn der Täter zum Zeitpunkt der Tat aufgrund der Umstände sowie seiner Kenntnisse und Fähigkeiten die damit bewirkte Gefährdung der Rechtsgüter des Opfers hätte erkennen können und müssen und wenn er zugleich die Grenzen des erlaubten Risikos überschritten hat. Wo besondere Normen ein bestimmtes Verhalten gebieten, bestimmt sich das Mass der zu beachtenden Sorgfalt in erster Linie nach diesen Vorschriften[8]. Dies schliesst nicht aus, dass der Vorwurf der Fahrlässigkeit auch auf allgemeine Rechtsgrundsätze wie etwa den allgemeinen Gefahrensatz gestützt werden kann. Denn einerseits begründet nicht jeder Verstoss gegen eine gesetzliche oder für bestimmte Tätigkeiten allgemein anerkannte Verhaltensnorm den Vorwurf der Fahrlässigkeit, und andererseits kann ein Verhalten sorgfaltswidrig sein, auch wenn nicht gegen eine bestimmte Verhaltensnorm verstossen wurde. Die Vorsicht, zu der ein Täter verpflichtet ist, wird letztlich durch die konkreten Umstände und seine persönlichen Verhältnisse bestimmt, weil naturgemäss nicht alle tatsächlichen Gegebenheiten in Vorschriften gefasst werden können[9]. Bei der Bestimmung des im Einzelfall zugrunde zu legenden Massstabes des sorgfaltsgemässen Verhaltens kann auf Verordnungen zurückgegriffen werden, die der Unfallverhütung und der Sicherheit dienen. Das Gleiche gilt für entsprechende allgemein anerkannte Verhaltensregeln, auch wenn diese von einem privaten oder halböffentlichen Verband erlassen wurden und keine Rechtsnormen darstellen[10].
+Grundvoraussetzung für das Bestehen einer Sorgfaltspflichtverletzung und mithin für die Fahrlässigkeitshaftung bildet die Vorhersehbarkeit des Erfolgs. Die zum Erfolg führenden Geschehensabläufe müssen für den konkreten Täter mindestens in seinen wesentlichen Zügen voraussehbar sein. Zunächst ist daher zu fragen, ob der Täter eine Gefährdung der Rechtsgüter des Opfers hätte voraussehen beziehungsweise erkennen können und müssen. Für die Beantwortung dieser Frage gilt der Massstab der Adäquanz. Danach muss das Verhalten geeignet sein, nach dem gewöhnlichen Lauf der Dinge und den Erfahrungen des Lebens einen Erfolg wie den eingetretenen herbeizuführen oder mindestens zu begünstigen[11]. Die Adäquanz ist nur zu verneinen, wenn ganz aussergewöhnliche Umstände, wie das Mitverschulden des Opfers beziehungsweise eines Dritten oder Material- oder Konstruktionsfehler, als Mitursache hinzutreten, mit denen schlechthin nicht gerechnet werden musste und die derart schwer wiegen, dass sie als wahrscheinlichste und unmittelbarste Ursache des Erfolgs erscheinen und so alle anderen mitverursachenden Faktoren – namentlich das Verhalten der beschuldigten Person – in den Hintergrund drängen[12].
+Damit der Eintritt des Erfolgs auf das pflichtwidrige Verhalten des Täters zurückzuführen ist, genügt seine Voraussehbarkeit aber nicht. Weitere Voraussetzung ist, dass der Erfolg auch vermeidbar war. Dabei wird ein hypothetischer Kausalverlauf untersucht und geprüft, ob der Erfolg bei pflichtgemässem Verhalten des Täters ausgeblieben wäre. Für die Zurechnung des Erfolgs genügt es, wenn das Verhalten des Täters mindestens mit einem hohen Grad an Wahrscheinlichkeit die Ursache des Erfolgs bildete[13].
+3.1.3.3.
+Ob eine Handlung im Sinn der Adäquanztheorie nach dem gewöhnlichen Lauf der Dinge und nach der allgemeinen Lebenserfahrung geeignet ist, einen Erfolg von der Art des eingetretenen herbeizuführen oder zu begünstigen, muss vom Zeitpunkt des Handelns aus[14] entschieden werden; denn die nachträgliche (bessere) Kenntnis der Zusammenhänge kann nicht darüber entscheiden, ob eine Handlung im Zeitpunkt ihrer Vornahme erlaubt oder verboten war. Demgegenüber ist die für die Erfolgszurechnung ebenfalls wesentliche Frage, aus welcher Gefahr der Erfolg hervorgegangen ist, ob sich mithin im Erfolg gerade die vom Täter geschaffene Gefahr verwirklicht hat, unter Auswertung aller im Nachhinein[15] bekannten Umstände zu beantworten. Der Erfolg ist dem Täter zuzurechnen, wenn dessen Verhalten mindestens mit einem hohen Grad der Wahrscheinlichkeit oder mit an Sicherheit grenzender Wahrscheinlichkeit die Ursache des Erfolgs bildete[16].
+3.2
+[…]
+3.3.
+Dass der Anschlussberufungskläger zumindest eine einfache Körperverletzung erlitt, ist zu Recht unbestritten. Der Anschlussberufungskläger stellte wenige Tagen nach dem Unfall Strafantrag gegen den Berufungskläger wegen des Vorfalls. Somit liegt der nach Art. 125 Abs. 1 StGB erforderliche Strafantrag vor, sollte der Berufungskläger lediglich der fahrlässigen einfachen Körperverletzung strafbar sein. In einem ersten Schritt ist zu prüfen, ob Fahrlässigkeit vorliegt.
+3.3.1.
+Nach Art. 41 Abs. 3 VUV[17] sind beim Stapeln und Lagern von Stück- und Schüttgut die jeweils erforderlichen Massnahmen zur Gewährleistung der Sicherheit der Arbeitnehmenden zu treffen. Die Checkliste "Fahrzeuge beladen mit Hebegeräten" der Suva konkretisiert diesen Grundsatz. Nach Ziffer 11 müssen Staplerfahrer und -fahrerinnen über einen entsprechenden Ausweis verfügen. Nach Ziffer 13 muss der Ladebereich beim Entladen überblickbar sein und Personen müssen aus dem Gefahrenbereich weggewiesen werden. Dabei handelt es sich um allgemein anerkannte Verhaltensregeln, die der Unfallverhütung und Sicherheit dienen.
+3.3.2.
+Anknüpfungspunkt für den Strafbarkeitsvorwurf bildet eine aktive Handlung des Berufungsklägers, nämlich das Bedienen des Gabelstaplers am Unfalltag. Dadurch schuf der Berufungskläger eine bereits im Ansatz gefahrengeneigte Situation.
+Der Berufungskläger lenkte den Gabelstapler, obschon er über keine Fahrberechtigung beziehungsweise Staplerprüfung verfügte. Zudem hatte er nach eigenen Angaben noch nie einen Lastwagen abgeladen. Dass er durch seinen Arbeitgeber oder durch den Anschlussberufungskläger dazu aufgefordert worden wäre, ist nicht erstellt, vielmehr erklärte er sich dazu aus eigenem Antrieb bereit. Weiter ist mit der Vorinstanz davon auszugehen, er habe Kenntnis davon gehabt, dass das Bedienen eines Gabelstaplers einer Prüfung bedarf.
+Es kommt hinzu, dass sich der Anschlussberufungskläger noch auf der Ladefläche des Fahrzeugs befand, als der Berufungskläger die Palette anhob. Wie der Anschlussberufungskläger zutreffend ausführte, war der Berufungskläger einen Arbeitsschritt voraus. Gestützt auf die allgemein anerkannten Verhaltensnormen hätte er aber abwarten müssen, bis der Anschlussberufungskläger die Ladefläche verlassen hätte. Indem der Berufungskläger trotzdem mit dem Verladevorgang begann, verstiess er gegen eine ihm obliegende Verhaltenspflicht. Das bestritt der Berufungskläger denn auch nicht explizit. In der staatsanwaltschaftlichen Einvernahme gab er vielmehr zu Protokoll, mit seinem heutigen – durch die Staplerprüfung erlangten – Wissen hätte er sich anders verhalten und abgewartet. Weiter unterliess es der Berufungskläger auch, sich vor dem Abladen einen Überblick über den Ladebereich zu verschaffen. Hätte er dies getan, hätte ihm auffallen müssen, dass über die Palette, die er abzuladen plante, noch eine Zurrgurte lag und die Palette damit noch nicht zum Abladen bereit war. Indem er ohne den Ladebereich zu überblicken mit dem Abladen begann, beging er eine weitere Pflichtverletzung.
+3.3.3.
+Der Unfall war das Ergebnis einer Verkettung von zwei Umständen: Einerseits blockierte der Berufungskläger die Zurrgurte mit dem Gabelstapler. Andererseits hob er die dadurch fixierte Palette an. Diese Verkettung ist jedoch nicht so ungewöhnlich, dass ihr Ergebnis – die horizontal-vertikale Beschleunigung der Palette – nicht vorhersehbar war. Es genügt nämlich, wenn der Unfallhergang in seinen Grundzügen vorhersehbar war[18]. Bei einem Abladevorgang, wie er hier zu beurteilen ist, muss im Gefahrenbereich nach dem gewöhnlichen Lauf der Dinge und nach der allgemeinen Lebenserfahrung mit umfallenden Gegenständen und Ähnlichem und damit mit einer erheblichen Gefahr für Leib und Leben gerechnet werden, gerade weil mit enormen Kräften auf das Ladegut eingewirkt wird. Deshalb muss der Gefahrenbereich menschenleer sein. Dies musste auch dem Berufungskläger bekannt sein, war er als Polymechaniker doch seit mehreren Jahren in der Industriebranche tätig. Der Berufungskläger hätte bei gebotener Sorgfalt zudem erkennen können, dass die Zurrgurte noch über der Palette lag, diese also noch nicht abladebereit war, und er die Zurrgurte durch das linke Vorderrad des Gabelstaplers blockierte. Ebenso war voraussehbar, dass er mangels Erfahrung und Staplerprüfung beim Abladen Fehler machen könnte, welche zum Herunterfallen der geladenen Gegenstände oder anderen Unfällen und damit zu erheblichen Gefahrensituationen führen könnte. Demnach war der Erfolg vorhersehbar.
+3.3.4.
+Hätte der Berufungskläger den Gabelstapler nicht gelenkt und gewartet bis der Anschlussberufungskläger die Ladefläche verlassen hatte, bevor er die Palette anhob, wäre der Unfall nicht passiert. Die Einhaltung auch dieser Sorgfaltspflichten hätte den Unfall vermeiden können.
+3.3.5.
+Der Unfall ist eine (adäquat kausale) Folge der Sorgfaltspflichtverletzungen des Berufungsklägers. Nicht bewiesen ist ein den Kausalzusammenhang durchbrechendes Drittverschulden. Selbst wenn davon auszugehen wäre, der Anschlussberufungskläger hätte dem Berufungskläger ein Handzeichen zum Abladen der Palette gegeben, ging die Vorinstanz zu Recht davon aus, dass sich dadurch nichts an der Verantwortung des Berufungsklägers geändert hätte. Er hat sich entschlossen den Stapler zu fahren und damit die gefährliche Tätigkeit ausgeübt, womit es auch an ihm (allein) war, sicherzustellen, dass niemand durch sein Handeln zu Schaden kommt und er sicher ablädt. Diese Verantwortung kann er nicht an den Anschlussberufungskläger delegieren. Dasselbe gilt im Übrigen für den Fall, dass davon ausgegangen würde, nicht das Fahren auf die Zurrgurte, sondern eine Beschädigung des Stahlumreifungsbands, eine mangelhafte Palette oder eine falsche Beladung hätte zum Zerbersten der Palette geführt. Hätte der Berufungskläger sich nicht hinter das Steuer des Gabelstaplers gesetzt oder zumindest sichergestellt, dass der Anschlussberufungskläger nicht mehr auf der Ladefläche war, als er die Palette anhob, wäre der Anschlussberufungskläger nicht verunfallt.
+3.3.6.
+Demnach handelte der Berufungskläger sorgfaltspflichtswidrig und verursachte damit fahrlässig die Verletzungen des Anschlussberufungsklägers.
+3.4.
+Fraglich ist weiter, ob sich der Berufungskläger einer schweren oder einfachen Körperverletzung im Sinn des Strafgesetzbuches schuldig gemacht hat.
+3.4.1.
+Der Anschlussberufungskläger erlitt beim Unfall keine lebensgefährlichen Verletzungen. Er konnte das Spital zeitnah wieder verlassen und war vorderhand zu 100% arbeitsunfähig. Rund ein halbes Jahr später meldete er sich zum Leistungsbezug bei der IV an, welche ihm rückwirkend per Unfallzeitpunkt eine ganze Rente zusprach. Die IV-Stelle stützte sich dabei auf einen Bericht des Regionalen Ärztlichen Dienstes[19]. Demgemäss liegen die folgenden Diagnosen vor: Organische Persönlichkeits- und Verhaltensstörung aufgrund einer Schädigung oder einer Funktionsstörung des Gehirns nach Schädelhirntrauma im Mai 2019 (ICD-10: F07.9); mittel- bis schwergradige depressive Episode (ICD-10: F32.1); bursaseitige SSP-Tendionpathie; beidseitige Schulterverletzung. Der Anschlussberufungskläger sei kognitiv eingeschränkt, leide an einem depressiv-gereizten Syndrom mit ausgeprägter Störung der Verhaltens- und Affektkontrolle bei eingeengtem Denken, rascher Ermüdbarkeit, wenig Durchhaltevermögen und potentiell problematischem Sozialverhalten. Somatisch stellte der RAD rasche Ermüdbarkeit, Orientierungsschwierigkeiten und häufige Kopfschmerzen fest. Diese Symptome seien gut passend zu einem postkontusionellen Syndrom nach Schädelhirntrauma. Die verbleibende Arbeitsfähigkeit in der angestammten oder einer adaptierten Tätigkeit betrage 0%.
+Die Suva verneinte hingegen etwa vier Monate nach dem IV-Entscheid einen Anspruch auf Leistungen nach dem Unfallversicherungsgesetz, da der Gesundheitszustand des Anschlussberufungsklägers in keinem Kausalzusammenhang zum Unfallgeschehen stehe. Die dagegen geführte Beschwerde an das Versicherungsgericht blieb erfolglos. Das Bundesgericht schützte letztinstanzlich die Auffassung der Suva, wonach kein adäquater Kausalzusammenhang gegeben sei. Zusammengefasst erwog das Bundesgericht[20], der Unfall sei nicht als schwer, sondern als mittelschwer im sozialversicherungsrechtlichen Sinn einzuordnen. Anwendbar sei die sogenannte Psycho-Praxis[21]. Die Frage der adäquaten Unfallkausalität sei unter Ausschluss psychischer Aspekte zu beurteilen. Die entsprechenden Adäquanzkriterien seien beim Privatkläger nicht erfüllt[22].
+3.4.2.
+Es stellt sich die Frage, ob und inwieweit das Strafgericht an die Ergebnisse der sozialversicherungsrechtlichen Verfahren gebunden sei.
+3.4.2.1.
+Der Grundsatz der Einheit der Rechtsordnung gebietet, sich widersprechende Entscheide im Rahmen des Möglichen zu vermeiden. Namentlich im Schnittstellenbereich verschiedener Rechtsgebiete kommt ihm Bedeutung zu. Dort können sich fremdrechtliche Vorfragen stellen, welche nach einer einheitlichen, harmonisierenden Beantwortung rufen[23]. Im Verhältnis von Straf- und Sozialversicherungsgericht gilt der Grundsatz, dass Letzteres von tatbeständlichen Feststellungen des Strafgerichts nur abweicht, wenn der im Strafverfahren ermittelte Tatbestand und dessen rechtliche Subsumtion nicht zu überzeugend vermögen oder auf Grundsätzen beruhen, die zwar im Strafrecht gelten, im Sozialversicherungsrecht aber unerheblich sind[24]. Für das Verhältnis Zivil- und Sozialversicherungsrecht hielt das Bundesgericht fest, die Adäquanzformel verfolge in den beiden Rechtsgebieten unterschiedliche rechtspolitische Zielsetzungen. Eine schematische Übernahme von sozialversicherungsrechtlichen Kriterien ins Zivilrecht würde deshalb dem Zweck, im Einzelfall eine billige "adäquate" Zurechnung vorzunehmen, zuwiderlaufen[25].
+3.4.2.2.
+Die Psycho-Praxis im Sozialversicherungsrecht bezieht sich auf psychische Fehlentwicklungen im Nachgang zu einem Unfall. In solchen Konstellationen ist der natürliche Kausalzusammenhang ohne Weiteres gegeben, nicht aber der adäquate Kausalzusammenhang. Dieser dient der rechtlichen Eingrenzung der Haftung der Unfallversicherung. Bei psychischen Fehlentwicklungen ist bei der Adäquanzprüfung vom augenfälligen Geschehensablauf auszugehen, wobei zwischen leichten, mittelschweren und schweren Verläufen zu unterscheiden ist. Psychische Aspekte werden nicht in die Prüfung miteinbezogen, vielmehr ist vom augenfälligen Geschehensablauf auf die psychische Entwicklung rückzuschliessen[26]. Diese Praxis beruht auf der Überlegung, dass die soziale Unfallversicherung nicht vom psychisch gesunden Menschen ausgehen darf. Sie hat stattdessen auf eine Bandbreite der versicherten Personen abzustellen. Hierzu gehören auch jene versicherten Personen, die aufgrund ihrer Veranlagung für psychische Störungen anfälliger sind und einen Unfall seelisch weniger gut verkraften als gesunde Personen. Bei Unfällen, die zu psychischen Fehlreaktionen führen, kommt indessen die Besonderheit hinzu, dass der Unfall selten die alleinige Ursache dafür ist. Der adäquate Kausalzusammenhang muss in diesen Fällen unter Berücksichtigung eines allenfalls vorbestehenden Leidens[27] beurteilt werden[28].
+3.4.2.3.
+Kausalverläufe werden im Strafrecht grundsätzlich nach der bereits erwähnten Adäquanztheorie beurteilt[29]. Diese dient auch im Strafrecht im Allgemeinen dazu, den natürlichen Kausalzusammenhang normativ einzuschränken[30]. Bei Fahrlässigkeitsdelikten im Besonderen engt die Adäquanztheorie die einem Täter zurechenbaren Kausalverläufe auf das Voraussehbare ein[31]. Ob eine Handlung im Sinn der Adäquanztheorie nach dem gewöhnlichen Lauf der Dinge und nach der allgemeinen Lebenserfahrung geeignet ist, einen Erfolg von der Art des eingetretenen herbeizuführen oder zu begünstigen, muss vom Zeitpunkt des Handelns aus entschieden werden; denn die nachträgliche (bessere) Kenntnis der Zusammenhänge kann nicht darüber entscheiden, ob eine Handlung im Zeitpunkt ihrer Vornahme erlaubt oder verboten war[32]. Demgegenüber ist die für die Erfolgszurechnung ebenfalls wesentliche Frage, aus welcher Gefahr der Erfolg hervorgegangen ist, ob sich mithin im Erfolg gerade die vom Täter geschaffene oder gesteigerte Gefahr verwirklicht hat, unter Auswertung aller im Nachhinein bekannten Umstände zu beantworten. Der Erfolg ist dem Täter zuzurechnen, wenn dessen Verhalten mindestens mit einem hohen Grad der Wahrscheinlichkeit oder mit an Sicherheit grenzender Wahrscheinlichkeit die Ursache des Erfolgs bildete[33].
+3.4.3.
+Sowohl im Straf- als auch im Sozialversicherungsrecht hat das – normative – Kriterium der Adäquanz die Funktion, die Haftung für die natürliche Kausalität einzuschränken. Im Strafrecht dient die Adäquanztheorie darüber hinaus der Zurechnung eines strafrechtlichen Erfolgs. Die Beurteilung des Kausalverlaufs erfolgt hier aus einer anderen Perspektive und dient anderen rechtspolitischen Zielen. Ähnlich wie im Verhältnis von Zivil- und Sozialversicherungsrecht[34] ist ein schematisches Anknüpfen an die sozialversicherungsrechtliche Beurteilung auch im Strafrecht abzulehnen. Wie es sich damit im Einzelnen verhält, kann indes offenbleiben.
+In Anwendung des strafrechtlichen Massstabs ist die Adäquanz vorliegend zu verneinen. Für die Vorhersehbarkeit ist auf den Kenntnisstand im Zeitpunkt des Unfalls abzustellen. Für den Berufungskläger war nicht erkennbar, dass sein Fehlverhalten zu derartigen massiven gesundheitlichen Konsequenzen beim Anschlussberufungskläger führen könnte. Voraussehbar war allenfalls eine erhebliche physische Schädigung, nicht aber eine über Jahre persistierende psychische Komplikation, die sowohl zu einer vollständig und dauerhaften Arbeitsunfähigkeit als auch zu massiven Einschränkungen im Privatleben führen könnte. Die strafrechtliche Zurechnung scheitert also zunächst an der Vorhersehbarkeit. Doch ist auch die Erfolgszurechnung im engeren Sinn zu verneinen. Diesbezüglich ist der Wissensstand im Nachhinein massgebend. Der aktuelle Gesundheitszustand des Anschlussberufungsklägers ist durch die Akten der IV und der Suva dokumentiert. Wie dem Entscheid des Versicherungsgerichts entnommen werden kann, bestehen Hinweise, dass der Anschlussberufungskläger vorbestehende Beeinträchtigungen hatte. Zugunsten des Berufungsklägers ist deshalb von einem multifaktoriellen Geschehen, das nicht ausschliesslich auf den Unfall zurückzuführen ist, auszugehen. Auf dieser Grundlage kann nicht gesagt werden, die vom Berufungskläger geschaffene Gefahr habe sich gerade im eingetretenen Erfolg manifestiert. Dieser wird vielmehr durch weitere Umstände, für die der Berufungskläger strafrechtlich nicht einzustehen hat, etwa die Persönlichkeit des Anschlussberufungsklägers, beeinflusst. Die strafrechtliche Zurechenbarkeit ist daher zu verneinen.
+3.4.4.
+Demnach muss sich der Berufungskläger die unmittelbar im Anschluss an den Unfall eingetretenen somatischen Gesundheitsschäden des Anschlussberufungsklägers zurechnen lassen. Eine weitergehende Zurechnung der nicht-somatischen Gesundheitsschäden ist nicht möglich. Damit ist eine schwere Körperverletzung zu verneinen.
+3.5
+Zusammenfassend hat sich der Berufungskläger der fahrlässigen Körperverletzung nach Art. 125 Abs. 1 StGB strafbar gemacht. Die Berufung und Anschlussberufung sind damit in diesem Punkt unbegründet.
+[…]
+Obergericht, 3. Abteilung, 5. September 2023, SBR.2023.17
+Eine dagegen erhobene Beschwerde wies das Bundesgericht am 19. August 2024 ab, soweit es darauf eintrat (6B_19/2024).
+[1]    Art. 123 StGB
+[2]    BGE 131 IV 3; BGE vom 17. März 2014, 6B_953/2013, Erw. 1.1
+[3]    Roth/Berkemeier, Basler Kommentar, 4.A., Art. 122 StGB N. 20 ff.
+[4]    Art. 122 StGB
+[5]    Art. 126 StGB
+[6]    Roth/Berkemeier, Art. 123 StGB N. 3
+[7]    Art. 12 Abs. 3 StGB; RBOG 2019 Nr. 10
+[8]    BGE 135 IV 64; BGE 143 IV 140
+[9]    BGE 143 IV 140; BGE 140 II 9 f.; BGE 135 IV 64
+[10]  BGE 130 IV 11; BGE 118 IV 133, je mit weiteren Hinweisen
+[11]  BGE 140 II 10; BGE 135 IV 64
+[12]  BGE 135 IV 64 f.
+[13]  BGE 140 II 10; BGE 135 IV 65
+[14]  "Ex ante"
+[15]  "Ex post"
+[16]  BGE 140 II 10 f.; BGE 135 IV 65
+[17]  Verordnung über die Unfallverhütung, SR 832.30
+[18]  BGE 121 IV 290; Niggli/Maeder, Basler Kommentar, 4.A., Art. 12 StGB N. 31 mit weiteren Hinweisen
+[19]  RAD
+[20]  BGE vom 17. Februar 2022, 8C_812/2021
+[21]  BGE 140 V 356; BGE 115 V 133
+[22]  BGE vom 17. Februar 2022, 8C_812/2021, Erw. 8 f.
+[23]  BGE 143 II 23
+[24]  BGE 125 V 242; vgl. auch BGE 136 II 451 und BGE 143 II 23
+[25]  BGE 123 III 113
+[26]  Vgl. BGE 140 V 358 f.
+[27]  Sogenannte konstitutionelle Prädisposition
+[28]  BGE 115 V 135 f.
+[29]  Vgl. Erw. 3.1.3.3 oben
+[30]  Stratenwerth, Schweizerisches Strafrecht, AT I, 4.A., § 9 N. 25
+[31]  Vgl. Stratenwerth, § 9 N. 28
+[32]  BGE 135 IV 65
+[33]  BGE 135 IV 65; vgl. auch BGE 130 IV 10 und BGE 121 IV 289 f.
+[34]  BGE 123 III 113
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
