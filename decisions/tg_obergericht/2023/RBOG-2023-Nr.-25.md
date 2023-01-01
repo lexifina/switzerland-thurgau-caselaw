@@ -1,0 +1,129 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._25"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 25"
+decided: "2023-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-25"
+cites_law: ["switzerland/bund/acts/220/art-050.md", "switzerland/bund/acts/220/art-099.md", "switzerland/bund/acts/220/art-143.md", "switzerland/bund/acts/220/art-204.md", "switzerland/bund/acts/220/art-367.md", "switzerland/bund/acts/272/art-085.md", "switzerland/bund/acts/272/art-158.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 25
+
+## Regeste
+
+Anforderungen an die Glaubhaftmachung eines schutzwürdigen Interesses zur Abklärung der Beweis- und Prozessaussichten bei einer vorsorglichen Beweisabnahme
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 25
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 25
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 25
+
+RBOG 2023 Nr. 25
+Skip to main content
+Show navigation
+Anforderungen an die Glaubhaftmachung eines schutzwürdigen Interesses zur Abklärung der Beweis- und Prozessaussichten bei einer vorsorglichen Beweisabnahme
+Art. 158 Abs. 1 lit. b ZPO
+Zusammenfassung des Sachverhalts:
+Die Berufungsklägerin schloss mit der Generalplanerin einen Vertrag über die Erstellung eines Neubaus ab. Die Generalplanerin zog für die Erstellung des Bauobjekts unter anderem die A AG, die B GmbH und die C AG bei. Vor Fertigstellung kündigte die Berufungsklägerin den Vertrag mit der Generalplanerin. Zwischen den Parteien besteht Uneinigkeit über die Frage, ob das Bauobjekt an Mängeln leidet. Die Berufungsklägerin reichte deshalb beim Bezirksgericht ein Gesuch um vorsorgliche Beweisführung ein. Sie beantragte die Einsetzung eines gerichtlichen Experten zwecks Beantwortung eines von ihr formulierten Fragenkatalogs. Als Gegenparteien führte sie in ihrem Gesuch die Generalplanerin sowie die A AG, die B GmbH
+und die C AG auf. Das Gesuch der Berufungsklägerin kreuzte sich zeitlich mit einer beim gleichen Bezirksgericht eingereichten Forderungsklage der Generalplanerin gegen die Berufungsklägerin. Die Einzelrichterin des Bezirksgerichts wies das Gesuch ab, wogegen die Berufungsklägerin Berufung erhob. Im Berufungsverfahren ist strittig, ob die Voraussetzungen für eine vorsorgliche Beweisführung gegeben sind.
+Aus den Erwägungen:
+[…]
+17.
+17.1.
+Art. 158 ZPO regelt die vorsorgliche Beweisführung. Nach lit. a dieser Bestimmung nimmt das Gericht jederzeit Beweis ab, wenn das Gesetz einen entsprechenden Anspruch gewährt. Überdies kann eine gesuchstellende Person nach Art. 158 lit. b ZPO die vorsorgliche Beweisführung verlangen, wenn sie entweder die Gefährdung der Beweismittel oder ein schutzwürdiges Interesse glaubhaft macht.
+Gegenstand der vorsorglichen Beweisführung ist nicht die abschliessende materiell-rechtliche Beurteilung von streitigen Rechten oder Pflichten, sondern ausschliesslich die Beweisabnahme im Hinblick auf die Feststellung oder Würdigung eines bestimmten Sachverhalts. Dementsprechend muss die gesuchstellende Partei einen Beweisantrag stellen, der sich unmittelbar auf die zu beweisende Tatsache bezieht. Sowohl für das Gericht als auch für die Gegenpartei muss eindeutig sein, welche Beweismittel zu welchen Tatsachenbehauptungen angerufen werden[1].
+Wird das Gesuch um vorsorgliche Beweisführung eigenständig und vor einer Klage in der Hauptsache eingeleitet, was ohne Weiteres zulässig ist[2], befindet sich der Zivilstreit in einer Phase, in der das Prozessthema noch nicht abschliessend herausgeschält ist. Es liegt in diesem Verfahrensstadium primär in der Verantwortung der gesuchstellenden Partei, dem Gericht die erforderlichen Angaben zum Sachverhalt zu präsentieren und den Umfang der Beweisführung festzulegen[3]. Verlangt sie die Einholung eines Gutachtens, sind entsprechende Fragen zu formulieren. Die Gegenparteien können durch eigene Fragen oder durch Zusatz- und Ergänzungsfragen ihren Standpunkt in das Verfahren einbringen[4].
+17.2.
+Art. 158 lit. a ZPO verweist auf das materielle Recht und stellt den dort verankerten Beweisführungsansprüchen ein Verfahren zur Verfügung. Entsprechende Bestimmungen finden sich etwa im Kaufrecht[5] und im Werkvertragsrecht[6].
+17.3.
+Die Gefährdung eines Beweismittels im Sinn von Art. 158 lit. b erster Satzteil ZPO ist zu bejahen, wenn das Risiko besteht, dass ein bestimmter Beweis im nachfolgenden Prozess oder in einem späteren Stadium des bereits rechtshängigen Prozesses nicht mehr erhoben werden kann, weil das Beweismittel verloren ging oder sich die Situation veränderte[7]. In der Lehre wird teilweise vertreten, nicht nur die Verunmöglichung, auch die Erschwerung eines später zu führenden Beweises falle unter den ersten Satzteil von Art. 158 lit. b ZPO[8]. Sofern dieser Leseart nicht gefolgt würde, wäre die Erschwerung der Beweisführung aber jedenfalls als möglicher Anwendungsfall von Art. 158 lit. b zweiter Satzteil ZPO zu beurteilen[9].
+17.4
+Um ein schutzwürdiges Interesse nach Art. 158 Abs. 1 lit. b zweiter Satzteil ZPO glaubhaft zu machen, kann sich der Gesuchsteller nicht mit der Behauptung begnügen, dass ein Bedürfnis nach Abklärung der Beweis- und Prozessaussichten besteht. Er kann eine vorsorgliche Beweisführung vielmehr einzig zur Durchsetzung eines konkreten materiell-rechtlichen Anspruchs verlangen. Wer sich auf Art. 158 Abs. 1 lit. b ZPO beruft, muss daher glaubhaft machen, dass ein Sachverhalt vorliegt, gestützt auf den das materielle Recht ihm einen Anspruch gegen die Gegenpartei verschafft und zu dessen Beweis das abzunehmende Beweismittel dienen kann[10]. Die Anforderungen an die Glaubhaftmachung dürfen freilich nicht überspannt werden, geht es doch in diesem Verfahrensstadium noch nicht um die Prüfung der Begründetheit in der Hauptsache. Dementsprechend sind an das Bestehen eines schutzwürdigen Interesses keine hohen Anforderungen zu stellen. Dieses ist grundsätzlich nur zu verneinen, wenn es offensichtlich nicht vorliegt, was der Fall ist, wenn das beantragte Beweismittel offenkundig untauglich ist, die zu beweisende Tatsache offensichtlich unerheblich ist oder das Beweismittel ohne Weiteres auf anderem Weg beschafft werden kann[11].
+17.5
+Die vorsorglich abgenommenen Beweismittel erleichtern die Beweisführung im Hauptprozess; sie schliessen indes eine erneute Beweisabnahme zum gleichen Beweisthema im Hauptprozess nicht aus. Vielfach dürfte das Beweisthema im Rahmen der vorsorglichen Beweisführung gar nicht definitiv feststehen, weshalb es den Parteien später möglich sein muss, präzisierende, ergänzende und das Beweisergebnis der vorsorglichen Beweisführung in Zweifel ziehende Beweismittel zu beantragen[12].
+[…]
+19.
+Umstritten ist weiter, ob die Voraussetzungen von Art. 158 Abs. 1 lit. b ZPO vorliegen.
+19.1.
+19.1.1.
+Die Vorinstanz verneinte die Gefährdung eines Beweismittels mit dem Argument, die Berufungsklägerin habe nicht nachgewiesen, dass ihr ein Beweisverlust drohe. Insbesondere habe sie nicht dargelegt, dass sie bereits mit Drittunternehmen bezüglich der Ersatzvornahme Kontakt aufgenommen habe. Wie es sich damit verhält, kann an dieser Stelle offenbleiben. Ein schutzwürdiges Interesse im Sinn von Art. 158 Abs. 1 lit. b zweiter Satzteil ZPO kann selbst dann vorliegen, wenn im Rahmen von Art. 158 Abs. 1 lit. b erster Satzteil kein unmittelbarer Beweisverlust droht[13].
+19.1.2.
+Die Berufungsklägerin wirft der Vorinstanz eine falsche Anwendung von Art. 158 lit. b ZPO vor. Sie rügt in diesem Zusammenhang sowohl eine falsche Sachverhaltsfeststellung als auch überspannte Anforderungen an die Glaubhaftmachung. Die Rügen hängen eng zusammen und sind gemeinsam zu behandeln.
+19.2.
+Erste Voraussetzung eines schutzwürdigen Interesses ist das Bestehen eines potenziellen materiell-rechtlichen Anspruchs.
+19.2.1.
+Die Vorinstanz hat diese Voraussetzung gegenüber der Generalplanerin zutreffend bejaht. Ausgehend von den Vorbringen der Berufungsklägerin und gestützt auf den in den Akten liegenden "Generalplanervertrag" ist glaubhaft gemacht, dass ein allfälliger Mangel des Bauwerks zu einer vertraglichen Haftung der Generalplanerin führen könnte. Als vertragliche Leistung ist einstweilen die Bauleitung zu betrachten. Dass die Berufungsklägerin dabei nicht die gesamten vertraglichen Vereinbarungen mit der Generalplanerin einreichte, wie dies Letztere bemängelt, schadet nicht. Die eingereichten Unterlagen reichen, um einen Generalplanervertrag zwischen diesen beiden Parteien glaubhaft zu machen. Hätten weitere Vertragsbestandteile den Standpunkt der Berufungsklägerin widerlegen können, hätte die Generalplanerin diese vorinstanzlich ohne Weiteres einreichen können. Ihre diesbezüglichen Einwendungen haben daher als unbelegt und damit nicht glaubhaft zu gelten.
+19.2.2.
+Fraglich ist, ob ein potenzieller Anspruch auch gegenüber den weiteren Parteien, die Teile des Werkes erstellten, glaubhaft gemacht ist. So wendet die B GmbH ein, die Berufungsklägerin behaupte nicht einmal, es liege ein Sachverhalt vor, der ihr gegenüber einen materiellen Anspruch begründen würde. Die C AG macht geltend, ihr gegenüber sei nie eine Mängelrüge ergangen und sie hafte nicht für ihre Leistungen.
+19.2.3.
+An einem Bauvorhaben sind in der Regel mehrere Personen beteiligt. Leidet das Werk später an einem Mangel, sind die beteiligten Unternehmer gegenüber dem Bauherrn solidarisch haftbar, wenn sie sich vertraglich auf eine solidarische Haftung einliessen[14] oder das Gesetz Solidarität vorsieht[15]. Wie die solidarische Haftung im Einzelfall ausgestaltet ist, hängt von dem sie begründenden Rechtsgrund ab[16]. In der Praxis hat die gesetzliche Haftung die grössere Bedeutung als die vertragliche[17]. Der Planer und der (Sub-)Unternehmer haften von Gesetzes wegen solidarisch im Aussenverhältnis, dies unabhängig von einem gemeinsamen Verschulden, wenn sie beide für einen Schaden verantwortlich sind. Die Solidarität folgt aus Art. 50 Abs. 1 OR, welche Bestimmung über den Verweis in Art. 99 Abs. 3 OR auch im vertraglichen Verhältnis gilt[18]. Dabei konkurrieren sich die unterschiedlichen Haftungen. So können werkvertragliche Ansprüche gegenüber einem (Sub-)Unternehmer mit auftragsrechtlichen Ansprüchen aus einem dem Auftragsrecht unterworfenen Planervertrag nebeneinander stehen[19]. Denkbar ist eine solidarische Haftung von Planer und Unternehmer etwa bei Planungsfehler, welche der Unternehmer pflichtwidrig nicht erkannt oder abgemahnt hat oder bei einer unsorgfältigen Bauaufsicht, indem der Planer, welcher die Bauleitung innehatte, in pflichtwidriger Weise einen vom Unternehmer verursachten Mangel oder Schaden nicht erkennt oder diesem fehlerhafte Weisungen erteilt, welche der Unternehmer ausführt[20].
+19.2.4.
+Es ist unbestritten und aktenkundig, dass zwischen der Berufungsklägerin und der B GmbH, der A AG und der C AG je ein sich auf das Bauobjekt beziehendes Vertragsverhältnis besteht. Erstere wurde für die Erstellung der Heizungs-, Lüftungs- und Klimaanlagen sowie der Lüftungsanlagen, die A AG für die Realisierung der Gebäudeautomatisation und die C AG für die Wandbeläge Plattenarbeiten beigezogen. Sofern das Bauobjekt in den von ihnen errichteten Werkteilen mangelhaft wäre, könnten diese Unternehmen der Berufungsklägerin solidarisch mit der Generalplanerin haftbar sein. Insofern ist ein materieller Hauptanspruch glaubhaft gemacht.
+Im vorliegenden Prozessstadium nicht von Bedeutung ist, ob und wie die Berufungsklägerin allfällige Mängel gegenüber Unternehmen bereits gerügt hat. Es genügt, dass Mängel gegenüber der Generalplanerin gerügt wurden. Es kommt hinzu, dass die Berufungsklägerin glaubhaft ausführte, dass sie eine Mängelrüge gegenüber den Unternehmen auch noch erheben könnte. Im Verfahren der vorsorglichen Beweisführung geht es zudem ohnehin nicht um die abschliessende Klärung der materiell-rechtlichen Anspruchsvoraussetzungen[21]. Es ist denn auch kein typisches Zweiparteienverfahren. Die Gegenparteien haben im Rahmen der vorsorglichen Beweisführung zwar Anspruch auf rechtliches Gehör[22]. Doch ist es Aufgabe der gesuchstellenden Partei, den materiellen Teil der Beweisabnahme zu definieren. Die ihrer Ansicht nach zu Unrecht in ein solches Verfahren einbezogenen Parteien können sich passiv verhalten und werden nach der bundesgerichtlichen Praxis selbst dann nicht kostenpflichtig, wenn das Gesuch um vorsorgliche Beweisführung zu schützen ist[23]. Die fehlende Mitwirkung gereicht den Gegenparteien auch im Hauptverfahren grundsätzlich nicht zum Nachteil[24]. Sie können insbesondere zum gleichen Beweisthema weitere Beweise beantragen[25]. Aus dieser Verfahrensordnung folgt, dass eine zu weite Fassung des Gesuchs um vorsorgliche Beweisführung in subjektiver Hinsicht für die betroffenen Parteien unschädlich ist. In diesem Verfahrensabschnitt steht einzig die Beweissicherung wegen eines potenziellen Anspruchs zur Debatte. Ob und inwieweit im konkreten Einzelfall tatsächlich eine Haftung besteht, kann und hat offenzubleiben[26]. Vor diesem Hintergrund genügt es, wenn die Berufungsklägerin das Bestehen einer vertraglichen Beziehung zur B GmbH, der A AG und die C AG darlegte und die Mängel der von ihnen ausgeführten Werkteile glaubhaft machte. Damit ist nicht weiter auf das Argument einzugehen, die Berufungsklägerin habe gegen diese Unternehmen keine rechtsgültige Mängelrüge erhoben.
+19.3.
+Zwischen den Parteien ist weiter umstritten, ob die Berufungsklägerin ein schutzwürdiges Interesse an der Beweisabnahme dartat.
+19.3.1.
+In tatsächlicher Hinsicht ist vom Sachvortrag der Berufungsklägerin vor erster Instanz auszugehen. Gestützt auf die Aufführungen im Gesuch, die Mängelrügen und den Bericht Lüftung, den Bericht von X, den Ortungsbericht der Y sowie den Bericht der Z gelang der Berufungsklägerin der – mit dem Beweismass der Glaubhaftmachung zu erbringende – Nachweis von potenziellen Mängeln des Bauobjekts. Diese betreffen insbesondere das Kühlungs- und Lüftungssystem (Durchzugserscheinungen und Lärmimmissionen; fehlerhaft dimensionierte Auslässe und Drallauslässe), die Kondenswanne (Leck), den Luftkompressor (ungenügende Leistung und zu wenige Ansaugluft), das Wärmesystem des Objekts und die Bodenabdichtung im Waschraum. Soweit die in das Verfahren einbezogenen Unternehmen die Mangelhaftigkeit bestreiten, ist darauf nicht näher einzugehen. Mit Blick auf das schutzwürdige Interesse nach Art. 158 Abs. 1 lit. b ZPO ist nach höchstrichterlicher Praxis unerheblich, dass der massgebende Sachverhalt – die Mangelhaftigkeit des Werks und die konkreten vertraglichen Verpflichtungen der involvierten Parteien – umstritten ist. Gerade diese Ungewissheit begründet ein schutzwürdiges Interesse[27]. Soweit seitens der Parteien vorgebracht wird, das Bauobjekt sei nicht mangelhaft, sind diese Einwendungen folglich nicht geeignet, den Beweisführungsanspruch der Berufungsklägerin zu Fall zu bringen.
+19.3.2.
+Die Vorinstanz verneinte das schutzwürdige Interesse im Wesentlichen mit der dreifachen Begründung, die Berufungsklägerin habe den beanstandeten Zustand lange geduldet, dieser betreffe in erster Linie den Komfort des Gebäudes und eine Beweisgefährdung sei nicht glaubhaft gemacht. Mit diesen Erwägungen verkennt die Vorinstanz die Voraussetzungen sowie Sinn und Zweck der vorsorglichen Beweisführung.
+19.3.2.1.
+Nach der Intention des Gesetzgebers soll die vorsorgliche Beweisführung nicht nur der Sicherung von Beweismitteln, sondern auch der Abklärung der Beweis- und Prozessaussichten dienen. Ziel von Art. 158 ZPO ist auch, aussichtslose Prozesse zu vermeiden[28]. Die eidgenössische Zivilprozessordnung verstärkt damit im Vergleich zu den kantonalen Prozessordnungen[29] die Möglichkeit einer frühzeitigen (vorprozessualen) Abklärung des Sachverhalts auf der einen und der Beweisaussichten auf der anderen Seite[30].
+19.3.2.2.
+Aus dieser Zielsetzung von Art. 158 ZPO folgert die Lehre mit Blick auf das schutzwürdige Interesse zu Recht, dass daran keine hohen Anforderungen zu stellen sind. Es genügt, wenn die gesuchstellende Partei einen praktischen Nutzen für ihre rechtliche oder tatsächliche Situation glaubhaft macht[31]. Auch die Rechtsprechung des Bundesgerichts betont, an den Nachweis eines schutzwürdigen Interesses dürften keine überspannten Anforderungen gestellt werden[32]. Stellt das abzunehmende Beweismittel das einzige dar, mit dem der gesuchstellenden Partei ihren Anspruch beweisen kann, muss es genügen, dass sie das Vorliegen der anspruchsbegründenden Tatsachen lediglich substantiiert und schlüssig behauptet[33]. Dies gilt insbesondere, wenn der umstrittene Sachverhalt durch eine Expertise zu klären ist. Im Unterschied zu privaten Beweiserhebungen oder einem Privatgutachten, das prozessual lediglich Teil des Parteivortrags bildet, vermag ein Gerichtsgutachten einen Sachverhalt abschliessend positiv oder negativ beweisen. Dementsprechend kann einer gesuchstellenden Partei das schutzwürdige Interesse nicht unter Hinweis auf bereits bestehende Privatgutachten abgesprochen werden. Das schutzwürdige Interesse liegt hier vielmehr darin, dank des Gerichtsgutachtens eine im Hauptprozess weitgehend sichere Beweisgrundlage zu erhalten[34].
+19.3.2.3.
+Der von der Berufungsklägerin glaubhaft dargelegte Ausgangssachverhalt ist vergleichsweise technisch. Bei den geltend gemachten Mängeln an der Baute handelt es sich um komplexe Mängel. In einem späteren Prozess wird ein Gerichtsgutachten über den Zustand der Baute deshalb ein entscheidendes Beweismittel darstellen. Dass es sich um ein für die Berufungsklägerin in einem späteren Forderungsprozess essenzielles Beweismittel handeln dürfte, zeigt sich gerade auch darin, wie vehement die Berufungsbeklagten den Standpunkt der Berufungsklägerin beziehungsweise die von ihr geltend gemachte Mängelhaftigkeit der Baute im vorliegenden Verfahren bestreiten. Die Berufungsklägerin hat in ihrem Gesuch sowohl einen materiellen Anspruch gegen die Berufungsbeklagten als auch mehrere mögliche Mängel des Bauobjekts substantiiert behauptet und – mit Verweis auf Mängelrügen und Berichten von Drittunternehmen – belegt. Dies genügt im Rahmen der vorsorglichen Beweisführung zur Glaubhaftmachung des schutzwürdigen Interesses.
+Keine Rolle spielt hingegen, ob die Berufungsklägerin den heutigen Zustand während längerer Zeit duldete, wie dies die Vorinstanz festhielt. Ebenso unbedeutend ist, ob sich die Mängel – wie die Vorinstanz anzunehmen scheint – in blossen Komforteinbussen manifestieren. Für das schutzwürdige Interesse nach Art. 158 lit. b ZPO ist irrelevant, wie gravierend die Folgen eines allfälligen Baumangels sind, solange ein schutzwürdiges Interesse an der Abklärung der beweisrechtlichen Ausgangslage besteht. Dies ist vorliegend zu bejahen. Die Vorinstanz hat sich somit auf falsche Kriterien gestützt, um das schutzwürdige Interesse zu beurteilen. In der Folge stellte sie zu hohe Anforderungen an selbiges.
+19.3.2.4.
+Der vorinstanzlichen Beurteilung könnte selbst dann nicht gefolgt werden, wenn die materielle Tragweite der Mängel von Bedeutung wäre. Die Berufungsklägerin legte entgegen den vorinstanzlichen Feststellungen konkrete Mängel dar, die nicht als gänzlich unerheblich bezeichnet werden können, so insbesondere der undichte Boden in der Waschanlage. Aus dem Gesuch geht zudem hinreichend deutlich hervor, weshalb bis zu diesem Zeitpunkt keine rechtlichen Schritte eingeleitet wurden. Aus dem zeitlichen Ablauf der Mängelrügen, dargelegt im Gesuch, ergibt sich, dass die Generalplanerin die Vorbringen der Berufungsklägerin abstritt. In der Folge scheiterte der Versuch, ein verbindliches Schiedsgutachten in Auftrag zu geben. Zwischen den Parteien fanden somit zwischen der ersten Mängelrüge bis zur letzten Mängelrüge zwei Wochen vor Einreichung des Gesuchs Gespräche zur einvernehmlichen Klärung der Situation statt. Zeitlich parallel dazu liess die Berufungsklägerin die geltend gemachten Mängel durch Drittunternehmen abklären. Entgegen den Feststellungen der Vorinstanz duldete die Berufungsklägerin also den gerügten Zustand nicht, vielmehr traf sie weitere Abklärungen. Vor diesem Hintergrund ist auf der Zeitachse auch nachvollziehbar, weshalb das Gesuch der Berufungsklägerin "erst" elf Monate nach der ersten Mängelrüge eingereicht wurde. In diesem Zeitpunkt schienen die Gespräche definitiv gescheitert zu sein. Überdies lag erst zwei Monate vor Einreichung des Gesuchs der fünfte der Bericht eines beigezogenen Unternehmens vor.
+Wenn die Vorinstanz weiter erwägt, die Berufungsklägerin habe keine Beweisgefährdung als Folge potenzieller Ersatzmassnahmen behauptet und substantiiert, ist darauf nicht mehr näher einzugehen. Es genügt für das schutzwürdige Interesse nach Art. 158 Abs. 1 lit. b zweiter Satzteil ZPO, dass eine Expertise in einem späteren Hauptprozess ein entscheidendes Beweismittel sein dürfte. Eine zusätzliche Beweisgefährdung nach Art. 158 Abs. 1 lit. a erster Satzteil ZPO muss nicht dargetan sein.
+19.4.
+Soweit die Berufungsbeklagten der Berufungsklägerin das schutzwürdige Interesse absprechen unter Verweis auf den bereits rechtshängigen Prozess, ist ihnen nicht zu folgen. Art. 158 Abs. 1 ZPO lässt die vorsorgliche Beweisführung "jederzeit" zu. Wie die Berufungsklägerin zu Recht geltend macht, kann sich der Hauptprozess über längere Zeit hinziehen. Ein eigenständiges Verfahren um vorsorgliche Beweisführung, das überdies im Summarverfahren zu führen ist, dürfte aus Sicht der Berufungsklägerin rascher zu einem beweisrechtlichen Ergebnis führen als das Zuwarten im Hauptprozess. In diesem ist die Berufungsklägerin zudem Beklagte. Das Ergebnis der vorsorglichen Beweisführung soll, gemäss Ausführungen der Berufungsklägerin, aber die tatsächlichen Grundlagen für eine allfällige Widerklage im hängigen Forderungsprozess darstellen. Kommt hinzu, dass das separate Verfahren der Berufungsklägerin die Möglichkeit bietet, neben der Generalplanerin, der Klägerin im hängigen Hauptprozess, auch die Unternehmen in die vorsorgliche Beweisführung einzubeziehen. In formeller Hinsicht ist weiter festzuhalten, dass die Berufungsklägerin nicht verpflichtet ist, im Verfahren betreffend vorsorgliche Beweisführung ihre Rechtsbegehren, die sie in einem späteren Hauptprozess zu stellen gedenkt, offenzulegen. Bei gegebenen Voraussetzungen könnte die gesuchstellende Partei zum einen ein unbeziffertes Rechtsbegehren stellen[35]. Es ist nicht ersichtlich, dass der Gesetzgeber einer Partei, die von Art. 158 ZPO Gebrauch macht, diese Möglichkeit absprechen wollte[36]. Zum anderen widerspräche es Sinn und Zweck der vorsorglichen Beweisführung – zumindest in Form eines vorprozessual gestellten Gesuchs –, wenn die gesuchstellende Partei in diesem frühen Verfahrensstadium bereits auf Rechtsbegehren behaftet würde. Die vorsorgliche Beweisführung legt erst die Grundlage für diese Rechtsbegehren, indem sie die tatsächliche Ausgangslage klärt.
+19.5.
+Als Zwischenergebnis ist festzuhalten, dass die Berufungsklägerin ein schutzwürdiges Interesse im Sinn von Art. 158 Abs. 1 lit. b zweiter Satzteil ZPO glaubhaft gemacht hat. Dieses besteht in der Abklärung der umstrittenen Mangelhaftigkeit des Bauobjekts durch einen gerichtlich bestellten Experten.
+[…]
+Obergericht, 3. Abteilung, 14. Juni 2023, ZBS.2022.28
+[1]    BGE 143 III 118; BGE vom 12. Mai 2017, 4A_128/2017, Erw. 5.1
+[2]    BGE vom 12. Mai 2017, 4A_128/2017, Erw. 5.1
+[3]    BGE 143 III 118 f.
+[4]    BGE vom 21. Februar 2023, 4A_322/2012, Erw. 2.2.2 mit weiteren Hinweisen
+[5]    Art. 204 Abs. 2 OR
+[6]    Art. 367 Abs. 2 OR; vgl. auch Schweizer, Vorsorgliche Beweisabnahme nach schweizerischer Zivilprozessordnung und Patentgesetz, in: zzz 2010 S. 7 f.; Zürcher, Schweizerische Zivilprozessordnung (Hrsg.: Brunner/Gasser/Schwander), 2.A., Art. 158 N. 7; Brönimann, Berner Kommentar, Bern 2012, Art. 158 ZPO N. 7
+[7]    Brönimann, Art. 158 ZPO N. 8; Fellmann, in: Kommentar zur Schweizerischen Zivilprozessordnung (Hrsg. Sutter-Somm/Hasenböhler/Leuenberger), 3.A., Art. 158 N. 12; Guyan, Basler Kommentar, 3.A., Art. 158 ZPO N. 3; Zürcher, Art. 158 ZPO N. 10
+[8]    Fellmann, Art. 158 ZPO N. 13; Guyan, Art. 158 ZPO N. 3
+[9]    Fellmann, Art. 158 ZPO N. 14; Schweizer, S. 8
+[10]  BGE 143 III 118; BGE 138 III 81
+[11]  BGE vom 21. Februar 2013, 4A_322/2012, Erw. 2.2.1; Schweizer, S. 10
+[12]  Fellmann, Art. 158 ZPO N. 46
+[13] Vgl. Erw. 0 oben
+[14] Art. 143 Abs. 1 OR
+[15] Art. 143 Abs. 2 OR
+[16]  Krauskopf, Die Planer und die Haftung mehrerer, in: Planerverträge (Hrsg.: Stöckli/Siegenthaler), 2.A., N. 17.60
+[17]  Krauskopf, N. 17.54
+[18]  BGE 119 II 131; BGE 115 II 45 ff.; Krauskopf, N. 17.67
+[19]  Krauskopf, N. 17.65
+[20] Krauskopf, N. 17.67 ff.
+[21] Vgl. Erw. 0 oben
+[22]  BGE 139 III 36
+[23]  BGE 139 III 34
+[24]  Fellmann, Art. 158 ZPO N. 45a; Zürcher, Art. 158 ZPO N. 18
+[25] Vgl. Erw. 0 oben
+[26]  Vgl. BGE vom 21. Februar 2013, 4A_322/2012, Erw. 2.5
+[27]  BGE vom 21. Februar 2013, 4A_322/2012, Erw. 2.5
+[28]  Botschaft zur Schweizerischen Zivilprozessordnung vom 28. Juni 2006, BBl 2006 S. 7315; vgl. auch Brönimann, Art. 158 ZPO N. 9; Fellmann, Art. 158 ZPO N. 17; Zürcher, Art. 158 ZPO N. 14
+[29]  Vgl. Schweizer, S. 4 f.
+[30]  BGE 140 III 28 f.; BGE 140 III 23 f.
+[31]  Fellmann, Art. 158 ZPO N. 19; Guyan, Art. 158 ZPO N. 5
+[32]  BGE vom 14. Dezember 2020, 4A_165/2020, Erw. 4.1.1; BGE vom 21. Februar 2013, 4A_322/2012, Erw. 2.2.1
+[33]  BGE 140 III 19; BGE 138 III 82
+[34]  Vgl. BGE 140 III 23; BGE vom 14. Dezember 2020, 4A_165/2020, Erw. 4.1.2
+[35] Art. 85 Abs. 1 ZPO
+[36]  Vgl. für die umgekehrte Konstellation: Fellmann, Art. 158 ZPO N. 45
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
