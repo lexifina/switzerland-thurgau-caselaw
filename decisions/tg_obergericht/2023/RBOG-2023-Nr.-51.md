@@ -1,0 +1,127 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._51"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 51"
+decided: "2023-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-51"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/312.0/art-001.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-007.md", "switzerland/bund/acts/312.0/art-054.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-314.md", "switzerland/bund/acts/351.1/art-035.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 51
+
+## Regeste
+
+Rechthilfeersuchen an Google bei Ehrverletzungsdelikten sind nicht von vornherein aussichtslos; Voraussetzungen einer Sistierung der Strafuntersuchung.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 51
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 51
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 51
+
+RBOG 2023 Nr. 51
+Skip to main content
+Show navigation
+Rechthilfeersuchen an Google bei Ehrverletzungsdelikten sind nicht von vornherein aussichtslos; Voraussetzungen einer Sistierung der Strafuntersuchung.
+Art. 32 lit. a CCC
+Art. 32 lit. b CCC
+Art. 5 Ziff. 1 lit. a EUeR
+Art. 4 Ziff. 2 RVUS
+Art. 54 StPO
+Art. 6 Abs. 1 StPO
+Art. 314 Abs. 1 lit. a StPO
+Zusammenfassung des Sachverhalts:
+Der Beschwerdeführer reichte bei der Staatsanwaltschaft Strafanzeige ein wegen einer mutmasslich ehrverletzenden Rezension zu seinem Nachteil beim Eintrag seines Unternehmens auf dem Online-Kartendienst "Google Maps". Er beantragte unter anderem die Einholung einer schriftlichen Auskunft bei Google Schweiz und Irland zum Benutzer, der die Rezension hinterliess. Dies lehnte die Staatsanwaltschaft ab und verfügte die Sistierung der Strafuntersuchung bis zur Ermittlung der Täterschaft beziehungsweise bis zum Vorliegen neuer Ermittlungsansätze. Dagegen erhob der Beschwerdeführer Beschwerde.
+Aus den Erwägungen:
+[…]
+5.
+5.1.
+Die Strafbehörden klären von Amtes wegen alle für die Beurteilung der Tat und der beschuldigten Person bedeutsamen Tatsachen ab[1]. Sie setzen zur Sachverhaltsermittlung alle nach dem Stand von Wissenschaft und Erfahrung geeigneten Beweismittel ein, die rechtlich zulässig sind und weder unerheblich noch offenkundig oder der Strafbehörde bereits bekannt oder rechtsgenügend erwiesen sind[2]. Sie sind verpflichtet, im Rahmen ihrer Zuständigkeit ein Verfahren einzuleiten und durchzuführen, wenn ihnen Straftaten oder auf Straftaten hinweisende Verdachtsgründe bekannt werden[3].
+5.2.
+Die Staatsanwaltschaft kann eine Strafuntersuchung sistieren, namentlich wenn die Täterschaft oder ihr Aufenthalt unbekannt ist oder andere vorübergehende Verfahrenshindernisse bestehen[4]. Vor der Sistierung erhebt die Staatsanwaltschaft die Beweise, deren Verlust zu befürchten ist. Ist die Täterschaft oder ihr Aufenthalt unbekannt, so leitet sie eine Fahndung ein[5]. Im Übrigen richtet sich das Verfahren nach den Bestimmungen über die Verfahrenseinstellung[6]. Die Sistierung stellt eine Zwischenverfügung dar, mit der erreicht wird, dass eine Untersuchung, die bloss vorübergehend nicht weitergeführt werden kann, einstweilen formell erledigt wird. Der Fall bleibt indes bei der sistierenden Behörde rechtshängig und muss später durch Einstellung, Anklage oder Strafbefehl erledigt werden[7].
+5.3.
+Bei der Beurteilung der Frage, ob eine Sistierung zu verfügen ist, kommt der Staatsanwaltschaft ein gewisser Ermessensspielraum zu. Die Sistierung steht in einem Spannungsverhältnis zum Beschleunigungsgebot[8]. Das Gebot wird verletzt, wenn die Staatsanwaltschaft das Strafverfahren ohne objektiven Grund sistiert. Die Sistierung hängt von einer Abwägung der Interessen ab. Sie ist mit Zurückhaltung anzuordnen. Im Grenz- oder Zweifelsfall geht das Beschleunigungsgebot vor[9].
+6.
+6.1.
+Die StPO regelt die Verfolgung und Beurteilung der Straftaten nach Bundesrecht durch die Strafbehörden des Bundes und der Kantone[10]. Die Verfahrensvorschriften anderer Bundesgesetze bleiben vorbehalten[11]. Die Gewährung der internationalen Rechtshilfe und das Rechtshilfeverfahren richten sich nur so weit nach der StPO, als andere Bundesgesetze und völkerrechtliche Verträge dafür keine Bestimmungen enthalten[12].
+6.2.
+6.2.1.
+Für die internationale Rechtshilfe zwischen der Schweiz und Irland ist in erster Linie das Europäische Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen[13] mit dem hierzu ergangenen zweiten Zusatzprotokoll vom 8. November 2001[14] massgebend. Dieses lässt den Vertragsstaaten die Möglichkeit, die Anordnung von Zwangsmassnahmen von der Voraussetzung der beidseitigen Strafbarkeit der zugrundeliegenden Tat abhängig zu machen[15], wovon die Schweiz und Irland Gebrauch gemacht haben[16]. Mit dem Übereinkommen verpflichten sich die Vertragsparteien, gemäss den Bestimmungen dieses Übereinkommens einander so weit wie möglich Rechtshilfe zu leisten in allen Strafsachen, zu deren Verfolgung die Justizbehörden des ersuchenden Staates zuständig sind[17]. Gegenstand von Rechtshilfeersuchen können gemäss Art. 3 Ziff. 1 EUeR insbesondere auch die Vornahme von Untersuchungshandlungen oder die Übermittlung von Beweisstücken, Akten oder Schriftstücken sein.
+6.2.2.
+Ehrverletzungen werden nach irischem Recht, soweit ersichtlich, nach dem "Defamation Act 2009"[18] geregelt. Dieser richtet sich gegen öffentlich publizierte Äusserungen, die in den Augen einer vernünftigen Person geeignet sind, die Ehre der betroffenen Person zu verletzen, und die nicht wahr oder überwiegend wahr sind[19]. Nach den im Erlass vorgesehenen Folgen und Rechtsbehelfen scheint es sich bei solchen Ehrverletzungen nach irischem Recht wohl um keine strafrechtlichen Delikte zu handeln, sondern wohl um unerlaubte Handlungen im zivilrechtlichen Sinn. Gleichwohl scheint es nach irischem Recht bei anonymen Ehrverletzungen im Internet möglich zu sein, einen gerichtlichen Herausgabebefehl gegen den betreffenden Dienstbetreiber zu erwirken[20]. Das Instrument der "Norwich Pharmacal order", das dabei vom Gericht angeordnet wird, kommt auch bei der Untersuchung von Straftaten zur Anwendung[21]. Ob für Ehrverletzungsdelikte im Sinn von Art. 173 ff. StGB im Verhältnis mit Irland Anspruch auf Rechtshilfe in Strafsachen besteht, lässt sich gestützt auf diese oberflächliche Prüfung der Rechtslage in Irland zwar nicht abschliessend beurteilen, es erscheint aber jedenfalls nicht als von vornherein ausgeschlossen.
+6.3.
+Im Verhältnis zu den USA richtet sich die Rechtshilfe primär nach dem Staatsvertrag vom 25. Mai 1973 zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Staaten von Amerika über gegenseitige Rechtshilfe in Strafsachen[22]. Dieser setzt für die zwangsweise Anordnung von Beweiserhebungen zunächst die beidseitige Strafbarkeit des betreffenden Delikts voraus; zudem muss der Tatbestand auch in der Liste der Straftaten im Anhang des Übereinkommens aufgeführt sein, für welche gemäss bilateralem Staatsvertrag Zwangsmassnahmen angewendet werden können[23]. Ehrverletzungsdelikte im Sinn von Art. 173 ff. StGB sind in dieser Liste nicht aufgeführt. Folglich besteht bezüglich dieser Tatbestände im Verhältnis zu den USA kein Anspruch auf eine rechtshilfeweise Anordnung von Zwangsmassnahmen. Die entsprechenden Ausführungen der Staatsanwaltschaft sind insofern zutreffend.
+6.4.
+6.4.1.
+Dem Übereinkommen über die Cyberkriminalität vom 23. November 2001[24] haben sich bis dato 68 Vertragsstaaten angeschlossen. Für die Schweiz ist es am 1. Januar 2012 in Kraft getreten, für die USA bereits im Jahr 2007. Irland hat das Übereinkommen zwar unterzeichnet, bisher aber nicht in Kraft gesetzt. Das CCC enthält Bestimmungen zur Rechtshilfe bei computerbezogenen Straftaten sowie bei der Erhebung von Beweismaterial in elektronischer Form; in diesem Bereich geht es den Bestimmungen der übrigen Rechtshilfeabkommen vor. Das CCC sieht vor, dass die Vertragsparteien in diesem Bereich untereinander im grösstmöglichen Umfang zusammenarbeiten sollen.
+6.4.2.
+Gemäss Art. 32 CCC können Vertragsstaaten in zwei Fällen ausnahmsweise grenzüberschreitend direkt auf Computerdaten zugreifen, ohne dass dazu der Weg der internationalen Rechtshilfe über den Staat in Anspruch genommen werden muss, in welchem sich die Daten befinden. Demnach darf eine Vertragspartei einerseits ohne Genehmigung einer anderen Vertragspartei auf Daten auf dem Territorium des anderen Vertragsstaats zugreifen, wenn diese öffentlich zugänglich gespeichert sind, selbst wenn dazu eine Registrierung als Benutzer erforderlich ist[25]. Andrerseits darf ein Vertragsstaat direkt auf in einem anderen Vertragsstaat gespeicherte Daten zugreifen und diese als Beweismittel verwenden, wenn er vorher die rechtmässige und freiwillige Zustimmung der Person einholt, welche befugt ist, die Daten (an eine Strafverfolgungsbehörde) weiterzugeben[26]. Ein solcher Fall liegt etwa vor, wenn ein ausländischer Internetdienstanbieter Benutzerdaten auf direkte Anfrage einer (inländischen) Strafverfolgungsbehörde dieser freiwillig für Ermittlungs- oder Beweiszwecke zur Verfügung stellt[27].
+7.
+7.1.
+Im vorliegenden Fall wurde die potentiell ehrverletzende Äusserung als Unternehmensrezension auf dem Online-Kartendienst "Google Maps" veröffentlicht. Aufgrund der technischen Ausgestaltung der Google-Online-Dienste können solche Rezensionen nur von registrierten Benutzern veröffentlicht werden. Auch wenn der betreffende Benutzer gegenüber der Öffentlichkeit nur unter einem Pseudonym auftritt, verfügt der Dienstanbieter von "Google Maps" über weitere Informationen beziehungsweise Daten, die der Staatsanwaltschaft die Identifizierung der bislang unbekannten Person hinter dem Pseudonym erlauben könnten. Zu denken ist dabei zunächst an Daten zur Person selbst, die bei der Registrierung dieses Benutzerkontos angegeben wurden (zum Beispiel Name, Geburtsdatum, Wohnort, E-Mail-Adressen, Telefonnummern usw.), aber auch an die bei den Anmeldungen verwendeten IP-Adressen samt zugehörigem Zeitstempel oder vom Benutzer erstellte Inhalte (zum Beispiel Kommentare, weitere Rezensionen etc.).
+7.2.
+Bei "Google Maps"[28] handelt es sich um eine Webapplikation und damit ein Produkt der Google LLC[29] mit Sitz in Mountain View, USA. Die Webapplikation beinhaltet einen Online-Atlas mit Strassenkarten, bekannten Orten, Unternehmensprofilen und einer Vielzahl anderer ortsbezogener Informationen[30]. Der Dienst kann von privaten Internetbenutzern kostenlos genutzt werden, sofern sie den Nutzungsbedingungen von Google und den dienstspezifischen Zusatzbestimmungen zustimmen[31].
+7.3.
+Aus den Nutzungsbestimmungen für die Google-Dienste geht hervor, dass die Muttergesellschaft Google LLC ihre Dienstleistungen weltweit nur teilweise selbst anbietet und erbringt. So lässt sie insbesondere Benutzern, die im Europäischen Wirtschaftsraum und in der Schweiz ansässig sind, die meisten ihrer Dienste durch die Konzerngesellschaft Google Ireland Limited mit Sitz in Dublin, Irland, anbieten und erbringen; dies gilt insbesondere auch für den Dienst "Google Maps"[32].
+7.4.
+Google Ireland Limited erklärt in den Nutzungsbedingungen, dass sie sich als Dienstanbieterin das Recht vorbehält, von Benutzern auf die Online-Dienste des Konzerns hochgeladene oder darüber übermittelte Inhalte zu löschen, falls diese einen rechtswidrigen Inhalt aufweisen oder gegen die anwendbaren Nutzungsbedingungen verstossen[33]. Die Benutzer werden von der Dienstanbieterin sodann auch darüber informiert, dass Google Ireland Limited bei behördlichen Auskunftsersuchen auf Benutzerdaten und Kommunikationsinhalte der Google-Dienste zugreift, und dass sie solchen behördlichen Herausgabeanfragen nachkommt, wenn die eigenen Richtlinien dafür eingehalten sind und sie "in Übereinstimmung mit den Gesetzen Irlands und dem in Irland geltenden EU-Recht" erfolgen[34].
+7.5.
+Dem Transparenzbericht des Google-Konzerns
+lässt sich sodann entnehmen, dass das Unternehmen allein im ersten Halbjahr 2022 in 1'202 Fällen direkte Auskunftsersuchen von Schweizer Behörden erhielt, wovon in 92% der Fälle die ersuchten Daten ganz oder teilweise herausgegeben wurden[35]. Zudem seien im gleichen Zeitraum in 14 Fällen Auskünfte zu Benutzerdaten auf dem Rechtshilfeweg von Schweizer Behörden an Google Ireland Limited gerichtet worden.
+8.
+8.1.
+Die Staatsanwaltschaft ging, soweit ersichtlich, ohne konkrete Abklärungen gemacht zu haben, davon aus, die zur Identifizierung der unbekannten Täterschaft erforderlichen Benutzerdaten befänden sich in den USA, und es sei aus rechtlichen und tatsächlichen Gründen nicht möglich, an diese Daten zu gelangen. Gestützt auf die vorstehenden Erwägungen ist jedoch davon auszugehen, dass die potentiell strafbare Rezension tatsächlich über ein Benutzerkonto erstellt wurde, deren Dienstanbieter Google Ireland Limited mit Sitz in Irland ist. Als Dienstanbieterin dürfte diese entweder selbst Inhaberin der Daten sein, die zur Identifizierung der anonymen Täterschaft führen könnten, oder zumindest in der Lage und befugt dazu sein, auf diese Daten des Google-Konzerns zuzugreifen.
+8.2.
+Die Staatsanwaltschaft prüfte auch nicht, ob beidseitige Strafbarkeit für Rechtshilfe in Irland tatsächlich erforderlich ist, beziehungsweise wie die irischen Behörden in der Praxis mit solchen Rechtshilfeersuchen umgehen. Nach schweizerischem Recht handelt es sich gemäss Staatsanwaltschaft und dem Beschwerdeführer zwar um ein Ehrverletzungsdelikt. Im Kontext der internationalen Rechtshilfe ist indessen nicht massgebend, ob die gemachte Äusserung in Irland ebenfalls als Ehrverletzungsdelikt erfasst oder unter einen anderen Straftatbestand fällt. Gemäss ständiger Rechtsprechung ist für die Frage der beidseitigen Strafbarkeit zu prüfen, ob der im Ausland verübte inkriminierte Sachverhalt die Tatbestandsmerkmale einer im ersuchten Staat geltenden Strafnorm erfüllen würde[36]. Dies kann vorliegend zumindest nicht ausgeschlossen werden, nachdem in solchen Fällen nach irischem Recht immerhin eine gerichtliche Zwangsanordnung verfügt werden kann. Mit Blick auf die doch erhebliche Zahl der von Schweizer Behörden direkt an Google Ireland Limited gerichteten Auskunftsersuchen sowie den gemäss dem Transparenzbericht von Google hohen Prozentsatz, in denen diese tatsächlich zur (freiwilligen) Herausgabe von Benutzerdaten führten, darf die Staatsanwaltschaft nicht zum Voraus davon ausgehen, eine direkte Anfrage beim Dienstanbieter verlaufe ohnehin im Sand.
+8.3.
+Indem die Staatsanwaltschaft die angefochtene Sistierungsverfügung erliess, ohne dass sie zuvor alle zur Verfügung stehenden Ermittlungsansätze hinreichend prüfte beziehungsweise die entsprechenden Ermittlungen veranlasste, missachtete sie den Untersuchungsgrundsatz. Indem sie ausser dem Aktenbeizug keine Untersuchungshandlungen vornahm, hat sie trotz der von ihr festgestellten Ehrverletzung die Ermittlung der Täterschaft nicht vorangetrieben. Auch wenn es sich vorliegend nicht um ein Kapitalverbrechen handelt, hat der Beschwerdeführer Anspruch darauf, dass die Strafverfolgungsbehörden die gebotenen Massnahmen zur Aufklärung der Tat treffen. Dass keine erfolgversprechenden Ermittlungsansätze bestehen, ist, wie dargelegt, nicht ausgewiesen. Zusammenfassend hat die Staatsanwaltschaft bislang nur unzureichende Ermittlungshandlungen vorgenommen.
+[…]
+10.
+10.1
+Zusammenfassend ist die Beschwerde zu schützen, die angefochtene Sistierungsverfügung aufzuheben und die Sache zur Weiterführung der Strafuntersuchung an die Staatsanwaltschaft zurückzuweisen. Es wird Sache der Staatsanwaltschaft sein, die Voraussetzungen und Erfolgschancen eines Rechtshilfegesuchs an Irland oder eines direkten Auskunftsersuchens an Google Ireland Limited vertieft zu prüfen und die angezeigten Ermittlungen einzuleiten. Gestützt auf die Resultate dieser Ermittlungshandlungen wird sie zu prüfen haben, ob weitere, allenfalls auch damals abgelehnte Beweisergänzungen durchzuführen sind.
+[…]
+Obergericht, 2. Abteilung, 27. Januar 2023, SW.2022.119
+[1]    Art. 6 Abs. 1 StPO
+[2]    Art. 139 StPO
+[3]    Art. 7 Abs. 1 StPO
+[4]    Art. 314 Abs. 1 lit. a StPO
+[5]    Art. 314 Abs. 3 StPO
+[6]    Art. 314 Abs. 5 StPO
+[7]    Landshut/Bosshard, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Lieber/Summers/Wohlers), 3.A., Art. 314 N. 1
+[8]    Art. 29 Abs. 1 BV; Art. 5 StPO
+[9]    BGE 130 V 94; BGE vom 11. März 2021, 1B_318/2020, Erw. 2.3; BGE vom 17. Sep­tem­ber 2019, 1C_188/2019, Erw. 2.2; BGE vom 5. September 2018, 1B_238/2018, Erw. 2.1
+[10]  Art. 1 Abs. 1 StPO
+[11]  Art. 1 Abs. 2 StPO
+[12]  Art. 54 StPO
+[13]  EUeR, SR 0.351.1
+[14]  ZPII EUeR, SR 0.351.12
+[15]  Art. 5 und Art. 23 Ziff. 1 EUeR
+[16]  Vgl. Liste sämtlicher Vorbehalte und Erklärungen, in: https://‌www..int////list?=by-treaty&=‌&=0
+[17]  Art. 1 Ziff. 1 EUeR
+[18]  In: https://www.irishstatutebook.ie/eli/2009/act/31/enacted/en/html
+[19]  Vgl. Defamation Act, sec. 2 (definitions): "In this Act […] 'defamatory statement' means a statement that tends to injure a person's reputation in the eyes of reasonable members of society […]."
+[20]  https://www.citizensinformation.ie/en/justice/civil_law/law_on_defamation.html
+[21]  https://en.wikipedia.org/wiki/Norwich_Pharmacal_order
+[22]  RVUS, SR 0.351.933.6
+[23]  Art. 4 Ziff. 2 RVUS
+[24]  Budapest Convention on Cybercrime, CCC, SR 0.311.43
+[25]  Art. 32 lit. a CCC
+[26]  Art. 32 lit. b CCC
+[27]  Bericht des Bundesrats "Ergänzungen betreffend Cybermobbing im Strafgesetzbuch" vom 19. Oktober 2022, S. 43 unten
+[28]  In: https://maps.google.com
+[29]  Limited Liability Company
+[30]  Siehe "Google Maps"-Hilfe, in: https://support.google.com/maps/
+[31]  Allgemeine "Google-Nutzungsbedingungen", in: https://policies.google.com/ , und spezifische Zusatzbedingungen für den Dienst "Google Maps", in: https://.google.com//service‑specific
+[32]  Google-Nutzungsbedingungen, Abschnitt "Nutzungsbedingungen", Unterabschnitt "Dienstanbieter", in: https://.google.com/#service-provider
+[33]  Google-Nutzungsbedingungen, Abschnitt "Inhalte in Google-Diensten", Unterabschnitt "Ihre Inhalte", in: https://policies.google.com/terms#toc-removing
+[34]  Google-Nutzungsbedingungen, Abschnitt "Bearbeitung von Anfragen zu Ihren Daten", in: https://.google.com/#requests
+[35]  In: https://transparencyreport.google.com/user-data/overview?hl=de
+[36]  Vgl. Garré, Basler Kommentar, Basel 2015, Art. 35 IRSG N. 7
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
