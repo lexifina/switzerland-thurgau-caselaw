@@ -1,0 +1,103 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._41"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 41"
+decided: "2023-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-41"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/311.0/art-292.md", "switzerland/bund/acts/312.0/art-113.md", "switzerland/bund/acts/312.0/art-194.md", "switzerland/bund/acts/312.0/art-299.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 41
+
+## Regeste
+
+Beizug verwaltungsrechtlicher Akten im Strafverfahren; mangels Anfangsverdacht ist die StPO auf den Polizeieinsatz nicht anwendbar.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 41
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 41
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 41
+
+RBOG 2023 Nr. 41
+Skip to main content
+Show navigation
+Beizug verwaltungsrechtlicher Akten im Strafverfahren; mangels Anfangsverdacht ist die StPO auf den Polizeieinsatz nicht anwendbar.
+Art. 113 Abs. 1 StPO
+Art. 14 Ziff. 3 lit. g UNO-Pakt II
+Art. 6 EMRK
+Art. 194 Abs. 1 StPO
+Art. 299 Abs. 2 StPO
+Zusammenfassung des Sachverhalts:
+1.
+Infolge eines "Flyers" einer Bar, welcher Zweifel an der Einhaltung der Covid-19-Massnahmen erweckte, beauftragte die Gemeinde einen Kontrolleur mit der Durchführung einer Betriebskontrolle vor Ort. Nachdem die erste Kontrolle mangels Kooperation des Berufungsklägers nicht durchgeführt werden konnte, nahm der Kontrolleur drei Tage später eine weitere Betriebskontrolle vor. Für beide Kontrollen wurde die Polizei beigezogen.
+2.
+In der Folge nahm die Polizei Ermittlungen gegen den Berufungskläger wegen Hinderung einer Amtshandlung und Widerhandlung gegen das Gastgewerbegesetz und – nach der zweiten Kontrolle – Verletzung der Covid-19-Massnahmen auf. Im Rahmen des Strafverfahrens wurden die Akten der Gemeinde im Zusammenhang mit den Betriebskontrollen sowie die Polizeirapporte zu den Strafakten genommen. Nachdem der Berufungskläger erstinstanzlich verurteilt wurde, machte er im dagegen erhobenen Berufungsverfahren geltend, die Akten im Zusammenhang mit den beiden Betriebskontrollen seien nicht verwertbar.
+Aus den Erwägungen:
+[…]
+2.
+Der Berufungskläger macht zunächst geltend, das Verbot zum Selbstbelastungszwang[1] sei durch den Beizug der Akten der Gemeinde verletzt worden. In diesem Verwaltungsverfahren sei er nicht auf das Recht, die Aussage verweigern, hingewiesen worden. Zudem habe bereits ein Anfangsverdacht bestanden, weshalb die Vorschriften der Strafprozessordnung hätten beachtet werden müssen.
+2.1.
+2.1.1.
+Die beschuldigte Person muss sich nicht selbst belasten. Sie hat namentlich das Recht, die Aussage und ihre Mitwirkung im Strafverfahren zu verweigern[2]. Die beschuldigte Person kann nicht gezwungen werden, sich selbst durch Aussagen sowie sonstiges Verhalten zu belasten. Das Recht zu schweigen und sich nicht selbst mit Aussagen zu belasten ist auch in Art. 14 Ziff. 3 lit. g des Internationalen Paktes über bürgerliche und politische Rechte ausdrücklich festgehalten. In der EMRK findet sich zwar keine unmittelbar positiv-rechtliche Normierung des Verbots zum Selbstbelastungszwang. Dieses wird aber ausdrücklich anerkannt und stellt nach Ansicht des EGMR einen international respektierten Grundsatz dar, der den Kern eines fairen Verfahrens im Sinn von Art. 6 EMRK ausmacht[3].
+Das Bundesgericht hielt in BGE 140 II 384 fest, Art. 6 EMRK umfasse in strafrechtlichen Verfahren ein Schweigerecht und ein Recht, nicht zu seiner eigenen Verurteilung beitragen zu müssen. Daraus ergibt sich, dass die Behörden Anklage führen müssen, ohne auf Beweismittel zurückzugreifen, die durch Druck oder Zwang in Missachtung des Willens der beschuldigten Person erlangt worden sind. Diese Formulierung geht nach bundesgerichtlicher Rechtsprechung aber zu weit. Auch im Strafverfahren gibt es zulässige Beweismittel, die gegen den Willen der beschuldigten Person erlangt werden, jedoch hiervon unabhängig existieren, wie etwa im Rahmen einer Hausdurchsuchung beschlagnahmte Unterlagen oder die Verwertung einer zwangsweise angeordneten DNA-Analyse. Nach der Praxis des EGMR[4] ist nicht jede Pflicht unzulässig, Informationen zur Verfügung stellen zu müssen, die auch eine Strafsanktion nach sich ziehen können. Art. 6 EMRK verbietet die "improper compulsion"[5], das heisst eine missbräuchlich beziehungsweise unverhältnismässig ausgeübte Form von Zwang. Als solche "improper compulsion" erachtet der Europäische Gerichtshof für Menschenrecht etwa eine unter Strafandrohung erzwungene Herausgabe von potenziell belastenden Dokumenten beispielweise in einem Zollstrafverfahren oder in einem Steuerhinterziehungsverfahren[6].
+Aus der Rechtsprechung des EGMR ergibt sich, dass die Verpflichtung, eine Tatsache bekannt zu geben, nicht immer bereits eine unzulässige Selbstbelastung bedeutet. So liegt etwa keine Verletzung von Art. 6 EMRK darin, dass ein Fahrzeughalter unter Strafandrohung verpflichtet wird, die Person zu benennen, welche das Fahrzeug im Zeitpunkt gelenkt hat, als mit diesem ein Strassenverkehrsdelikt begangen wurde. Zur Beurteilung der Frage, ob das Recht, zu schweigen und sich nicht selbst belasten zu müssen, verletzt ist, stellt der EGMR auf die Natur und den Grad des angewandten Zwangs zur Erlangung des Beweismittels, die Verteidigungsmöglichkeiten sowie den Gebrauch des Beweismaterials ab[7].
+Hieraus ergibt sich, dass die blosse Aufforderung, Dokumente einzureichen, zu deren Erstellung eine gesetzliche Pflicht besteht, für sich allein nicht gegen Art. 6 EMRK verstösst. Im erwähnten BGE 140 II 384 zeigte die Aufsichtsbehörde der beschuldigten Person an, dass sie ein aufsichtsrechtliches Verfahren einleite und sie in dessen Rahmen um die umstrittenen Auskünfte und Unterlagen ersuche. Dabei wurden der betroffenen Person keine spezifischen Folgen im Fall einer Mitwirkungsverweigerung angedroht. Daher war Art. 6 EMRK nicht verletzt. Insbesondere verband die Aufsichtsbehörde ihre Verfügungen nicht mit dem Hinweis auf Art. 292 StGB, wonach mit Busse bestraft wird, wer von der zuständigen Behörde unter Hinweis auf diesen Artikel an ihn erlassene Verfügungen keine Folge leistet[8].
+Soweit es um die Verwertung von Beweisen geht, die im Rahmen präventiv-polizeilicher Tätigkeit rechtmässig erhoben wurden, ist gemäss bundesgerichtlicher Rechtsprechung ebenfalls von der Verwertbarkeit in einem späteren Strafverfahren auszugehen[9].
+2.1.2.
+Die Staatsanwaltschaft und die Gerichte ziehen nach Art. 194 Abs. 1 StPO Akten anderer Verfahren bei, wenn dies für den Nachweis des Sachverhalts oder die Beurteilung der beschuldigten Person erforderlich ist. Die Bestimmung bezieht sich nicht nur auf Akten aus Gerichtsverfahren, sondern auf Akten aus irgendwelchen staatlichen Verfahren, insbesondere auch auf solche aus Verwaltungsverfahren[10].
+2.1.3.
+Sobald die Polizei auf Anhaltspunkte stösst, die die Begehung einer strafbaren Handlung als möglich erscheinen lassen, nimmt sie ihre Ermittlungstätigkeit auf. Zum Ermittlungsverfahren zählen sämtliche polizeilichen Erhebungen zum Zwecke der Aufklärung einer Straftat, die vor der Eröffnung einer Strafuntersuchung vorgenommen werden. In dieser Phase wird zum einen die Sicherung der Täterschaft, der Spuren und Beweismittel angestrebt sowie die Frage beantwortet, ob genügend Anhaltspunkte für die Durchführung eines Untersuchungsverfahrens gegen eine bestimmte Person oder gegen unbekannt vorhanden sind[11]. Ausgangspunkt des Vorverfahrens ist ein sogenannter Anfangsverdacht, mithin die auf konkreten Hinweisen beruhende Vermutung, es sei eine strafbare Handlung begangen worden[12].
+Vom Ermittlungsverfahren sind die polizeilichen Vorermittlungen abzugrenzen. Unter den polizeilichen Vorermittlungen wird die kriminalpolizeiliche Tätigkeit verstanden, welche vor dem Ermittlungsverfahren erfolgt und in alleiniger polizeilicher Kompetenz liegt. Bei der Vorermittlung geht es um gerichtspolizeiliche Vorfeldarbeit mit dem Ziel, Straftaten überhaupt erst zu erkennen. Ermittlung ist demgegenüber das Tätigwerden ab Tatverdacht. Diffuse, rudimentäre oder anonyme Hinweise, aber auch bloss vage Vermutungen genügen in der Regel nicht als Anfangsverdacht für die Einleitung eines Vorverfahrens, weshalb in diesen Fällen mit Massnahmen gestützt auf das Polizeigesetz vorzugehen ist[13]. Vorermittlungen werden in polizeilicher Kompetenz im Rahmen des Polizeigesetzes angestellt. Es ist eine rein kriminalpolizeiliche Angelegenheit und stellt eine Tätigkeit ausserhalb der Anwendbarkeit der Strafprozessordnung dar[14]. Dasselbe gilt für andere Tätigkeiten der Polizei, wie etwa die Unterstützung von Ämtern und Beamten bei ihrer Tätigkeit[15].
+Das Polizeirecht ist grundsätzlich öffentlich-rechtlicher Natur. Tätigkeiten und Aufgaben der Polizei, wie insbesondere die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung, werden von den für das Verwaltungsrecht massgebenden materiellen Grundsätzen beherrscht. Das Polizeirecht weist in verschiedener Hinsicht Bezüge zum Straf- und Strafprozessrecht auf, da die Polizei auch im Dienst der Strafverfolgung tätig ist. Sie nimmt kriminalpolizeiliche Aufgaben wahr wie die Verhütung strafbarer Handlungen oder die Feststellung und die Aufklärung von Straftaten. Die verwaltungsrechtliche Polizeitätigkeit lässt sich nicht leicht vom strafprozessualen, im Dienst der Strafverfolgung stehenden Aufgabenbereich unterscheiden. Die beiden Bereiche können sich überschneiden oder fliessend ineinander übergehen, etwa wenn ein Polizist in Ausübung einer rein polizeilichen Tätigkeit, die keinen Tatverdacht voraussetzt, auf strafrechtlich relevante Sachverhalte trifft und entsprechende Massnahmen mit Blick auf die Strafverfolgung vorkehrt[16].
+2.2.
+[…]
+2.3.
+2.3.1.
+Soweit der Berufungskläger geltend macht, es habe sich bei den Polizeikontrollen um (verdeckte) Ermittlungen im Sinn der Strafprozessordnung gehandelt, trifft dies nicht zu. Bei der ersten Kontrolle wurde die Polizei lediglich zur Unterstützung der gastgewerblichen Betriebskontrolle beigezogen. Insbesondere aus dem in den Akten liegenden Schreiben der Gemeinde erhellt, dass es ihr um die Einhaltung des Gastgewerbegesetzes ging: Sie drohte einen Patententzug an und nicht etwa eine Anzeige bei den Strafbehörden. Bekannt war der Gemeinde in diesem Zeitpunkt lediglich der "Flyer" der Bar. Selbst wenn die Polizei davon ebenfalls Kenntnis gehabt hätte, ergab sich daraus kein genügender Anfangsverdacht im Sinn der Strafprozessordnung. Es war in diesem Zeitpunkt noch völlig unklar, ob überhaupt eine Straftat vorlag und falls ja, wer wie gegen welche Normen verstossen haben könnte. Die Polizei agierte denn auch nicht aus eigenem Antrieb, sondern zum Schutz des Kontrolleurs. Es bestand der Verdacht, der Berufungskläger könne sich bei der Betriebskontrolle aggressiv verhalten. Die erste Kontrolle unterstand damit nicht der Strafprozessordnung, da es an einem Angangsverdacht fehlte.
+Dasselbe gilt für die zweite Kontrolle drei Tage später. Auch hier wurde die Polizei vom Kontrolleur zur Unterstützung der Betriebskontrolle beigezogen. Auch dabei handelte es sich nicht um Ermittlungen der Polizei. Ein genügend konkreter Anfangsverdacht auf eine Straftat im Sinn von Art. 299 StPO bestand (noch) nicht. Daran ändert nichts, dass der Kontrolleur das Vorgehen bei der Kontrolle mit der Polizei vorab absprach. Da die erste Betriebskontrolle bereits daran gescheitert war, dass sie keinen Zutritt zu den Räumlichkeiten erhielten, war eine Absprache zur Sicherstellung einer erfolgreichen Kontrolle angebracht. Entgegen den Ausführungen des Berufungsklägers ändert an dieser Beurteilung nichts, dass er bereits vor der zweiten Kontrolle zu einer polizeilichen Befragung aufgeboten worden war. Wie den Akten zu entnehmen ist, ging es dabei um den Verdacht der Hinderung einer Amtshandlung und des Verstosses gegen das Gastgewerbegesetz, weil er drei Tage zuvor die erste Betriebskontrolle verweigerte. Da der Berufungskläger die erste Kontrolle weitestgehend vereitelte, konnte eben gerade nicht geprüft werden, ob er überhaupt gegen die Zertifikatspflicht verstiess. Es blieb damit bezüglich des Verstosses gegen die Covid-19-Verordnung besondere Lage[17] bei einer diffusen, rudimentären und vagen Vermutungen. Dies genügt nicht als Anfangsverdacht für die Einleitung eines Ermittlungsverfahrens nach der Strafprozessordnung, sondern hätte allenfalls polizeiliche Vorermittlungen rechtfertigen können. Auf diese wäre aber auch nicht die Strafprozessordnung, sondern das Polizeigesetz anwendbar gewesen. Irrelevant ist ferner, dass die Polizei an dieser zweiten Kontrolle auch mit Beamten in Zivil vor Ort war. Dies diente einer erfolgreichen Unterstützung der Betriebskontrolle. Es war davon auszugehen, der Berufungskläger werde Polizeibeamten in Uniform erneut den Zutritt verweigern.
+Zusammengefasst erfolgten die beiden Kontrollen in der Bar nicht im Rahmen eines Ermittlungsverfahrens nach Strafprozessordnung, sondern im Rahmen der öffentlich-rechtlichen Befugnis der Gemeinde. Ein Hinweis auf das strafprozessuale Verbot zum Selbstbelastungszwang muss in einem verwaltungsrechtlichen Verfahren nicht erfolgen.
+2.3.2.
+Die beiden Kontrollen unterstanden dem Gastgewerbegesetz[18] und der Covid-19-Verordnung besondere Lage[19]. Die Gemeinde war nach Art. 24 Abs. 1 lit. b und Abs. 2 Covid-19-Verordnung besondere Lage[20] i.V.m. dem Regierungsratsbeschluss vom 29. Juni 2021[21] zur Kontrolle der Betriebe berechtigt und verpflichtet. Das Gastgewerbegesetz bietet sodann in § 23 Abs. 2 eine gesetzliche Grundlage für den Zutritt zu und die Kontrolle von patentierten Betrieben. Die Ehefrau des Berufungsklägers verfügte im fraglichen Zeitpunkt über ein Patent zur Führung einer Wirtschaft mit Alkoholausschank in der Bar. Der Berufungskläger vertrat seine Ehefrau an den Tagen der beiden Kontrollen im Betrieb und ist daher als ihre Hilfsperson zu qualifizieren. Die Gemeinde – beziehungsweise der Kontrolleur als deren Beauftragter – war von Gesetzes wegen berechtigt und verpflichtet, Massnahmen zur Bekämpfung der Covid-19-Pandemie in Gastronomiebetrieben zu kontrollieren. Die Betreiber mussten ihnen hierfür den Zutritt zu den Einrichtungen, Betrieben und Veranstaltungen gewähren[22]. Die Kontrolle erforderte keinen gesonderten Auftrag einer übergeordneten Behörde. Ebenso war der Kontrolleur unmittelbar gestützt auf das Gastgewerbegesetz berechtigt, für die Kontrollen die Kantonspolizei Thurgau beizuziehen[23]. Im Rahmen dieser Kontrollen wurden die Protokolle zu den Betriebskontrollen erstellt sowie weitere Unterlagen vom Berufungskläger übergeben. Anhaltspunkte dafür, dass diese Beweismittel in Verletzung von verwaltungsrechtlichen Bestimmungen erhoben wurden, bestehen nicht.
+2.3.3.
+Diese Akten aus dem von der Gemeinde veranlassten beziehungsweise geführten Verwaltungsverfahren durfte die Staatsanwaltschaft im Rahmen der Strafuntersuchung beiziehen[24]. Gestützt auf die bundesgerichtliche Rechtsprechung sind die beigezogenen verwaltungsrechtlichen Akten im Strafverfahren verwertbar, sofern sie nicht unter Zwang erhältlich gemacht wurden. Dies ist hier – entgegen den Ausführungen des Berufungsklägers – nicht der Fall. Die Mitteilung des Kontrolleurs, er sei von der Gemeinde zur Betriebskontrolle verpflichtet worden, ist nichts anderes als die – zu Recht erfolgte – Erklärung, wer der Kontrolleur ist und weshalb er vor Ort ist. Eine Androhung von Zwang im Sinn der bundesgerichtlichen Rechtsprechung gegenüber dem Berufungskläger gab es hingegen nicht. Es wurden ihm keine strafrechtlichen Sanktionen für den Fall der unterlassenen Mitwirkung angedroht und er wurde auch nicht anderweitig zur Mitwirkung gezwungen. Es bestand für ihn die Möglichkeit, die Mitwirkung zu verweigern – und diese nahm er auch wahr. Der Berufungskläger verhinderte die erste Kontrolle durch den Kontrolleur teilweise, indem er ihn erfolgreich aus dem Lokal verwies. Dass er sich auch von der Anwesenheit der beiden Polzisten nicht unter Druck gesetzt fühlte, ist offensichtlich. Trotz deren Anwesenheit verweigerte er teilweise seine Mitwirkung und verwerte auch den beiden Polizisten jeglichen Zutritt zur Bar. Die Behauptung des Verteidigers des Berufungsklägers, der Kontrolleur habe dem Berufungskläger zu verstehen gegeben, Letzterer müsse die Dokumente ausfüllen, sonst würden er und die Polizisten nicht gehen, ist in Anbetracht der bloss teilweisen Durchführung der Kontrolle beziehungsweise Ausfüllen des Protokolls der Betriebskontrolle offensichtlich unbegründet.
+Präventiv-polizeilich korrekt erhobene Beweismittel sind im Strafprozess verwertbar, auch wenn bei ihrer Erhebung die strafprozessualen Standards nicht eingehalten wurden[25]. Dasselbe muss auch für verwaltungsrechtlich gütig beschaffte Beweismittel gelten[26]. Die beigezogenen Beweismittel aus dem Verwaltungsverfahren – einschliesslich der Berichte der Polizei über die beiden Einsätze – sind daher im Strafprozess verwertbar, auch wenn der Berufungskläger nicht auf das strafprozessuale Verbot zum Selbstbelastungszwang hingewiesen wurde. Dasselbe würde im Übrigen gelten, wenn davon ausgegangen würde, die beiden Kontrollen hätten auch polizeilichen Vorermittlungen gedient.
+2.4.
+Sämtliche beigezogenen Dokumente, insbesondere die beiden "Protokolle Betriebskontrolle Prävention COVID-19", sind somit verwertbar.
+[…]
+Obergericht, 3. Abteilung, 9. November 2023, SBR.2023.45
+Eine dagegen erhobene Beschwerde wies das Bundesgericht am 14. November 2025 ab, soweit es darauf eintrat (6B_118/2024).
+[1]    "Nemo tenetur se ipsum accusare", kurz "nemo tenetur"
+[2]    Art. 113 Abs. 1 Satz 1 und 2 StPO
+[3]    Engler, Basler Kommentar, 3.A., Art. 113 StPO N. 3
+[4]    Europäischer Gerichtshof für Menschenrechte
+[5]    "Coercition abusive"
+[6]    BGE 140 II 390
+[7]    BGE 140 II 391 f.
+[8]    BGE 140 II 384
+[9]    BGE vom 26. Oktober 2022, 6B_1061/2020, Erw. 1.7.5 mit weiteren Hinweisen
+[10]  Donatsch, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Lieber/Summers/Wohlers), 3.A., Art. 149 N. 2
+[11]  Landshut/Bosshard, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Lieber/Summers/Wohlers), 3.A., Art. 299 N. 10
+[12]  BGE vom 6. Juni 2016, 6B_1143/2015, Erw. 1.3.1; Riedo/Boner, Basler Kommentar, 3.A., Art. 299 StPO N. 15; vgl. auch BGE 140 I 360 f.
+[13]  Landshut/Bosshard, Art. 299 StPO N. 13; Riedo/Boner, Art. 299 StPO N. 15
+[14]  Vgl. Landshut/Bosshard, Art. 299 StPO N. 14
+[15]  Vgl. §§ 3 ff. PolG (Polizeigesetz; RB 511.1)
+[16]  BGE 140 I 360 f.
+[17]  Stand am 13. September 2021
+[18]  Vgl. hierzu auch Erw. 11 in RBOG 2023 Nr. 53
+[19]  Stand am 13. September 2021
+[20]  Stand am 13. September 2021
+[21]  RRB Nr. 419 vom 29. Juni 2021
+[22]  Art. 24 Abs. 1 lit. b Covid-19-Verordnung besondere Lage (Stand am 13. September 2021); § 23 Abs. 2 Satz 2 GastG
+[23]  § 23 Abs. 1 GastG
+[24]  Art. 194 StPO
+[25]  Vgl. BGE vom 26. Oktober 2022, 6B_1061/2020, Erw. 1.7.5
+[26]  Vgl. Brunner/Kradolfer, Legistische Herausforderungen im Polizeirecht, in: Risiko & Recht 02/2023 S. 43 f.
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
