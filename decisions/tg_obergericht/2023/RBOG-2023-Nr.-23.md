@@ -1,0 +1,57 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._23"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 23"
+decided: "2023-04-13"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-23"
+cites_law: ["switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/173.110/art-068.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-122.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 23
+
+## Regeste
+
+Entschädigungsanspruch der um ihr Honorar prozessierenden unentgeltlichen Rechtsvertretung im Beschwerdeverfahren
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 23
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 23
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 23
+
+RBOG 2023 Nr. 23
+Skip to main content
+Show navigation
+Entschädigungsanspruch der um ihr Honorar prozessierenden unentgeltlichen Rechtsvertretung im Beschwerdeverfahren
+Art. 95 Abs. 3 ZPO
+Art. 122 ZPO
+Zusammenfassung des Sachverhalts:
+Der Beschwerdeführer wurde als unentgeltlicher Rechtsvertreter in einem Scheidungsverfahren bestellt. Gegen die ihm vom Bezirksgericht dafür zugesprochene Entschädigung erhob er eine teilweise erfolgreiche Kostenbeschwerde. Damit stellte sich die Frage, ob er Anspruch auf eine Parteientschädigung für das Beschwerdeverfahren hat.
+Aus den Erwägungen:
+[…]
+7.3.
+Beim Beschwerdeführer handelt es sich um einen unentgeltlichen Rechtsbeistand, der im Beschwerdeverfahren in eigener Sache um sein Honorar streitet. Es stellt sich die Frage, ob er infolge teilweisen Obsiegens Anspruch auf eine Parteientschädigung hat.
+7.3.1.
+Nach der bundesgerichtlichen Praxis haben obsiegende Parteien grundsätzlich nur Anspruch auf eine Parteientschädigung, wenn sie durch eine externe Anwältin oder einen externen Anwalt vertreten sind und deshalb tatsächlich Anwaltskosten anfallen. Wenn eine Anwältin oder ein Anwalt in eigener Sache prozessiert, ist nur ausnahmsweise – beispielsweise bei Vorliegen einer komplizierten Sache mit hohem Streitwert oder bei hohem Arbeitsaufwand, welcher den üblichen Aufwand für die Besorgungen der persönlichen Angelegenheiten übersteigt – eine Parteientschädigung zuzusprechen[1]. Das Bundesgericht spricht eine solche Parteientschädigung allerdings unter dem Titel der weiteren durch den Rechtsstreit verursachten notwendigen Kosten zu. Dieser Ansatz liegt tiefer als die Honoraransätze, die bei Beizug einer mandatierten externen Rechtsvertretung zur Anwendung gelangen[2]. Diese restriktive Haltung des Bundesgerichts ist in der Literatur umstritten[3].
+7.3.2.
+Eine Ausnahme macht das Bundesgericht bei amtlichen Strafverteidigern, die um ihr eigenes Honorar streiten. Sie bekommen eine Parteientschädigung unabhängig vom Aufwand und von der Komplexität des Falls[4].
+Zur Frage, wie es sich beim unentgeltlichen Rechtsbeistand in einem Zivilverfahren verhält, der in eigener Sache um sein Honorar streitet, hat sich das Bundesgericht – soweit ersichtlich – bislang nicht ausdrücklich geäussert. Es spricht jedoch in solchen Fällen dem obsiegenden unentgeltlichen Rechtsbeistand als Beschwerdeführer eine Parteientschädigung zulasten des Kantons zu und verweist dabei auf Art. 68 Abs. 2 BGG[5].
+Die II. sozialversicherungsrechtliche Abteilung des Bundesgerichts hielt in genereller Weise fest, die Verweigerung einer Prozessentschädigung unter solchen Umständen verstosse gegen das Willkürverbot gemäss Art. 9 BV. Zwar habe nach der bundesgerichtlichen Rechtsprechung eine in eigener Sache prozessierende Partei grundsätzlich keinen Anspruch auf eine Parteientschädigung. Mache allerdings der um sein Honorar streitende unentgeltliche Rechtsvertreter den Anspruch auf eine Entschädigung für die Erfüllung einer Aufgabe geltend, die er im Rahmen eines öffentlich-rechtlichen Auftragsverhältnisses wahrnehme, stehe ihm sowohl im bundesgerichtlichen[6] als auch im kantonalen Beschwerdeverfahren, im Rahmen des erforderlichen Aufwands und des Obsiegens, eine Parteientschädigung zu. Würde der Beschwerdeführer für seinen Aufwand im Rechtsmittelverfahren, das zur Erlangung der ihm von der Vorinstanz zugesprochenen Erhöhung des Honorars notwendig gewesen sei, überhaupt nicht entschädigt, würde nämlich das ihm für die Tätigkeit als unentgeltlicher Rechtsanwalt unbestrittenermassen zustehende Honorar faktisch geschmälert[7].
+Nach der Auffassung des Obergerichts muss dies auch für die um ihr Honorar prozessierende, obsiegende unentgeltliche Rechtsvertretung im Zivilverfahren gelten, denn auch sie macht den Anspruch auf eine Entschädigung für die Erfüllung einer Aufgabe geltend, die sie im Rahmen eines öffentlich-rechtlichen Auftragsverhältnisses wahrnimmt. Demnach steht ihr im Rahmen des erforderlichen Aufwands und des Obsiegens, eine Parteientschädigung zu.
+[…]
+Obergericht, 1. Abteilung, 13. April 2023, ZR.2023.5
+[1]    BGE 144 V 298 mit weiteren Hinweisen; BGE 110 V 134 f.
+[2]    BGE vom 19. Juni 2009, 2C_807/2008, Erw. 4.3; Rusch/Fischbacher, Entschädigung des anwaltlichen Prozessierens in eigener Sache und verwandter Formen, in: AJP 2019 S. 688
+[3]    Rusch/Fischbacher, S. 688 mit weiteren Hinweisen auf diverse Autoren
+[4]    BGE 125 II 520; BGE vom 2. März 2016, 6B_1284/2015, Erw. 2.4
+[5]    Zum Beispiel: BGE vom 12. November 2015, 5A_157/2015, Erw. 4; BGE vom 8. August 2019, 5A_1002/2018, Erw. 3 (Hier war der unentgeltliche Rechtsbeistand aber anwaltlich vertreten.)
+[6]    Wobei das Bundesgericht auf BGE 125 II 518 verweist.
+[7]    BGE vom 10. Juli 2013, 9C_290/2013, Erw. 3 mit weiteren Hinweisen; BGE vom 30. Juli 2012, 9C_334/2012, Erw. 3 mit weiteren Hinweisen; vgl. BGE vom 11. Februar 2011, 8C_676/2010, Erw. 6
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
