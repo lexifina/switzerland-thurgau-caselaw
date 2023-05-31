@@ -1,0 +1,61 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._10"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 10"
+decided: "2023-05-31"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-10"
+cites_law: ["switzerland/bund/acts/210/art-363.md", "switzerland/bund/acts/210/art-368.md", "switzerland/bund/acts/210/art-388.md", "switzerland/bund/acts/210/art-389.md", "switzerland/bund/acts/210/art-390.md", "switzerland/bund/acts/210/art-391.md", "switzerland/bund/acts/210/art-400.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 10
+
+## Regeste
+
+Errichtung einer ergänzenden Beistandschaft bei teilweise fehlender Eignung der vorsorgebeauftragten Person
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 10
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 10
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 10
+
+RBOG 2023 Nr. 10
+Skip to main content
+Show navigation
+Errichtung einer ergänzenden Beistandschaft bei teilweise fehlender Eignung der vorsorgebeauftragten Person
+Art. 363 Abs. 2 Ziff. 4 ZGB
+Zusammenfassung des Sachverhalts:
+Die Beschwerdeführerin ist die Mutter von A, B und C. Vor über fünf Jahren erstellte die Beschwerdeführerin einen Vorsorgeauftrag und setzte an erster Stelle ihren kurz danach verstorbenen Ehemann und an zweiter Stelle ihre beiden Söhne A und B als Vorsorgebeauftragte ein. Der eingesetzte Vorsorgebeauftragte, A, erwies sich als ungeeignet, die Vermögensvorsorge der Beschwerdeführerin zu übernehmen. Im Beschwerdeverfahren war umstritten, ob daher ergänzend eine Beistandschaft für die Beschwerdeführerin zu errichten sei.
+Aus den Erwägungen:
+[…]
+2.7.1.
+Die Erwachsenenschutzbehörde ordnet eine Massnahme an, wenn die Unterstützung einer hilfsbedürftigen Person durch die Familie, andere nahestehende Personen oder private oder öffentliche Dienste nicht ausreicht oder von vornherein als ungenügend erscheint, bei Urteilsunfähigkeit der hilfsbedürftigen Person keine oder keine ausreichende eigene Vorsorge getroffen worden ist und die Massnahmen von Gesetzes wegen nicht genügen
+[1]
+. Je nach dem Grad der ungenügenden Eignung und dem Umfang sowie der Komplexität der zu erledigenden Aufgaben stehen Massnahmen unterschiedlicher Intensität zur Verfügung, um trotzdem die notwendige Fürsorge der auftraggebenden Person sicherzustellen. Es ist dabei zwischen den einschneidenden behördlichen Massnahmen des Erwachsenenschutzes gemäss Art. 390 ff. ZGB und den ʺmilderenʺ Massnahmen gemäss Art. 368 ZGB zu unterscheiden[2]. Dabei muss jede behördliche Massnahme erforderlich und geeignet sein[3]. Damit unterstellt der Gesetzgeber alle behördlichen Massnahmen des Erwachsenenschutzes den beiden Maximen der Subsidiarität und Verhältnismässigkeit[4]. Als Voraussetzung für die Anordnung behördlicher Massnahmen müssen Schwächezustand und Unvermögen zusammen eine relevante Gefährdung des Wohls der betroffenen Person bewirken, zu deren Behebung ein Eingreifen der Erwachsenenschutzbehörde ‒ auch unter den Aspekten der Selbstbestimmung ‒ erforderlich ist[5].
+Gestützt auf Art. 390 Abs. 1 Ziff. 1 ZGB errichtet die Erwachsenenschutzbehörde eine Beistandschaft, wenn eine volljährige Person wegen einer geistigen Behinderung, einer psychischen Störung oder eines ähnlichen in der Person liegenden Schwächezustands ihre Angelegenheiten nur teilweise oder vollumfänglich nicht besorgen kann. Die Erwachsenenschutzbehörde umschreibt die Aufgabenbereiche der Beistandschaft entsprechend den Bedürfnissen der betroffenen Person. Die Aufgabenbereiche betreffen die Personensorge, die Vermögenssorge und/oder den Rechtsverkehr[6]. Die Erwachsenenschutzbehörde ernennt als Beistand eine natürliche Person, die für die vorgesehenen Aufgaben persönlich und fachlich geeignet ist, die dafür erforderliche Zeit einsetzen kann und die Aufgabe selber wahrnimmt[7]. Die persönliche und fachliche Eignung ist im Hinblick auf die konkrete Beistandschaft auszulegen, für die eine Person das Amt des Beistandes übernehmen soll, weshalb der Erwachsenenschutzbehörde ein grosses Ermessen zusteht[8]. Ist eine Beistandschaft zu errichten, wird der als ungeeignet betrachtete (private) Beauftragte durch eine passende, von der Behörde zu ernennende Beistandsperson ersetzt. Die Möglichkeit von behördlichen Massnahmen neben einer Teilvalidierung und einer damit zumindest partiellen Wahrung des Vorsorgeauftrags ist zulässig, wenn der Beauftragte nur teilweise ungeeignet erscheint[9]. Die Beistandsperson wird ergänzend zum Vorsorgeauftrag mit einzelnen Aufgaben betraut. Die Behörde hat die Aufgabenbereiche im Validierungsentscheid und im Errichtungsentscheid genau voneinander abzugrenzen, um negative oder positive Kompetenzkonflikte zu verhindern[10].
+Es können bei ungenügender Eignung auch niederschwellige Massnahmen, namentlich solche im Sinn von Art. 368 Abs. 2 ZGB, zweckmässig sein. Es geht dabei um die Erteilung von Weisungen, die Erstellung eines Inventars der Vermögenswerte der auftraggebenden Person, die periodische Berichtserstattung und die Rechnungsablage oder die Pflicht, gewisse Geschäfte der Erwachsenenschutzbehörde zur Genehmigung vorzulegen[11].
+2.7.2.
+Vor dem Hintergrund, dass A zwar in Bezug auf die Personensorge, nicht jedoch in Bezug auf die Vermögenssorge und die Vertretung im Rechtsverkehr betreffend die finanziellen Belange als Vorsorgebeauftragter geeignet ist, sind vorliegend den Vorsorgeauftrag ergänzende Massnahmen zu erlassen. In Betracht kommen eine den Vorsorgeauftrag ergänzende Beistandschaft, insbesondere in der Vermögensvorsorge und der diesbezüglichen Vertretung im Rechtsverkehr. Zu prüfen sind ausserdem niederschwellige Massnahmen des Erwachsenenschutzes.
+Vorliegend besteht die Problematik im Familienstreit, welcher sich durch die Einsetzung von A als Vorsorgebeauftragten in der Vermögenssorge und in der Vertretung im Rechtsverkehr intensivieren könnte. Diese Problematik wird nicht dadurch entschärft, dass A in Verbindung mit behördlichen Weisungen und Auflagen eingesetzt wird. Denn durch eine Weisung lassen sich die Interessen der Beteiligten und der Familienstreit nicht lenken, weshalb eine solche nicht zielführend ist. Ebensowenig ist eine Inventarerstellung oder eine periodische Berichtserstattung zweckmässig, da die Problematik nicht in erster Linie die Vermögensverwendung betrifft, sondern den familiären Streit. Um diesem Familienkonflikt im Interesse der Beschwerdeführerin in geeigneter Weise gegenüberzutreten, kann nicht davon abgesehen werden, eine ergänzende Beistandschaft zu errichten.
+[…]
+Obergericht, 3. Abteilung, 31. Mai 2023, KES.2023.14
+Auf eine dagegen erhobene Beschwerde trat das Bundesgericht am 23. August 2023 nicht ein (5A_606/2023).
+[1]    Art. 389 Abs. 1 ZGB
+[2]    Wohlgemuth, in: Fachhandbuch Kindes- und Erwachsenenschutzrecht (Hrsg.: Fountoulakis/Affolter-Fringeli/Biderbost/Steck), Zürich/Basel/Genf 2016, N. 4.98 f.; Renz, Der Vorsorgeauftrag und seine Validierung, Diss. Zürich 2020, N. 690
+[3]    Art. 389 Abs. 2 ZGB
+[4]    BGE 140 III 51; BGE vom 12. April 2018, 5A_614/2017, Erw. 5.3.2
+[5]    Art. 388 Abs. 2 ZGB
+[6]    Art. 391 ZGB
+[7]    Art. 400 Abs. 1 ZGB
+[8]    BGE 145 I 195 f.; BGE vom 3. März 2017, 5A_310/2016, Erw. 5.1; Reusser, Basler Kommentar, 7.A., Art. 400 ZGB N. 11
+[9]    Renz, N. 691
+[10] Renz, N. 691; Geiser, in: FamKomm, Erwachsenenschutz (Hrsg.: Büchler/Häfeli/Leuba/Stettler), Bern 2013, Art. 363 ZGB N. 15; Jungo, Basler Kommentar, 7.A., Art. 363 ZGB N. 26
+[11] Wohlgemuth, N. 4.98 f.; Renz, N. 692
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
