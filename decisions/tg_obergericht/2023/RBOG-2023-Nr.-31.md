@@ -1,0 +1,79 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._31"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 31"
+decided: "2023-06-07"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-31"
+cites_law: ["switzerland/bund/acts/211.112.2/art-024.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-067.md", "switzerland/bund/acts/281.1/art-069.md", "switzerland/bund/acts/281.31/art-006.md", "switzerland/bund/acts/312.0/art-353.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 31
+
+## Regeste
+
+Schreibweise des Namens; Zahlungsbefehl mit Faksimileunterschrift gültig; Kostenauferlegung wegen mutwilliger Prozessführung
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 31
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 31
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 31
+
+RBOG 2023 Nr. 31
+Skip to main content
+Show navigation
+Schreibweise des Namens; Zahlungsbefehl mit Faksimileunterschrift gültig; Kostenauferlegung wegen mutwilliger Prozessführung
+Art. 67 Abs.1 SchKG
+Art. 69 Abs. 2 Ziff. 1 SchKG
+Art. 24 ZStV
+Art. 6 VFRR
+Art. 20a Abs. 2 Ziff. 5 Satz 2 SchKG
+Zusammenfassung des Sachverhalts:
+Der Beschwerdeführer erhob beim Bezirksgericht betreibungsrechtliche Beschwerde gegen eine Betreibung. Er verlangte unter anderem, der Zahlungsbefehl sei für nichtig beziehungsweise ungültig zu erklären und die Betreibung aufzuheben. Zur Begründung machte er – neben der Behauptung, es gebe im Kanton Thurgau keine Beamten – im Wesentlichen geltend, es liege eine inkorrekte Schreibweise seines Namens vor, was den Zahlungsbefehl ungültig mache; die korrekte Schreibweise seines amtlichen Namens sei "Nachname, Vorname". Der Zahlungsbefehl enthalte zudem "in Abweichung von Art. 6 VFRR lediglich eine mitgedruckte Faksimile-Paraphe" und sei somit als ungültiger Entwurf zu betrachten. Der Einzelrichter des Bezirksgerichts als untere Aufsichtsbehörde in Schuldbetreibungssachen wies die Beschwerde ab, wogegen der Beschwerdeführer Beschwerde beim Obergericht als obere Aufsichtsbehörde in Schuldbetreibungssachen erhob.
+Aus den Erwägungen:
+[…]
+2.2.
+2.2.1.
+Das Betreibungsbegehren ist schriftlich oder mündlich an das Betreibungsamt zu richten. Dabei sind der Name und Wohnort des Gläubigers und seines allfälligen Bevollmächtigten, der Name und Wohnort des Schuldners und gegebenenfalls seines gesetzlichen Vertreters, die Forderungssumme in gesetzlicher Schweizerwährung sowie die Forderungsurkunde und deren Datum, in Ermangelung einer solchen der Grund der Forderung anzugeben[1]. Der Zahlungsbefehl enthält die Angaben des Betreibungsbegehrens[2].
+2.2.2.
+Das Betreibungsrecht regelt nicht in allgemeiner Weise, welche Angaben zur Person der Parteien die einzelnen Aktenstücke haben müssen. Mit Bezug auf den Zahlungsbefehl bestimmt Art. 69 Abs. 2 Ziff. 1 i.V.m. Art. 67 Abs. 1 Ziff. 2 SchKG, dass der Name und der Wohnort des Schuldners anzugeben sind. Der Zweck besteht darin, den Schuldner eindeutig identifizieren zu können. Das Gesetz bestimmt nicht, was unter dem Namen des Schuldners zu verstehen ist. Vom Zweck her muss damit die amtliche Bezeichnung des Schuldners erfasst werden, soweit sie zu dessen Identifikation nötig ist. Der amtliche Name einer Person besteht aus ihrem Familiennamen und dem oder den Vornamen[3]. Vom Zweck her, die eindeutige Identifikation des Schuldners zu ermöglichen, besteht allerdings keine Notwendigkeit, in den Betreibungsurkunden stets den amtlichen Namen vollständig unverändert zu verwenden. So werden beispielsweise häufig einzelne Vornamen weggelassen, wenn eine Person mehrere Vornamen hat. Umgekehrt wird je nach Namen dieser für die Identifizierung einer Person, selbst zusammen mit dem Wohnort, nicht immer genügen. Dann müssen die Ämter zur Unterscheidung auf weitere Angaben zurückgreifen. Welche weiteren Angaben der Identifikation dienen, lässt sich nicht allgemein bestimmen, sondern hängt von der konkreten Verwechslungsgefahr ab[4].
+2.3.
+Der Zahlungsbefehl enthält den Familiennamen, den Vornamen und die Wohnadresse des Schuldners. Dabei spielt es zur Identifikation des Schuldners keine Rolle, ob zwischen dem Nachnamen und den beiden Vornamen ein Komma oder eine Zeilenschaltung gesetzt wurde oder nicht. Zudem stimmt die Adresse des Schuldners auf dem Zahlungsbefehl mit der von ihm angegeben Wohnadresse überein. Der mit Familienname und Vorname bezeichnete Schuldner konnte an der angegebenen Adresse angetroffen und ihm der Zahlungsbefehl polizeilich zugestellt werden. Mit dem beschwerdebeklagten Betreibungsamt kann somit festgehalten werden, dass keine objektiven Anhaltspunkte gegeben sind, dass es sich beim Beschwerdeführer nicht um den Schuldner und Betriebenen gemäss Betreibungsbegehren handelt. Solches wurde von ihm denn auch nicht behauptet. In Anwendung der bundesgerichtlichen Rechtsprechung ist der Zweck der eindeutigen Identifikation des Schuldners im Zahlungsbefehl vollumfänglich erfüllt. Ein weitergehender Anspruch auf Verwendung eines Kommas oder einer Zeilenschaltung zwischen Name und Vornamen im Zahlungsbefehl besteht gemäss SchKG nicht. Daran ändert auch nichts, dass auf Verordnungsstufe in gewissen – hier nicht massgebenden – Bereichen eine Erfassung in Registern oder Informationssystemen in der vom Beschwerdeführer geltend gemachten Weise vorgegeben wird.
+Die Beschwerde wird in diesem Punkt abgewiesen.
+[…]
+3.2.
+Der Bundesrat hat die im Betreibungs- und Konkursverfahren zu verwendenden Formulare und Register sowie die Rechnungsführung in einer Verordnung geregelt[5]. Die Formulare sind von den nach den kantonalen Vorschriften hiezu befugten Beamten oder Angestellten des Betreibungs- beziehungsweise Konkursamts zu unterzeichnen; es dürfen Faksimilestempel verwendet werden[6]. Das kantonale ZSRG[7] enthält demgegenüber keine Ausführungen zur Unterschrift der ausstellenden Behörde auf den Zahlungsbefehlen.
+Die gesetzlichen Bestimmungen des SchKG enthalten in Bezug auf den Zahlungsbefehl[8] keine Vorschrift, welche zu seiner Gültigkeit eine eigenhändige Unterschrift verlangen würde. Die vom Beschwerdeführer geltend gemachte bundesgerichtliche Rechtsprechung zum Strafbefehl und dem dortigen Erfordernis einer eigenhändigen Unterschrift stützt sich auf Art. 353 Abs. 1 lit. k StPO, also eine bundesrechtliche Grundlage in der Strafprozessordnung. Eine entsprechende bundesrechtliche Bestimmung in Bezug auf den Zahlungsbefehl gibt es nicht. Im Gegenteil ist die Verwendung einer Faksimileunterschrift, und insbesondere auch die Verwendung von Faksimilestempel, wie sie im vorliegenden Fall seitens des Betreibungsamts erfolgte, gemäss bundesrätlicher Verordnung ausdrücklich zulässig.
+Die Beschwerde ist in diesem Punkt unbegründet.
+[…]
+5.
+5.1.
+Das Beschwerdeverfahren nach Art. 17 ff. SchKG ist gemäss Art. 20a Abs. 2 Ziff. 5 Satz 1 SchKG grundsätzlich kostenlos. Die Vorinstanz als untere Aufsichtsbehörde in Schuldbetreibungssachen verzichtete denn auch auf die Erhebung von Gerichtsgebühren.
+5.2.
+Gemäss Art. 20a Abs. 2 Ziff. 5 Satz 2 SchKG können bei böswilliger oder mutwilliger Prozessführung einer Partei oder ihrem Vertreter Bussen bis zu Fr. 1'500.00 sowie Gebühren und Auslagen auferlegt werden.
+Böswilliges oder mutwilliges Verhalten im Sinn dieser Bestimmung hat sich ein Beschwerdeführer dann vorhalten zu lassen, wenn er – in Missachtung der auch im Verfahrensrecht geltenden Pflicht zum Handeln nach Treu und Glauben – ohne konkretes Rechtsschutzinteresse und trotz eindeutiger Sach- und Rechtslage vor allem deshalb Beschwerde führt, um das Betreibungsverfahren zu verzögern[9]. Der Tatbestand der Mutwilligkeit kann aber auch dann erfüllt sein, wenn eine Partei Tatsachen wider besseres Wissen als wahr behauptet, wenn sie ihre Stellungnahme auf einen Sachverhalt abstützt, von dem sie bei der ihr zumutbaren Sorgfalt wissen müsste, dass er unrichtig ist, oder wenn sie an einer offensichtlich gesetzeswidrigen Auffassung festhält[10]. Das Merkmal der Aussichtslosigkeit für sich allein lässt die Beschwerdeführung noch nicht als bös- oder mutwillig erscheinen; vielmehr bedarf es zusätzlich des subjektiven, tadelnswerten Elements, dass die Partei die Aussichtslosigkeit bei der ihr zumutbaren vernunftgemässen Überlegung ohne Weiteres erkennen konnte[11].
+5.3.
+Die vom Beschwerdeführer vorgebrachte Argumentation[12] muss in allen Punkten als aussichtslos bezeichnet werden. Diese Aussichtslosigkeit wäre für den Beschwerdeführer bei der ihm zumutbaren vernunftgemässen Sorgfalt ohne Weiteres erkennbar gewesen, dies spätestens nach Erhalt der Stellungnahme des Betreibungsamtes. Der Beschwerdeführer prozessierte daher mutwillig, weshalb ihm eine Verfahrensgebühr aufzuerlegen ist. Diese wird für das vorliegende Beschwerdeverfahren auf Fr. 1'000.00 festgelegt[13].
+[…]
+Obergericht, 1. Abteilung, 7. Juni 2023, BS.2023.7
+[1]    Art. 67 Abs. 1 SchKG
+[2]    Art. 69 Abs. 2 Ziff. 1 SchKG
+[3]    BGE 120 III 61; BGE 143 III 6
+[4]    BGE 120 III 62
+[5]    Verordnung über die im Betreibungs- und Konkursverfahren zu verwendenden Formulare und Register sowie die Rechnungsführung, VFRR, SR 281.31
+[6]    Art. 6 VFRR
+[7]    Gesetz über die Zivil- und Strafrechtspflege, RB 271.1
+[8]    Art. 69 ff. SchKG
+[9]    BGE 127 III 179; Cometta/Möckli, Basler Kommentar, 3.A., Art. 20a SchKG N. 26
+[10] BGE 128 V 324; Cometta/Möckli, Art. 20a SchKG N. 26
+[11] BGE vom 25. Juni 2013, 5A_131/2013, E. 6.1
+[12] Fehlende Namens- beziehungsweise Schuldneridentität mangels Komma oder Zeilenschaltung zwischen Vor- und Nachname und Unzulässigkeit der Verwendung von Faksimileunterschriften
+[13] Art. 20a Abs. 2 Ziff. 5 Satz 2 SchKG i.V.m. § 13 Abs. 1 VGG (Verordnung des Grossen Rates über die Gebühren der Strafverfolgungs- und Gerichtsbehörden, RB 638.1)
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
