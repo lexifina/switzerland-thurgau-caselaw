@@ -1,0 +1,51 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._18"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 18"
+decided: "2023-06-14"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-18"
+cites_law: ["switzerland/bund/acts/220/art-367.md", "switzerland/bund/acts/272/art-158.md", "switzerland/bund/acts/272/art-183.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 18
+
+## Regeste
+
+Der Begriff des "Mangels" betrifft im Baurechtsprozess eine gemischte Tat- und Rechtsfrage.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 18
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 18
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 18
+
+RBOG 2023 Nr. 18
+Skip to main content
+Show navigation
+Der Begriff des "Mangels" betrifft im Baurechtsprozess eine gemischte Tat- und Rechtsfrage.
+Art. 367 Abs. 1 OR
+Art. 183 ff. ZPO
+Art. 158 ZPO
+Zusammenfassung des Sachverhalts:
+Zwischen den Parteien besteht Uneinigkeit über die Frage, ob der für die Berufungsklägerin erstellte Neubau an Mängeln leidet. Die Berufungsklägerin reichte deshalb beim Bezirksgericht ein Gesuch um vorsorgliche Beweisführung ein. Sie beantragte die Einsetzung eines gerichtlichen Experten zwecks Klärung der Frage, ob bestimmte Elemente des Bauobjekts nach den geltenden Normen (inklusive Sollwerte) und nach den Regeln der Baukunde geplant und erstellt wurden oder ob diese bautechnische Störungen aufweisen. Im Berufungsverfahren stellen sich die Berufungsbeklagten auf den Standpunkt, damit wolle die Berufungsklägerin zu einer Rechtsfrage ein Gutachten einholen, was nicht zulässig sei.
+Aus den Erwägungen:
+[…]
+20.3.2.1.
+Um eine Rechtsfrage handelt es sich bei der Beurteilung, ob eine bestimmte Handlung oder Unterlassung als Pflichtverletzung zu werten ist. Dem Gericht bleibt vorbehalten, solche Rechtsfragen zu klären. Welches die in einer Branche praktizierten Berufsstandards beziehungsweise die anerkannten Regeln der Technik in einem Fachgebiet sind, gehört hingegen zur Sachverhaltsfeststellung. So zählen die berufsspezifische "Erfahrung" oder der "Stand der Technik" zu einem bestimmten Zeitpunkt zum Sachverhalt[1]. Auch die "Regeln der Baukunde" gehören hierher. Sie könne namentlich Thema eines Gutachtens sein[2].
+20.3.2.2.
+Der in Baurechtsprozessen häufig anzutreffende Begriff des "Mangels" verweist – prozessual gesehen – auf eine gemischte Tat- und Rechtsfrage. Mangelhaft kann ein Werk nämlich immer nur in Bezug auf einen Soll-Zustand sein. Die Frage, ob ein Werk mangelhaft ist, lässt sich daher in einen Tatsachenkern, der sich auf die tatsächlichen (technischen) Eigenschaften bezieht, und dessen rechtliche Einordnung zerlegen. Die Bezugsgrösse für den Mangel, das heisst, was nach dem Vertrag geschuldet ist, muss letztlich das Gericht beurteilen. Bezüglich tatsächlicher Eigenschaften hingegen kann auch die Frage nach einem Mangel ohne Weiteres einem Gutachter unterbreitet werden[3].
+20.3.2.3.
+Die in der Replik der Berufungsklägerin gestellten Anträge zielen auf die Abklärung der Regelkonformität des Bauobjekts und auf die Feststellung von "bautechnischen Störungen". Entgegen den Vorbringen der Berufungsbeklagten werden dadurch nicht Tat- und Rechtsfragen vermischt. Ein Gutachten kann sich zur Frage äussern, ob Normwerte und die Regeln der Baukunde eingehalten sind. Das in diesem Zusammenhang ebenfalls von der Berufungsbeklagten vorgebrachte Argument, vor einer Begutachtung müssten die vertraglichen Pflichten feststehen, ist nicht stichhaltig. Gestützt auf die von der Berufungsklägerin formulierten Fragen wird sich ein Gutachten dazu äussern, ob ein branchenüblicher Standard (Normwerte, Regeln der Baukunde) eingehalten ist. Rechtsfrage und im Hauptprozess zu klären ist, ob allfällige vom Gutachter festgestellte Abweichungen zum branchenüblichen Standard eine Vertragsverletzung begründen. Ebenfalls durch das Gericht zu klärende Rechtsfrage ist, ob letztlich ein Mangel vorliegt. Die für diese normative Beurteilung erforderliche Faktengrundlage beschlägt indes wiederum eine Sachverhaltsfrage, die dem Gutachter unterbreitet werden darf.
+[…]
+Obergericht, 3. Abteilung, 14. Juni 2023, ZBS.2022.28
+[1]    BGE vom 23. März 2018, 4A_486/2017, Erw. 3.2.1
+[2]    Vgl. BGE vom 27. April 2020, 4A_412/2019, Erw. 6.3.2.1
+[3]    Entscheid des Obergerichts des Kantons Solothurn vom 1. Dezember 2016, ZKBER.2016.89, Erw. 4.4 und 5; Locher, Befundaufnahme und vorsorgliche Beweisführung im Bauprozess, in: BR 2015 S. 210
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
