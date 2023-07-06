@@ -1,0 +1,85 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._52"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 52"
+decided: "2023-07-06"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-52"
+cites_law: ["switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/235.1/art-002.md", "switzerland/bund/acts/312.0/art-003.md", "switzerland/bund/acts/312.0/art-013.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-097.md", "switzerland/bund/acts/312.0/art-099.md", "switzerland/bund/acts/312.0/art-101.md", "switzerland/bund/acts/312.0/art-393.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 52
+
+## Regeste
+
+Anwendbarkeit des TG DSG auf ein Gesuch um Einsicht in Akten abgeschlossener Strafverfahren bei der Staatsanwaltschaft; Überweisung des Rechtsmittels von Amtes wegen an das DJS
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 52
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 52
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 52
+
+RBOG 2023 Nr. 52
+Skip to main content
+Show navigation
+Anwendbarkeit des TG DSG auf ein Gesuch um Einsicht in Akten abgeschlossener Strafverfahren bei der Staatsanwaltschaft; Überweisung des Rechtsmittels von Amtes wegen an das DJS
+§ 3 Abs. 1 TG DSG
+§ 24 TG DSG
+Art. 99 Abs. 1 StPO
+Art. 101 f. StPO
+§ 4 Abs. 2 Ziff. 1 ÖffG
+§ 1 Abs. 1 InfoV
+Zusammenfassung des Sachverhalts:
+Die Beschwerdeführerin verlangte bei der Staatsanwaltschaft Einsicht in Strafakten eines abgeschlossenen Strafverfahrens. Das Strafverfahren stand im Zusammenhang mit einem Verkehrsunfall aus dem Jahr 2019, in den der Ex-Partner der Beschwerdeführerin (Beschwerdegegner) und das gemeinsame Kind der Parteien involviert war. Die Staatsanwaltschaft wies das Gesuch gestützt auf die InfoV[1] ab. Dagegen erhob die Beschwerdeführerin beim Obergericht Beschwerde.
+Aus den Erwägungen:
+[…]
+3.3.
+In der Schweizerischen Strafprozessordnung ist die Akteneinsicht bei hängigen Verfahren in den Art. 101 und 102 StPO geregelt[2]. Ein Strafverfahren ist hängig ab der Eröffnung des Vorverfahrens, und dies bis zum rechtskräftigen Abschluss des Strafverfahrens[3]. Hier handelt es sich indes unstreitig und evident um ein rechtskräftig abgeschlossenes Strafverfahren, in dessen Akten Einsicht gewährt werden soll. Damit ist Art. 101 f. StPO nicht anwendbar[4].
+3.4.
+3.4.1.
+Die Staatsanwaltschaft ist ein kantonales Organ. Trotzdem findet das ÖffG[5] keine Anwendung. Das Gesetz regelt zwar gemäss § 1 Abs. 2 ÖffG die Einsicht in amtliche Akten der öffentlichen Organe, und in zeitlicher Hinsicht wäre es laut § 5 Abs. 1 ÖffG anwendbar, nachdem sich der Unfall nach dem 20. Mai 2019 ereignete und die entsprechenden Akten somit jüngeren Datums sind. Nach § 4 Abs. 2 Ziff. 1 ÖffG wird das Gesetz aber nicht angewendet in Verfahren der Zivil- und Strafrechtspflege.
+3.4.2.
+Nach Abschluss des Verfahrens richten sich das Bearbeiten von Personendaten, das Verfahren und der Rechtsschutz gemäss Art. 99 Abs. 1 StPO nach den Bestimmungen des Datenschutzrechts von Bund und Kantonen[6]. Art. 99 Abs. 1 StPO bildet das Gegenstück zu Art. 2 Abs. 2 lit. c DSG[7], wonach dieses auf hängige Strafverfahren nicht anwendbar ist. Der Verweis in Art. 99 Abs. 1 StPO hat zur Folge, dass ein Entscheid über die Einsicht in Personendaten bei abgeschlossenen Strafverfahren keine Verfügung im Sinn von Art. 393 Abs. 1 lit. a StPO darstellt. Es fehlt die Möglichkeit, ihn mit strafprozessualer Beschwerde anzufechten. Es liegt eine durch den Gesetzgeber vorgesehene Ausnahme vom Rechtsmittelsystem der StPO vor[8]. Zum Zug kommen die Rechtsmittel der einschlägigen Erlasse[9], denn mit Art. 99 StPO wird bezüglich der Bearbeitung und Aufbewahrung von Personendaten nach Abschluss des Verfahrens den Kantonen explizit die Kompetenz erteilt, in diesem Bereich zu legiferieren[10].
+Der Bund besitzt keine umfassende Kompetenz zur Gesetzgebung im Bereich des Datenschutzes. Im Rahmen ihrer Organisationsautonomie sind die Kantone befugt, den Datenschutz selbstständig zu regeln, soweit es um die Bearbeitung von Personendaten durch die kantonalen Behörden und die Verwaltungen geht. Sie sind dabei an die Vorgaben von Art. 13 Abs. 2 BV[11] gebunden. Die Organisationszuständigkeit ist in einer doppelten Abgrenzung zwischen privatrechtlichem und öffentlich-rechtlichem sowie zwischen bundesrechtlichem und kantonalrechtlichem Datenschutz zu bestimmen. Weil die Erfüllung einer Bundesaufgabe und der Vollzug von Bundesrecht allein ein kantonales Organ nicht zu einem Bundesorgan macht, bleibt insoweit kantonales Datenschutzrecht anwendbar[12].
+3.4.3.
+Weil die Staatsanwaltschaft – wie dargelegt – ein kantonales Organ ist, kommt das im Kanton Thurgau geltende TG DSG[13] zur Anwendung. Das kantonale Datenschutzgesetz regelt die Bearbeitung von Daten durch öffentliche Organe respektive durch den Staat, also auch durch die Staatsanwaltschaft[14]. Seine Bestimmungen gelten für jedes Bearbeiten von Personendaten, unabhängig von den verwendeten Mitteln oder Verfahren, soweit nicht andere Gesetze besondere Vorschriften enthalten[15]. Wie gezeigt, sind die StPO und dessen Rechtsmittelsystem gerade nicht anwendbar. Aber auch die von der Staatsanwaltschaft angeführte InfoV enthält für die Einsicht in ein ausschliesslich bei der Staatsanwaltschaft geführtes Strafverfahren keine Vorschriften; sie gilt gemäss § 1 Abs. 1 InfoV für vor dem Obergericht, vor dem Zwangsmassnahmengericht und vor den Bezirksgerichten sowie ihren Einzelrichterinnen und Einzelrichtern geführten ordentlichen und vereinfachten Verfahren. Die Staatsanwaltschaften fallen somit nicht unter den Geltungsbereich der InfoV. Andere, besondere Vorschriften, die dem kantonalen Datenschutzgesetz vorgingen, sind nicht ersichtlich; auch das ZSRG[16] enthält keine entsprechenden Bestimmungen. Anwendbar bleibt somit allein das Datenschutzgesetz.
+3.4.4.
+Personendaten sind gemäss § 3 Abs. 1 TG DSG Angaben über natürliche oder juristische Personen, wobei besonders schützenswerte Personendaten Angaben – unter anderem – über Straftaten und die dafür verhängten Strafen oder Massnahmen sind[17]. Die Bearbeitung von Personendaten umfasst gemäss § 3 Abs. 3 TG DSG gerade auch das hier in Frage stehende Bekanntgeben von Personendaten. Gegen Entscheide aufgrund des TG DSG kann beim in der Sache zuständigen Departement Rekurs erhoben werden. Entscheide der Departemente unterliegen der Beschwerde an das Verwaltungsgericht[18]. Das Verfahren richtet sich nach dem VRG[19].
+3.4.5.
+Gestützt darauf ergibt sich, dass das Obergericht, genauer die Beschwerdeinstanz im Sinn von Art. 13 lit. c StPO, zur Beurteilung der von der Beschwerdeführerin gegen die Verfügung der Staatsanwaltschaft erhobenen Beschwerde nicht zuständig ist. Auf die Beschwerde ist daher nicht einzutreten.
+4.
+Die Staatsanwaltschaft wies die Beschwerdeführerin darauf hin, gegen die Verfügung könne innert zehn Tagen begründet Beschwerde beim Obergericht eingereicht werden. Diese Rechtsmittelbelehrung ist – wie dargelegt – unzutreffend.
+4.1.
+Art. 29 Abs. 1 BV verbietet überspitzten Formalismus als besondere Form der Rechtsverweigerung. Überspitzter Formalismus ist aber nur gegeben, wenn die strikte Anwendung der Formvorschriften durch keine schutzwürdigen Interessen gerechtfertigt ist, zum blossen Selbstzweck wird und die Verwirklichung des materiellen Rechts in unhaltbarer Weise erschwert oder verhindert. Im Strafprozessrecht ergibt sich das Verbot des überspitzten Formalismus aus Art. 3 Abs. 2 lit. a und b StPO, wonach die Strafbehörden namentlich den Grundsatz von Treu und Glauben sowie das Verbot des Rechtsmissbrauchs zu beachten haben. Einer Partei, die sich auf eine unzutreffende Rechtsmittelbelehrung verliess und verlassen konnte, darf daraus kein Nachteil erwachsen. Allerdings geniesst nur Vertrauensschutz, wer die Unrichtigkeit der Rechtsmittelbelehrung nicht kennt und sie auch bei gebührender Aufmerksamkeit nicht hätte erkennen können. Es besteht kein Anspruch auf Vertrauensschutz, wenn der Mangel für die Rechtssuchenden oder ihren Rechtsvertreter schon durch Konsultierung der massgebenden Verfahrensbestimmung ersichtlich ist. Dagegen wird nicht verlangt, dass neben den Gesetzestexten auch die einschlägige Rechtsprechung oder Literatur nachgeschlagen wird. Dies gilt nicht nur für das Verfahren vor Bundesgericht, sondern auch für das kantonale Verfahren. Wann der Prozesspartei, die sich auf eine unrichtige Rechtsmittelbelehrung verlassen hat, eine als grob zu wertende Unsorgfalt vorzuwerfen ist, beurteilt sich nach den konkreten Umständen und nach ihren Rechtskenntnissen. Ist sie rechtsunkundig und auch nicht rechtskundig vertreten, darf sie nicht der anwaltlich vertretenen Partei gleichgestellt werden, es sei denn, sie verfüge namentlich aus früheren Verfahren über entsprechende Erfahrungen[20].
+4.2.
+Es entspricht einem allgemeinen prozessualen Grundsatz, dass eine Frist auch dann als gewahrt gilt, wenn die Eingabe spätestens am letzten Tag der Frist bei einer nicht zuständigen schweizerischen Behörde eingeht. Diese leitet die Eingabe nach Art. 91 Abs. 4 StPO unverzüglich an die zuständige Strafbehörde weiter. Die nicht anwaltlich vertretene Beschwerdeführerin reichte ihre Eingabe innert der von der Staatsanwaltschaft angegebenen Beschwerdefrist bei der in der Rechtsmittelbelehrung bezeichneten – aber unzuständigen – Behörde (dem Obergericht) ein. Grobe Unsorgfalt ist ihr offensichtlich nicht vorzuwerfen; ebensowenig scheint sie Erfahrung mit Gesuchen betreffend Akteneinsicht zu haben. Nachdem die unrichtige Rechtsmittelbelehrung der Beschwerdeführerin nicht zum Nachteil gereichen darf, wird die Beschwerde in sinngemässer Anwendung von Art. 91 Abs. 4 StPO nach Eintritt der Rechtskraft dieses Entscheids zuständigkeitshalber an das Departement für Justiz und Sicherheit des Kantons Thurgau weitergeleitet.
+[…]
+Obergericht, 2. Abteilung, 6. Juli 2023, SW.2023.61
+[1]    Informationsverordnung, RB 271.31
+[2]    BGE 147 I 469
+[3]    Schmutz, Basler Kommentar, 2.A., Art. 101 StPO N. 4
+[4]    Dies gilt auch für Art. 97 StPO, der das Auskunftsrecht der Parteien und der anderen Verfahrensbeteiligten bei hängigen Verfahren regelt.
+[5]    Gesetz über das Öffentlichkeitsprinzip, RB 170.6
+[6]    BGE 147 I 470
+[7]    Bundesgesetz über den Datenschutz, SR 235.1
+[8]    Brüschweiler/Grünig, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Lieber/Summers/Wohlers), 3.A., Art. 99 N. 1
+[9]    Fiolka, Basler Kommentar, 2.A., Art. 99 StPO N. 1
+[10]  BGE vom 28. Oktober 2019, 6B_979/2019, Erw. 4.3
+[11]  Nach dieser Bestimmung hat jede Person Anspruch auf Schutz vor Missbrauch ihrer persönlichen Daten.
+[12]  BGE vom 28. November 2011, 6B_4/2011, Erw. 2.5
+[13]  Gesetz über den Datenschutz, RB 170.7
+[14]  § 1 und § 2 Abs. 2 Ziff. 1 TG DSG
+[15]  § 2 Abs. 1 TG DSG
+[16]  Gesetz über die Zivil- und Strafrechtspflege, RB 271.1
+[17]  § 3 Abs. 2 Ziff. 5 TG DSG
+[18]  § 24 TG DSG
+[19]  Gesetz über die Verwaltungsrechtspflege, RB 170.1
+[20]  BGE vom 27. April 2018, 6B_1366/2017, Erw. 1.6 mit Hinweisen; Thommen, Basler Kommentar, 2.A., Art. 3 StPO N. 49
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
