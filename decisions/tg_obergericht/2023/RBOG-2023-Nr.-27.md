@@ -1,0 +1,61 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._27"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 27"
+decided: "2023-08-07"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-27"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/272/art-051.md", "switzerland/bund/acts/272/art-265.md", "switzerland/bund/acts/272/art-321.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 27
+
+## Regeste
+
+Auch nach Abweisung eines Gesuchs um Erlass superprovisorischer Massnahmen ist die Gegenpartei unverzüglich anzuhören; Rechtsverzögerung.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 27
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 27
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 27
+
+RBOG 2023 Nr. 27
+Skip to main content
+Show navigation
+Auch nach Abweisung eines Gesuchs um Erlass superprovisorischer Massnahmen ist die Gegenpartei unverzüglich anzuhören; Rechtsverzögerung.
+Art. 265 Abs. 2 ZPO
+Art. 29 Abs. 1 BV
+Art. 321 Abs. 4 ZPO
+Zusammenfassung des Sachverhalts:
+Zwischen der Beschwerdeführerin und dem Vater des gemeinsamen Kindes ist vor Bezirksgericht ein Verfahren betreffend Obhutsumteilung hängig. Im Verlauf dieses Verfahrens stellte die Beschwerdeführerin ein Ausstandsgesuch gegen die Besetzung des Bezirksgerichts. Rund eine Woche später ersuchte sie zudem um superprovisorische Ernennung einer Kindesvertretung. Die Verfahrensleitung des Bezirksgerichts teilte tags darauf mit, dass keine besondere Dringlichkeit bestehe und der Antrag behandelt werde, sobald die Ausstandsfrage geklärt sei. Drei Tage später ersuchte die Beschwerdeführerin erneut um einen superprovisorischen Entscheid, worauf die Verfahrensleitung am Folgetag den Antrag auf superprovisorische Einsetzung einer Kindesvertretung abwies. Dagegen erhob die Beschwerdeführerin beim Obergericht Beschwerde wegen Rechtsverweigerung beziehungsweise Rechtsverzögerung.
+Aus den Erwägungen:
+[…]
+2.
+2.1.
+Wegen Rechtsverweigerung und/oder Rechtsverzögerung kann jederzeit Beschwerde geführt werden. Als Minimalanforderung an ein rechtsstaatliches Verfahren gewährleistet Art. 29 Abs. 1 BV den Erlass eines Entscheides innerhalb einer angemessenen Frist. Die Angemessenheit der Dauer bestimmt sich nicht absolut. Sie ist im Einzelfall unter Berücksichtigung der gesamten Umstände einer Angelegenheit wie Umfang und Bedeutung des Verfahrens, das Verhalten der betroffenen Privaten und der Behörden, die Bedeutung für die Betroffenen sowie die für die Sache spezifischen Entscheidungsabläufe zu berücksichtigen. Für die Rechtsuchenden ist es unerheblich, auf welche Gründe eine übermässige Verfahrensdauer zurückzuführen ist; mangelnde Organisation oder Überlastung bewahren nicht vor dem Vorwurf der Rechtsverzögerung. Entscheidend ist ausschliesslich, dass die Behörde nicht oder nicht fristgerecht handelt. Bei der Feststellung einer übermässigen Verfahrensdauer ist daher zu prüfen, ob sich die Umstände, die zur Verlängerung des Verfahrens geführt haben, objektiv rechtfertigen lassen[1].
+2.2.
+Bei besonderer Dringlichkeit, insbesondere bei Vereitelungsgefahr, kann das Gericht die vorsorgliche Massnahme sofort und ohne Anhörung der Gegenpartei anordnen. Mit der Anordnung lädt das Gericht die Parteien zu einer Verhandlung vor, die unverzüglich stattzufinden hat, oder setzt der Gegenpartei eine Frist zur schriftlichen Stellungnahme. Nach Anhörung der Gegenpartei entscheidet das Gericht unverzüglich über das Gesuch[2]. Das superprovisorische Massnahmeverfahren ist Teil des vorsorglichen Massnahmeverfahrens[3]. Die Regel des Art. 265 Abs. 2 ZPO, wonach das Gericht bei erfolgter superprovisorischer Anordnung einer Massnahme die Gegenpartei unverzüglich anzuhören und danach ebenso unverzüglich zu entscheiden hat, ist grundsätzlich auch zu berücksichtigen, wenn das beantragte Superprovisorium verweigert wird[4].
+2.3.
+Eine Rechtsverweigerung/Rechtsverzögerung in Bezug auf den Erlass einer superprovisorischen Massnahme ist vorliegend nicht ersichtlich. Die Beschwerdeführerin hat den Antrag auf Erlass von superprovisorischen Massnahmen gestellt. Darüber hat der verfahrensleitende Richter der Vorinstanz fünf Tage später zeitnah entschieden.
+2.4.
+2.4.1.
+Jedoch hätte die Vorinstanz bei Eröffnung des superprovisorischen Entscheids die Beschwerdeführerin und den Vater unverzüglich zu einer Verhandlung vorladen oder den Vater zur schriftlichen Stellungnahme auffordern müssen. Danach hätte die Vorinstanz wiederum unverzüglich über das Gesuch bezüglich vorsorglicher Massnahmen entscheiden müssen. Dieser Bestätigungsentscheid wäre im Gegensatz zur superprovisorischen Massnahme denn auch anfechtbar[5]. Unter dem Begriff "unverzüglich" ist "sofort" zu verstehen. Beide Begriffe meinen ohne jede Verzögerung. Eine Frist von zehn Tagen sollte dabei die Ausnahme sein[6].
+2.4.2.
+Aufgrund der vorliegenden Akten ist nicht ersichtlich, dass die Vorinstanz nach Erlass des Entscheids dem Vater formell das rechtliche Gehör zur Frage nach einem Kindesvertreter gewährt hätte. Ebenso wenig wurde eine Verhandlung angesetzt und durchgeführt. Die maximal tolerierbare zehntägige Frist war abgelaufen, ohne dass das Verfahren betreffend vorsorgliche Massnahmen weitergeführt worden wäre. Eine Verzögerung des Verfahrens lässt sich zudem auch nicht mit dem gestellten Ausstandsgesuch begründen. Vielmehr sind dringliche, nicht aufschiebbare Handlungen trotz eines entsprechenden Gesuches durchzuführen[7], wie die Vorinstanz in der Stellungnahme zu Recht festhielt. Diese Dringlichkeit liegt hier angesichts der strittigen Obhutsfrage und damit unklaren Situation vor. Eine Rechtsverweigerung in Bezug auf vorsorgliche Massnahmen im Sinn der Ernennung eine Kindesvertretung für das Kind ist daher zu bejahen und die Vorinstanz ist anzuweisen, dem Vater unverzüglich das rechtliche Gehör zu gewähren und danach unverzüglich über das entsprechende Gesuch um Ernennung einer Kindesvertretung mittels anfechtbarem Entscheid zu befinden. Ob eine Kindesvertretung angezeigt und zu ernennen ist, ist im vorliegenden Entscheid nicht weiter zu thematisieren.
+[…]
+Obergericht, 1. Abteilung, 7. August 2023, ZR.2023.23
+[1]    BGE 144 II 489; vgl. auch Sprecher, Basler Kommentar, 3.A., Art. 265 ZPO N. 32 f.
+[2]    Art. 265 Abs. 1 und 2 ZPO
+[3]    Sprecher, Art. 265 ZPO N. 27a
+[4]    BGE vom 13. Mai 2011, 4A_242/2011, Erw. 1.4
+[5]    Kofmel Ehrenzeller, in: Schweizerische Zivilprozessordnung, Kurzkommentar (Hrsg.: Oberhammer/Domej/Haas), 3.A., Art. 265 N. 5 f.
+[6]    Sprecher, Art. 265 ZPO N. 43
+[7]    Vgl. dazu auch Weber, Basler Kommentar, 3.A., Art. 51 ZPO N. 2, wonach die Mitwirkung eines ablehnbaren Richters keinen Nichtigkeitsgrund darstellt.
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
