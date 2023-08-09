@@ -1,0 +1,53 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._47"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 47"
+decided: "2023-08-09"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-47"
+cites_law: ["switzerland/bund/acts/312.0/art-391.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 47
+
+## Regeste
+
+Die Anschlussberufung hebt das Verschlechterungsverbot nur im Rahmen der Anträge auf.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 47
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 47
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 47
+
+RBOG 2023 Nr. 47
+Skip to main content
+Show navigation
+Die Anschlussberufung hebt das Verschlechterungsverbot nur im Rahmen der Anträge auf.
+Art. 391 Abs. 2 StPO
+Art. 391 Abs. 1 lit. b StPO
+Zusammenfassung des Sachverhalts:
+Der Berufungskläger wurde vom Bezirksgericht zu einer Zusatzstrafe von 140 Tagessätzen Geldstrafe verurteilt. Er erhob dagegen Berufung und verlangte einen Freispruch. Die Staatsanwaltschaft erhob Anschlussberufung und beantragte, der Berufungskläger sei mit einer Geldstrafe von 170 Tagessätzen zu bestrafen.
+Aus den Erwägungen:
+[…]
+8.2.5.
+8.2.5.1.
+Die Rechtsmittelinstanz ist bei ihrem Entscheid nicht gebunden an: a. die Begründungen der Parteien; b. die Anträge der Parteien, ausser wenn sie Zivilklagen beurteilt. Sie darf Entscheide nicht zum Nachteil der beschuldigten oder verurteilten Person abändern, wenn das Rechtsmittel nur zu deren Gunsten ergriffen worden ist. Vorbehalten bleibt eine strengere Bestrafung aufgrund von Tatsachen, die dem erstinstanzlichen Gericht nicht bekannt sein konnten[1].
+8.2.5.2.
+Zum Verhältnis zwischen dem Grundsatz der Nichtbindung an die Parteianträge (Art. 391 Abs. 1 StPO) und dem Verbot der reformatio in peius (Abs. 2) stellt sich vorweg die allgemeine Frage, in welchem Umfang eine (beispielsweise auf den Strafpunkt beschränkte) Anschlussberufung das Verschlechterungsverbot aufhebt. Diesbezüglich hielt das Bundesgericht in BGE 147 IV 174 fest, die in Art. 391 Abs. 2 StPO vorgesehene Schutzwirkung würde vereitelt, wenn die Anschlussberufung das Schlechterstellungsverbot überschiessend – über die zulasten des Beschuldigten gestellten Anträge hinaus – beseitigen würde. Es bleibe Sache der zur Anschlussberufung berechtigten Partei, ihre Dispositionsfreiheit auszuüben und mit Anträgen in der Sache den Verfahrens- respektive Streitgegenstand im Rechtsmittelverfahren zu bestimmen. Art. 391 Abs. 2 zweiter Satz StPO behalte (nur) eine strengere Bestrafung aufgrund von Tatsachen vor, die dem erstinstanzlichen Gericht nicht bekannt sein konnten. Können sich diese Tatsachen auf die Rechtsfolgen auswirken, entscheide die Berufungsinstanz insoweit unabhängig von Parteianträgen. Bisher unbekannte Tatsachen im Sinn von Art. 391 Abs. 2 zweiter Satz StPO seien beispielsweise die persönlichen oder wirtschaftlichen Verhältnisse, die für die Bemessung der Höhe des Tagessatzes nach Art. 34 Abs. 2 dritter Satz StGB massgebend seien oder eine Verurteilung als Element der Legalprognose beim bedingten Strafvollzug. Gemeint seien Umstände, die die Rechtsfolgen der angeklagten Taten betreffen würden.
+[…]
+9.6.
+9.6.1.
+Im Ergebnis resultiert eine Gesamtstrafe von 210 Tagessätzen. Von den 210 Tagessätzen ist die im Ersturteil gefällte Strafe von 10 Tagessätzen wiederum abzuziehen. Daraus ergibt sich im Grundsatz eine Zusatzstrafe im Umfang einer Geldstrafe von 200 Tagessätzen. Eine Freiheitsstrafe rechtfertigt sich nicht.
+9.6.2.
+Die Staatsanwaltschaft beantragte in ihrer Anschlussberufung jedoch lediglich eine Geldstrafe von 170 Tagessätzen. Darüber darf die Berufungsinstanz aufgrund des Verbotes einer reformatio in peius[2] nicht hinausgehen. Die speziellen Voraussetzungen von Art. 391 Abs. 2 Satz 2 StPO sind vorliegend nicht gegeben. Der Berufungskläger ist folglich mit einer Geldstrafe von 170 Tagessätzen zu bestrafen. […]
+Obergericht, 1. Abteilung, 9. August 2023, SBR.2023.22
+[1]    Art. 391 Abs. 1 und 2 StPO
+[2]    Vgl. Erw. 8.2.5 vorstehend
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
