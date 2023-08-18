@@ -1,0 +1,72 @@
+---
+decision_id: "tg_obergericht_TVR_2024_Nr._36"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "TVR 2024 Nr. 36"
+decided: "2023-08-18"
+published: "2024-02-22"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/vg/tvr-2024-nr-36"
+cites_law: ["switzerland/bund/acts/814.20/art-020.md"]
+---
+
+# TG Obergericht TVR 2024 Nr. 36
+
+## Regeste
+
+Verkehrswert eines Grundstücksteils, der sich in einer Gewässerschutzzone befindet.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 22.02.2024 TVR 2024 Nr. 36
+Thurgovie Obergericht Rechenschaftsbericht 22.02.2024 TVR 2024 Nr. 36
+Turgovia Obergericht Rechenschaftsbericht 22.02.2024 TVR 2024 Nr. 36
+
+TVR 2024 Nr. 36
+Skip to main content
+Show navigation
+Verkehrswert eines Grundstücksteils, der sich in einer Gewässerschutzzone befindet.
+§ 43 StG
+,
+§ 12 SchäV
+,
+§ 13 SchäV
+,
+§ 14 SchäV
+Bei der Liegenschaftenschätzung ist für denjenigen Teil eines Grundstücks, welcher sich in einer Gewässerschutzzone befindet, aufgrund der Nutzungsbeschränkungen ein Minderwert zu berücksichtigen.
+Der Rekurrent ist Eigentümer der Parzelle Nr. X und der zwei sich darauf befindenden Wohnhäuser. Am 13. Juli 2023 erfolgte deren Schätzung im Rahmen einer Generalrevision, wobei ein Verkehrswert von Fr. 1'316'000.-- sowie Mietwerte von Fr. 23'117.-- und Fr. 18'975.-- festgelegt wurden. Nach erhobener Einsprache wurde der Verkehrswert mit Einspracheentscheid vom 18. August 2023 auf Fr. 1'342'000.-- erhöht, die Mietwerte wurden auf Fr. 32'640.-- bzw. Fr. 12'000.-- geändert. Die Steuerrekurskommission heisst den dagegen erhobenen Rekurs teilweise gut und weist die Streitsache zur Neuentscheidung im Sinne der Erwägungen an die Vorinstanz zurück.
+Aus den Erwägungen:
+4. Gemäss § 41 Abs. 1 StG ist das gesamte Reinvermögen steuerbar. Dabei werden die Aktiven zum Verkehrswert bewertet, soweit die nachfolgenden Vorschriften nichts Abweichendes festsetzen (§ 43 Abs. 1 StG). Der Regierungsrat regelt die Bewertungsgrundsätze und das Verfahren der amtlichen Liegenschaftenschätzung (§ 43 Abs. 3 StG). In den §§ 12 ff. SchäV sind die Grundsätze der Schätzung nichtlandwirtschaftlicher Grundstücke festgehalten. Gemäss § 12 SchäV bestimmt sich der Verkehrswert eines Grundstückes aus der Gesamtheit aller wertbildenden Faktoren, wie Land- und Bauwert, rechtliche Gegebenheiten, Nutzungsmöglichkeiten, tatsächliche Eigenschaften, besondere Lage und Beschaffenheit (Abs. 1). Der Verkehrswert wird in der Regel aus dem Ertrags- und Realwert ermittelt. Vorbehalten bleiben die Vorschriften der §§ 15 und 17 bis 19 SchäV (Abs. 2). Dabei entspricht der Ertragswert dem kapitalisierten Mietwert des Grundstückes (§ 13 Abs. 1 Satz 1 SchäV). Der Realwert setzt sich zusammen aus dem Verkehrswert des Landes und dem Zustandswert der Baute, zuzüglich Baunebenkosten und Kosten der Umgebungsarbeiten (§ 14 Abs. 1 SchäV). Zustandswert der Baute ist deren Neubauwert abzüglich ein der Altersentwertung und der technischen Entwertung entsprechender Minderwert. Dabei ist auch der schlechte oder überdurchschnittliche Unterhalt zu berücksichtigen (§ 14 Abs. 2 SchäV).
+4.1 Die streitgegenständliche Parzelle beträgt 3'054 m
+2
+. Durch die Parzelle verläuft der A-Bach. Der Rekurrent macht geltend, dass rund 1'610 m
+2
+der Parzelle in der Grundwasserschutzzone 2 liegen, da sich auf der Nachbarparzelle eine Quellwasserfassung für Trinkwasser befinde. Rund 2/3 der gesamten Parzelle würden den Schutzzonen 2 und 3 unterstehen. Gültigkeit und Rechtskraft des vom Rekurrenten eingereichten Grundwasserschutzzonenplans vom 28. Mai 2021 werden von der Vor­instanz nicht bestritten, weshalb von dessen Richtigkeit auszugehen ist. Für die Richtigkeit spricht auch der vom Rekurrenten eingereichte Grundbuchauszug der streitgegenständlichen Parzelle (Stand 12.11.2021), wonach deren jeweiliger Eigentümer der Eigentümerin der Wasserfassung der Parzelle Nr. Y die im Schutzzonen-Reglement vereinbarten Nutzungsbeschränkungen einräume, wobei sich das Schutzzonen-Reglement nicht in den Akten findet. Auch die Grössen der vom Rekurrenten berechneten Teilflächen, welche in die Schutzzonen S2 und S3 fallen, werden von der Vorinstanz nicht bestritten.
+4.2 Die Kantone scheiden Schutzzonen für die im öffentlichen Interesse liegenden Grundwasserfassungen und -anreicherungsanlagen aus; sie legen die notwendigen Eigentumsbeschränkungen fest (Art. 20 Abs. 1 GSchG). Die Schutzzone S2 soll verhindern, dass das Grundwasser durch Grabungen und unterirdische Arbeiten nahe von Grundwasserfassungen und -anreicherungsanlagen verunreinigt wird und der Zufluss zur Grundwasserfassung durch unterirdische Anlagen behindert wird (Anhang 4 Ziff. 123 Abs. 1 GSchV). Die Zone S3 soll gewährleisten, dass bei unmittelbar drohenden Gefahren (z.B. Unfällen mit Stoffen, die Wasser verunreinigen können) ausreichend Zeit und Raum für die erforderlichen Massnahmen zur Verfügung stehen (Anhang 4 Ziff. 124 Abs. 1 GSchV). In der Zone S2 ist das Erstellen von Anlagen grundsätzlich nicht zulässig, wobei die Behörde aus wichtigen Gründen Ausnahmen gestatten kann. Ferner sind auch Grabungen, welche die schützenden Überdeckungen (Boden und Deckschicht) nachteilig verändern, die Versickerung von Abwasser oder andere Tätigkeiten, welche die Trinkwassernutzung gefährden, nicht zulässig (Anhang 4 Ziff. 222 Abs. 1 GSchV). Auch in der Zone S3 gelten diverse bauliche Einschränkungen, so sind etwa industrielle und gewerbliche Betriebe, von denen eine Gefahr für das Grundwasser ausgeht, Einbauten, die das Speichervolumen oder den Durchflussquerschnitt des Grundwasserleiters verringern, Versickerung von Abwasser, nachteilige Verminderungen der schützenden Überdeckung (Boden und Deckschicht) oder Kreisläufe, die Wärme dem Untergrund entziehen oder an den Untergrund abgeben, nicht zulässig (Anhang 4 Ziff. 221 Abs. 1 GSchV).
+4.3 Die Vorinstanz stützt ihre Grundstückschätzung einzig auf den Zonenplan der Gemeinde. Gemäss diesem Plan liegen 2'017 m
+2
+der streitgegenständlichen Parzelle in der Wohn- und Arbeitszone (WA3). Den Wert dafür legte die Vorinstanz im Schätzungsprotokoll mit Fr. 366.40 / m
+2
+fest. Eine Fläche von 902 m
+2
+liegt gemäss Zonenplan in der Freihaltezone. Dafür setzte die Vorinstanz einen Wert von Fr. 5.-- / m
+2
+ein. Den auf den A-Bach entfallenden Anteil von 135 m
+2
+berücksichtigte sie mit Fr. 0.-- / m
+2
+. So errechnete sie einen Landwert von F. 743'538.--. Die Parzelle weist eine Geschossflächenziffer von 1.15 aus. Die Vorinstanz macht geltend, die Liegenschaft weise genügend bebaubare Restfläche auf, um die Geschossflächenziffer zu konsumieren.
+4.4 Mit ihrer Berechnung lässt die Vorinstanz die rechtlichen und tatsächlichen Gegebenheiten, welche es gemäss § 12 SchäV (vgl. vorstehend E. 4) zu berücksichtigen gilt, ausser Acht. Auch in § 19 Ziff. 5 der Weisungen des zuständigen Departementes zur Verordnung des Regierungsrates über die Steuerschätzung der Grundstücke (SchäV) wird festgehalten, dass öffentlich-rechtliche Bauverbote und -beschränkungen dauernder Natur bei der Bewertung zu berücksichtigen sind (abrufbar unter:  https://steuerverwaltung.tg.ch/public/upload/assets/153516/SHB_1.03_Weisungen_zu_SchaeV_2024.pdf?fp=1, nachfolgend zitiert: Weisungen). Die Nutzungsmöglichkeiten der streitgegenständlichen Parzelle sind aufgrund der bestehenden Grundwasserschutzzonen erheblich eingeschränkt. Als Minderwert sind daher nicht nur der von der Vorinstanz berücksichtigte Bereich im Baulinienbereich, sondern auch die Bereiche in den Gewässerschutzonen S2 und S3 in die Berechnung einzubeziehen. Selbst wenn die nicht bebaubare Fläche die zugelassene bauliche Nutzung für die bebaubare Fläche erhöhen sollte, kann die mit der Gewässerschutzzone einhergehende wesentliche Eigentumsbeschränkung nicht ausser Acht gelassen werden. Es ist offensichtlich, dass Land, welches einem Bauverbot unterliegt, nicht gleich viel wert sein kann wie Bauland, welches frei von jeglichen Nutzungsbeschränkungen ist. So geht etwa auch das Verwaltungsgericht des Kantons Zürich bei nicht überbaubarem Land in einer Bauzone von einem Einschlag auf einen Drittel des Baulandwertes aus. Die Begründung liegt darin, dass der Nutzen von Bauland bestimmungsgemäss in der Überbauung liege und bei dessen Verlust im Wesentlichen nur noch die Funktion einer Arrondierungsfläche habe (StRK ZH 2 GR.2014.46 vom 22. April 2015 E. 4c mit Hinweis auf den Entscheid des Verwaltungsgerichts Zürich vom 7. Februar 2013 VR.2012.00003, E. 3.3.). Diese Begründung überzeugt.
+Zutreffend sind schliesslich auch die Ausführungen des Rekurrenten, wonach bei einem Neubau die ungünstige Form (Zwickel) der bebaubaren Fläche oder das fehlende Trottoir ein Bauvorhaben zusätzlich erschweren. Aufgrund der bestehenden Gewässerschutzzonen ist sodann auch von einer teureren Bauweise auszugehen. Zu berücksichtigen ist bei einer Schätzung jedoch ohnehin nicht nur die wirtschaftliche Ausnützungsmöglichkeit einer Parzelle, sondern auch die tatsächlich vorhandene Bebauung.
+4.5 Aufgrund der Nutzungsbeschränkungen ist ein massgeblicher Minderwert sowohl für den Anteil der Parzelle, welcher in der Schutzzone S2 liegt, als auch für denjenigen, welcher in der Schutzzone S3 liegt, zu berücksichtigen. Da in der Schutzzone S2 jegliches Bauen untersagt ist, dürfte sich der m
+2
+-Preis im Bereich der Freihaltezone bewegen. Auch für die S3 ist eine erhebliche Reduktion des m
+2
+angezeigt, gelten doch auch für diese Zone erhebliche Einschränkungen (vgl. vorstehend E. 4.2). Die effektive Höhe des Minderwertes ist durch die Vorinstanz als Fachbehörde zu ermitteln. Der Rekurs ist daher im Sinne der Erwägungen gutzuheissen.
+Entscheid der Steuerrekurskommission STRE.2023.108 vom 22. Februar 2024
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
