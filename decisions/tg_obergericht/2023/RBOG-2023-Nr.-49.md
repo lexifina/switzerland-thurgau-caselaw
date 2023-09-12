@@ -1,0 +1,71 @@
+---
+decision_id: "tg_obergericht_RBOG_2023_Nr._49"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2023 Nr. 49"
+decided: "2023-09-12"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2023-nr-49"
+cites_law: ["switzerland/bund/acts/312.0/art-082.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-094.md", "switzerland/bund/acts/312.0/art-399.md", "switzerland/bund/acts/312.0/art-403.md"]
+---
+
+# TG Obergericht RBOG 2023 Nr. 49
+
+## Regeste
+
+Vorgehen des Bezirksgerichts bei offensichtlich verspäteter Berufungsanmeldung; keine Wiederherstellung der Frist, wenn die verspätete Eingabe keine Ausführungen enthält, weshalb die Verspätung unverschuldet sein soll.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 49
+Thurgovie Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 49
+Turgovia Obergericht Rechenschaftsbericht 2023 RBOG 2023 Nr. 49
+
+RBOG 2023 Nr. 49
+Skip to main content
+Show navigation
+Vorgehen des Bezirksgerichts bei offensichtlich verspäteter Berufungsanmeldung; keine Wiederherstellung der Frist, wenn die verspätete Eingabe keine Ausführungen enthält, weshalb die Verspätung unverschuldet sein soll.
+Art. 399 Abs. 1 StPO
+Art. 403 Abs. 1 lit. a StPO
+Art. 82 Abs. 1 StPO
+Art. 91 Abs. 2 StPO
+Art. 90 Abs. 2 StPO
+Art. 94 Abs. 1 StPO
+Zusammenfassung des Sachverhalts:
+Die Berufungsklägerin meldete gegen ein Strafurteil beim Bezirksgericht als Privatklägerin Berufung an. Das Bezirksgericht ging von einer verspäteten Berufungsanmeldung aus und übermittelte diese mit sämtlichen Akten zwecks Entscheids über die Zulässigkeit dem Obergericht. Es stellt sich die Frage, ob dieses Vorgehen des Bezirksgerichts korrekt war und falls ja, ob die Berufungsanmeldung verspätet war.
+Aus den Erwägungen:
+1.
+1.1.
+Die Schweizerische Strafprozessordnung sieht für die Einlegung der Berufung ein zweistufiges Verfahren vor. Gemäss Art. 399 Abs. 1 StPO ist dem erstinstanzlichen Gericht innert zehn Tagen seit Eröffnung des Urteils schriftlich oder mündlich zu Protokoll die Berufung anzumelden. Der Berufungskläger hat dann innert 20 Tagen seit der Zustellung des begründeten Urteils eine schriftliche Berufungserklärung zuhanden des Berufungsgerichts einzureichen[1]. Dieses zweistufige Verfahren ändert im Ergebnis jedoch nichts daran, dass über die Zulässigkeit der Berufung das Berufungsgericht zu befinden hat. Insbesondere hat dieses in einem schriftlichen Verfahren über die Rechtzeitigkeit und Rechtsgültigkeit der Berufungsanmeldung zu entscheiden[2].
+Vor diesem Hintergrund stellt sich die Frage, wie das erstinstanzliche Gericht vorzugehen hat, wenn es der Auffassung ist, die Berufungsanmeldung sei (offensichtlich) verspätet und ein Begründungsverzicht gemäss Art. 82 Abs. 1 StPO folglich möglich. Vorstehende Ausführungen machen klar, dass das erstinstanzliche Gericht nicht selbst über die Gültigkeit der Berufungsanmeldung entscheiden kann. Mit Blick auf die Prozessökonomie ist es jedoch nicht sinnvoll, dass das erstinstanzliche Gericht ein begründetes Urteil auszufertigen hat, wenn sich die Berufungsanmeldung ohnehin als verspätet oder aus anderen Gründen ungültig erweist. Es muss möglich sein, vor beziehungsweise allenfalls ohne Ausfertigung des begründeten Urteils die Unzulässigkeit der Berufung vom Berufungsgericht feststellen zu lassen, zumal für diesen Entscheid die schriftliche Begründung des erstinstanzlichen Urteils nicht nötig ist[3].
+1.2.
+Das erstinstanzliche Gericht hat dem Berufungsgericht die Berufungsanmeldung und die Verfahrensakten zu übermitteln, verbunden mit dem Begehren, zunächst einzig über die Zulässigkeit der Berufungsanmeldung zu entscheiden. Hält das Berufungsgericht die Berufungsanmeldung für verspätet, tritt es mittels verfahrenserledigendem Entscheid auf die Berufung nicht ein und das vorinstanzliche Urteil erwächst rückwirkend auf den Tag, an dem der Entscheid gefällt worden ist, in Rechtskraft[4].
+2.
+2.1.
+Vorliegend hat die Vorinstanz die Berufungsanmeldung als verspätet erachtet und sie zusammen mit den übrigen Verfahrensakten und dem Ersuchen, über die Rechtzeitigkeit zu befinden, dem Obergericht übermittelt. Somit ist nun über die Rechtzeitigkeit der Berufungsanmeldung der Berufungsklägerin zu befinden.
+2.2.
+Die Berufung ist dem erstinstanzlichen Gericht innert zehn Tagen seit Eröffnung des Urteils schriftlich oder mündlich zu Protokoll anzumelden[5]. Die Frist beginnt am Tag, der auf die Zustellung des schriftlichen Dispositivs folgt[6]. Fällt der letzte Tag der Frist auf einen Samstag, einen Sonntag oder einen vom Bundesrecht oder vom kantonalen Recht anerkannten Feiertag, so endet sie am nächstfolgenden Werktag[7]. Im Strafverfahren gibt es keine Gerichtsferien[8]. Eingaben müssen spätestens am letzten Tag der Frist bei der Strafbehörde abgegeben oder zu deren Händen der Schweizerischen Post übergeben werden[9].
+2.3.
+Die Vorinstanz eröffnete das Urteil am 23. März 2023 dem Beschuldigten mündlich. Das unbegründete Urteil wurde am 28. März 2023 per Einschreiben an die Berufungsklägerin verschickt mit dem Hinweis, dass gegen dieses Urteil innert zehn Tagen seit Eröffnung beim Bezirksgericht schriftlich oder mündlich zu Protokoll Berufung angemeldet werden könne. Gemäss Sendungsverfolgung der Post wurde das Urteil der Berufungsklägerin am 31. März 2023 um 09:21 Uhr am Postschalter zugestellt. Die zehntägige Rechtsmittelfrist begann folglich am 1. April 2023 zu laufen und der letzte Tag fiel auf den Ostermontag, 10. April 2023. So endete die Frist am darauffolgenden Dienstag, 11. April 2023.
+Die Berufungsklägerin meldete mit einem auf den 11. April 2023 datierten und am 12. April 2023 um 13:26 Uhr von der Schweizerischen Post abgestempelten Schreiben sinngemäss Berufung an. Die Berufungsanmeldung wurde der Vorinstanz am 14. April 2023 um 07:22 Uhr zugestellt. Da für die Einhaltung der Frist die Übergabe an die Schweizerischen Post massgebend ist – hier der 12. April 2023 – und nicht das Datum auf der Eingabe, hat die Berufungsklägerin die zehntägige Frist zur Anmeldung der Berufung verpasst.
+2.4.
+[…]
+2.5.
+Auf die Berufungsanmeldung ist demnach nicht einzutreten. Das erstinstanzliche Urteil ist damit rückwirkend auf den Tag, an dem der Entscheid gefällt worden ist, in Rechtskraft erwachsen.
+[…]
+Obergericht, 3. Abteilung, 12. September 2023, SBR.2023.30
+[1]    Art. 399 Abs. 3 StPO
+[2]    Art. 403 Abs. 1 lit. a StPO; Eugster, Basler Kommentar, 2.A., Art. 403 StPO N. 2; BGE vom 19. Dezember 2013, 6B_968/2013, Erw. 2.1
+[3]    Entscheid des Obergerichts Schaffhausen vom 26. Februar 2019, OGE 50/2019/5, Erw. 1.1 f.; vgl. BGE vom 30. April 2019, 6B_403/2019
+[4]    Art. 437 Abs. 1 lit. c und Abs. 2 StPO
+[5]    Art. 399 Abs. 1 StPO
+[6]    Art. 384 lit. a i.V.m. Art. 90 Abs. 1 StPO
+[7]    Art. 90 Abs. 2 StPO
+[8]    Art. 89 Abs. 2 StPO
+[9]    Art. 91 Abs. 2 StPO
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
