@@ -1,0 +1,124 @@
+---
+decision_id: "tg_obergericht_RBOG_2024_Nr._10"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2024 Nr. 10"
+decided: "2024-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2024-nr-10"
+cites_law: ["switzerland/bund/acts/210/art-013.md", "switzerland/bund/acts/210/art-014.md", "switzerland/bund/acts/210/art-016.md", "switzerland/bund/acts/210/art-360.md", "switzerland/bund/acts/210/art-394.md", "switzerland/bund/acts/210/art-395.md", "switzerland/bund/acts/210/art-416.md", "switzerland/bund/acts/220/art-035.md", "switzerland/bund/acts/220/art-397.md", "switzerland/bund/acts/220/art-397a.md", "switzerland/bund/acts/220/art-400.md", "switzerland/bund/acts/220/art-404.md", "switzerland/bund/acts/272/art-067.md", "switzerland/bund/acts/272/art-068.md", "switzerland/bund/acts/272/art-069.md", "switzerland/bund/acts/272/art-126.md"]
+---
+
+# TG Obergericht RBOG 2024 Nr. 10
+
+## Regeste
+
+Sistierung des Berufungsverfahrens trotz gültiger Rechtsvertretung bis zum Entscheid der Kindes- und Erwachsenenschutzbehörde über die Handlungsfähigkeit der Berufungsklägerin
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 10
+Thurgovie Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 10
+Turgovia Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 10
+
+RBOG 2024 Nr. 10
+Skip to main content
+Show navigation
+Sistierung des Berufungsverfahrens trotz gültiger Rechtsvertretung bis zum Entscheid der Kindes- und Erwachsenenschutzbehörde über die Handlungsfähigkeit der Berufungsklägerin
+Art. 67 Abs. 1 ZPO
+Art. 13 ZGB
+Art. 69 Abs. 1 ZPO
+Art. 69 Abs. 2 ZPO
+Zusammenfassung des Sachverhalts:
+1.
+Die anwaltlich vertretene Berufungsklägerin erhob beim Obergericht Berufung gegen den Entscheid des Bezirksgerichts, mit welchem ihre Klage betreffend eine Forderung aus Güterrecht gegen ihren Sohn A. und zwei Aktiengesellschaften, deren einziges Verwaltungsratsmitglied A. ist, abgewiesen wurde. Während des hängigen Berufungsverfahrens errichtete die Kindes- und Erwachsenenschutzbehörde für die Berufungsklägerin eine Beistandschaft zur Vertretung im Rechtsverkehr und zur Vermögenssorge gemäss Art. 394 i.V.m. Art. 395 ZGB. Gegen diesen Entscheid erhob die Berufungsklägerin Beschwerde, weshalb er im Zeitpunkt des vorliegenden Entscheids nicht rechtskräftig war.
+2.
+Im Berufungsverfahren ist strittig, ob die Berufungsklägerin prozessfähig ist. Die Berufungsbeklagten beantragten insbesondere, darüber bei der Kindes- und Erwachsenenschutzbehörde eine Amtsauskunft einzuholen.
+Aus den Erwägungen:
+[…]
+2.
+2.1.
+2.1.1.
+Prozessfähig ist gemäss Art. 67 Abs. 1 ZPO, wer handlungsfähig ist. Natürliche Personen sind gemäss Art. 13 ZGB handlungsfähig und demnach prozessfähig, wenn sie volljährig nach Art. 14 ZGB und urteilsfähig nach Art. 16 ZGB sind. Die Urteilsfähigkeit ist eine relative und muss im Hinblick auf den konkreten Prozessgegenstand im Zeitpunkt des Prozesshandelns gegeben sein. Ist die Urteilsfähigkeit zu verneinen, entfällt die Handlungs- und damit die Prozessfähigkeit. Die Urteilsfähigkeit wird grundsätzlich vermutet[1]. Für eine handlungsunfähige Person handelt ihre gesetzliche Vertretung[2].
+Die Prozessführungsbefugnis bedeutet das Recht, einen Prozess selbst oder durch eine bestellte (gewillkürte) Vertretung zu führen[3]. Teil der Prozessfähigkeit bildet die Postulationsfähigkeit, mithin die Fähigkeit, vor Gericht die im Prozessrecht vorgezeichneten Rechte wahrzunehmen, prozessuale Anträge zu stellen, Parteivorträge zu halten und so weiter[4]. Ist eine Partei zwar fähig, ihren Willen zu bilden hinsichtlich dessen, was sie im Prozess will, aber nicht in der Lage, dass Gewollte gegenüber dem Gericht zu formulieren oder in die vorgeschriebene Form zu bringen, ist sie – trotz vorhandener Prozessfähigkeit – nicht postulationsfähig[5]. In diesem Fall kommt Art. 69 Abs. 1 ZPO zum Tragen, wonach das Gericht einer Partei eine Vertretung bestellen kann, wenn diese offensichtlich nicht imstande ist, den Prozess selbst zu führen und trotz Aufforderung selbst keine Vertretung beauftragt.
+2.1.2.
+Wird eine gewillkürte Vertretung beauftragt[6], so geht die Postulationsfähigkeit auf die Vertretung über[7], sofern die Vollmachtserteilung gehörig erfolgt[8]. Gemäss Art. 35 Abs. 1 OR kann gültig vereinbart werden, dass die Vollmacht über den Eintritt einer allfälligen Handlungsunfähigkeit der vollmachtgebenden Person hinaus bestehen bleibt. Voraussetzung hierfür ist, dass die Vollmacht in einem Zeitpunkt erteilt wurde, in dem die vollmachtgebende Person (noch) handlungsfähig war. Der Vollmacht liegt meist ein Auftragsverhältnis zugrunde. Mit der Vereinbarung des Weiterbestandes der Vollmacht kann dem allenfalls gewichtigen Interesse der auftraggebenden Person am Weiterbestand des Auftragsverhältnisses gerade auch für den Fall der Urteilsunfähigkeit Rechnung getragen werden, während ein Widerruf durch die gesetzliche Vertretung ohnehin vorbehalten bleibt[9].
+2.2.
+2.2.1.
+Die Berufungsklägerin bevollmächtigte am 27. September 2020 einen Rechtsanwalt in Sachen "Güterrecht" zu allen Rechtshandlungen eines Generalbevollmächtigen, wobei insbesondere vereinbart wurde, dass die Vollmacht mit dem Verlust der Handlungsfähigkeit der Klientschaft nicht erlösche.
+2.2.2.
+B., einer der drei Söhne der Berufungsklägerin, wandte sich mit Gefährdungsmeldung vom 9. Dezember 2022 an die Kindes- und Erwachsenenschutzbehörde. Mit Eingabe vom 19. Januar 2023 ersuchten er sowie sein Bruder C. zudem um Validierung des Vorsorgeauftrags der Berufungsklägerin vom 8. Oktober 2017. In diesem seien als beauftragte Personen – nach dem bereits verstorbenen Ehemann der Berufungsklägerin – C. an zweiter und B. an dritter Stelle genannt. Dem Obergerichtsentscheid ist weiter zu entnehmen, dass die Berufungsklägerin gemäss dem ärztlichen Bericht ihres Hausarztes von Anfang 2023 an einer ausgeprägten Demenz leide; sie könne ihre persönlichen, finanziellen und administrativen Angelegenheiten seit November 2022 nicht mehr selbstständig erledigen.
+2.2.3.
+Die Berufungsbeklagten führten ausdrücklich an, es sei unbestritten, dass sich die Prüfung der Prozessfähigkeit der Berufungsklägerin durch das Gericht auf das Berufungsverfahren beschränke. Das Berufungsverfahren wurde mit der Berufungsschrift vom 6. September 2023 anhängig gemacht, nachdem der vorinstanzliche Entscheid am 6. Februar 2023 ergangen war und in begründeter Form am 5. Juli 2023 versandt wurde. A. gab denn auch an, die Berufungsklägerin habe ihn im Frühjahr 2023 nicht mehr erkannt, wohingegen er bezüglich seiner Begegnungen mit ihr an den Vergleichsgesprächen vom 30. März 2021 und der Beweisverhandlung vom 10. Januar 2022 keine Beeinträchtigungen der Berufungsklägerin geltend machte.
+2.2.4.
+Insgesamt ergeben sich Anzeichen, dass die Handlungsfähigkeit der Berufungsklägerin (frühestens) seit November 2022 teilweise beeinträchtigt gewesen sein könnte. Die Vollmachtserteilung an den Rechtsvertreter der Berufungsklägerin erfolgte bereits am 27. September 2020 und folglich zu einem Zeitpunkt, als die Berufungsklägerin unbestrittenermassen noch handlungsfähig war. Aufgrund der somit gehörig erteilten und ausdrücklich über eine Handlungsunfähigkeit der Berufungsklägerin hinaus bestehenden Vollmacht konnte der Rechtsvertreter für die Berufungsklägerin die Berufung gültig erklären und sie im vorliegenden Berufungsverfahren vertreten, dies unabhängig von der inzwischen allfällig eingetretenen, möglicherweise nur teilweisen Handlungsunfähigkeit.
+Dass der Rechtsvertreter der Berufungsklägerin ab Ende 2022 beziehungsweise Anfang des Jahres 2023 um eine möglicherweise eingeschränkte Handlungsfähigkeit der Berufungsklägerin wusste, schadet seiner Vertretungsbefugnis nicht. Dies insbesondere, weil ab Dezember 2022 bereits ein Verfahren bei der Kindes- und Erwachsenenschutzbehörde hängig war. Aufgrund seiner Sorgfaltspflicht als beauftragter Rechtsvertreter war er bis zur allfälligen rechtkräftigen Bestellung einer Beistands- oder vorsorgebeauftragten Person durch die Kindes- und Erwachsenenschutzbehörde – und damit auch noch während der nicht erstreckbaren Rechtsmittelfrist betreffend den Entscheid der Vorinstanz – gehalten, die Interessen der Berufungsklägerin entsprechend ihrem ursprünglichen Auftrag weiterhin zu wahren. Selbst wenn die Berufungsklägerin daher bereits bei Zustellung des begründeten Entscheids beziehungsweise Einreichung der Berufungsschrift teilweise oder gar vollständig handlungsunfähig gewesen wäre, hätte ihr Rechtanwalt zur Vermeidung nicht wiedergutzumachender Nachteile, namentlich des Ablaufs der nicht wiederherstellbaren Rechtmittelfrist, für sie handeln müssen und dürfen.
+2.2.5.
+Zusammenfassend ist die Berufungsklägerin im vorliegenden Verfahren durch einen Rechtsanwalt rechtsgültig vertreten, was die Nichtigkeit von Prozesshandlungen wegen einer allfälligen Prozessunfähigkeit der Berufungsklägerin ausschliesst.
+In der Folge ist zu prüfen, ob aufgrund der rechtsgültigen Vertretung der Berufungsklägerin durch einen Rechtsanwalt ihre Prozessfähigkeit im Berufungsverfahren gänzlich irrelevant ist und sich deshalb Massnahmen des Gerichts erübrigen.
+3.
+3.1.
+3.1.1.
+Bei Anzeichen, dass die Handlungsfähigkeit konkret nicht vorliegen könnte und insbesondere bei Verdacht auf Bestand einer Massnahme der Erwachsenenschutzbehörde hat das Gericht von Amtes wegen zu prüfen, ob bei den Parteien für den entsprechenden Prozess die Prozessfähigkeit vorliegt beziehungsweise ob die Mitwirkung der Beistandsperson für den Prozess notwendig ist[10]. Auch wenn die gewählte Vertretung nach dem Verlust der Prozessfähigkeit weiterhin für den Vollmachtgeber auftreten kann, ist insofern zweifelhaft, ob dies ein Vorgehen des Gerichts nach Art. 69 Abs. 2 ZPO überflüssig macht[11], sofern dem Bevollmächtigten nicht auch ein Vorsorgeauftrag nach Art. 360 ff. ZGB erteilt wurde, der die fragliche Prozessführung umfasst[12]. Gemäss Art. 69 Abs. 2 ZPO hat das Gericht die Erwachsenen- und Kindesschutzbehörde zu benachrichtigen, wenn es – bei Anzeichen der fehlenden Willensbildungsfähigkeit einer Partei[13] – Schutzmassnahmen für geboten hält. Die Meldung nach Art. 69 Abs. 2 ZPO stellt weder eine prozessleitende Verfügung noch einen Zwischenentscheid dar. Sie ist deshalb formlos möglich und unterliegt auch nicht der Beschwerde, ausser sie wird mit der Sistierung des Verfahrens gekoppelt[14].
+3.1.2.
+Einer Prozessvollmacht liegt regelmässig ein Auftragsverhältnis zugrunde[15]. Neben der Fähigkeit zur Bestellung einer Vertretung gehört auch die Fähigkeit zur Überwachung der Einhaltung von erteilten Weisungen nach Art. 397 Abs. 1 OR zu den wichtigen Aufgaben der auftraggebenden Person. Die Rechenschaftspflicht der beauftragten Person an die auftraggebende Person ist eine primäre Nebenpflicht im Auftragsverhältnis, wobei ihr zentrale Bedeutung zukommt[16]. Auch ist ein Auftrag jederzeit widerrufbar beziehungsweise kündbar[17].
+Ist die Urteilsfähigkeit der auftraggebenden Person (teilweise) eingeschränkt, fehlt es folglich an einer wirksamen Kontrolle beziehungsweise Überwachung der mandatierten Person, bis eine gesetzliche Vertretung der auftraggebenden Person ernannt ist, welche diese Aufgaben übernehmen kann. Insofern sieht Art. 397a OR denn auch eine Meldepflicht der beauftragten Person an die Erwachsenenschutzbehörde vor, wenn die auftraggebende Person voraussichtlich dauernd urteilsunfähig wird. Diese Bestimmung zielt darauf ab, hilfsbedürftige Personen zu schützen. Die Erwachsenenschutzbehörde prüft daraufhin, ob die beauftragte Person dem Schutzbedürfnis der auftraggebenden Person genügend Rechnung trägt[18].
+3.1.3.
+Gemäss Art. 394 Abs. 1 ZGB errichtet die Kindes- und Erwachsenenschutzbehörde eine Vertretungsbeistandschaft, wenn die hilfsbedürftige Person bestimmte Angelegenheiten nicht erledigen kann und deshalb vertreten werden muss. Die Erwachsenenschutzbehörde kann die Handlungsfähigkeit der betroffenen Person entsprechend einschränken[19]. Auch wenn die Handlungsfähigkeit nicht eingeschränkt ist, muss die betroffene Person sich die Handlungen der Beistandsperson anrechnen oder gefallen lassen[20].
+Errichtet die Erwachsenenschutzbehörde eine Vertretungsbeistandschaft für die Vermögensverwaltung, so bestimmt sie die Vermögenswerte, die von der Beistandsperson verwaltet werden sollen. Sie kann Teile des Einkommens oder das gesamte Einkommen, Teile des Vermögens oder das gesamte Vermögen oder das gesamte Einkommen und Vermögen unter die Verwaltung stellen[21]. Die Vertretungsbeistandschaft nach Art. 394 und 395 ZGB schränkt die Handlungsfähigkeit der verbeiständeten Person grundsätzlich nicht ein; eine allfällige Einschränkung der Handlungsfähigkeit müsste ausdrücklich zusätzlich angeordnet werden. Ohne eine solche Einschränkung besteht zwischen der verbeiständeten Person und der Beistandsperson eine Parallel- beziehungsweise konkurrierende Zuständigkeit[22]. Ohne anderslautende Anordnung der Behörde ist somit auch die Prozessfähigkeit der verbeiständeten Person nicht eingeschränkt[23]. Das heisst es besteht damit theoretisch die Möglichkeit kollidierender Prozesshandlungen der verbeiständeten Person und der Vertretungsbeistandsperson[24].
+Die Vertretungsbeistandsperson benötigt für die Prozessführung die Zustimmung der Erwachsenenschutzbehörde[25], es sei denn, die verbeiständete Person sei urteilsfähig, ihre Handlungsfähigkeit sei nicht eingeschränkt worden und sie erteile selbst ihr Einverständnis[26]. Grundsätzlich wird das Vorhandensein der Urteilsfähigkeit nach Art. 16 ZGB vermutet. Es ist aber durch die Beistandsperson zu prüfen, ob nicht der besondere Schwächezustand, der zur Verbeiständung geführt hat, die verbeiständete Person gerade daran hindert, ihre Interessen zu wahren. Die Beistandsperson ist somit gut beraten, von Fall zu Fall zu prüfen, ob die Urteilsfähigkeit im Einzelfall gegeben ist – beispielsweise durch das Einholen eines Arztzeugnisses, das sich über die Fähigkeit zur Beurteilung des entsprechenden Geschäftes ausspricht – oder nicht die Zustimmung der Kindes- und Erwachsenenschutzbehörde einzuholen ist[27].
+3.1.4.
+Eine Regelung über die Bindungswirkung von Entscheiden der Erwachsenen- und Kindesschutzbehörden gegenüber dem Gericht enthält die ZPO nicht. Domej[28] bejaht eine Bindungswirkung, da andernfalls die Durchsetzung der Rechte der betreffenden Partei bei Ablehnung der Errichtung einer Beistandschaft durch die Kindes- und Erwachsenenschutzbehörde gänzlich blockiert sein könnten. Daher sei davon auszugehen, dass das Gericht bei Bejahung der Handlungsfähigkeit durch die vormundschaftlichen Behörden die Prozessfähigkeit nur dann verneinen dürfe, wenn es davon ausgehe, dass nachträglich neue Tatsachen eingetreten seien, welche die Handlungsfähigkeit entfallen lassen würden – was zu einer erneuten Einschaltung der Erwachsenen- und Kindesschutzbehörde zu führen hätte[29]. Diese Ansicht überzeugt. Lehnt die Kindes- und Erwachsenenschutzbehörde rechtswidrig die Bestellung einer Beistandsperson ab, obwohl das Prozessgericht selbst von fehlender Handlungsfähigkeit ausgeht, hat es gegen den Entscheid der Kindes- und Erwachsenenschutzbehörde daher die Aufsichtsbehörde einzuschalten[30].
+3.2.
+3.2.1.
+Vorliegend erfolgte bereits im Dezember 2022 eine Gefährdungsmeldung des Sohns der Berufungsklägerin, B., an die Kindes- und Erwachsenenschutzbehörde. Der darauffolgende Entscheid der Kindes- und Erwachsenenschutzbehörde vom 22. Februar 2023 wurde von der Berufungsklägerin sowie B. und C., beim Obergericht des Kantons Thurgau angefochten. Am 31. Mai 2023 hob das Obergericht den Entscheid der Kindes- und Erwachsenenschutzbehörde auf und wies die Sache zum neuen Entscheid zurück. Mit Entscheid der Kindes- und Erwachsenenschutzbehörde vom 13. März 2024 wurde ein Beistand für die Berufungsklägerin ernannt, dies für die Aufgaben­bereiche Vertretung im Rechtsverkehr gemäss Art. 394 ZGB und Vermögenssorge gemäss Art. 394 i.V.m. Art. 395 ZGB. Gemäss diesem Entscheid wurde zudem einer allfälligen Beschwerde die aufschiebende Wirkung entzogen.
+Die Handlungsfähigkeit – und damit auch die Prozessfähigkeit – der Berufungsklägerin wurde nicht eingeschränkt, weshalb ihr und dem Beistand ab Rechtskraft des Entscheids der Kindes- und Erwachsenenschutzbehörde im vorliegenden Berufungsverfahren eine Parallel- beziehungsweise konkurrierende Zuständigkeit zukommt. Das Obergericht ist im Berufungsverfahren an die von der Kindes- und Erwachsenenschutzbehörde getroffenen Schutzmassnahmen für die Berufungsklägerin gebunden.
+3.2.2.
+Der Rechtsvertreter der Berufungsklägerin teilte am 2. April 2024 allerdings mit, dass der Entscheid der Kindes- und Erwachsenenschutzbehörde vom 13. März 2024 angefochten werde, wobei im Rahmen der Beschwerde gegen den besagten Entscheid auch die Wiederherstellung der aufschiebenden Wirkung beantragt werde. Dies insbesondere deshalb, weil der eingesetzte Beistand im vorliegenden Berufungsverfahren nicht wiedergutzumachende Handlungen vollziehen könnte, die nicht im Interesse der Berufungsklägerin seien. Gemäss Auskunft der 3. Abteilung des Obergerichts ist die Beschwerde der Berufungsklägerin im April 2024 bei ihr eingegangen.
+3.3.
+Bisher liegt somit noch kein rechtskräftiger Entscheid betreffend Beistandschaft und Handlungsfähigkeit für die Berufungsklägerin vor. Der Hausarzt der Berufungsklägerin hatte bereits Anfang 2023 – und somit vor über einem Jahr – der Kindes- und Erwachsenenschutzbehörde mitgeteilt, die Berufungsklägerin leide an einer ausgeprägten Demenz und könne ihre persönlichen, finanziellen und administrativen Angelegenheiten seit November 2022 nicht mehr selbstständig erledigen. Der aktuelle gesundheitliche Zustand der rund 97-jährigen Berufungsklägerin ist gänzlich unbekannt. Es ist gerichtsnotorisch, dass eine Demenzerkrankung im Verlauf der Zeit (auch rasch) fortschreiten und die Urteilsfähigkeit erheblich beeinträchtigen kann. Ob die Berufungsklägerin bezüglich des Berufungsverfahrens, in dem sich komplexe Fragen stellen, aktuell noch immer prozessfähig ist, erscheint zweifelhaft. Diese Zweifel gebieten es, die Urteilsfähigkeit der Berufungsklägerin zu prüfen.
+Unter diesen Umständen ist der Kindes- und Erwachsenenschutzbehörde Mitteilung zu machen: Sie hat zu prüfen, dies wohl insbesondere nach Einholung eines aktuellen Arztzeugnisses, ob die Urteilsfähigkeit der Berufungsklägerin betreffend das vorliegende Berufungsverfahren gegeben ist. Falls nicht, wird sie entsprechende Schutzmassnahmen mit Einschränkung der Handlungsfähigkeit anzuordnen haben. Bei eingeschränkter Urteilsfähigkeit betreffend das vorliegende Berufungsverfahren hat die Kindes- und Erwachsenenschutzbehörde zudem darüber zu befinden, ob sie – mangels Einwilligungsmöglichkeit der Berufungsklägerin[31] – die Zustimmung zur Prozessführung erteilt[32].
+Der vorliegende Entscheid ist der Kindes- und Erwachsenenschutzbehörde zuzustellen und nach Rechtskraft bei Bedarf auch sämtliche Verfahrensakten. Nachdem gegen die Anordnung der Beistandschaft durch die Kindes- und Erwachsenenschutzbehörde ein Beschwerdeverfahren bei der 3. Abteilung des Obergerichts hängig ist, ist auch diese über den vorliegenden Entscheid zu informieren.
+3.4.
+Das Berufungsverfahren dauert seit September 2023. Nachdem die Berufungsantwort vorliegt, sind als nächste Verfahrensschritte die Replik der Berufungsklägerin und die Duplik der Berufungsbeklagten einzuholen, bevor ein Entscheid des Obergerichts ergehen kann. In der Folge werden die Parteien über die Ergreifung eines Rechtsmittels an das Bundesgericht zu entscheiden haben. Auch wenn die Kindes- und Erwachsenenschutzbehörde mit Entscheid vom 13. März 2024 bereits eine Vertretungsbeistandschaft ohne Einschränkung der Handlungsfähigkeit für die Berufungsklägerin errichtete und einer allfälligen Beschwerde die aufschiebende Wirkung entzog, rechtfertigt es sich angesichts des Stands des Berufungsverfahrens und den Zweifeln an der Prozessfähigkeit der Berufungsklägerin trotzdem, das Verfahren zu sistieren, dies bis zur Rückmeldung der Kindes- und Erwachsenenschutzbehörde, die Handlungsfähigkeit sei nicht eingeschränkt, beziehungsweise längstens bis zur rechtskräftigen Anordnung von Erwachsenenschutzmassnahmen, sollte die Kindes- und Erwachsenenschutzbehörde die Berufungsklägerin für den vorliegenden Prozess als teilweise oder ganz urteilsunfähig erachten. Die Berufungsklägerin ist zwar durch einen Rechtsanwalt vertreten. Dieser vertritt jedoch im Verfahren betreffend Erwachsenenschutzmassnahmen für die Berufungsklägerin neben ihr auch ihre beiden Söhne B. und C., wobei sie augenscheinlich die Bestellung einer Person ausserhalb der Familie als Beistandsperson nicht befürworten. In dieser Konstellation scheint es – auch unter Beachtung der Erwägung des Obergerichts im Entscheid vom 31. Mai 2023 – angezeigt, der Rechenschaftspflicht des Beauftragten gegenüber der Berufungsklägerin erhöhte Beachtung zu schenken. Diesem Anliegen kann Nachachtung verschafft werden, wenn der Abschluss des Verfahrens betreffend Erwachsenenschutzmassnahmen für den vorliegenden Prozess abgewartet wird, sodass bei allfälliger (teilweisen) Urteilsunfähigkeit der Berufungsklägerin eine gesetzliche Vertretung ernannt werden kann und diese für den Rest des Verfahrens die Kontroll- und Überwachungsfunktion im Auftragsrecht nach Art. 397 und Art. 400 OR über die Prozessführung wird wahrnehmen können. Bei allfälliger Urteilsunfähigkeit in Bezug auf das Berufungsverfahren bedarf die Beistandsperson – unabhängig davon, wer als solche ernannt wird – darüber hinaus der Zustimmung der Kindes- und Erwachsenenschutzbehörde zur Prozessführung.
+Aufgrund dieser gesamten Umstände und auch weil die 3. Abteilung des Obergerichts noch nicht über den in Aussicht gestellten Antrag auf Wiederherstellung der aufschiebenden Wirkung betreffend den Entscheid der Kindes- und Erwachsenenschutzbehörde vom 13. März 2024 entschieden hat, ist eine Sistierung des Berufungsverfahrens angezeigt.
+[…]
+Obergericht, 2. Abteilung, 8. Mai 2024, ZBR.2023.13
+[1]    Vgl. Urteil des Bundesgerichts 5A_81/2015 vom 28. Mai 2015 E. 5; Tenchio, Basler Kommentar, 3.A., Art. 67 ZPO N. 4
+[2]   Art. 67 Abs. 2 ZPO
+[3]   Sterchi, Berner Kommentar, Bern 2012, Art. 67 ZPO N. 20; Tenchio, Art. 67 ZPO N. 1
+[4]   BGE 132 I 1 E. 3.2; Sterchi, Art. 67 ZPO N. 24; Tenchio, Art. 67 ZPO N. 3
+[5]   Sutter-Somm/Seiler, in: Handkommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Seiler), Zürich/Basel/Genf 2021, Art. 69 N. 1
+[6]   Art. 68 Abs. 1 ZPO
+[7]   Staehelin/Schweizer, in: Kommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Hasenböhler/Leuenberger), 3.A., Art. 68 N. 3
+[8]   Staehelin/Schweizer, Art. 68 ZPO N. 28
+[9]   Vgl. BGE 132 III 222 E. 2.1 f. mit weiteren Hinweisen; Urteile des Bundesgerichts 5A_1002/2017 vom 12. März 2019 E. 4.2.4; 5A_81/2015 vom 28. Mai 2015 E. 5; Domej, in: Schweizerische Zivilprozessordnung, Kurzkommentar (Hrsg.: Oberhammer/Domej/Haas), 3.A., Art. 67 N. 12
+[10]  Tenchio, Art. 67 ZPO N. 35
+[11]  Davon ausgehend wohl Urteil des Bundesgerichts 5A_1002/2017 vom 12. März 2019 E. 4.2.4
+[12]  Domej, Art. 67 ZPO N. 12
+[13]  Sutter-Somm/Seiler, Art. 69 ZPO N. 1 i.V.m. N. 14
+[14]  Art. 126 Abs. 2 ZPO; Sterchi, Art. 69 ZPO N. 17
+[15]  So auch der vorliegenden.
+[16]  Oser/Weber, Basler Kommentar, 7.A., Art. 400 OR N. 3 f.
+[17]  Art. 404 Abs. 1 OR
+[18]  Vgl. Oser/Weber, Art. 397a OR N. 1
+[19]  Art. 394 Abs. 2 ZGB
+[20]  Art. 394 Abs. 3 ZGB
+[21]  Art. 395 Abs. 1 ZGB
+[22]  Biderbost, Basler Kommentar, 7.A., Art. 394 ZGB N. 23 und Art. 395 ZGB N. 19
+[23]  Biderbost, Art. 394 ZGB N. 24
+[24]  Biderbost, Art. 394 ZGB N. 27
+[25]  Art. 416 Abs. 1 Ziff. 9 ZGB
+[26]  Art. 416 Abs. 2 ZGB
+[27]  Vogel, Basler Kommentar, 7.A., Art. 416/417 ZGB N. 11
+[28]  Domej, Art. 69 ZPO N. 14; so auch Sutter-Somm/Seiler, Art. 69 ZPO N. 15
+[29]  In diesem Sinn wohl auch das Urteil des Bundesgerichts 5A_1021/2014 vom 20. Mai 2015 E. 3.2
+[30]  Entscheid des Obergerichts des Kantons Zürich PS120169 vom 7. Dezember 2012 E. 3.c
+[31]  Art. 416 Abs. 2 ZGB
+[32]  Art. 416 Abs. 1 Ziff. 9 ZGB
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
