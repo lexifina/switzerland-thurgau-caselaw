@@ -1,0 +1,89 @@
+---
+decision_id: "tg_obergericht_RBOG_2024_Nr._23"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2024 Nr. 23"
+decided: "2024-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2024-nr-23"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/272/art-052.md", "switzerland/bund/acts/272/art-055.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/272/art-219.md", "switzerland/bund/acts/272/art-221.md", "switzerland/bund/acts/272/art-222.md", "switzerland/bund/acts/272/art-229.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-252.md", "switzerland/bund/acts/272/art-253.md", "switzerland/bund/acts/281.1/art-082.md"]
+---
+
+# TG Obergericht RBOG 2024 Nr. 23
+
+## Regeste
+
+Bedeutung des Verzichts auf eine Replik im Rechtsöffnungsverfahren bei Gegenbehauptungen in der Gesuchsantwort
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 23
+Thurgovie Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 23
+Turgovia Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 23
+
+RBOG 2024 Nr. 23
+Skip to main content
+Show navigation
+Bedeutung des Verzichts auf eine Replik im Rechtsöffnungsverfahren bei Gegenbehauptungen in der Gesuchsantwort
+Art. 82 Abs. 2 SchKG
+Art. 222 Abs. 2 ZPO
+Art. 55 Abs. 1 ZPO
+Zusammenfassung des Sachverhalts:
+1.
+Die Beschwerdeführerin ersuchte um provisorische Rechtsöffnung für den offenen Restbetrag aus einem Werkvertrag. Die Beschwerdegegnerin brachte in der Gesuchsantwort vor, es bestehe hinsichtlich der nachträglich durch den Beschwerdeführer handschriftlich in den Allgemeinen Vertragsbedingungen[1] eingefügten Anpassung betreffend verkürzte Garantiedauer (zwei anstatt fünf Jahre) und deren Verlängerung bei Abschluss eines Wartungsvertrags mangels Zustimmung des Beschwerdegegners kein Konsens. Die Garantiedauer habe einen wesentlichen Einfluss auf die geschuldete Werklohnforderung. Die Beschwerdeführerin reichte daraufhin keine Replik ein und ersuchte auch nicht um Fristansetzung für die Einreichung einer Stellungnahme (Replik). Das Bezirksgericht wies das Gesuch ab, woraufhin die Beschwerdeführerin Beschwerde erhob.
+2.
+Im Beschwerdeverfahren machte die Beschwerdeführerin geltend, sie habe vor Vorinstanz weder eine andere Auffassung als die, dass die Beschwerdegegnerin der Abweichung vom Ursprungstext der AVB nicht zugestimmt habe, vertreten, noch habe sie diese Einwendung der Beschwerdegegnerin bestritten. Folglich hätten die Parteien dissensfrei eine Garantie von fünf Jahren vereinbart. Die Rechtsöffnung sei zu erteilen.
+Aus den Erwägungen:
+[…]
+2.2.
+Gemäss Art. 251 lit. a ZPO wird über Rechtsöffnungsgesuche im summarischen Verfahren entschieden. Anders als im ordentlichen und vereinfachten Verfahren, wo stets zwei freie Vorträge zu gestatten sind, gibt es im summarischen Verfahren eine zweite freie Äusserungsmöglichkeit nur, wenn das Gericht ausnahmsweise einen zweiten Schriftenwechsel oder eine Verhandlung ansetzt. Andernfalls tritt der Aktenschluss nach einmaliger Äusserung jeder Partei ein und können Noven nur noch unter den engen Voraussetzungen von Art. 229 Abs. 1 ZPO vorgebracht werden[2]. Daran ändert auch das sogenannte Strassburger Replikrecht nichts. Danach steht den Parteien gestützt auf Art. 6 Ziff. 1 EMRK und Art. 29 Abs. 1 und 2 BV das Recht zu, von allen bei Gericht eingereichten Stellungnahmen Kenntnis zu erhalten und sich dazu äussern zu können, unabhängig davon, ob die Eingaben neue und/oder wesentliche Vorbringen enthalten. Es ist Sache der Parteien zu beurteilen, ob eine Entgegnung erforderlich ist oder nicht. Es ist Aufgabe des Gerichts, in jedem Einzelfall ein effektives Replikrecht der Parteien zu gewährleisten. Hierzu kann es einen zweiten Schriftenwechsel anordnen oder den Parteien Frist für eine allfällige Stellungnahme ansetzen. Es kann Eingaben aber auch lediglich zur Kenntnisnahme zustellen, wenn von den Parteien erwartet werden kann, dass sie umgehend unaufgefordert Stellung nehmen oder eine Stellungnahme beantragen, was namentlich bei anwaltlich Vertretenen oder Rechtskundigen der Fall ist[3].
+Das Rechtsöffnungsgesuch verfasst haben der General Counsel Schweiz und der Legal Counsel Switzerland der Beschwerdeführerin. Die Beschwerdeführerin hat somit zweifellos als rechtskundig zu gelten. Dementsprechend durfte die Vorinstanz, nachdem sie der Beschwerdeführerin die Gesuchsantwort zur Kenntnisnahme zugestellt hatte, von ihr erwarten, dass sie entweder mit der Bitte um Fortsetzung des Rechtsöffnungsverfahrens gleich zur Gesuchsantwort repliziert oder um Fristansetzung für die Einreichung einer Stellungnahme (Replik) ersucht hätte. Da die Beschwerdeführerin weder das eine noch das andere tat, ist von Verzicht auszugehen.
+3.
+3.1.
+Was bedeutet nun aber der Verzicht der Beschwerdeführerin auf eine Stellungnahme mit Bezug auf das Vorbringen der Beschwerdegegnerin in der Gesuchsantwort, es bestehe zwischen den Parteien Dissens betreffend die Baugarantie, da sie, die Beschwerdegegnerin, die handschriftlichen Anpassungen der Beschwerdeführerin in den AVB betreffend die Dauer der Garantie respektive den "Zwang, einen Wartungsvertrag abzuschliessen[4], nicht akzeptiert habe". Ebenso unterblieb eine Stellungnahme der Beschwerdeführerin auf den Einwand der Beschwerdegegnerin in der Gesuchsantwort, eine "SIA-konforme unbedingte Baugarantie hat einen wesentlichen Einfluss auf die geschuldete Werkpreis-Zahlung. Somit wird der in Betreibung gesetzte Betrag von Fr. 15'078.00 (nebst Zins von 5%; zuzüglich Betreibungskosten) in dessen Höhe vollumfänglich bestritten."
+[…]
+3.2.2.
+Das Rechtsöffnungsverfahren wird durch ein Gesuch eingeleitet[5]. Erscheint das Gesuch nicht offensichtlich unzulässig oder offensichtlich unbegründet, gibt das Gericht der Gegenpartei Gelegenheit, mündlich oder schriftlich Stellung zu nehmen[6]. Alsdann sind auch die Bestimmungen zum ordentlichen Verfahren als "Grundverfahren" zu berücksichtigen, soweit für das summarische Verfahren nichts Abweichendes gilt[7]. Damit richten sich Gesuch und Gesuchsantwort nach Art. 221 ZPO (für letztere i.V.m. Art. 222 Abs. 2 Satz 1 ZPO). Ausserdem hat die Gesuchsgegnerin darzulegen, welche Tatsachenbehauptungen der Gesuchstellerin im Einzelnen anerkannt oder bestritten werden[8].
+3.2.3.
+Der Gesuchsgegner kann unter anderem mit der Gesuchsantwort Gegenbehauptungen in den Prozess einführen. Damit vermag er das Beweisthema zu erweitern (Gegenbeweis), nicht aber den Prozessgegenstand, den der Gesuchsteller bestimmt. Gegenbehauptungen sind Vorbringen, denen der unmittelbare Bezug zum klägerischen Tatsachenvortrag fehlt. Sie dienen der Bestreitung der Sache und haben deshalb nicht die prozessuale Form einer Behauptung, was bei den Anforderungen an die Substantiierung und der Beweislastverteilung zu beachten ist[9].
+Tatsachen, die von der gegnerischen Partei im Prozess ausdrücklich oder stillschweigend zugestanden werden, das heisst, wenn eine Partei die gegnerischen Behauptungen nicht bestreitet, müssen nicht behauptet oder bewiesen werden. Das Gericht muss daher zugestandene Tatsachen dem Urteil grundsätzlich zugrunde legen, auch wenn sie sich nicht zugetragen haben sollten[10].
+Zugaben (oder Zugeständnisse) brauchen nicht ausdrücklich zu erfolgen, weil eine Tatsachen­behauptung, die nicht konkret bestritten wird, als unbestritten gilt. Ob eine Tatsache streitig ist oder nicht, beurteilt sich nach dem gesamten Äusserungsverhalten der Parteien und nach dem Grundsatz von Treu und Glauben[11]. Konkludente oder stillschweigende prozessuale Zugeständnisse bilden dabei keine eigene prozessuale Kategorie, sondern es handelt sich dabei um eine umgangssprachliche Bezeichnung für das Vorliegen einer Nichtbestreitung[12].
+3.2.4.
+Rechtserheblich ist eine Tatsache, wenn ihr Vorliegen oder Fehlen den Ausgang des Verfahrens beeinflussen kann, was typischerweise für eine Tatsache zutrifft, die Tatbestandsmerkmal eines Rechtssatzes ist oder auf ein solches schliessen lässt. Ob eine Tatsachendarstellung rechtserheblich ist, beurteilt sich somit regelmässig nach der Norm, deren Anwendung geprüft wird[13]. Streitig ist eine rechtserhebliche Tatsachenbehauptung, wenn die Äusserung der Gegenpartei die Wahrheit dieser Tatsachenbehauptung in Frage stellt. Deckt sich eine Tatsachendarstellung der beteiligten Parteien, so ist die Tatsache nicht streitig und damit formell wahr. Gleiches gilt sinngemäss für die Anerkennung eines behaupteten Sachverhalts durch die Gegenpartei. Die Gegenparteien bestimmen folglich durch Bestreitung und Zugeständnis (im Sinn von Wahrerklärung der Tat­sachendarstellung der Gegenpartei) beziehungsweise dem Unterlassen von Bestreitungen die Beweisbedürftigkeit von relevanten Tatsachenbehauptungen. Der Anspruch selbst kann trotz eines Zugeständnisses im Tatsächlichen immer noch streitig sein[14].
+3.3.
+3.3.1.
+Die Beschwerdeführerin behauptete in ihrem Gesuch vor Vorinstanz, zwischen den Parteien sei ein Werkvertrag für die Lieferung und Montage einer Aufzugsanlage zum Preis von Fr. 37'695.00 einschliesslich Mehrwertsteuer zustandegekommen. Nach Abzug der Anzahlungen von Fr. 22'617.00 schulde ihr die Beschwerdegegnerin noch den betriebenen Betrag von Fr. 15'078.00. Als Beweis oder Rechtsöffnungstitel legte sie den von beiden Parteien unterzeichneten Werkvertrag ins Recht.
+Die Beschwerdegegnerin dagegen behauptete, die Beschwerdeführerin habe zwei Tage nach der Unterzeichnung des individuellen Vertrags in den AVB die Garantiedauer von fünf auf zwei Jahre verkürzt, mit der Option, dass die Garantiedauer nicht gekürzt werde, wenn ein Vollwartungsauftrag bei ihr abgeschlossen werde. Damit machte die Beschwerdegegnerin ausdrücklich einen Dissens der Parteien betreffend die (nachträglich abgeänderte) Baugarantie geltend. Weiter schloss sie daraus, eine SIA-konforme Baugarantie habe einen wesentlichen Einfluss auf den Werkpreis. "Somit wird der in Betreibung gesetzte Betrag von Fr. 15'078.00 (nebst Zins …) in dessen Höhe vollumfänglich bestritten."
+3.3.2.
+Mit der Vorinstanz ist zwar nachvollziehbar, dass sich eine um drei von fünf auf zwei Jahre verkürzte Garantiedauer preismindernd auswirkt[15]. Aber der Individualvertrag verweist auf die Norm SIA 118 und die AVB, und die Beschwerdeführerin wich erst im Nachhinein, zwei Tage später, davon ab, indem sie die Garantiedauer einseitig verkürzte oder verkürzen wollte; die Verkürzung kommt indessen nur bei einem Akzept der Beschwerdegegnerin zustande. Ein solches hat die Beschwerdegegnerin in der Gesuchsantwort bestritten, und die Beschwerdeführerin trat dem nicht entgegen, indem sie keine Replik erstattete. Somit war im erstinstanzlichen Verfahren von folgendem unbestrittenen Sachverhalt auszugehen:
+Es lag als Rechtsöffnungstitel der Werkvertrag mit einem Werkpreis von Fr. 37'695.00 und einer Garantie gemäss SIA-Norm 118 und Art. 17 AVB von fünf Jahren im Recht. Über diesen Inhalt des Werkvertrags einigten sich die Parteien unbestrittenermassen. Diesbezüglich besteht somit ein Konsens. Einwendungen gemäss der Basler Rechtsöffnungspraxis[16] erhob die Beschwerdegegnerin vor Vorinstanz nicht. Ferner anerkannte die Beschwerdeführerin durch den Verzicht auf eine Replik vor Vorinstanz, dass sie zwei Tage nach Unterzeichnung des Werkvertrags bei Art. 17 AVB den mit einem Sternchen versehenen Verweis in die AVB einfügte und die Beschwerdegegnerin dieser Änderung nicht zugestimmt hatte. Entgegen der Auffassung der Beschwerdegegnerin besteht aber nicht ein Dissens betreffend die Baugarantie gemäss Art. 17 AVB im Allgemeinen, sondern nur bezüglich der nachträglich einseitig geänderten. Das bestritt die Beschwerdeführerin vor Vorinstanz nicht, beziehungsweise sie anerkannte dies, indem sie auf eine Stellungnahme zur Gesuchsantwort der Beschwerdegegnerin verzichtete. Damit gilt als Rechtsöffnungstitel weiterhin der Werkvertrag sowie die AVB und damit eine fünfjährige Garantie gemäss SIA-Norm 118 ohne nachträgliche Änderung der Beschwerdeführerin (Sternchen). Ebenso ist aufgrund der Ausführungen der Beschwerdegegnerin grundsätzlich unbestritten, dass ausgehend vom beidseitig anerkannten Werkvertrag Fr. 15'078.00 noch offen sind. Weil der nachträglichen einseitigen, von der Beschwerdegegnerin nicht akzeptierten Änderung der Beschwerdeführerin bezüglich der Garantie in den AVB – zumindest im Rechtsöffnungsverfahren – keine Bedeutung zukommt, ist dem zweiten Einwand der Beschwerdegegnerin vor Vorinstanz, die Höhe des in Betreibung gesetzten Betrags werde vollumfänglich bestritten, die Grundlage entzogen. Die Behauptung ist bei Geltung von Art. 17 AVB (ohne nachträgliche einseitige Änderung) nicht glaubhaft, weil die Beschwerdegegnerin den vereinbarten Werkpreis und die von ihr geleisteten Zahlungen – und damit den gemäss Werkvertrag noch offenen Restbetrag – nicht bestritt.
+Mit dem Werkvertrag und den AVB ohne nachträgliche Änderung der Beschwerdeführerin liegt somit ein Titel für die provisorische Rechtsöffnung im Umfang von Fr. 15'078.00 vor. Den Zins bestritt die Beschwerdegegnerin substantiiert nicht.
+3.3.3.
+Die Vorbringen der Beschwerdeführerin in der Beschwerdebegründung, sie habe durch Nichtbestreiten des Tatsachenvortrags der Beschwerdegegnerin in deren Gesuchsantwort zugestanden, dass keine Verkürzung der Garantiefrist zustandegekommen sei, womit auch der vorgebrachte Dissens betreffend den Preis nicht bestehen könne, ist demnach kein unzulässiges Novum. Es trifft ferner die Behauptung der Beschwerdegegnerin gerade nicht zu, dass sich die Parteien über die Höhe des Preises nicht geeinigt hätten. Dies träfe nur zu, wenn auf die mit dem Sternchen versehene Änderung in Art. 17 AVB abzustellen wäre, was hier gerade nicht der Fall ist. Daher ist auch der Umstand nicht entscheidrelevant, dass die Beschwerdeführerin vor Vorinstanz der Behauptung nicht entgegengetreten war, die Höhe des Preises werde bestritten. Die Höhe des Preises soll laut der Gesuchsantwort der Beschwerdegegnerin vor Vorinstanz ja mit der einseitig abgeänderten Garantie zusammenhängen. Dass bezüglich der einseitigen Änderung keine übereinstimmenden Willensäusserungen vorlagen, anerkannte die Beschwerdeführerin indessen mit ihrem Verzicht auf eine Replik.
+4.
+4.1.
+Zusammenfassend ist die Beschwerde zu schützen. In der Betreibung wird provisorische Rechtsöffnung für Fr. 15'078.00 zuzüglich 5% Zins erteilt.
+[…]
+Obergericht, 2. Abteilung, 24. Oktober 2024, BR.2024.48
+[1]    Nachfolgend AVB
+[2]    Urteil des Bundesgerichts 5D_149/2023 vom 8. Dezember 2023 E. 5.1
+[3]    So etwa das Urteil des Bundesgerichts 2C/441/2019 vom 27. September 2019 E. 2.2: "Der anwaltlich vertretene Beschwerdeführer musste die bundesgerichtliche Rechtsprechung zum Replikrecht kennen und somit wissen, dass ihm auch bei der blossen Zustellung zur Kenntnisnahme ein Replikrecht zustand, das er innert angemessener Frist einzufordern hatte, ansonsten Verzicht angenommen würde."
+[4]    Diesfalls ohne Verkürzung der Garantie von fünf auf zwei Jahre.
+[5]    Art. 252 Abs. 1 ZPO
+[6]    Art. 253 ZPO; Stellungnahme oder Gesuchsantwort
+[7]    Art. 219 ZPO; Mazan, Basler Kommentar, 3.A., Art. 253 ZPO N. 1
+[8]    Art. 222 Abs. 2 Satz 2 ZPO
+[9]    Willisegger, Basler Kommentar, 3.A., Art. 222 ZPO N. 19
+[10]  Gehri, Basler Kommentar, 3.A., Art. 55 ZPO N. 13
+[11]  Art. 52 ZPO
+[12]  Willisegger, Art. 222 ZPO N. 25
+[13]  Guyan, Basler Kommentar, 3.A., Art. 150 ZPO N. 3
+[14]  Guyan, Art. 150 ZPO N. 4
+[15]  Man denke nur etwa an die in Geschäften jeweils gegen einen Aufpreis angebotenen längeren Garantiezeiten.
+[16] Aufgrund vollkommen zweiseitiger Verträge kann gemäss dieser Praxis provisorische Rechtsöffnung erteilt werden, solange der Schuldner im Rechtsöffnungsverfahren nicht behauptet, die Gegenleistung sei nicht oder nicht ordnungsgemäss erbracht worden, oder wenn der Schuldner dies zwar behauptet, diese Behauptung aber offensichtlich haltlos ist, oder wenn der Gläubiger die Behauptung des Schuldners, die Gegenleistung sei nicht oder nicht ordnungsgemäss erbracht worden, sofort liquide widerlegen kann, oder wenn der Schuldner gemäss Vertrag vorleisten muss (Staehelin, Basler Kommentar, 3.A., Art. 82 SchKG N. 99).
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
