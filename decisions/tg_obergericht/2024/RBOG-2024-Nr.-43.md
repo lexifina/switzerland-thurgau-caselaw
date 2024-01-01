@@ -1,0 +1,81 @@
+---
+decision_id: "tg_obergericht_RBOG_2024_Nr._43"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2024 Nr. 43"
+decided: "2024-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2024-nr-43"
+cites_law: ["switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-321.md"]
+---
+
+# TG Obergericht RBOG 2024 Nr. 43
+
+## Regeste
+
+Keine Korrektur eines materiellen Entscheids mittels Aufsichtsbeschwerde
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 43
+Thurgovie Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 43
+Turgovia Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 43
+
+RBOG 2024 Nr. 43
+Skip to main content
+Show navigation
+Keine Korrektur eines materiellen Entscheids mittels Aufsichtsbeschwerde
+§ 16 Abs. 1 ZSRV
+§ 16 Abs. 2 ZSRV
+Art. 321 Abs. 1 ZPO
+Zusammenfassung des Sachverhalts:
+1.
+Der Beschwerdeführer beantragte rund drei Wochen nach Zustellung des Eheschutzentscheids beim Bezirksgericht die Wiederaufnahme des Eheschutzverfahrens, worauf das Bezirksgericht die Eingabe als mögliche Berufung an das Obergericht weiterleitete. Das Obergericht trat auf die Berufung zufolge verspäteter Einreichung nicht ein und leitete die Eingabe als Revisionsgesuch an das Bezirksgericht weiter.
+2.
+Während des laufenden Revisionsverfahrens beantragte der Beschwerdeführer beim Obergericht dessen Überprüfung und Überwachung. Das Obergericht nahm die Eingabe als Aufsichtsbeschwerde im Sinn von § 16 ZSRV entgegen.
+Aus den Erwägungen:
+1.
+1.1.
+Nach § 16 Abs. 1 ZSRV kann wegen der Verletzung von Amtspflichten durch richterliche Behörden und Beamte bei der Aufsichtsbehörde Aufsichtsbeschwerde geführt werden, soweit nicht die Beschwerde oder die Berufung offensteht. Für die Form, Behandlung und Erledigung der Aufsichtsbeschwerde gelten die Bestimmungen über die Beschwerde gemäss ZPO sinngemäss. Der form- und fristgerecht vorgebrachte Sachverhalt ist von Amtes wegen abzuklären[1]. Richtet sich die Aufsichtsbeschwerde gegen eine bestimmte Handlung, beträgt die Beschwerdefrist zehn Tage. In allen anderen Fällen ist die Aufsichtsbeschwerde so lange zulässig, als ein Rechtsschutzinteresse besteht[2]. Bei mutwilliger oder leichtfertiger Beschwerdeführung können Kosten auferlegt werden[3].
+1.2.
+Weil und soweit die Aufsichtsbeschwerde nach § 16 ZSRV einen Anspruch auf justizförmige Erledigung einräumt, muss die beschwerdeführende Person ein aktuelles und praktisches Rechtsschutzinteresse aufweisen[4]. § 16 Abs. 3 ZSRV stellt in diesem Zusammenhang klar, dass nach Ablauf einer Frist von zehn Tagen kein aktuelles und praktisches Rechtsschutzinteresse mehr vorliegt, wenn sich die Beschwerde gegen eine bestimmte Handlung richtet. In allen anderen Fällen ist die Aufsichtsbeschwerde solange zulässig, als ein Rechtsschutzinteresse besteht. § 16 Abs. 1 ZSRV umschreibt schliesslich das Verhältnis der Aufsichtsbeschwerde zu den ordentlichen Rechtsmitteln. Es handelt sich um ein Verhältnis der Subsidiarität[5]. Nach der Praxis des Obergerichts kann die Aufsichtsbeschwerde nicht ergriffen werden, um einen materiellen Entscheid zu korrigieren[6]. Das gilt insbesondere, wenn die beschwerdeführende Person es versäumte, ein ordentliches Rechtsmittel zu ergreifen. Eine angeblich falsche Rechtsanwendung kann nicht über den Umweg der Aufsichtsbeschwerde gerügt werden[7]. Ebenso wenig geht es an, mit einer Aufsichtsbeschwerde nachträglich Mängel eines Verfahrens zu rügen, welches rechtskräftig abgeschlossen ist, wenn die Möglichkeit bestanden hätte, diese Verfahrensmängel mit einem ordentlichen Rechtsmittel geltend zu machen[8].
+1.3.
+In formeller Hinsicht folgt aus § 16 Abs. 2 ZSRV i.V.m. Art. 321 Abs. 1 ZPO, dass die Aufsichtsbeschwerde schriftlich und begründet zu erstatten ist. Von der beschwerdeführenden Person darf eine argumentative Auseinandersetzung mit dem beanstandeten Tun oder Unterlassen der Behörde erwartet werden. Sie hat zudem die Aktenstücke zu nennen, auf denen ihre Kritik beruht[9]. Der in § 16 Abs. 2 Satz 2 ZRSV erwähnte Untersuchungsgrundsatz kommt erst zur Anwendung, nachdem die beschwerdeführende Person der Aufsichtsbehörde form- und fristgerecht ihre Rügen unterbreitete[10]. Ausserdem trifft die beschwerdeführende Person eine Mitwirkungspflicht. Sie hat der Aufsichtsbehörde diejenigen Tatsachen darzulegen, welche die Behörde nicht oder nicht mit zumutbarem Aufwand selbst ermitteln könnte[11].
+1.4.
+Das Beschwerdeverfahren ist im Grundsatz kostenlos. Bei mutwilliger oder leichtfertiger Beschwerdeführung können Kosten auferlegt werden[12]. Wird die Beschwerde geschützt, hat die beschwerdeführende Person grundsätzlich Anspruch auf eine angemessene Entschädigung[13].
+1.5.
+Der Entscheid der Aufsichtsbehörde ist endgültig[14].
+2.
+2.1.
+Der Beschwerdeführer beantragt, das vor Vorinstanz hängige Revisionsverfahren betreffend Eheschutz sei zu überprüfen und zu überwachen. Es seien schwerwiegende Mängel des Eheschutzverfahrens anzuzeigen, nämlich signifikantes Fehlverhalten des Richters, die absichtliche Unterdrückung von Beweismitteln, die Ausstellung unrechtmässiger Anordnungen, die Befangenheit des Richters, die Missachtung des rechtlichen Gehörs usw. Die (zehn) "Verfahrensfehler" des Richters seien zu sanktionieren[15]. Den Grosseltern väterlicherseits sei ein Umgangsrecht mit dem Enkelkind einzuräumen. Der Gerichtsentscheid beschränke sich auf eine unzureichende einmalige Parteibefragung. Trotz wiederholter und ausführlicher Stellungnahme von seinem Rechtsanwalt habe das Gericht nicht alle relevanten Informationen angemessen berücksichtigt und gewürdigt, was gegen die Objektivität des Gerichts spreche.
+2.2.
+Der Beschwerdeführer bringt nicht substantiiert vor, der Richter habe im Revisionsverfahren (erneut) Amtspflichten verletzt. Es liegt noch kein Revisionsentscheid vor, weshalb auch ein Rechtsschutzinteresse fehlt. Auf den Antrag, das hängige Revisionsverfahren sei zu überprüfen und zu beaufsichtigen, kann mithin nicht eingetreten werden. Soweit der Beschwerdeführer rügt, es liege eine unzulässige Vorbefassung des Eheschutzrichters im Revisionsverfahren vor, kann er damit nicht gehört werden. Keine unzulässige Vorbefassung und damit kein Ausstandsgrund liegt vor, wenn eine Gerichtsperson, die bereits am früheren Entscheid beteiligt war am Revisionsentscheid mitwirkt, selbst dann, wenn ein Entscheid materiell nachgebessert werden muss[16]. Zudem wäre das Ausstandsbegehren bei der Vorinstanz zu stellen[17]. Das Obergericht hat die Eingabe des Beschwerdeführers als Revisionsgesuch an die Vorinstanz weitergeleitet. Die Vorinstanz hat wie ausgeführt über das Revisionsgesuch noch nicht entschieden. Eine über Gebühr lange Untätigkeit des Berufsrichters liegt nicht vor. Eine Rechtsverzögerung besteht, wenn dies denn überhaupt gerügt wird, nicht.
+2.3.
+Die gerügten "Verfahrensfehler" dienen einzig dazu, den materiellen Eheschutzentscheid zu ändern. Dazu wäre dem Beschwerdeführer das Berufungsverfahren offen gestanden. Zufolge Fristversäumnis trat das Obergericht auf die Berufung nicht ein. Der rechtskräftige Eheschutzentscheid kann im Aufsichtsbeschwerdeverfahren nicht mehr korrigiert werden. Dies gilt für sämtliche nachträglich gerügten Verfahrensmängel, weshalb auf die Aufsichtsbeschwerde nicht eingetreten werden kann.
+[…]
+Obergericht, 3. Abteilung, 19. Februar 2024, ZR.2024.9
+[1]    § 16 Abs. 2 ZSRV
+[2]    § 16 Abs. 3 ZSRV
+[3]    § 16 Abs. 4 ZSRV
+[4]    Vgl. BGE 120 II 5 E. 2: "Jeder Anspruch auf staatlichen Rechtsschutz setzt eine Beschwer voraus"; so auch für die Aufsichtsbeschwerde nach § 71 ff. VRG: Fedi/Meyer/Müller, Kommentar VRG Thurgau, § 71 N. 2; sowie für die altrechtliche Aufsichtsbeschwerde nach § 242 ff. ZPO TG: Merz, Die Praxis zur thurgauischen Zivilprozessordung, 2.A., § 242 N. 3
+[5]    Was sich deutlich auch aus der Marginalie von § 16 ZSRV ("
+Subsidiäre
+Aufsichtsbeschwerde"; Hervorhebung hier) ergibt.
+[6]    RBOG 2002 Nr. 20 E. 3.b; Merz, § 242 ZPO TG N. 9
+[7]    RBOG 2004 Nr. 28 E. 2.a; 1999 S. 13; 1998, S. 8
+[8]    Beschluss des Obergerichts des Kantons Zürich VB150014 vom 15. August 2016 E. 4.2; Beschluss des Kantonsgerichts Graubünden JAK 2015 16 vom 1. September 2015 E. 2; Merz, § 242 ZPO TG N. 9 mit Verweis auf RBOG 1999 S. 13 Abs. 2; 1998 S. 8 Abs. 2; 1997 S. 16 E. 2, bestätigt in RBOG 2004 Nr. 28 E. 2.a
+[9]    Vgl. BGE 138 III 374 E. 4.3; Urteile des Bundesgerichts 4A_414/2018 vom 29. November 2018 E. 2.2; 4A_142/2017 vom 3. August 2017 E. 3.1; 4A_258/2015 vom 21. Oktober 2015 E. 2.4.1
+[10]  Vgl. BGE 137 III 617 E. 4.5 zur analogen Rechtslage im familienrechtlichen Beschwerdeverfahren (betreffend Offizialmaxime)
+[11]  Vgl. BGE 132 II 113 E. 3.2; 128 II 139 E. 2
+[12]  § 16 Abs. 4 ZSRV; vgl. auch Merz, § 244 ZPO TG N. 3
+[13]  Vgl. Beschluss des Obergerichts des Kantons Zürich VB180002 vom 12. Juli 2018 E. IV.1; Merz, § 244 ZPO TG N. 3 mit Verweis auf RBOG 1996 Nr. 33 E. 2
+[14]  § 16 Abs. 5 ZSRV
+[15]  "Verfahrensmängel": Mangelnde Berücksichtigung Kita-Situation und "Job-Bereitschaft" Ehefrau, fehlerhafte Rollenteilung nach Trennung, Nichtbeachtung von ehelichen Vereinbarungen, fehlende Überprüfung "Headhunter Prognose", einseitig initiierte "Probelauf mit Beweismangel" und Voreingenommenheit, ungleicher Ferienbezug, Ungleichbehandlung Grosseltern väterlicherseits, Vernachlässigung Kompetenzcharakter Fahrzeug für Privatfahrten, gemeinsame Verpflichtungen Familienwohnung
+[16]  Weber, Basler Kommentar, 3.A., Art. 47 ZPO N. 58 mit Verweis auf BGE 113 Ia 62 E. 3c und Kiener, Richterliche Unabhängigkeit, Bern 2001, S. 174 f.; Wullschleger, in: Kommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Hasenböhler/Leuenberger), 3.A., Art. 47 N. 67
+[17]  Vgl. Art. 49 ZPO
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
