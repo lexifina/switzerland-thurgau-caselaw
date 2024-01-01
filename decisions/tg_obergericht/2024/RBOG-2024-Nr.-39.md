@@ -1,0 +1,195 @@
+---
+decision_id: "tg_obergericht_RBOG_2024_Nr._39"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2024 Nr. 39"
+decided: "2024-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2024-nr-39"
+cites_law: ["switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/235.1/art-002.md", "switzerland/bund/acts/311.0/art-010.md", "switzerland/bund/acts/311.0/art-103.md", "switzerland/bund/acts/312.0/art-015.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-141.md", "switzerland/bund/acts/312.0/art-192.md", "switzerland/bund/acts/312.0/art-299.md", "switzerland/bund/acts/312.0/art-300.md", "switzerland/bund/acts/312.0/art-306.md", "switzerland/bund/acts/314.1/art-002.md", "switzerland/bund/acts/741.01/art-090.md", "switzerland/bund/acts/741.013/art-001.md", "switzerland/bund/acts/741.013/art-003.md", "switzerland/bund/acts/741.013/art-009.md", "switzerland/bund/acts/941.210/art-003.md", "switzerland/bund/acts/941.210/art-004.md"]
+---
+
+# TG Obergericht RBOG 2024 Nr. 39
+
+## Regeste
+
+Zulässigkeit von Geschwindigkeitsberechnungen aufgrund von Drohnenvideoaufnahmen im polizeilichen Ermittlungsverfahren bei Raserdelikten
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 39
+Thurgovie Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 39
+Turgovia Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 39
+
+RBOG 2024 Nr. 39
+Skip to main content
+Show navigation
+Zulässigkeit von Geschwindigkeitsberechnungen aufgrund von Drohnenvideoaufnahmen im polizeilichen Ermittlungsverfahren bei Raserdelikten
+Art. 7 Abs. 3 VSKV-ASTRA
+Art. 9 Abs. 1 lit. a SKV
+Art. 4 lit. a MessMV
+Art. 3 Abs. 1 lit. a Geschwindigkeits-MessMV
+§ 7 Abs. 2 Ziff. 6 VO-RR Datenbearbeitung Kantonspolizei
+§ 17 PolG
+Art. 299 Abs. 2 StPO
+Art. 141 Abs. 2 StPO
+Zusammenfassung des Sachverhalts:
+Der Berufungskläger fuhr mit einem Motorrad auf einer Landstrasse zuerst auf dem Hinterrad (Wheelie) und beschleunigte danach auf eine Geschwindigkeit von über 200 km/h. Dieses Fahrmanöver zeichnete die Kantonspolizei mit Hilfe einer Drohne auf Video auf. Gestützt auf die Aufnahme berechnete sie danach die gefahrene Geschwindigkeit. Das Bezirksgericht hatte den Berufungskläger für diese Fahrt wegen qualifizierter grober Verletzung der Verkehrsregeln und einfacher Verkehrsregelverletzung verurteilt. Vor Obergericht verlangt der Berufungskläger einen Freispruch, weil die Polizei seiner Ansicht nach keine Drohne hätte einsetzen dürfen.
+Aus den Erwägungen:
+[…]
+3.
+Weiter ist die Zulässigkeit von Videoaufnahmen mit Drohnen im Zusammenhang mit den verschiedenen Verordnungen betreffend Geschwindigkeitskontrollen zu prüfen.
+3.1.
+3.1.1.
+Die Strassenverkehrskontrollverordnung[1] regelt die Verkehrskontrollen und die damit zusammenhängenden Massnahmen, Meldungen und statischen Erhebungen[2]. Sie hält weiter fest, dass die Kontrolle des Verkehrs auf öffentlichen Strassen, einschliesslich der Kontrolle der Personenbeförderung und der Zulassung als Strassentransportunternehmung, der nach kantonalem Recht zuständigen Polizei obliegt[3]. Das kantonale Polizeigesetz[4] hält entsprechend fest: Die verkehrspolizeilichen Aufgaben umfassen die Aufrechterhaltung der Sicherheit und Ordnung im Verkehr auf den öffentlichen Strassen und auf den Gewässern sowie vorbeugende Massnahmen zur Erhöhung der Verkehrssicherheit und die Verfolgung der Verstösse gegen das Verkehrsrecht, einschliesslich des Verkehrs auf Schienen[5].
+3.1.2.
+Die Strassenverkehrskontrollverordnung bestimmt, dass unter anderem bei der Kontrolle der Geschwindigkeit nach Möglichkeit technische Hilfsmittel eingesetzt werden sollen[6]. Für technische Hilfsmittel, die Messzwecken dienen, gelten gemäss Art. 9 Abs. 1
+bis
+SKV die Messmittelverordnung[7] und die entsprechenden Ausführungsvorschriften des Eidgenössischen Justiz- und Polizeidepartements, mithin die Geschwindigkeitsmessmittel-Verordnung[8]. Für die Kontrollen mit technischen Hilfsmitteln regelt das ASTRA im Einvernehmen mit dem Eidgenössischen Institut für Metrologie die Durchführung und das Verfahren sowie die Anforderungen an die Messsysteme und Messarten sowie die technisch bedingten Sicherheitsabzüge[9]. Gestützt darauf hat das ASTRA die Verordnung zur Strassenverkehrskontrollverordnung[10] erlassen. Die Anforderungen an Messverfahren, Messsysteme und Zusatzgeräte, die im Rahmen von Strassenverkehrskontrollen für die amtliche Feststellung von Sachverhalten verwendet werden, das Inverkehrbringen solcher Systeme und Geräte sowie die Kontrolle nach dem Inverkehrbringen richten sich nach der Messmittelverordnung sowie allfälligen messmittelspezifischen Verordnungen[11].
+3.1.3.
+Messmittel im Sinn der Messmittelverordnung sind Massverkörperungen, Referenzmaterialien, Messgeräte und Systeme zur Bestimmung der Werte einer physikalischen oder chemischen Messgrösse sowie die verwendeten Messverfahren[12]. Das Messverfahren ist die Gesamtheit spezifischer, genau beschriebener Tätigkeiten zur Ermittlung der Werte einer Messgrösse[13].
+Die Geschwindigkeitsmessmittel-Verordnung konkretisiert, was als Messmittel für Geschwindigkeitskontrolle gilt. Es sind dies alle Teile eines Messsystems, die zur Feststellung der Geschwindigkeit sowie zu deren Zuordnung zum gemessenen Fahrzeug erforderlich sind[14]. Dazu gehören insbesondere auch alle Teile, die zur Messwertbildung nicht direkt beitragen, diese aber beeinflussen können, wie Einbauten im Fahrbahnbelag, Abdeckungen oder Einrichtungen für den Witterungsschutz, oder die einen Einfluss auf die an eine zentrale Auswertestelle übertragenen Daten haben können[15].
+3.1.4.
+Bei der Durchführung von Geschwindigkeitskontrollen sind in erster Linie Messungen mit stationären Messsystemen, durch eine Messperson beaufsichtigt[16] oder autonom betrieben[17], mobile Messungen[18] und Abschnittsgeschwindigkeitskontrollen[19] zu wählen. Mobile Messungen sind entweder Moving-Geschwindigkeitsmessungen, also aus einem mit einem Messsystem ausgerüsteten Fahrzeug oder einem Helikopter[20], oder durch Nachfahren und Ermittlung der Geschwindigkeit durch einen Geschwindigkeitsvergleich zwischen den beiden Fahrzeugen[21]. Nachfahrmessungen ohne kalibriertes Nachfahrmesssystem sind auf Fälle von massiver Geschwindigkeitsüberschreitung zu beschränken[22].
+[…]
+3.3.
+3.3.1.
+Dass die Kantonspolizei Geschwindigkeitskontrollen durchführen kann, steht ausser Frage. Zu klären ist, ob sie dies mittels Drohnenvideoaufnahme machen durfte.
+3.3.2.
+Mit der Vorinstanz ist festzuhalten, dass die Drohne kein Messmittel im Sinn der Messmittelverordnung ist: Die Drohne dient nicht der Bestimmung der Werte einer physikalischen oder chemischen Messgrösse sowie den verwendeten Messverfahren. Somit erfüllt sie die Definition als Messmittel gemäss Messmittelverordnung[23] nicht. Daher untersteht sie auch nicht der Messmittelverordnung, da diese nur Messmittel umfasst[24].
+Ebenso wenig untersteht sie der Geschwindigkeitsmessmittel-Verordnung, da sie nicht zu einem Messsystem gehört[25]: Die Geschwindigkeitsmessmittel-Verordnung regelt die Anforderungen, das Verfahren für das Inverkehrbringen sowie zur Erhaltung der Messbeständigkeit von Messmitteln[26]. Wenn die Drohne kein Messmittel darstellt, dann kann sie die Bestimmungen der Geschwindigkeitsmessmittel-Verordnung nicht einhalten, da diese nur durch Messmittel erfüllt werden können und auch nur für Messmittel anwendbar ist. Deshalb geht auch die Rüge des Berufungsklägers an der vorinstanzlichen Feststellung, wonach die Verordnungen nicht anwendbar seien, weil deren Bestimmungen nicht eingehalten werden, fehl.
+Vorliegend wird die Geschwindigkeit aufgrund der Videoaufzeichnungen anhand einer Weg-/Zeitberechnung ausgerechnet. Dies im Unterschied zu den Geschwindigkeitsmessungen, welche in den Weisungen des ASTRA über polizeiliche Geschwindigkeitskontrollen und Rotlichtüberwachung im Strassenverkehr vom 22. Mai 2008 erläutert werden. Diese Weisungen halten denn auch fest, dass für Widerhandlungen, die nicht im Ordnungsbussenverfahren geahndet werden dürfen, die Weisungen im Rahmen des kantonalen Polizei- und Strafprozessrechts zu berücksichtigen seien. Unberührt von den Weisungen bleibe die Ermittlung der Geschwindigkeit durch Fachexpertisen (zum Beispiel bei der Abklärung von Unfällen oder Widerhandlungen im Strassenverkehr) und die freie Beweiswürdigung durch die Gerichte[27].
+3.3.3.
+Auch die Vorschriften zur Geschwindigkeitskontrolle in der Verordnung des ASTRA zur Strassenverkehrskontrollverordnung lassen andere Messarten zu: Die Aufzählung verschiedener Messarten in Art. 6 VSKV-ASTRA ist per se nicht abschliessend, wie dessen Einleitungssatz mit "in erster Linie" festhält. Das zeigt auch die Überschrift von Art. 7 VSKV-ASTRA, die "Andere Feststellungen von Geschwindigkeitsüberschreitungen" lautet. Die Verwendung anderer, nicht in der Verordnung explizit genannten Technologien ist daher zulässig.
+Zudem hält Art. 7 Abs. 3 VSKV-ASTRA fest, dass Nachfahrmessungen ohne kalibriertes Nachfahrmesssystem auf Fälle von massiver Geschwindigkeitsüberschreitung zu beschränken sind. Das heisst, dass auch die VSKV-ASTRA nicht kalibrierte Messungen bei massiven Geschwindigkeitsüberschreitungen zulässt. Selbst wenn also der Schluss gezogen werden müsste, dass die mittels Drohne erstellte Videoaufnahme spezifisch kalibriert hätte werden müssen, dann würde das im vorliegenden Fall nichts an deren Verwertbarkeit ändern, da hier ein Fall von massiver Geschwindigkeitsüberschreitung vorliegt, für welchen eine Ausnahme der Kalibrierungspflicht vorgesehen ist. Auch in diesem Fall dürfte – für die Geschwindigkeitsüberschreitung, nicht aber für die Übertretung – auf die Videoaufnahme abgestellt werden.
+3.3.4.
+Dasselbe Ergebnis zeigt ein Vergleich mit dem Entscheid RBOG 2022 Nr. 37, in welchem eine Lasergeschwindigkeitsmessung mit Videoaufzeichnung[28] Thema war. Das Obergericht hält fest[29], dass die Videokamera, mit der die Aufzeichnung erfolgt sei, nicht geeicht sein müsse. Eine Eichung sei nur für das Messmittel, also das Lasergeschwindigkeitsmessgerät, erforderlich. Die Videokamera muss also auch in dem Fall, in dem nebst einem Messmittel eine Videoaufnahme vorliegt, nicht die Anforderungen eines Messmittels erfüllen, da die Videoaufnahme kein Messmittel darstellt. Dass die Videoaufnahme kein Messmittel darstellt und demnach nicht geeicht werden muss, gilt auch dann, wenn nebst der Videoaufnahme – wie hier – keine Lasermessung durchgeführt wird.
+3.4.
+Die Verordnungen im Zusammenhang mit Geschwindigkeitskontrollen schliessen somit eine Vi­deoaufnahme mit Drohne und eine darauf basierende Berechnung der gefahrenen Geschwindigkeit nicht aus. Eine Rechtsverletzung ist nicht auszumachen. Auch die Rüge der Verletzung der Gewaltenteilung geht fehl, da keine gesetzeswidrige Praxis durch die Polizei eingeführt be­ziehungsweise durch die Gerichte bestätigt wird. Wenn die Gerichte eine Gesetzesnorm auslegen und Lücken füllen und damit den durch den Gesetzgeber offen gelassenen Spielraum konkretisieren, liegt keine Verletzung der Gewaltenteilung vor. Die Videoaufnahme ist daher ein verwertbares Beweismittel, deren Beweiswert eine Frage der Beweiswürdigung darstellt.
+4.
+4.1.
+An der Verwertbarkeit der Videoaufnahme ändert auch der Einwand des Berufungsklägers im Zusammenhang mit dem Datenschutzgesetz[30] nichts. Er bringt vor, dass die Vorinstanz Bundesrecht verletze, indem sie eine widerrechtlich erstellte Videosequenz als Beweismittel zulasse und sie davon ausgehe, dass das Datenschutzgesetz für die Kantonspolizei bei einer Drohnenüberwachung nicht anwendbar sei.
+4.2.
+Das Datenschutzgesetz gilt für die Bearbeitung von Personendaten natürlicher Personen durch private Personen und Bundesorgane[31]. Dem Gesetz über den Datenschutz des Kantons Thurgau[32] unterstehen als öffentliche Organe der Staat, die Gemeinden, die Organisationen des kantonalen öffentlichen Rechtes mit eigener Rechtspersönlichkeit und die Personen, die mit öffentlichen Aufgaben dieser Gemeinwesen betraut sind, seien sie Behördenmitglieder, Beamte oder Angestellte[33] sowie private Organisationen und Einzelpersonen, soweit ihnen öffentliche Aufgaben übertragen sind[34]. Die "Bearbeitung von Personendaten" ist jeder Umgang mit Personendaten wie das Erheben, Aufbewahren, Verwenden, Verändern, Bekanntgeben oder Vernichten[35]. Gemäss Bundesgericht stellt das Erstellen von Aufnahmen im öffentlichen Raum, auf denen Personen oder Autokennzeichen erkennbar sind, ein Bearbeiten von Personendaten im Sinn des (eidgenössischen) Datenschutzgesetzes dar[36].
+Personendaten dürfen nur bearbeitet werden, soweit hierfür eine gesetzliche Grundlage besteht oder dies einer gesetzlichen Aufgabe dient[37]. Personendaten und die Art, wie sie bearbeitet werden, müssen für die Erfüllung der Aufgaben geeignet und erforderlich sein[38]. Zudem dürfen sie nicht für einen Zweck verwendet oder bekanntgegeben werden, der nach Treu und Glauben mit dem ursprünglichen Zweck unvereinbar ist[39]. Die Kantonspolizei erhebt im Rahmen der gesetzlichen Bestimmungen die zur Erfüllung ihrer Aufgaben und ihrer Verwaltungstätigkeit erforderlichen Daten[40]. Die Kantonspolizei kann im Rahmen von polizeirelevanten Ereignissen Falldaten erfassen[41]. Die Falldaten beinhalten Audio- und Videodaten[42].
+4.3.
+Das eidgenössische Datenschutzgesetz ist vorliegend nicht anwendbar, da nicht die Tätigkeit von Bundesbeamten betroffen ist.
+Die Videoaufnahme der Kantonspolizei mittels Drohne stellt ein Bearbeiten von Personendaten im Sinn des kantonalen Datenschutzgesetzes dar. Mit der Vorinstanz ist festzuhalten, dass der Zweck der Videoaufnahme mittels Drohne vorliegend der Beweis für eine massive Geschwindigkeitsüberschreitung sowie eines Wheelies eines Strassenverkehrsteilnehmers ist. Eine solche Aufnahme ist geeignet und bei gewissen Strassenabschnitten erforderlich, um das Fehlverhalten eines Fahrzeuglenkers nachzuweisen. Dabei ist zu unterscheiden zwischen der Videoüberwachung im Sinn einer optischen Unterstützung der den Verkehr überwachenden Verkehrspolizisten und einer permanenten Videoaufzeichnung, welche alle Fahrer und Fahrten abspeichert. Wie nachfolgend aufgezeigt wird, ist erstellt, dass die Videoaufzeichnung erst gestartet wurde, als der zufolge Verkehrsüberwachung fehlbare Lenker wahrgenommen wurde, und nicht eine permanente Drohnenaufzeichnung stattfand. Die Kantonspolizei erstellte diese Aufnahmen im Rahmen ihrer gesetzlichen Aufgaben zu Beweiszwecken, weshalb die Videoaufnahmen mit dem kantonalen Datenschutzgesetz vereinbar sind.
+5.
+Alsdann moniert der Berufungskläger, dass kein Anfangsverdacht gemäss Strafprozessordnung vor dem Start der Videoaufnahme vorgelegen habe, die Strafprozessordnung entsprechend nicht anwendbar sei und die Aufnahme kein zulässiges Beweismittel darstelle.
+5.1.
+5.1.1.
+Die Polizei ermittelt Straftaten aus eigenem Antrieb, auf Anzeige von Privaten und Behörden sowie im Auftrag der Staatsanwaltschaft; dabei untersteht sie der Aufsicht und den Weisungen der Staatsanwaltschaft[43]. Im Ermittlungsverfahren stellt sie auf der Grundlage von Anzeigen, Anweisungen der Staatsanwaltschaft oder eigenen Feststellungen den für eine Straftat relevanten Sachverhalt fest[44]. Sie hat namentlich Spuren und Beweise sicherzustellen und auszuwerten[45], geschädigte und tatverdächtige Personen zu ermitteln und zu befragen[46] sowie tatverdächtige Personen nötigenfalls anzuhalten und festzunehmen oder nach ihnen zu fahnden[47]. Sie richtet sich bei ihrer Tätigkeit nach den Vorschriften über die Untersuchung, die Beweismittel und die Zwangsmassnahmen; vorbehalten bleiben besondere Bestimmungen dieses Gesetzes (StPO)[48]. Die Strafbehörden setzen zur Wahrheitsfindung alle nach dem Stand von Wissenschaft und Erfahrung geeigneten Beweismittel ein, die rechtlich zulässig sind[49]. Die Strafbehörden nehmen die Beweisgegenstände vollständig und im Original zu den Akten[50].
+5.1.2.
+Während für die Ermittlungstätigkeiten der Polizei die Strafprozessordnung anwendbar ist, fallen die weiteren polizeilichen Aufgaben in die Polizeigesetzgebung von Bund und Kantonen. Die Aufgaben der Kantonspolizei sind in § 11 ff. PolG geregelt. Nebst allgemeinen, kriminal- und sicherheitspolizeilichen Aufgaben gehören auch verkehrspolizeiliche Aufgaben dazu. Diese umfassen die Aufrechterhaltung der Sicherheit und Ordnung im Verkehr auf den öffentlichen Strassen und auf den Gewässern sowie vorbeugende Massnahmen zur Erhöhung der Verkehrssicherheit und die Verfolgung der Verstösse gegen das Verkehrsrecht, einschliesslich des Verkehrs auf Schienen[51]. Die anwendbare Rechtsgrundlage bestimmt sich im Einzelfall nach dem mit dem polizeilichen Handeln verfolgten Zweck. Ermittlungen, also die gerichtspolizeiliche Tätigkeit, bezwecken die Klärung einer strafrechtlichen Verdachtslage und die Verfolgung von Straftaten[52].
+5.1.3.
+Entscheidend zur Abgrenzung der Ermittlungstätigkeit zur allgemeinen polizeilichen Tätigkeit ist der sogenannte Anfangsverdacht: Im Vorverfahren werden, ausgehend vom Verdacht, es sei eine Straftat begangen worden, Erhebungen getätigt und Beweise gesammelt[53]. Dieser Verdacht liegt vor, wenn eine geringe Wahrscheinlichkeit für die Bestrafung des Täters spricht. Aufgrund wahrgenommener tatsächlicher Anhaltspunkte muss es zumindest möglich erscheinen, dass sich ein strafrechtlich relevantes Geschehen abgespielt hat[54].
+5.1.4.
+Unter einem Beweismittel ist ein in der Gegenwart vorliegendes Wahrnehmungsobjekt zu verstehen, aus dem Rückschlüsse auf das Vorliegen von Tatsachen – in der Vergangenheit oder in der Gegenwart – gezogen werden können[55]. Die Strafprozessordnung enthält den Grundsatz der Beweisfreiheit, das heisst, sie kennt keinen numerus clausus der Beweismittel. Sie will vielmehr alle nach dem Stand der Wissenschaft geeigneten und rechtlich zulässigen Beweismittel berücksichtigt sehen, unabhängig davon, ob die Beweismethoden zum Zeitpunkt der Inkraftsetzung des Gesetzes bekannt waren oder nicht[56]. Eine Beweiserhebung, die in der Strafprozessordnung nicht ausdrücklich geregelt ist, muss nicht nur die Gewähr für eine zuverlässige Sachverhaltsfeststellung geben, sondern auch rechtlich zulässig, also insbesondere grundrechtskonform sein[57]. Mit Beweiserhebungen gehen regelmässig Eingriffe in Freiheitsrechte einher, weshalb diese grundrechtskonform sein müssen, womit die den Schutzbereich berührende Massnahme nur dann zulässig ist, wenn sie auf einer gesetzlichen Grundlage beruht[58], im öffentlichen Interesse liegt[59] und verhältnismässig ist[60]. Ebenso muss der Kerngehalt des in Frage stehenden Freiheitsrechts gewahrt sein[61].
+[…]
+5.5.
+5.5.1.
+Dass sowohl der Polizeibericht als auch dessen Beilagen verwertbar sind und keine Verletzung des rechtlichen Gehörs oder der Teilnahmerechte des Berufungsklägers vorliegt, wurde bereits dargelegt.
+5.5.2.
+Nicht durchzudringen vermag der Berufungskläger mit seinem Argument, die Videokamera der Drohne müsse lückenlos Aufnahmen getätigt haben. Aus dem Rapport der Kantonspolizei und dem Videoauswertungsbericht geht deutlich hervor, dass die Aufnahme erst auf entsprechenden Verdacht hin gestartet wurde. Es bestehen keine Anhaltspunkte, daran zu zweifeln, dass es sich um eine abgeschlossene Aufzeichnung handelt und nicht um eine Sequenz aus einer lückenlosen Aufzeichnung. Solche vermag der Berufungskläger auch nicht effektiv aufzuzeigen. Eine lückenlose Aufzeichnung der Videoaufnahme liegt nicht vor.
+5.5.3.
+Im Rahmen ihrer verkehrspolizeilichen Aufgaben zur Aufrechterhaltung der Sicherheit und Ordnung im Verkehr auf den öffentlichen Strassen, zur Erhöhung der Verkehrssicherheit und zur Verfolgung der Verstösse gegen das Verkehrsrecht darf die Kantonspolizei anlassfreie Geschwindigkeitskontrollen vornehmen und zu diesem Zweck den Verkehr überwachen. Die Polizisten der Kantonspolizei durften somit den Verkehr und die Strasse zwischen C. und D. zwecks Geschwindigkeitskontrolle überwachen.
+5.5.4.
+Dem Auswertungsprotokoll der Kantonspolizei ist zu entnehmen, dass kurz vor der Geschwindigkeitsüberschreitung vom Drohnenstandort habe beobachtet werden können, wie ein dunkles Motorrad von D. Richtung C. gefahren sei. Auf halber Strecke habe der Motorradlenker die Geschwindigkeit reduziert, gewendet und die Geschwindigkeit so massiv beschleunigt, dass das Motorrad für einige Meter nur noch auf dem Hinterrad gefahren sei (Wheelie). Anschliessend habe sich das Vorderrad wieder zur Strasse gesenkt und die Geschwindigkeit sei über ca. 900 m weiter massiv beschleunigt worden.
+Gemäss Rapport der Kantonspolizei sei zum Zeitpunkt der Geschwindigkeitsüberschreitung vom Beobachtungsposten über Funk gemeldet worden, dass ein schwarzes Motorrad stark beschleunige und mit massiv übersetzter Geschwindigkeit von C. Richtung D. fahre. Die massiv übersetzte Geschwindigkeit habe vom Drohnenstandort ebenfalls bestätigt werden können. In der Folge sei die Fahrt des oben erwähnten Fahrzeugs mittels Drohne (Videoaufzeichnung) aufgezeichnet worden. Bei dem zur Kontrolle angehaltenen Lenker habe es sich um den Berufungskläger gehandelt.
+An seiner Einvernahme kurz nach der Tat bestätigte der Berufungskläger, dass er das Fahrzeug zum Zeitpunkt der erwähnten Verkehrsüberwachung gelenkt habe. Auf Bitte des einvernehmenden Polizisten, seine Fahrt zu erläutern, sagte der Berufungskläger Folgendes aus: "Ich bin zuerst von der 'Bude' weggefahren in Richtung C. Auf der halben Strecke bin ich rechts raus und habe gekehrt. Dann bin ich in Richtung D. gefahren. Ich wollte das Motorrad auf ihre Funktion überprüfen." Er führte weiter aus, dass er beim Motorrad einen Service gemacht habe und deshalb die Funktionen des Motorrads – unter anderem das Funktionieren von Bremsen, Schaltung und Lenkung – habe überprüfen müssen.
+5.5.5.
+Wie der Berufungskläger zu Recht ausführt, ist davon auszugehen, dass er zuerst Richtung C. fuhr, dort auf halber Strecke wendete und dann wieder zurück Richtung D. fuhr. Ebenso richtig ist, dass dem Berufungskläger nicht unterstellt wird, dass er sich auf der Hinfahrt zur Wendestelle einer Geschwindigkeitsüberschreitung schuldig gemacht hat. Das geht auch aus der Anklageschrift hervor, welche auf die Fahrt in Richtung D. verweist. Insofern ergibt sich der Anfangsverdacht auch nicht daraus, dass der Berufungskläger auf der Hinfahrt zu schnell gefahren wäre. Vielmehr begründet sich dieser daraus, dass der Berufungskläger von D. herkommend auf halber Strecke auf einem Feldweg wendete und alsdann nach einer kurzen Stillstandphase die Geschwindigkeit – nun in Richtung D. fahrend – massiv beschleunigte. Es ist allgemein bekannt, dass auf bekannten "Raserstrecken" oftmals zuerst "Kontrollfahrten" absolviert werden, um zu überprüfen, ob Geschwindigkeitskontrollen auf der Strecke durchgeführt werden. Da der Berufungskläger, wie er selbst ausführt, auf halber Strecke wendete, durften die Polizisten annehmen, dass er eine solche Kontrollfahrt mit anschliessender Geschwindigkeitsübertretung durchführen will.
+Diese Vermutung hat sich nach dem Wendemanöver erhärtet, auch wenn– wie der Berufungskläger vorbringt –, er zuerst noch langsamer gefahren sein soll. Die Videoaufnahme beginnt nämlich mit dem Motorrad auf dem Hinterrad, im sogenannten Wheelie. Dass der Berufungskläger zuvor, also vor dem Start der Videoaufnahme, bereits stark beschleunigte, ist daher nicht ausgeschlossen, sondern vielmehr wahrscheinlich. Dies zeigt der Polizeirapport, in welchem festgehalten wird, dass vom Beobachtungsposten via Funk ein starkes Beschleunigen und massiv zu schnell fahrendes Motorfahrzeug gemeldet worden sei, was vom Drohnenstandort bestätigt worden sei. Dass das Motorrad bei Beginn der Videoaufnahme, wie der Berufungskläger geltend macht, "ganz offensichtlich noch nicht zu schnell, sondern zuerst noch langsamer und dann etwas gleichschnell wie der Lieferwagen hinter ihm" sei, steht den Ausführungen des Polizeirapports ebenfalls nicht entgegen. Die massive Beschleunigung wurde gemäss Rapport vor der Aktivierung der Videokamera festgestellt. Gemäss Auswertungsprotokoll führte diese Beschleunigung dazu, dass das Motorrad für einige Meter nur noch auf dem Hinterrad fuhr. Dieses Wheelie ist denn auf der Videoaufzeichnung auch ersichtlich. So entspricht die Videoaufzeichnung auch den Ausführungen im Polizeirapport. Gleichzeitig zeigt dies, dass die Aufnahme erst auf konkreten Tatverdacht gestartet wurde, da zwar das Wheelie, aber nicht die zuvor stattgefundene Beschleunigung auf der Videoaufnahme zu sehen ist.
+5.5.6.
+Somit ist festzuhalten, dass bei Start der Videoaufnahme bereits ein Anfangsverdacht bestand. Während die bis dorthin durchgeführte Verkehrsüberwachung zu den verkehrspolizeilichen Aufgaben gehörte, wechselte die polizeiliche Tätigkeit im Zeitpunkt des Wendemanövers ins Ermittlungsverfahren. Damit einhergehend war ab diesem Zeitpunkt die Strafprozessordnung anwendbar. Es stand der Kantonspolizei also zu, im Rahmen des Ermittlungsverfahrens den für eine mögliche Straftat relevanten Sachverhalt festzustellen und die Fahrt zunächst mittels (Drohnen-)Videoaufnahme elektronisch aufzuzeichnen. Dass es sich bei einer Videoaufnahme um ein nach dem Stand der Wissenschaft geeignetes Beweismittel handelt, braucht nicht weiter ausgeführt zu werden und ist an sich auch nicht bestritten. Die Videoaufnahme ist damit ein rechtmässiges Beweismittel, auf welches abgestellt werden darf.
+6.
+Selbst wenn bei Beginn der Videoaufnahme kein Tatverdacht vorgelegen hätte, wäre diese zumindest die massive Geschwindigkeitsüberschreitung betreffend aus nachfolgenden Gründen verwertbar.
+6.1.
+6.1.1.
+Nach Art. 141 Abs. 2 StPO dürfen Beweise, die die Strafbehörden in strafbarer Weise oder unter Verletzung von Gültigkeitsvorschriften erhoben haben, nicht verwertet werden, es sei denn, ihre Verwertung sei zur Aufklärung schwerer Straftaten unerlässlich. Die Strafprozessordnung kennt keine Vorschrift, die Ausforschungsbeweise als absolut unverwertbar erklären würde. Art. 141 Abs. 2 StPO sieht eine Interessenabwägung vor. Je schwerer die zu beurteilende Straftat ist, umso eher überwiegt das öffentliche Interesse an der Wahrheitsfindung das private Interesse der beschuldigten Person daran, dass der fragliche Beweis unverwertet bleibt[62].
+6.1.2.
+Bei der Straftat der qualifiziert groben Verletzung der Verkehrsregeln gemäss Art. 90 Abs. 3 und 4 SVG handelt es sich um ein Verbrechen[63], bei einer einfachen Verletzung nach Art. 90 Abs. 1 SVG um eine Übertretung[64]. Die Frage, ob eine schwere Straftat im Sinn von Art. 141 Abs. 2 StPO vorliegt, ist gemäss bundesgerichtlicher Rechtsprechung im Licht der Schwere der konkreten Tat und der gesamten sie begleitenden Umständen und nicht nach dem abstrakt angedrohten Strafmass zu prüfen[65]. Im Fall einer Überschreitung der geltenden Höchstgeschwindigkeit von 80 km/h um über 100 km/h bejahte das Bundesgericht das Vorliegen eines schweren Falls, auch wenn die Strecke übersichtlich, gerade und frei von Gegenverkehr gewesen sei[66].
+[…]
+6.2.4.
+Der Argumentation der Vorinstanz ist zuzustimmen. Vorliegend handelt es sich um eine qualifiziert grobe Verkehrsregelverletzung gemäss Art. 90 Abs. 3 und Abs. 4 SVG. Es liegt eine massive Überschreitung der geltenden Höchstgeschwindigkeit vor, auch wenn dem Berufungskläger zuzustimmen ist, dass die Fahrt auf einer freien, schnurgeraden Strecke durchgeführt wurde. Wie aus den Videoaufnahmen ersichtlich ist, hatte es sowohl auf der Fahrbahn des Berufungsklägers als auch auf der Gegenfahrbahn je ein anderes Fahrzeug. Dabei spielt es keine Rolle, wie lange die massive Geschwindigkeitsüberschreitung dauerte. Selbst bei einer nur kurzen Zeitspanne können sich sehr schwerwiegende Unfälle ereignen. Nicht entscheidend ist schliesslich, ob eine derart kurze Beschleunigung auf über 200 km/h bei diesen Strassenbedingungen technisch unproblematisch sein soll. Das öffentliche Interesse an der Aufklärung der Geschwindigkeitsüberschreitung würde das private Interesse des Berufungsklägers an der Unverwertbarkeit der fraglichen Videoaufzeichnungen überwiegen, falls von einer Unverwertbarkeit auszugehen wäre.
+6.3.
+Es bleibt darauf hinzuweisen, dass die Verordnungen im Zusammenhang mit Geschwindigkeitskontrollen keinen konkreten Anfangsverdacht oder einen Tatverdacht zur Legitimation polizeilichen Handelns im Rahmen von Verkehrskontrollen vorschreiben. Anlassfreie Kontrollen im Strassenverkehr sind zulässig[67]. Das Bundesgericht wies zurecht bereits daraufhin, dass die Kontrolle des Strassenverkehrs in der Konsequenz immer auch der Ermittlung fehlbarer Fahrzeuglenker und der Sicherstellung von Beweisen im Hinblick auf ein späteres Strafverfahren diene. Dies lasse sich nicht vermeiden und ändere nichts daran, dass dies nicht den primären Zweck, sondern lediglich eine Begleiterscheinung von Verkehrskontrollen darstelle[68]. Selbst wenn angenommen werden würde, dass die Verkehrsüberwachung als Ganzes in den Bereich der verkehrspolizeilichen Aufgaben gehört und keine strikte Trennung zur Ermittlungstätigkeit der Polizei möglich wäre, würde dies nichts an der Zulässigkeit der Videoaufnahme ändern. Anlassfreie Überwachungen wären auch im Rahmen ihrer verkehrspolizeilichen Tätigkeit grundsätzlich zulässig. Ein Verwertbarkeitsverbot der Videoaufnahme würde sich daraus nicht ergeben.
+6.4.
+Zusammenfassend ist festzuhalten, dass eine schwere Straftat im Sinn von Art. 141 Abs. 2 StPO vorliegt und die Videoaufnahme jedenfalls betreffend die massive Geschwindigkeitsüberschreitung daher auch verwertbar wäre, wenn deren Erhebung nicht rechtmässig gewesen wäre.
+[…]
+Obergericht, 1. Abteilung, 23. April 2024, SBR.2024.1
+[1]   SKV, SR 741.013
+[2]   Art. 1 SKV
+[3]   Art. 3 Abs. 1 SKV
+[4]   PolG, RB 551.1
+[5]   § 17 Abs. 1 PolG
+[6]   Art. 9 Abs. 1 lit. a SKV
+[7]   MessMV, SR 941.210
+[8]   SR 941.261
+[9]   Art. 9 Abs. 2 SKV
+[10] VSKV-ASTRA, SR 741.013.1
+[11] Art. 3 Abs. 1 VSKV-ASTRA
+[12] Art. 4 lit. a MessMV
+[13] Art. 4 lit. b MessMV
+[14] Art. 3 Abs. 1 lit. a Geschwindigkeitsmessmittel-Verordnung
+[15] Art. 3 Abs. 2 Geschwindigkeitsmessmittel-Verordnung
+[16] Art. 6 lit. a VSKV-ASTRA
+[17] Art. 6 lit. b VSKV-ASTRA
+[18] Art. 6 lit. c VSKV-ASTRA
+[19] Art. 6 lit. d VSKV-ASTRA
+[20] Art. 6 lit. c Ziff. 1 VSKV-ASTRA
+[21] Nachfahrkontrollen; Art. 6 lit. c Ziff. 2 VSKV-ASTRA
+[22] Art. 7 Abs. 3 VSKV-ASTRA
+[23] Art. 4 lit. a MessMV
+[24] Art. 3 Abs. 1 MessMV: "Ein Messmittel untersteht dieser Verordnung"
+[25] Vgl. Art. 3 Abs. 1 lit. a Geschwindigkeitsmessmittel-Verordnung
+[26] Art. 1 Geschwindigkeitsmessmittel-Verordnung
+[27] Ziff. 21 der Weisungen des ASTRA über polizeiliche Geschwindigkeitskontrollen und Rotlichtüberwachungen im Strassenverkehr, gestützt auf Art. 9 Abs. 2 und 3 SKV, Art. 2-10 VSKV-ASTRA und Art. 2 lit. b OBG
+[28] Gemäss Art. 9 VSKV-ASTRA
+[29] RBOG 2022 Nr. 37 E. 2.a
+[30]  DSG, SR 235.1
+[31] Art. 2 Abs. 1 DSG
+[32] TG DSG, RB 170.7
+[33] § 2 Abs. 2 Ziff. 1 TG DSG
+[34] § 2 Abs. 2 Ziff. 2 TG DSG
+[35] § 3 Abs. 3 TG DSG
+[36] BGE 146 IV 226 E. 3.1
+[37] § 4 Abs. 1 TG DSG
+[38] § 4 Abs. 2 TG DSG
+[39] § 4 Abs. 3 TG DSG
+[40] § 1 Abs. 1 Verordnung des Regierungsrates über die Datenbearbeitung durch die Kantonspolizei, RB 551.6 (nachfolgend: VO-RR Datenbearbeitung Kantonspolizei)
+[41] § 7 Abs. 1 VO-RR Datenbearbeitung Kantonspolizei
+[42] § 7 Abs. 2 Ziff. 6 VO-RR Datenbearbeitung Kantonspolizei
+[43] Art. 15 Abs. 2 StPO
+[44] Art. 306 Abs. 1 StPO
+[45] Art. 306 Abs. 2 lit. a StPO
+[46] Art. 306 Abs. 2 lit. b StPO
+[47] Art. 306 Abs. 2 lit. c StPO
+[48] Art. 306 Abs. 3 StPO
+[49] Art. 139 Abs. 1 StPO
+[50] Art. 192 Abs. 1 StPO
+[51] § 17 PolG
+[52] Galella/Rhyner, Basler Kommentar, 3.A., Art. 306 StPO N. 6
+[53] Art. 299 Abs. 2 StPO
+[54] Landshut/Bosshard, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Lieber/Summers/Wohlers), 3.A., Art. 299 N. 26; Riedo/Boner, Basler Kommentar, 3.A., Art. 300 StPO N. 5
+[55] Gless, Basler Kommentar, 3.A., Art. 139 StPO N. 13
+[56] Jositsch/Schmid, Schweizerische Strafprozessordnung, Praxiskommentar, 4.A., Art. 139 N. 1; Wohlers, in: Kommentar zur Schweizerischen Strafprozessordnung (Hrsg.: Donatsch/Lieber/Summers/Wohlers), 3.A., Art. 139 N. 3
+[57] Gless, Art. 139 StPO N. 16; Wohlers, Art. 139 StPO N. 4
+[58] Art. 36 Abs. 1 BV
+[59] Art. 36 Abs. 2 BV
+[60] Art. 36 Abs. 3 BV
+[61] Art. 36 Abs. 4 BV; zum Ganzen: Gless, Art. 139 StPO N. 16; Wohlers, Art. 139 StPO N. 4
+[62] Urteil des Bundesgerichts 7B_184/2022 vom 30. November 2023 E. 2.4
+[63] Art. 10 Abs. 2 StGB
+[64] Art. 103 StGB
+[65] BGE 147 IV 16 E. 6
+[66] Urteil des Bundesgerichts 6B_68/2023 vom 9. Oktober 2023 E. 2.3
+[67] Urteil des Bundesgerichts 6B_1143/2015 vom 6. Juni 2016 E. 1.3.3
+[68] Urteile des Bundesgerichts 6B_57/2018 vom 18. April 2018 E. 4; 6B_1143/2015 vom 6. Juni 2016 E. 1.3.1
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
