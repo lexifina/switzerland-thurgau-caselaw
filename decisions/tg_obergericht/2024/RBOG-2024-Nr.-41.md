@@ -1,0 +1,101 @@
+---
+decision_id: "tg_obergericht_RBOG_2024_Nr._41"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2024 Nr. 41"
+decided: "2024-01-01"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2024-nr-41"
+cites_law: ["switzerland/bund/acts/210/art-445.md", "switzerland/bund/acts/210/art-450.md", "switzerland/bund/acts/210/art-450f.md", "switzerland/bund/acts/272/art-110.md", "switzerland/bund/acts/272/art-119.md", "switzerland/bund/acts/272/art-121.md", "switzerland/bund/acts/272/art-122.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-327.md"]
+---
+
+# TG Obergericht RBOG 2024 Nr. 41
+
+## Regeste
+
+Abgrenzung zwischen der Zuständigkeit für Entscheide über die unentgeltliche Rechtspflege und für definitive Kostenentscheide im Kindesschutzverfahren; Unzulässigkeit eines fixen Kostendachs und Möglichkeit der Festsetzung eines weichen Kostendachs für die Aufwendungen des unentgeltlichen Rechtsbeistands
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 41
+Thurgovie Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 41
+Turgovia Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 41
+
+RBOG 2024 Nr. 41
+Skip to main content
+Show navigation
+Abgrenzung zwischen der Zuständigkeit für Entscheide über die unentgeltliche Rechtspflege und für definitive Kostenentscheide im Kindesschutzverfahren; Unzulässigkeit eines fixen Kostendachs und Möglichkeit der Festsetzung eines weichen Kostendachs für die Aufwendungen des unentgeltlichen Rechtsbeistands
+§ 63 Abs. 1 KESV
+§ 38 Abs. 1 Ziff. 3 KESV
+§ 29 Abs. 1 KESV
+Art. 110 ZPO
+Art. 121 ZPO
+Art. 122 Abs. 1 lit. a ZPO
+Art. 319 lit. b Ziff. 1 ZPO
+Art. 450f ZGB
+Zusammenfassung des Sachverhalts:
+Die Verfahrensleitung der Kindes- und Erwachsenenschutzbehörde gewährte einer Mutter in einem Verfahren betreffend Regelung des persönlichen Verkehrs und Änderung einer gesetzlichen Massnahme in Bezug auf die Tochter die unentgeltliche Rechtspflege teilweise: vollumfänglich für die Verfahrenskosten und teilweise für die Offizialverbeiständung durch den Beschwerdeführer (fünf Stunden à Fr. 200.00 zuzüglich Mehrwertsteuer), wobei sie die Mutter auf die Rückerstattungspflicht gemäss Art. 123 ZPO hinwies. Gegen die Verfügung erhob der Offizialanwalt der Mutter in eigenem Namen Beschwerde.
+Aus den Erwägungen:
+1.
+1.1.
+Angefochten ist ein Entscheid über die Gewährung der unentgeltlichen Rechtspflege. Dieser Entscheid schliesst weder das vorinstanzliche Verfahren ab noch regelt er abschliessend die Situation für die Dauer des Verfahrens. Es handelt sich um eine prozessleitende Verfügung[1].
+1.2.
+Das Bundesrecht sieht lediglich die Anfechtung von Endentscheiden sowie von vorsorglichen Massnahmen der Kindes- und Erwachsenenschutzbehörde vor[2]. Die Anfechtbarkeit von Zwischenentscheiden und prozessleitenden Verfügungen regelt das Bundesrecht nicht. Die Kantone sind hier frei, ergänzende eigene Verfahrensvorschriften zu erlassen. Machen sie von dieser Kompetenz nicht Gebrauch, sind nach Art. 450f ZGB von Bundesrechts wegen die Bestimmungen der ZPO sinngemäss als ergänzendes kantonales Verfahrensrecht anwendbar[3].
+1.3.
+Im Kanton Thurgau enthält die KESV[4] in § 70 ff. Bestimmungen zum Beschwerdeverfahren gemäss den Art. 450 ff. ZGB. Nach § 11c Abs. 1 EG ZGB[5] ist das Obergericht gerichtliche Beschwerdeinstanz im Sinn von Art. 450 Abs. 1 ZGB. Aus dem kantonalen Recht ergibt sich folglich nicht, ob und gegebenenfalls unter welchen Voraussetzungen Entscheide der Kindes- und Erwachsenenschutzbehörde, die weder Endentscheide noch vorsorgliche Massnahmen sind, beschwerdefähig sind. § 29 Abs. 1 KESV verweist schliesslich für das Verfahren vor der Kindes- und Erwachsenenschutzbehörde und vor der Beschwerdeinstanz unter anderem sinngemäss auf die Bestimmungen der ZPO, soweit keine besonderen Vorschriften bestehen.
+1.4.
+Bei sinngemässer Anwendung von Art. 319 lit. b ZPO ist die Anfechtung prozessleitender Verfügungen nur zulässig, in den vom Gesetz bestimmten Fällen (Ziff. 1) oder wenn der beschwerdeführenden Partei ein nicht leicht wiedergutzumachender Nachteil droht (Ziff. 2).
+1.5.
+Die Beschwerde richtet sich im Hauptantrag gegen die teilweise Ablehnung der unentgeltlichen Rechtspflege, im Eventualantrag gegen den Kostenentscheid betreffend angemessene Entschädigung des Rechtsbeistands. Sowohl für die teilweise Ablehnung der unentgeltlichen Rechtspflege, als auch für den Kostenentscheid sieht das Gesetz eine Anfechtung mit Beschwerde vor[6].
+[…]
+3.
+3.1.
+Unbestritten – und nicht Gegenstand des Beschwerdeverfahrens – ist die Tatsache, dass die Bestellung eines Offizialanwalts für die Gesuchstellerin bei der gegebenen Ausgangslage für das vorinstanzliche Verfahren betreffend Regelung des persönlichen Verkehrs aus Gründen der Waffengleichheit angezeigt ist. Nachfolgend ist die in diesem Zusammenhang von der Vorinstanz getroffene Entschädigungsregelung für den Beschwerdeführer als Offizialanwalt zu beurteilen.
+3.2.
+Die Kosten des Verfahrens vor der Kindes- und Erwachsenenschutzbehörde bestehen aus der Verfahrensgebühr und den Kosten einer von der Behörde angeordneten Vertretung sowie den Barauslagen[7]. Die Kostenverlegung wird in der Regel im verfahrenserledigenden Entscheid vorgenommen[8]. In Kindesschutzverfahren und in Verfahren betreffend den persönlichen Verkehr, die elterliche Sorge oder den Unterhalt sind die Verfahrenskosten in der Regel von den Eltern zu tragen[9]. Im Verfahren vor der Kindes- und Erwachsenenschutzbehörde besteht kein Anspruch auf Parteientschädigung. Eine solche kann ausnahmsweise zugesprochen werden, wenn sich dies bei komplizierter Sachlage oder schwierigen Rechtsfragen rechtfertigt[10].
+Die Liquidation der Verfahrenskosten im Sinn von Art. 122 ZPO, wonach dem Offizialanwalt unter anderem ein Anspruch auf "angemessene" Entschädigung zusteht, setzt vorgängig die Kostenverteilung nach den Grundsätzen von § 63 KESV voraus[11].
+Unter dem Begriff des "Kostenentscheids"[12] ist die verbindliche Festlegung der in § 62 KESV genannten Verfahrenskosten sowie der angemessenen Entschädigung im Sinn von Art. 122 Abs. 1 lit. a oder Abs. 2 ZPO zu verstehen[13]. Mit dem Kostenentscheid wird autoritativ über Rechte und Pflichten der Beteiligten entschieden, indem er das Verfahren hinsichtlich der beurteilten Kosten abschliesst[14]. Der Kostenentscheid weist definitiven Charakter auf. Nachdem er eröffnet wurde, kann er von der Behörde nicht in Wiedererwägung gezogen werden, wie dies bei prozessleitenden Verfügungen der Fall ist[15].
+3.3.
+Die Vorinstanz hat zusammen mit dem prozessleitenden Entscheid betreffend die teilweise Gewährung der unentgeltlichen Rechtspflege definitiv über einen Teil der Verfahrenskosten entschieden, indem sie die Entschädigung des Beschwerdeführers auf Fr. 1'000.00 (zuzüglich Mehrwertsteuer) festlegte, ihn aus der Staatskasse entschädigte und die Gesuchstellerin zur Rückzahlung nach Art. 123 ZPO verpflichtete. Damit wurde das Recht unrichtig angewendet:
+3.3.1.
+Erstens ist die Vorinstanz als Verfahrensleitung zwar für die Gewährung der unentgeltlichen Rechtspflege zuständig[16]. Es besteht jedoch keine Einzelrichterzuständigkeit betreffend Entscheid über die Änderung gesetzlicher Massnahmen und Regelung des persönlichen Verkehrs in strittigen Fällen[17]. Der Kostenentscheid – als Bestandteil des Endentscheids[18] – fällt deshalb nicht in die Einzelrichterkompetenz der Vorinstanz.
+3.3.2.
+Zweitens – und selbst wenn die Vorinstanz für den Kostenentscheid zuständig gewesen wäre – war das Hauptverfahren zum Zeitpunkt des angefochtenen Entscheids noch nicht abgeschlossen. Im Juli 2024 teilte die Vorinstanz mit, dass sie den Versuch einer einvernehm­lichen Lösungsfindung betreffend Besuchsrecht begrüsse und hielt die Eltern an, in Zusammen­arbeit mit ihren Rechtsvertretern eine einvernehmliche Lösung zu erarbeiten. Die Frist für eine Replik zur Stellungnahme des Beschwerdeführers lief noch bis Mitte August 2024. Sodann stellte die Vorinstanz dem Beschwerdeführer im Juli 2024 den ordentlichen Bericht des Beistands zu und setzte ihm ebenfalls eine Frist bis Mitte August 2024, dazu Stellung zu nehmen. Der Ausgang des Verfahrens stand im Zeitpunkt des angefochtenen Entscheids nicht fest, weshalb auch die Verfahrenskosten noch nicht definitiv verteilt werden konnten. Entsprechend waren die Voraussetzungen für eine Liquidation der Entschädigung des Offizial­anwalts im Sinn von Art. 122 ZPO nicht erfüllt. Im Übrigen ist auch nicht ersichtlich, dass die Vorinstanz vorliegend – wäre sie denn zuständig gewesen – überhaupt vom Grundsatz der Kostenverlegung im verfahrenserledigen Entscheid abweichen wollte. Im angefochtenen Entscheid finden sich keine Ausführungen zur Kostenverlegung.
+Gemäss Lehre und Rechtsprechung ist die vorgängige Ansetzung eines verbindlichen Kostendachs beziehungsweise die teilweise Gewährung der unentgeltlichen Rechtsverbeiständung unter vorgängiger Festsetzung einer Obergrenze für die amtliche Entschädigung unzulässig und unangemessen[19]. Die amtlich vertretene Partei läuft damit Gefahr, dass der Offizialanwalt weniger als den gebotenen Zeitaufwand leistet, um nicht teilweise unentschädigt zu bleiben[20].
+3.3.3.
+Anders läge der Fall, wenn die Vorinstanz ein sogenanntes "weiches Kostendach" im Sinn des Kostenmanagements im Zusammenhang mit der unentgeltlichen Rechtspflege und im Hinblick auf die "angemessene" Entschädigung des Offizialanwalts festgesetzt hätte. Dabei handelt es sich lediglich um eine vorläufige Festsetzung des maximalen Honorars, mit welchem die Verfahrensleitung der unentgeltlichen Rechtsverbeiständung anzeigt, dass die angemessene Entschädigung von Art. 122 Abs. 1 lit. a oder Abs. 2 ZPO für den im betreffenden Verfahren notwendigen Aufwand aus momentaner Sicht und vorbehältlich besonderer Gründe aller Voraussicht nach nicht über einem bestimmten Betrag liegen werde[21]. Wird der vorgegebene Kostenrahmen im Verlauf des Prozesses aus zwingenden, nicht vorhergesehenen Gründen überschritten, hat der eingesetzte Offizialanwalt eine Erhöhung des Kostendachs zu beantragen oder diese Kostenüberschreitung bei der Rechnungsstellung zuhanden des urteilenden Gerichts beziehungsweise der Behörde zu begründen, andernfalls muss er mit einer Honorarkürzung rechnen[22].
+Da es sich bei einem "weichen Kostendach" um einen vorläufigen Entscheid handelt, welcher jederzeit in Wiedererwägung gezogen werden kann, kann darüber auch die Verfahrensleitung entscheiden. Die Kompetenz zur Festsetzung eines "weichen Kostendachs" ist von § 38 Abs. 1 Ziff. 3 KESV erfasst.
+3.4.
+Im Ergebnis ist der angefochtene Entscheid bezüglich der Verlegung der Verfahrenskosten (Entschädigung des Offizialanwalts) aufzuheben. Da die Sache mangels Vorliegens eines Endentscheids betreffend Regelung des persönlichen Verkehrs nicht spruchreif ist, ist sie an die Vorinstanz zur Neubeurteilung zurückzuweisen[23]. Die Vorinstanz hat im Endentscheid über die Entschädigung des Beschwerdeführers sowie über die Verteilung dieser Kosten zu entscheiden. Dabei wird sie insbesondere zu beurteilen haben, inwieweit es für den Beschwerdeführer zur Wahrung der Rechte der Gesuchstellerin geboten war, in seiner Stellungnahme zu den Ausführungen des Rechtsvertreters des Vaters zu den Kindesschutzmassnahmen Stellung zu nehmen. Zudem wird sie den seit Erlass des angefochtenen Entscheids angefallenen Aufwand bei der Festsetzung der Entschädigung zu berücksichtigen und – falls angemessen – zu honorieren haben. Dem Beschwerdeführer steht es frei, der Vorinstanz zum Nachweis seiner Aufwendungen eine Kostennote einzureichen.
+Der Subeventualantrag des Beschwerdeführers ist folglich gutzuheissen.
+[…]
+Obergericht, 3. Abteilung, 11. September 2024, KES.2024.47
+[1]    Urteil des Bundesgerichts 4A_507/2011 vom 1. November 2011 E. 2.1; Rüegg/Rüegg, Basler Kommentar, 3.A., Art. 119 ZPO N. 7; Sutter-Somm/Seiler, in: Handkommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Seiler), Zürich/Basel/Genf 2021, Art. 121 N. 1; Jent-Sørensen, in: Schweizerische Zivilprozessordnung, Kurzkommentar (Hrsg.: Oberhammer/Domej/Haas), 3.A., Art. 119 N. 14
+[2]    Art. 450 Abs. 1 und Art. 445 Abs. 3 ZGB; Häfeli, Kindes- und Erwachsenenschutzrecht, 3.A., N. 884
+[3]    Urteil des Bundesgerichts 5D_100/2014 vom 19. September 2014 E. 2.2.3.1; Praxisanleitung Kindesschutzrecht (Hrsg.: KOKES), Zürich/St. Gallen 2017, N. 5.78; Droese/Steck, Basler Kommentar, 6.A., Art. 450 ZGB N. 22; Häfeli, N. 884; Fassbind, Erwachsenenschutz, Zürich 2012, S. 135; Murphy/Steck, in: Fachhandbuch Kindes- und Erwachsenenschutzrecht (Hrsg.: Fountoulakis/Affolter-Fringeli/Biderbost/Steck), Zürich/Basel/Genf 2016, N. 19.13; Botschaft zur Änderung des Schweizerischen Zivilgesetzbuches (Erwachsenenschutz, Personenrecht und Kindesrecht) vom 28. Juni 2006, BBl 2006 S. 7084
+[4]    Kindes- und Erwachsenenschutzverordnung, RB 211.24
+[5]    Einführungsgesetz zum Schweizerischen Zivilgesetzbuch, RB 210.1
+[6]    Art. 121 und 110 ZPO
+[7]    § 62 Abs. 1 KESV
+[8]    § 63 Abs. 1 KESV; vgl. auch § 34 Abs. 1 KESV
+[9]    § 63 Abs. 5 KESV
+[10]  § 65 Abs. 1 KESV
+[11]  Vgl. Urteil des Obergerichts des Kantons Zürich PP220008 vom 28. Juni 2022 E. 1.1
+[12]  Art. 450f ZGB i.V.m. § 29 Abs. 1 KESV i.V.m. Art. 110 ZPO
+[13]  ZR 2024 Nr. 123 S. 64; vgl. Rüegg/Rüegg, Art. 110 ZPO N. 3; Sutter-Somm/Seiler, Art. 110 ZPO N. 1; Jent-Sørensen, Art. 110 ZPO N. 1
+[14]  ZR 2024 Nr. 123 S. 64; Steiner, Die Beschwerde nach der Schweizerischen Zivilprozessordnung, Zürich/St. Gallen 2019, N. 191; Blickensdorfer, in: Kommentar Schweizerische Zivilprozessordnung (Hrsg.: Brunner/Gasser/Schwander), 2.A., Vor Art. 308-334 N. 105
+[15]  ZR 2024 Nr. 123 S. 64; Seiler, Die Anfechtung von prozessleitenden Verfügungen und weitere Aspekte der Beschwerde nach Art. 319 ff. ZPO, in: BJM 2018 S. 77
+[16]  § 38 Abs. 1 Ziff. 3 KESV
+[17]  § 39a KESV e contrario
+[18]  § 63 Abs. 1 KESV
+[19]  ZR 2024 Nr. 123 S. 65; Urteil des Obergerichts des Kantons Bern ZK 17 521/522 vom 16. Januar 2018 E. 25 und 27 f.; Wuffli/Fuhrer, Handbuch unentgeltliche Rechtspflege im Zivilprozess, Zürich/St. Gallen 2019, N. 707; Probst, Unentgeltliche Rechtspflege im Schuldbetreibungs- und Konkursrecht, in: BlSchK 2023 S. 185; Jozic/Boesch, Die unentgeltliche Rechtspflege im Zivilprozess, Praxis des Obergerichts des Kantons Luzern, 4.A., S. 39
+[20]  Urteil des Obergerichts des Kantons Bern ZK 17 521/522 vom 16. Januar 2018 E. 28; Wuffli/Fuhrer, N. 584
+[21]  ZR 2024 Nr. 123 S. 65; Rüegg/Rüegg, Art. 122 ZPO N. 7; Wuffli/Fuhrer, N. 584 f. und 707; Probst, S. 185 ff.; Jozic/Boesch, S. 39
+[22]  ZR 2024 Nr. 123 S. 65; Rüegg/Rüegg, Art. 122 ZPO N. 7; Wuffli/Fuhrer, N. 707; Probst, S. 185 ff.; Jozic/Boesch, S. 39
+[23]  Art. 327 Abs. 3 lit. a ZPO
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
