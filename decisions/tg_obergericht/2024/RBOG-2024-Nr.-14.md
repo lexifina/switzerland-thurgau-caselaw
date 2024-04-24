@@ -1,0 +1,54 @@
+---
+decision_id: "tg_obergericht_RBOG_2024_Nr._14"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2024 Nr. 14"
+decided: "2024-04-24"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2024-nr-14"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/272/art-119.md"]
+---
+
+# TG Obergericht RBOG 2024 Nr. 14
+
+## Regeste
+
+Ein nach Erlass des angefochtenen Entscheids vor Vorinstanz gestelltes Gesuch um unentgeltliche Rechtspflege ist nicht Gegenstand des Beschwerdeverfahrens.
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 14
+Thurgovie Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 14
+Turgovia Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 14
+
+RBOG 2024 Nr. 14
+Skip to main content
+Show navigation
+Ein nach Erlass des angefochtenen Entscheids vor Vorinstanz gestelltes Gesuch um unentgeltliche Rechtspflege ist nicht Gegenstand des Beschwerdeverfahrens.
+Art. 119 Abs. 1 ZPO
+Art. 119 Abs. 4 ZPO
+Art. 29 Abs. 3 BV
+Zusammenfassung des Sachverhalts:
+Im Rahmen eines hängigen Kindesschutzverfahrens stellte der Beschwerdeführer ein Gesuch um unentgeltliche Rechtspflege, das die Kindes- und Erwachsenenschutzbehörde im Oktober 2023 wegen fehlender Mittellosigkeit verfahrensleitend abwies. Nach ihrem Entscheid vom 24. April 2024 erklärte der Vater, die ihm auferlegten Verfahrenskosten nicht zahlen zu können. Am 23. Mai 2024 stellte er bei der Kindes- und Erwachsenenschutzbehörde erneut ein Gesuch um unentgeltliche Rechtspflege. Im Beschwerdeverfahren ist zu klären, ob das Gesuch um unentgeltliche Rechtspflege berücksichtigt werden kann.
+Aus den Erwägungen:
+[…]
+2.
+2.1.
+Das Gesuch um unentgeltliche Rechtspflege kann vor oder nach Eintritt der Rechtshängigkeit gestellt werden[1]. Die Wirkungen der unentgeltlichen Rechtspflege treten grundsätzlich erst ab Einreichung des Gesuchs ein, das auch noch während des pendenten Hauptprozesses anhängig gemacht werden kann[2]. Die unentgeltliche Rechtspflege kann ausnahmsweise rückwirkend bewilligt werden[3]. Eine solche Rückwirkung kommt jedoch gestützt auf die Minimalgarantie von Art. 29 Abs. 3 BV nur ausnahmsweise in Betracht, wenn es wegen der zeitlichen Dringlichkeit einer sachlich zwingend gebotenen Prozesshandlung nicht möglich war, gleichzeitig auch das Gesuch um unentgeltliche Rechtspflege (und Verbeiständung) zu stellen[4]. Von dieser Möglichkeit der rückwirkenden Bewilligung ist äusserst restriktiv Gebrauch zu machen[5]. Das Gesuch wirkt grundsätzlich nur für die betreffende Instanz, das heisst, bei vorprozessualen Gesuchen für das einzuleitende erstinstanzliche Verfahren. Ausgeschlossen ist die Gesuchstellung nach der Entscheideröffnung[6]. Wird ein Gesuch um unentgeltliche Rechtspflege erst nach der Urteilsfällung gestellt, besteht für eine Gewährung derselbigen mangels noch anzufallender Kosten in der Regel kein Raum[7].
+2.2.
+Der Beschwerdeführer wurde durch die Vorinstanz darüber informiert, dass ein beschwerdefähiger Entscheid betreffend Rückführung des Kindes zu seiner Mutter per Ende April 2024 vorgesehen sei. Der Entscheid der Vorinstanz vom 24. April 2024 wurde versandt und in der Folge dem Beschwerdeführer zugestellt. Der Beschwerdeführer hatte in diesem Verfahren bei der Kindes- und Erwachsenenschutzbehörde bereits im September 2023 ein Gesuch um unentgeltliche Rechtspflege gestellt. Dieses Gesuch wurde mit Entscheid der Verfahrensleitung der Kindes- und Erwachsenenschutzbehörde im Oktober 2023 abgewiesen. Ein erneutes Gesuch aufgrund veränderter finanzieller Verhältnisse stellte er während des laufenden Verfahrens nicht. Zum Zeitpunkt des Entscheids lag somit kein Gesuch vor, über welches die Behörde hätte befinden können. Erst nach Eröffnung des Entscheids vom 24. April 2024 gelangte der Beschwerdeführer an die Vorinstanz und fragte nach dem weiteren Vorgehen, da er nicht in der Lage sei, die Rechnung für die Verfahrensgebühr zu bezahlen. Das Gesuch des Beschwerdeführers um unentgeltliche Rechtspflege vom 23. Mai 2024 an die Vorinstanz – nach Eröffnung des Entscheids – war somit verspätet und daher nicht Gegenstand des angefochtenen Entscheids.
+[…]
+Obergericht, 3. Abteilung, 9. Juli 2024, KES.2024.27
+[1]    Art. 119 Abs. 1 ZPO
+[2]   Rüegg/Rüegg, Basler Kommentar, 3.A., Art. 119 ZPO N. 4; Sutter-Somm/Seiler, in: Handkommentar zur Schweizerischen Zivilprozessordnung (Hrsg.: Sutter-Somm/Seiler), Zürich/Basel/Genf 2021, Art. 119 N. 3; BGE 122 I 322 E 3.b; Urteile des Bundesgerichts 4A_523/2019 vom 16. April 2020 E. 7; 5A_181/2012 vom 27. Juni 2012 E. 2.3.3
+[3]   Art. 119 Abs. 4 ZPO
+[4]   BGE 122 I 203 E. 2.f; Urteil des Bundesgerichts 5A_181/2012 vom 27. Juni 2012 E. 2.3.3; Sutter-Somm/Seiler, Art. 119 ZPO N. 3
+[5]   Huber, in: Schweizerische Zivilprozessordnung (Hrsg.: Brunner/Gasser/Schwander), 2.A., Art. 119 N. 12
+[6]   Jent-Sørensen, in: Schweizerische Zivilprozessordnung, Kurzkommentar (Hrsg.: Oberhammer/Domej/Haas), 3.A., Art. 119 N. 8
+[7]   Urteil des Obergerichts des Kantons Zürich PC120034 vom 8. Juli 2013 Regeste und E. 3.2
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
