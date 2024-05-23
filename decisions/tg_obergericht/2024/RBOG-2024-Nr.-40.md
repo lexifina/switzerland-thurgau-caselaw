@@ -1,0 +1,58 @@
+---
+decision_id: "tg_obergericht_RBOG_2024_Nr._40"
+court: "TG Obergericht"
+court_id: "tg_obergericht"
+docket: "RBOG 2024 Nr. 40"
+decided: "2024-05-23"
+language: "de"
+source_url: "http://rechtsprechung.tg.ch/og/rbog-2024-nr-40"
+---
+
+# TG Obergericht RBOG 2024 Nr. 40
+
+## Regeste
+
+Anwendbarkeit von Art. 23 LugÜ, wenn Parteien desselben Vertragsstaats die Zuständigkeit eines anderen Vertragsstaats vereinbaren; Voraussetzungen für die Wirksamkeit einer solchen Gerichtsstandsklausel
+
+## Text
+
+Thurgau Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 40
+Thurgovie Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 40
+Turgovia Obergericht Rechenschaftsbericht 2024 RBOG 2024 Nr. 40
+
+Anwendbarkeit von Art. 23 LugÜ, wenn Parteien desselben Vertragsstaats die Zuständigkeit eines anderen Vertragsstaats vereinbaren; Voraussetzungen für die Wirksamkeit einer solchen Gerichtsstandsklausel
+
+RBOG 2024 Nr. 40
+Skip to main content
+Show navigation
+Anwendbarkeit von Art. 23 LugÜ, wenn Parteien desselben Vertragsstaats die Zuständigkeit eines anderen Vertragsstaats vereinbaren; Voraussetzungen für die Wirksamkeit einer solchen Gerichtsstandsklausel
+Art. 23 LugÜ
+Zusammenfassung des Sachverhalts:
+Die Parteien eines Forderungsprozesses haben beide ihren Sitz in der Schweiz. Strittig ist, ob sie gültig einen Gerichtsstand in München vereinbart haben (Gerichtsstandsklausel).
+Aus den Erwägungen:
+[…]
+6.2.
+Haben die Parteien, von denen mindestens eine ihren Wohnsitz im Hoheitsgebiet eines durch dieses Übereinkommen gebundenen Staates hat, vereinbart, dass ein Gericht oder die Gerichte eines durch dieses Übereinkommen gebundenen Staates über eine bereits entstandene Rechtsstreitigkeit oder über eine künftige aus einem bestimmten Rechtsverhältnis entspringende Rechtsstreitigkeit entscheiden sollen, so sind dieses Gericht oder die Gerichte dieses Staates nach Art. 23 Abs. 1 Satz 1 LugÜ zuständig. Dieses Gericht oder die Gerichte dieses Staates sind ausschliesslich zuständig, sofern die Parteien nichts anderes vereinbart haben[1].
+Ob für eine Anwendung von Art. 23 LugÜ bereits genügt, wenn beide Parteien im selben Vertragsstaat wohnen und einen Gerichtsstand in einem anderen Vertragsstaat vereinbaren, ist umstritten. Hostettler macht mit Verweis auf BGE 125 III 108[2] geltend, für die Annahme eines internationalen Sachverhalts nach Art. 23 LugÜ genüge es, wenn eine Person in einem Vertragsstaat wohne und die Zuständigkeit eines anderen Vertragsstaats vereinbart werde. Daran ändere sich nichts, wenn beide Parteien im gleichen Staat wohnen würden. Die Vereinbarung eines Gerichtsstands in einem anderen Vertragsstaat stelle den erforderlichen internationalen Sachverhalt im Sinn von Art. 23 LugÜ her[3]. Diese Auffassung wird auch von Berger, Walter/Domej, Schnyder/Liatowitsch und Markus vertreten[4]. Killias ist hingegen der Meinung, dass die Vereinbarung eines Gerichtsstands in einem anderen Vertragsstaat allein nicht genüge, damit ein internationaler Sachverhalt nach Art. 23 LugÜ vorliege. Hätten beide Parteien den Wohnsitz im gleichen Staat, bedürfe es zur Anwendbarkeit von Art. 23 LugÜ zusätzlich eines Bezugs zu einem anderen Staat, etwa einen Erfüllungsort im Ausland[5]. Dieser Meinung schliessen sich Grolimund/Bachofner an[6].
+Das Bundesgericht hat über diese Frage – soweit ersichtlich – bisher nicht entschieden. Hingegen hat sich der Europäische Gerichtshof[7] im Zusammenhang mit der EuGVO[8] damit auseinandergesetzt. In seinem Urteil vom 8. Februar 2024 hielt der EuGH fest, eine Gerichtsstandsvereinbarung, mit der die in demselben Mitgliedstaat ansässigen Parteien eines Vertrags die Zuständigkeit der Gerichte eines anderen Mitgliedstaats für Rechtsstreitigkeiten aus diesem Vertrag vereinbarten, falle unter Art. 25 Abs. 1 EuGVO, auch wenn der Vertrag keine weitere Verbindung zu diesem anderen Mitgliedstaat aufweise. Zur Begründung hielt der EuGH fest, eine "grenzüberschreitende Rechtssache" liege bereits vor, wenn mindestens eine der Parteien ihren Wohnsitz oder gewöhnlichen Aufenthalt in einem anderen Mitgliedstaat als dem Staat des befassten Gerichts habe. Die Vereinbarung eines Gerichtsstands in einem anderen Staat durch Parteien mit Wohnsitz im gleichen Staat werfe zudem eine Frage der internationalen Zuständigkeit auf, nämlich ob die Gerichte des Wohnsitz- oder des gewählten Gerichtsstands-Staats zuständig seien. Eine diese Zuständigkeit bejahende Auslegung der EuGVO erhöhe schliesslich die Rechtssicherheit[9]. Gemäss Bundesgericht ist der Rechtsprechung des EuGH bei der Auslegung des LugÜ grundsätzlich zu folgen. Eine abweichende Auslegung bleibt nur dann vorbehalten, wenn die europäische Rechtsprechung eindeutig an den Zielen der Europäischen Union orientiert ist, welche die Schweiz nicht mitträgt[10]. Zu beachten ist indes, dass die EuGVO teilweise revidiert wurde und die Änderungen im LugÜ (bisher) nicht übernommen wurden. Eine Berücksichtigung der Rechtsprechung des EuGH erscheint damit nur insoweit angezeigt, als der revidierte Art. 25 EuGVO keine von Art. 23 LugÜ abweichende Regelung trifft[11].
+Sowohl in Art. 25 der (revidierten) EuGVO als auch in Art. 23 LugÜ ist nicht eindeutig festgehalten, ob diese Bestimmungen auch dann anwendbar sind, wenn beide Parteien im gleichen Vertrags- beziehungsweise Mitgliedstaat ihren Wohnsitz haben und sich der internationale Bezug einzig durch Vereinbarung eines Gerichtsstands in einem anderen Vertrags- beziehungsweise Mitgliedstaat ergibt. Beiden Bestimmungen ist weiter gemein, dass deren Wortlaut eine solche Auslegung zulassen würde. Die beiden Bestimmungen sind diesbezüglich deckungsgleich. Die Recht­sprechung des EuGH ist damit auch für die Auslegung dieser Frage im LugÜ zu beachten.
+Die Rechtsprechung des EuGH überzeugt. Es ist damit mit dem EuGH und der wohl herrschenden Lehre davon auszugehen, dass für die Anwendbarkeit von Art. 23 LugÜ ein genügender inter­nationaler Sachverhalt vorliegt, wenn Parteien mit Sitz oder Wohnsitz im gleichen Vertragsstaat die Zuständigkeit eines anderen Vertragsstaats vereinbaren.
+[…]
+Obergericht, 2. Abteilung, 23. Mai 2024, ZBR.2023.7
+[1]    Art. 23 Abs. 1 Satz 2 LugÜ
+[2]    BGE 125 III 108 E. 3.e
+[3]    Hostettler, Die Gerichtsstandsvereinbarung im Binnen- und internationalen Verhältnis, Diss. Basel 2021, N. 63 f. und 78
+[4]    Berger, Basler Kommentar, 3.A., Art. 23 LugÜ N. 16; Markus, Internationales Zivilprozessrecht, 2.A., N. 1286 f.; Schnyder/Liatowitsch, Internationales Privat- und Zivilverfahrensrecht, 3.A., N. 957; Walter/Domej, Internationales Zivilprozessrecht der Schweiz, 5.A., S. 289
+[5]    Killias, in: Lugano-Übereinkommen (Hrsg.: Dasser/Oberhammer), 3.A., Art. 23 N. 18
+[6]    Grolimund/Bachofner, in: Lugano-Übereinkommen zum internationalen Zivilverfahrensrecht, Kommentar (Hrsg.: Schnyder/Sogo), 2.A., Art. 23 N. 5
+[7]    EuGH
+[8]    Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen
+[9]    Entscheid des EuGH C‑566/22 vom 8. Februar 2024 E. 39
+[10]  BGE 135 III 185 E. 3.2
+[11]  Vgl. Killias, Art. 23 LugÜ N. 3b; Grolimund/Bachofner, Art. 23 LugÜ N. 3e
+×
+JavaScript errors detected
+Please note, these errors can depend on your browser setup.
+If this problem persists, please contact our support.
+Contact Support
+Close
